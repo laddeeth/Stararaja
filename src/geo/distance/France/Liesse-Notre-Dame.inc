@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anizy-le-Château","Athies-sous-Laon","Aulnois-sous-Laon","Bruyères-et-Montbérault","Cormicy","Couvron-et-Aumencourt","Crécy-sur-Serre","Crépy","Guignicourt","Laon","Liesse-Notre-Dame","Marle","Montcornet","Pinon","Rozoy-sur-Serre","Saint-Erme-Outre-et-Ramecourt","Sissonne","Vervins"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Consolación del Sur","Los Palacios","San Diego de los Baños"); ?>

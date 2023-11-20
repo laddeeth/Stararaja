@@ -1,0 +1,1 @@
+<?php $neighbours = array("Balderschwang","Blaichach","Bolsterlang","Burgberg","Immenstadt im Allgäu","Missen-Wilhams","Nesselwang","Obermaiselstein","Oberstaufen","Oberstdorf","Ofterschwang","Oy-Mittelberg","Pfronten","Rettenberg","Sonthofen","Waltenhofen","Weitnau","Wertach"); ?>

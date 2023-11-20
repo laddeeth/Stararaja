@@ -1,0 +1,1 @@
+<?php $neighbours = array("Białowieża","Bielsk Podlaski","Czeremcha","Hajnówka","Kleszczele","Narew","Orla"); ?>

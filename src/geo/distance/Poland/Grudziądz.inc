@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chełmno","Drzycim","Gardeja","Grudziądz","Gruta","Jabłonowo Pomorskie","Jeżewo","Książki","Kwidzyn","Lisewo","Nowe","Osie","Płużnica","Radzyń Chełmiński","Sadlinki","Smętowo Graniczne","Świecie","Świecie nad Osą","Wąbrzeźno","Warlubie","Łasin"); ?>

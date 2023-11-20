@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borowa","Czermin","Dąbrowa Tarnowska","Gruszów Wielki","Lisia Góra","Mędrzechów","Mielec","Nowy Korczyn","Oleśnica","Olesno","Osiek","Pacanów","Padew Narodowa","Połaniec","Przecław","Radgoszcz","Radomyśl Wielki","Rytwiany","Sieradza","Smęgorzów","Solec-Zdrój","Staszów","Stopnica","Szczucin","Słupiec","Trzciana","Tuczępy","Wadowice Górne","Łubnice"); ?>

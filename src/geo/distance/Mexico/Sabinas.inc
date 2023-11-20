@@ -1,0 +1,1 @@
+<?php $neighbours = array("Minas de Barroterán","Nueva Rosita","Sabinas"); ?>

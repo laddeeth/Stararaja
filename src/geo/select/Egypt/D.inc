@@ -1,0 +1,1 @@
+<option value="Damanhūr">Damanhūr</option><option value="Damietta">Damietta</option><option value="Dayr Mawās">Dayr Mawās</option><option value="Dayrūţ">Dayrūţ</option><option value="Dhahab">Dhahab</option><option value="Dikirnis">Dikirnis</option><option value="Dishnā">Dishnā</option><option value="Disūq">Disūq</option><option value="Diyarb Najm">Diyarb Najm</option>

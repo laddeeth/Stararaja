@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Bentheim","Bawinkel","Emlichheim","Emsbüren","Engden","Esche","Geeste","Georgsdorf","Gersten","Getelo","Gölenkamp","Haren","Haselünne","Hoogstede","Isterberg","Itterbeck","Laar","Lage","Lingen","Lünne","Meppen","Messingen","Nordhorn","Quendorf","Schüttorf","Thuine","Twist","Uelsen","Wielen","Wietmarschen","Wilsum"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Goleniów","Maszewo","Nowogard","Osina","Police","Przybiernów","Stara Dąbrowa","Stargard Szczeciński","Stepnica","Szczecin"); ?>

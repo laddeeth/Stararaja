@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avon Center","Avon Lake","Bay Village","Brook Park","Brooklyn Heights","Eaton Estates","Elyria","Lorain","Middleburg Heights","North Olmsted","North Ridgeville","Olmsted Falls","Parma","Parma Heights","Rocky River","Sheffield Lake","Strongsville","Vermilion","Vermilion-on-the-Lake"); ?>

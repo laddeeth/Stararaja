@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acoua","Bandraboua","Bandrélé","Bouéni","Chiconi","Chirongui","Dzaoudzi","Kani Kéli","Koungou","Mamoudzou","Mtsamboro","Ouangani","Pamandzi","Sada","Tsingoni"); ?>

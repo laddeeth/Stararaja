@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alzonne","Arzens","Auriac-sur-Vendinelle","Avignonet-Lauragais","Belpech","Bram","Castelnaudary","Dourgne","Gardouch","Lavalette","Mazères","Mirepoix","Nailloux","Pezens","Saint-Félix-Lauragais","Saint-Martin-Lalande","Saverdun","Sorèze","Villefranche-de-Lauragais","Villeneuve-la-Comptal","Villenouvelle"); ?>

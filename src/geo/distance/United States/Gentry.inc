@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bella Vista","Bentonville","Cave Springs","Centerton","Elm Springs","Gentry","Gravette","Siloam Springs","Tontitown"); ?>

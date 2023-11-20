@@ -1,0 +1,1 @@
+<?php $neighbours = array("Axminster","Beaminster","Bishops Lydeard","Bridgwater","Bridport","Chard","Colyton","Creech Saint Michael","Crewkerne","Curry Rivel","Honiton","Ilchester","Ilminster","Langport","Lyme Regis","Martock","North Petherton","Ottery Saint Mary","Sidmouth","South Petherton","Taunton","Uffculme","Westonzoyland","Yeovil"); ?>

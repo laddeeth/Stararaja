@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adamstown","Ballenger Creek","Bartonsville","Boonsboro","Braddock Heights","Buckeystown","Carroll Valley","Cavetown","Clover Hill","Damascus","Emmitsburg","Frederick","Green Valley","Highfield-Cascade","Linganore","Myersville","New Windsor","Smithsburg","Spring Ridge","Taneytown","Thurmont","Urbana","Walkersville","Woodsboro"); ?>

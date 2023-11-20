@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Gastein","Bad Hofgastein","Baldramsdorf","Berg im Drautal","Dellach im Drautal","Dölsach","Flattach","Greifenburg","Großkirchheim","Hüttschlag","Irschen","Lendorf","Mörtschach","Nikolsdorf","Oberdrauburg","Obervellach","Rangersdorf","Sachsenburg","Seeboden","Spittal an der Drau","Stall","Steinfeld","Trebesing","Winklern"); ?>

@@ -1,0 +1,1 @@
+<option value="Kadugli">Kadugli</option><option value="Karmah an Nuzul">Karmah an Nuzul</option><option value="Kassala">Kassala</option><option value="Khartoum">Khartoum</option><option value="Kināna">Kināna</option><option value="Kuraymah">Kuraymah</option><option value="Kurmuk">Kurmuk</option><option value="Kūstī">Kūstī</option><option value="Kutum">Kutum</option>

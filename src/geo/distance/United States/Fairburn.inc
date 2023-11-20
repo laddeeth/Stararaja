@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atlanta","Austell","Bonanza","Chattahoochee Hills","College Park","Conley","Douglasville","East Point","Fairburn","Forest Park","Gresham Park","Hapeville","Lithia Springs","Lovejoy","Mableton","Morrow","Newnan","Peachtree City","Riverdale","Senoia","Tyrone","Union City"); ?>

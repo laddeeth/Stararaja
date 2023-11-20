@@ -1,0 +1,1 @@
+<?php $neighbours = array("Campo Ramón","Campo Viera","Dos Arroyos","Florentino Ameghino","General Alvear","Guaraní","Los Helechos","Mojón Grande","Oberá","Panambí","Picada Gobernador López"); ?>

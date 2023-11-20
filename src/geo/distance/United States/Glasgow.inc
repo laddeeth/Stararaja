@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bear","Bellefonte","Carneys Point","Delaware City","Edgemoor","Elsmere","Glasgow","Hockessin","Kennett Square","Middletown","New Castle","North East","North Star","Penns Grove","Pennsville","Pike Creek","Pike Creek Valley","Toughkenamon","Townsend","West Grove","Wilmington","Wilmington Manor"); ?>

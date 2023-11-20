@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bassiano","Latina","Maenza","Monte San Biagio","Pontinia","Priverno","Roccagorga","Roccasecca dei Volsci","Sabaudia","San Felice Circeo","Sermoneta","Sezze","Sonnino","Terracina"); ?>

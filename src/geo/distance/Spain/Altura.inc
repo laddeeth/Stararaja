@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almenara","Altura","Artana","Benaguasil","Benifairó de les Valls","Benisanó","Casinos","Chilches","Estivella","Faura","Gilet","Jérica","La Pobla de Vallbona","Llíria","Marines","Náquera","Olocau","Onda","Quart de les Valls","Quartell","Ribesalbes","Sagunto","San Agustín","Segorbe","Serra","Soneja","Villar del Arzobispo","Villavieja","Viver"); ?>

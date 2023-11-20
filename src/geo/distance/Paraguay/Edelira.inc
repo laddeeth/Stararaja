@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arquitecto Tomás Romero Pereira","Edelira","Natalio","Pirapo"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alba de Tormes","Cantalapiedra","Cantalpino","Macotera","Madrigal de las Altas Torres","Peñaranda de Bracamonte","Terradillos","Villoría"); ?>

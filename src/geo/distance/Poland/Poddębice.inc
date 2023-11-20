@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aleksandrów Łódzki","Dąbie","Dalików","Grabów","Kawęczyn","Lutomiersk","Ozorków","Parzęczew","Pęczniew","Poddębice","Przykona","Świnice Warckie","Szadek","Uniejów","Wartkowice","Wodzierady","Zadzim","Łęczyca"); ?>

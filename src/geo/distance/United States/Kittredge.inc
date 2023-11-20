@@ -1,0 +1,1 @@
+<?php $neighbours = array("Applewood","Arvada","Cherry Hills Village","Coal Creek","Columbine","Columbine Valley","Genesee","Golden","Idaho Springs","Ken Caryl","Kittredge","Roxborough Park","West Pleasant View","Wheat Ridge"); ?>

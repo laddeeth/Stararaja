@@ -1,0 +1,1 @@
+<?php $neighbours = array("Affton","Alorton","Barnhart","Belleville","Cahokia","Columbia","Crystal City","Dupo","Festus","Freeburg","Green Park","Herculaneum","Imperial","Lakeshire","Lemay","Mehlville","Millstadt","New Athens","Oakville","Pevely","Red Bud","Smithton","Swansea","Valmeyer","Waterloo"); ?>

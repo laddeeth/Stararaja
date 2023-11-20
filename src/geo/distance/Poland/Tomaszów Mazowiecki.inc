@@ -1,0 +1,1 @@
+<?php $neighbours = array("Będków","Budziszewice","Czerniewice","Gałków Mały","Głuchów","Inowłódz","Koluszki","Lubochnia","Mniszków","Opoczno","Paradyż","Piotrków Trybunalski","Rokiciny","Rokiciny-Kolonia","Sulejów","Sławno","Tomaszów Mazowiecki","Ujazd","Wolbórz","Żelechlinek"); ?>

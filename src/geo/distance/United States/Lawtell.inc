@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arnaudville","Carencro","Church Point","Eunice","Lawtell","Leonville","Mamou","Opelousas","Ossun","Port Barre","Ville Platte"); ?>

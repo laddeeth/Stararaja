@@ -1,0 +1,1 @@
+<option value="Mŭminobod">Mŭminobod</option><option value="Murghob">Murghob</option>

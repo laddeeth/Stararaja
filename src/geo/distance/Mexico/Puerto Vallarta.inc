@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bucerías","Puerto Vallarta","San Juan de Abajo","Valle de Banderas"); ?>

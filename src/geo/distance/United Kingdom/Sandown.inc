@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bembridge","Birdham","Bosham","Brading","Bursledon","Chale","Cowes","Cowplain","East Wittering","Emsworth","Fareham","Freshwater","Gosport","Gurnard","Hamble","Havant","Lee-on-the-Solent","Lymington","Netley","Niton","Northwood","Portsmouth","Ryde","Sandown","Seaview","Selsey","Shalfleet","Totland","Ventnor","Waterlooville","Yarmouth"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ainay-le-Château","Cérilly","Charenton-du-Cher","Dun-sur-Auron","Lurcy-Lévis","Orval","Saint-Amand-Montrond","Sancoins","Vallon-en-Sully"); ?>

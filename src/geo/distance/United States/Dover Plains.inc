@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dover Plains","Haviland","Hillside Lake","Hyde Park","Myers Corner","New Milford","New Preston","Pawling","Pine Plains","Poughkeepsie","Red Oaks Mill","Spackenkill"); ?>

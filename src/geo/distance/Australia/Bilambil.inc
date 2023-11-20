@@ -1,0 +1,1 @@
+<?php $neighbours = array("Banora Point","Bilambil","Burringbar","Chinderah","Gold Coast","Kingscliff","Main Beach","Murwillumbah","Surfers Paradise","Tallebudgera","Tugun","Varsity Lakes"); ?>

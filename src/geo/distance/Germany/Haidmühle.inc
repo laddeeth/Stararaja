@@ -1,0 +1,1 @@
+<?php $neighbours = array("Büchlberg","Freyung","Fürsteneck","Grafenau","Grainet","Haidmühle","Hauzenberg","Hinterschmiding","Hohenau","Hutthurm","Jandelsbrunn","Mauth","Neureichenau","Neuschönau","Perlesreut","Philippsreut","Ringelai","Röhrnbach","Sonnen","Thyrnau","Untergriesbach","Wegscheid","Witzmannsberg"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ágreda","Aldeanueva de Ebro","Alfaro","Arnedo, La Rioja","Autol","Castejón","Cervera del Río Alhama","Cigudosa","Cintruénigo","Corella","Fitero","Monteagudo","Murchante","Navajún","Novallas","Olvega","Quel","Rincón de Soto","Tarazona","Tudela"); ?>

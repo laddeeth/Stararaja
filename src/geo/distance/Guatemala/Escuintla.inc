@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alotenango","Amatitlán","Antigua Guatemala","Ciudad Vieja","Escuintla","Guanagazapa","La Democracia","Magdalena Milpas Altas","Masagua","Palín","San Antonio Aguas Calientes","San Miguel Dueñas","San Vicente Pacaya","Santa Catarina Barahona","Santa Lucía Cotzumalguapa","Santa María de Jesús","Yepocapa"); ?>

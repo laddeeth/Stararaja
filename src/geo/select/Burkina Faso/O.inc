@@ -1,0 +1,1 @@
+<option value="Orodara">Orodara</option><option value="Ouagadougou">Ouagadougou</option><option value="Ouahigouya">Ouahigouya</option><option value="Ouargaye">Ouargaye</option>

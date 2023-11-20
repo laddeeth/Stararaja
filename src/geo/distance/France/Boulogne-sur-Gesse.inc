@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aurignac","Boulogne-sur-Gesse","Gourdan-Polignan","Labarthe-Rivière","Lannemezan","Lombez","Masseube","Montréjeau","Saint-Gaudens","Seissan","Trie-sur-Baïse","Villeneuve-de-Rivière"); ?>

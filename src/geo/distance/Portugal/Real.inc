@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adaúfe","Antas","Arões","Braga","Brito","Caldelas","Candoso","Fafe","Guimarães","Joane","Oliveira","Ponte","Póvoa de Lanhoso","Prado","Real","Refojos de Basto","Ronfe","Sande","Selho","Serzedo","Urgeses","Vila Verde","Vizela"); ?>

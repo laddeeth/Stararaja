@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brazil","Fairview Park","Farmersburg","Middlebury","North Terre Haute","Seelyville","Terre Haute","West Terre Haute"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alandur","Ambattūr","Āvadi","Chennai","Chetput","Chinnasekkadu","Gāndhī Nagar","Madambakkam","Madipakkam","Manappakkam","Nandambakkam","Nāravārikuppam","Pallāvaram","Perungudi","Ponneri","Poonamallee","Porur","Puduvāyal","Saint Thomas Mount","Srīperumbūdūr","Tinnanūr","Tiruvallūr","Vandalūr","Vellānūr","Vengavasal"); ?>

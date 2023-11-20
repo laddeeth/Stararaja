@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almorox","Barraco","Burgohondo","Casavieja","Castillo de Bayuela","Cebreros","El Casar de Escalona","El Hoyo de Pinares","El Real de San Vicente","El Tiemblo","Escalona","La Adrada","Navaluenga","Pedro Bernardo","Pelayos de la Presa","Piedralaves","Rozas de Puerto Real","San Martín de Valdeiglesias","Sotillo de la Adrada","Villa del Prado"); ?>

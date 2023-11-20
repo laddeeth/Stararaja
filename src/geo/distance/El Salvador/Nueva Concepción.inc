@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguilares","El Paisnal","Metapán","Nueva Concepción","San Juan Opico","San Pablo Tacachico","Texistepeque"); ?>

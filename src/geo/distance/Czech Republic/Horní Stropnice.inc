@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benešov nad Černou","Borovany","České Velenice","Chlum u Třeboně","Dolní Dvořiště","Horní Stropnice","Kamenný Újezd","Kaplice","Ledenice","Lišov","Malonty","Nové Hrady","Rudolfov","Srubec","Suchdol nad Lužnicí","Třeboň","Trhové Sviny","Včelná","Velešín"); ?>

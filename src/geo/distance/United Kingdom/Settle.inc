@@ -1,0 +1,1 @@
+<?php $neighbours = array("Addingham","Barnoldswick","Barrowford","Billington","Brierfield","Caton","Clitheroe","Earby","Embsay","Gargrave","Glusburn","High Bentham","Nelson","Padiham","Settle","Silsden","Skipton","Steeton","Whalley"); ?>

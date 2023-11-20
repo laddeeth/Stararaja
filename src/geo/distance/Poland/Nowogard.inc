@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chociwel","Golczewo","Goleniów","Gryfice","Maszewo","Nowogard","Osina","Przybiernów","Płoty","Radowo Małe","Resko","Stara Dąbrowa"); ?>

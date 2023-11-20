@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ahun","Ajain","Aubusson","Auzances","Chambon-sur-Voueize","Domérat","Évaux-les-Bains","Gouzon","Guéret","Huriel","Prémilhat","Quinssaines","Sainte-Feyre"); ?>

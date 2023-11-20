@@ -1,0 +1,1 @@
+<option value="Giurgiuleşti">Giurgiuleşti</option><option value="Glodeni">Glodeni</option><option value="Grigoriopol">Grigoriopol</option>

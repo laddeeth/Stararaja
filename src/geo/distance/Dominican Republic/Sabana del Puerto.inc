@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bonao","Concepción de La Vega","Cotuí","Fantino","Jarabacoa","Jima Abajo","Las Guáranas","Piedra Blanca","Rincón","Sabana del Puerto","Villa Tapia"); ?>

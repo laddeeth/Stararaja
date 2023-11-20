@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bielany","Boguty-Pianki","Ceranów","Ciechanowiec","Drohiczyn","Jabłonna Lacka","Korczew","Kosów Lacki","Miedzna","Mordy","Nur","Paprotnia","Perlejewo","Przesmyki","Repki","Sabnie","Siemiatycze","Sokołów Podlaski","Sterdyń","Suchożebry"); ?>

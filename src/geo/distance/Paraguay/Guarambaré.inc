@@ -1,0 +1,1 @@
+<?php $neighbours = array("Areguá","Asunción","Capiatá","Fernando de la Mora","Guarambaré","Itá","Itauguá","Lambaré","Nemby","Nueva Italia","Pirayú","San Antonio","San Bernardino","San Lorenzo","Villa Elisa","Yaguarón","Ypacarai"); ?>

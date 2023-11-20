@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cacaopera","Chapeltique","Chinameca","Ciudad Barrios","Corinto","Guatajiagua","Jocoro","Jucuapa","Lolotique","Moncagua","Nueva Guadalupe","San Francisco","San Miquel","Sesori","Sociedad"); ?>

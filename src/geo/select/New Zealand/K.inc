@@ -1,0 +1,1 @@
+<option value="Kaiapoi">Kaiapoi</option><option value="Kaikoura">Kaikoura</option><option value="Karori">Karori</option><option value="Katikati">Katikati</option><option value="Kawakawa">Kawakawa</option><option value="Kawerau">Kawerau</option><option value="Kelburn">Kelburn</option><option value="Kerikeri">Kerikeri</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguada de Cima","Águeda","Albergaria-a-Velha","Aradas","Arcos","Avanca","Aveiro","Beduido","Branca","Cantanhede","Eixo","Gafanha da Encarnação","Gafanha da Nazaré","Ílhavo","Mira","Oiã","Oliveira do Bairro","Oliveirinha","Ovar","Pardilhó","Salreu","Sangalhos","Vagos","Válega"); ?>

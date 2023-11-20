@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benavente","San Cristóbal de Entreviñas","Santa Cristina de la Polvorosa","Valderas","Villabrágima","Villalpando","Villanueva del Campo"); ?>

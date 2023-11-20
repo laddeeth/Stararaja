@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bicas","Mar de Espanha"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bethlehem Village","Brewster Hill","Carmel Hamlet","Dover Plains","Heritage Village","Lake Carmel","New Milford","New Preston","Pawling","Peach Lake","Putnam Lake","Southbury","Waterbury","Woodbury Center"); ?>

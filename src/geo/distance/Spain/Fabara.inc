@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcañiz","Arenys de Lledó  - Arens de Lledó","Batea","Calaceite","Caspe","Fabara","Gandesa","Lledó","Maella","Mequinensa - Mequinenza","Nonaspe"); ?>

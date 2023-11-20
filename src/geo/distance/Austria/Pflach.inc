@@ -1,0 +1,1 @@
+<?php $neighbours = array("Berwang","Biberwier","Bichlbach","Breitenwang","Ehenbichl","Ehrwald","Elmen","Forchach","Grän","Häselgehr","Heiterwang","Höfen","Jungholz","Lechaschau","Lermoos","Musau","Namlos","Nassereith","Nesselwängle","Obsteig","Pflach","Reutte","Schattwald","Stanzach","Tannheim","Tarrenz","Vils","Vorderhornbach","Wängle","Zöblen"); ?>

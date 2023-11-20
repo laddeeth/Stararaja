@@ -1,0 +1,1 @@
+<?php $neighbours = array("Czerwin","Długosiodło","Goworowo","Młynarze","Obryte","Ostrów Mazowiecka","Ostrołęka","Różan","Rząśnik","Rzekuń","Rzewnie","Sypniewo","Szelków","Troszyn"); ?>

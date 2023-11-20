@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bar-sur-Aube","Brienne-le-Château","Creney-près-Troyes","Lusigny-sur-Barse","Montier-en-Der","Piney","Vendeuvre-sur-Barse"); ?>

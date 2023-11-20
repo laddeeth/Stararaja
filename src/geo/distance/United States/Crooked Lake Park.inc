@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alturas","Avon Park","Babson Park","Bartow","Crooked Lake Park","Cypress Gardens","Dundee","Eagle Lake","Fort Meade","Frostproof","Inwood","Jan-Phyl Village","Lake Wales","Wahneta","Winter Haven"); ?>

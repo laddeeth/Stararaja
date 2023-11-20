@@ -1,0 +1,1 @@
+<?php $neighbours = array("Coal Creek","Genesee","Golden","Idaho Springs","Kittredge","West Pleasant View"); ?>

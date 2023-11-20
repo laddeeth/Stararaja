@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abfaltersbach","Ainet","Amlach","Anras","Außervillgraten","Heinfels","Hopfgarten in Defereggen","Innervillgraten","Kartitsch","Leisach","Lienz","Matrei in Osttirol","Oberlienz","Obertilliach","Schlaiten","Sillian","Strassen","Thurn","Tristach","Untertilliach","Virgen"); ?>

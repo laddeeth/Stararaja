@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barra de Carrasco","Canelones","Colonia Nicolich","Empalme Olmos","Joanicó","Joaquín Suárez","La Paz","Las Piedras","Los Cerrillos","Montevideo","Pando","Paso de Carrasco","Progreso","San Antonio","San Bautista","San Jacinto","Santa Rosa","Sauce","Toledo"); ?>

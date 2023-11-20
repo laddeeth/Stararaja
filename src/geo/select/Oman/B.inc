@@ -1,0 +1,1 @@
+<option value="Badīyah">Badīyah</option><option value="Bahlā’">Bahlā’</option><option value="Barkā’">Barkā’</option><option value="Bawshar">Bawshar</option><option value="Bayt al ‘Awābī">Bayt al ‘Awābī</option><option value="Bidbid">Bidbid</option>

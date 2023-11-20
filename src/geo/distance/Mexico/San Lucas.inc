@@ -1,0 +1,1 @@
+<?php $neighbours = array("Coyuca de Catalán","Cutzamalá de Pinzón","Huetamo de Núñez","San Lucas","Zirándaro"); ?>

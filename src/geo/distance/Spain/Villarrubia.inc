@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almodóvar del Río","Córdoba","Fernán-Núñez","Fuente Palmera","Guadalcázar","Hornachuelos","La Carlota","La Victoria","Montemayor","Posadas","Villarrubia","Villaviciosa de Córdoba"); ?>

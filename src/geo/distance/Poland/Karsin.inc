@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brusy","Czarna Woda","Czersk","Dziemiany","Kaliska","Karsin","Kościerzyna","Liniewo","Lipusz","Śliwice","Stara Kiszewa","Szlachta","Zblewo"); ?>

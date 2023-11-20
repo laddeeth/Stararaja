@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ainay-le-Château","Buxières-les-Mines","Cérilly","Charenton-du-Cher","Estivareilles","Lurcy-Lévis","Orval","Saint-Amand-Montrond","Saint-Pierre-le-Moûtier","Saint-Victor","Sancoins","Souvigny","Vallon-en-Sully"); ?>

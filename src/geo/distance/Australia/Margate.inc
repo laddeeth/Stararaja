@@ -1,0 +1,1 @@
+<?php $neighbours = array("Austins Ferry","Bellerive","Berriedale","Blackmans Bay","Cambridge","Cygnet","Franklin","Glenorchy","Goodwood","Hobart","Howrah","Huonville","Kettering","Kingston","Kingston Beach","Lauderdale","Lindisfarne","Lutana","Margate","Moonah","New Town","Rokeby","Sandford","Sandy Bay","Seven Mile Beach","Taroona","Warrane"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arden-Arcade","Carmichael","Elk Grove","Florin","Galt","Gold River","Herald","La Riviera","Laguna","Parkway","Rancho Cordova","Rancho Murieta","Sacramento","Vineyard","West Sacramento"); ?>

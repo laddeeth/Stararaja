@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agua Santa del Yuna","Arenoso","Las Terrenas","Nagua","Sánchez","Santa Bárbara de Samaná"); ?>

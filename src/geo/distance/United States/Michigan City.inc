@@ -1,0 +1,1 @@
+<?php $neighbours = array("Burns Harbor","Chesterton","Hudson Lake","LaPorte","Michigan City","New Buffalo","Ogden Dunes","Portage","Porter","South Haven","Trail Creek"); ?>

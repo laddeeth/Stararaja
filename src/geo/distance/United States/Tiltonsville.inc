@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benwood","Brilliant","Follansbee","Hooverson Heights","Martins Ferry","McMechen","Mingo Junction","Moundsville","Saint Clairsville","Shadyside","Steubenville","Tiltonsville","Weirton","Wellsburg","Wintersville","Wolfhurst"); ?>

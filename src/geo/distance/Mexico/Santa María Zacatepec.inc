@@ -1,0 +1,1 @@
+<?php $neighbours = array("San Juan Cacahuatepec","San Pedro Amuzgos","Santa María Zacatepec","Xochistlahuaca"); ?>

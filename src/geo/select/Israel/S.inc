@@ -1,0 +1,1 @@
+<option value="Sājūr">Sājūr</option><option value="Sakhnīn">Sakhnīn</option><option value="Sallama">Sallama</option><option value="Savyon">Savyon</option><option value="Sederot">Sederot</option><option value="Shelomi">Shelomi</option><option value="Shibli">Shibli</option><option value="Sūlam">Sūlam</option>

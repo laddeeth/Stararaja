@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adjuntas","Cabo Rojo","Fuig","Guánica","Guayanilla","Indios","La Parguera","Lajas","Liborio Negron Torres","Lluveras","Magas Arriba","Maria Antonia","Maricao","Monte Grande","Peñuelas","Ponce","Sabana Eneas","Sabana Grande","San Germán","Santo Domingo","Tallaboa","Tallaboa Alta","Yauco"); ?>

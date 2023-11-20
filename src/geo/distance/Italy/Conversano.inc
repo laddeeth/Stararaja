@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acquaviva delle Fonti","Adelfia","Alberobello","Bari","Bitritto","Capurso","Casamassima","Castellana Grotte","Cellamare","Conversano","Fasano","Gioia del Colle","Locorotondo","Mola di Bari","Monopoli","Noci","Noicattaro","Polignano a Mare","Putignano","Rutigliano","Sammichele di Bari","Sannicandro di Bari","Triggiano","Turi","Valenzano"); ?>

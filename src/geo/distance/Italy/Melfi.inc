@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andretta","Aquilonia","Ascoli Satriano","Atella","Avigliano","Barile","Bella","Bisaccia","Calitri","Candela","Castelgrande","Filiano","Forenza","Lacedonia","Lavello","Maschito","Melfi","Montemilone","Palazzo San Gervasio","Pescopagano","Rapolla","Rapone","Rionero in Vulture","Ripacandida","Ruvo del Monte","San Fele","Stornarella","Venosa"); ?>

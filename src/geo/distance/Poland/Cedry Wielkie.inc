@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cedry Wielkie","Gdańsk","Kolbudy","Kowale","Lisewo Malborskie","Lublewo Gdańskie","Malbork","Miłoradz","Nowy Dwór Gdański","Nowy Staw","Ostaszewo","Pruszcz Gdański","Pszczółki","Rotmanka","Sopot","Stegna","Straszyn","Subkowy","Suchy Dąb","Sztutowo","Tczew","Trąbki Wielkie","Łęgowo"); ?>

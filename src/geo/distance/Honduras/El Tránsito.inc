@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belén Gualcho","Cololaca","Corquín","El Tránsito","La Labor","Lucerna","Nueva Ocotepeque","San Francisco de Cones","San Francisco del Valle","Sensenti","Sinuapa","Yaruchel"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Achern","Appenweier","Berghaupten","Bühl","Bühlertal","Durbach","Gengenbach","Haslach","Hohberg","Kappelrodeck","Kehl","Lauf","Lautenbach","Meißenheim","Nordrach","Oberkirch","Offenburg","Ohlsbach","Oppenau","Ottenhöfen im Schwarzwald","Ottersweier","Renchen","Sasbach","Sasbachwalden","Schutterwald","Schwanau","Willstätt"); ?>

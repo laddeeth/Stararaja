@@ -1,0 +1,1 @@
+<?php $neighbours = array("Badalucco","Bordighera","Camporosso","Castellaro","Ceriana","Cipressa","Dolceacqua","Dolcedo","Ospedaletti","Riva Ligure","San Biagio della Cima","San Lorenzo al Mare","San Remo","Santo Stefano al Mare","Sasso di Bordighera","Taggia","Vallebona","Vallecrosia","Ventimiglia"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arcabuco","Ciénega","Combita","Cucaita","Jenesano","La Capilla","Ramiriquí","Ráquira","Sáchica","Samacá","Siachoque","Sotaquirá","Tibaná","Toca","Tunja","Turmequé","Tuta","Ventaquemada","Villa de Leiva"); ?>

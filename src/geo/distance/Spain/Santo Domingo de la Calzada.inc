@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baños de Río Tobía","Belorado","Casalarreina","Cenicero","Cerezo de Río Tirón","Ezcaray","Haro","Labastida","Miranda de Ebro","Nájera","Pradoluengo","San Asensio","San Vicente de la Sonsierra","Santo Domingo de la Calzada","Villalba de Rioja","Villarta-Quintana"); ?>

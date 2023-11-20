@@ -1,0 +1,1 @@
+<option value="Nablus">Nablus</option><option value="Naḩḩālīn">Naḩḩālīn</option><option value="Nazlat ‘Īsá">Nazlat ‘Īsá</option><option value="Ni‘līn">Ni‘līn</option><option value="Nūbā">Nūbā</option>

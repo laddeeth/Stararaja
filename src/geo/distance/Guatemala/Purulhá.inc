@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cobán","Purulhá","San Cristóbal Verapaz","San Jerónimo","San Juan Chamelco","San Miguel Chicaj","San Pedro Carchá","Santa Cruz Verapaz","Tactic","Tamahú","Tucurú"); ?>

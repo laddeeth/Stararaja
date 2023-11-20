@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dziwnów","Kamień Pomorski","Międzyzdroje","Nowe Warpno","Przybiernów","Świnoujście","Wolin"); ?>

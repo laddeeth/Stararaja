@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chicacao","Nueva Concepción","Patulul","Pueblo Nuevo Tiquisate","Río Bravo","San Antonio Suchitepéquez","San Bernardino","San José El Ídolo","San Juan Bautista","San Lorenzo","San Miguel Panán","Santa Bárbara","Santo Domingo Suchitepéquez"); ?>

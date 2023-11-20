@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ciechanów","Czernice Borowe","Dzierzgowo","Gąsocin","Gołymin-Ośrodek","Grudusk","Gzy","Karniewo","Krasne","Krzynowłoga Mała","Maków Mazowiecki","Nowe Miasto","Ojrzeń","Opinogóra Górna","Przasnysz","Płoniawy-Bramura","Regimin","Sochocin","Sońsk","Strzegowo","Stupsk","Świercze","Szydłowo"); ?>

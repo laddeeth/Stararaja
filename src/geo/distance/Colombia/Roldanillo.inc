@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andalucía","Bugalagrande","El Dovio","La Victoria","Obando","Roldanillo","Sevilla","Toro","Trujillo","Versalles","Zarzal"); ?>

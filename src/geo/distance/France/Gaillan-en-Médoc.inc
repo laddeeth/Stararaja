@@ -1,0 +1,1 @@
+<?php $neighbours = array("Braud-et-Saint-Louis","Carcans","Cussac-Fort-Médoc","Gaillan-en-Médoc","Hourtin","Lesparre-Médoc","Listrac-Médoc","Meschers-sur-Gironde","Mortagne-sur-Gironde","Pauillac","Saint-Ciers-sur-Gironde","Saint-Estèphe","Saint-Martin-Lacaussade","Soulac-sur-Mer","Vertheuil"); ?>

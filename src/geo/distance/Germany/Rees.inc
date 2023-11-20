@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alpen","Bocholt","Emmerich","Geldern","Goch","Hamminkeln","Hünxe","Isselburg","Issum","Kalkar","Kevelaer","Mehrhoog","Rees","Rheinberg","Sonsbeck","Uedem","Voerde","Weeze","Wesel","Xanten"); ?>

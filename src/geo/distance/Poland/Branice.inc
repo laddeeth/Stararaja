@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baborów","Borucin","Branice","Głubczyce","Kietrz","Krzanowice","Pawłowiczki","Pietrowice Wielkie","Racławice Śląskie"); ?>

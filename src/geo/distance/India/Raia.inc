@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bambolim","Bandora","Benaulim","Carapur","Cavelossim","Chicalim","Chinchinim","Colva","Cortalim","Cuncolim","Curchorem","Curti","Davorlim","Goa Velha","Jua","Madgaon","Marmagao","Navelim","Palle","Panaji","Ponda","Quepem","Queula","Raia","Sancoale","Sanguem","Sanvordem","Serula","Taleigao","Varca","Vāsco Da Gāma"); ?>

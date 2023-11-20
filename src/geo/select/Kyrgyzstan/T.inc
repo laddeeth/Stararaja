@@ -1,0 +1,1 @@
+<option value="Talas">Talas</option><option value="Tash-Kumyr">Tash-Kumyr</option><option value="Tokmok">Tokmok</option><option value="Toktogul">Toktogul</option><option value="Tyup">Tyup</option>

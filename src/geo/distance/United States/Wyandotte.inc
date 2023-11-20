@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allen Park","Carleton","Dearborn","Dearborn Heights","Detroit","Ecorse","Gibraltar","Grosse Ile","Grosse Pointe","Grosse Pointe Park","Hamtramck","Hazel Park","Huntington Woods","Inkster","Lincoln Park","Melvindale","Pleasant Ridge","Redford","River Rouge","Romulus","South Rockwood","Southfield","Westland","Woodhaven","Wyandotte"); ?>

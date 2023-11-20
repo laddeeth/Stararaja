@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcaracejos","Añora","Conquista","Dos Torres","El Viso","Pedroche","Pozoblanco","Santa Eufemia","Torrecampo","Villanueva de Córdoba","Villaralto"); ?>

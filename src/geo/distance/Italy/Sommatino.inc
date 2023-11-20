@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barrafranca","Butera","Caltanissetta","Camastra","Campobello di Licata","Canicattì","Castrofilippo","Delia","Favara","Grotte","Licata","Marianopoli","Mazzarino","Milena","Montedoro","Naro","Palma di Montechiaro","Pietraperzia","Racalmuto","Ravanusa","Riesi","San Cataldo","Santa Caterina Villarmosa","Serradifalco","Sommatino"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aillant-sur-Tholon","Bléneau","Briare","Cézy","Champignelles","Charbuy","Châtillon-Coligny","Courtenay","Diges","Douchy","Fleury-la-Vallée","Montcresson","Nogent-sur-Vernisson","Ouzouer-sur-Trézée","Pourrain","Saint-Amand-en-Puisaye","Saint-Fargeau","Saint-Germain-des-Prés","Toucy","Triguères"); ?>

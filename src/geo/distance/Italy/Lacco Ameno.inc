@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bacoli","Bagnoli","Casamicciola Terme","Forio","Ischia","Ischia Porto","Lacco Ameno","Monte di Procida","Pozzuoli","Procida","Qualiano","Quarto","Serrara Fontana"); ?>

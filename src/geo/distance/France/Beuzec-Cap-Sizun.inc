@@ -1,0 +1,1 @@
+<?php $neighbours = array("Audierne","Beuzec-Cap-Sizun","Camaret-sur-Mer","Cast","Crozon","Douarnenez","Esquibien","Guengat","Landudec","Lanvéoc","Plogastel-Saint-Germain","Plogoff","Plogonnec","Plomodiern","Plonéis","Plonéour-Lanvern","Plonévez-Porzay","Plouhinec","Plozévet","Pluguffan","Pouldergat","Pouldreuzic","Poullan-sur-Mer","Quéménéven","Roscanvel","Telgruc-sur-Mer"); ?>

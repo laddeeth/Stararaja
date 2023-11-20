@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldine","Bunker Hill Village","Cinco Ranch","Cypress","Hedwig Village","Hunters Creek Village","Jersey Village","Katy","Meadows Place","Mission Bend","Oak Cliff Place","Piney Point Village","Southside Place","Spring","Spring Valley","Tomball","West University Place"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Becerril de la Sierra","Boalo","Cantimpalos","Carbonero el Mayor","Cercedilla","Collado Mediano","Gallegos","Guadarrama","La Cuesta","La Lastrilla","Los Molinos","Manzanares el Real","Miraflores de la Sierra","Moralzarzal","Navacerrada","Palazuelos de Eresma","Rascafría","San Cristóbal de Segovia","San Ildefonso","Segovia","Turégano"); ?>

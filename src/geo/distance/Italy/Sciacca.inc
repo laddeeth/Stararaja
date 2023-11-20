@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bisacquino","Burgio","Calamonaci","Caltabellotta","Cattolica Eraclea","Chiusa Sclafani","Contessa Entellina","Giuliana","Lucca Sicula","Menfi","Montallegro","Montevago","Partanna","Poggioreale","Ribera","Salaparuta","Sambuca di Sicilia","Santa Margherita di Belice","Sciacca","Villafranca Sicula"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brezová pod Bradlom","Gbely","Holíč","Myjava","Senica","Skalica","Smolenice","Stará Turá","Vrbové"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altdorf","Andermatt","Arth","Attinghausen","Bauen","Beckenried","Buochs","Dallenwil","Disentis","Emmetten","Engelberg","Erstfeld","Flüelen","Gersau","Goldau","Ibach","Ingenbohl","Kerns","Linthal","Muotathal","Sattel","Schattdorf","Schwyz","Silenen","Stans","Stansstad","Steinen","Trun","Unteriberg","Vitznau","Weggis","Wolfenschiessen"); ?>

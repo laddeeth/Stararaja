@@ -1,0 +1,1 @@
+<?php $neighbours = array("Kudirkos Naumiestis","Kybartai","Marijampolė","Vilkaviškis","Virbalis"); ?>

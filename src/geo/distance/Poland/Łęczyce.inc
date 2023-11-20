@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bolszewo","Cewice","Choczewo","Gniewino","Gościcino","Krokowa","Lębork","Linia","Luzino","Nowa Wieś Lęborska","Orle","Potęgowo","Sierakowice","Szemud","Wejherowo","Wierzchucino","Łeba","Łęczyce"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Digne-les-Bains","Forcalquier","Les Mées","Malijai","Mallemoisson","Mane","Manosque","Oraison","Peipin","Peyruis","Pierrevert","Reillanne","Riez","Sisteron","Valensole","Volonne","Volx"); ?>

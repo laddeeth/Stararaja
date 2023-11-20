@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguilares","Apopa","Ayutuxtepeque","Ciudad Arce","Cuscatancingo","Delgado","El Paisnal","Guazapa","Mejicanos","Nueva Concepción","Quezaltepeque","San Juan Opico","San Pablo Tacachico","Soyapango","Suchitoto","Tenancingo","Tonacatepeque"); ?>

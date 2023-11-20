@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chmielno","Garcz","Grabowo Kościerskie","Kaliska","Kartuzy","Kolbudy","Kościerzyna","Liniewo","Lipusz","Lublewo Gdańskie","Przodkowo","Przywidz","Sierakowice","Skarszewy","Somonino","Stara Kiszewa","Sulęczyno","Trąbki Wielkie","Zblewo","Żukowo"); ?>

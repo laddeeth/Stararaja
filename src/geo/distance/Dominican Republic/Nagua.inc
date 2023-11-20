@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agua Santa del Yuna","Arenoso","Arroyo Salado","Cabrera","Castillo","El Factor","Hostos","La Entrada","Nagua","Sánchez","Villa Riva"); ?>

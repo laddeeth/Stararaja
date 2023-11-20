@@ -1,0 +1,1 @@
+<option value="Carnikava">Carnikava</option><option value="Cēsis">Cēsis</option><option value="Cesvaine">Cesvaine</option><option value="Cibla">Cibla</option>

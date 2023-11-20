@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brandenburg an der Havel","Brieselang","Dabergotz","Dallgow-Döberitz","Falkensee","Fehrbellin","Friesack","Groß Kreutz","Großderschau","Ketzin","Kotzen","Kremmen","Nauen","Nennhausen","Paulinenaue","Päwesin","Pessin","Premnitz","Rathenow","Retzow","Rhinow","Roskow","Wustermark"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beled","Bük","Csepreg","Fertőd","Fertőszentmiklós","Gencsapáti","Kőszeg","Nagycenk","Répcelak","Sárvár","Szombathely","Táplánszentkereszt","Vép"); ?>

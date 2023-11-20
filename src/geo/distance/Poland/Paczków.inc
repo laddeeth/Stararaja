@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bardo","Budzów","Ciepłowody","Henryków","Kamieniec Ząbkowicki","Kamiennik","Kłodzko","Lądek-Zdrój","Nysa","Nysa Zamłynie","Otmuchów","Paczków","Pakosławice","Przeworno","Stoszowice","Stronie Śląskie","Ząbkowice Śląskie","Ziębice","Złoty Stok"); ?>

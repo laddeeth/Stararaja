@@ -1,0 +1,1 @@
+<?php $neighbours = array("Eivissa","Sant Francesc de Formentera","Sant Josep de sa Talaia"); ?>

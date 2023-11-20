@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ainring","Anger","Bad Reichenhall","Bayerisch Gmain","Berchtesgaden","Bischofswiesen","Freilassing","Inzell","Laufen","Marktschellenberg","Petting","Piding","Ruhpolding","Schneizlreuth","Schönau am Königssee","Teisendorf"); ?>

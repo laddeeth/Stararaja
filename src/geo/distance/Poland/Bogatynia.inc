@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bogatynia","Leśna","Siekierczyn","Sulików","Świeradów-Zdrój","Zawidów","Zgorzelec"); ?>

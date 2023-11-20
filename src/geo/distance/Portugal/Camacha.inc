@@ -1,0 +1,1 @@
+<?php $neighbours = array("Camacha","Vila de Porto Santo"); ?>

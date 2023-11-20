@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acatic","Capilla de Guadalupe","Mezcala","Tepatitlán de Morelos","Valle de Guadalupe","Yahualica","Zapote"); ?>

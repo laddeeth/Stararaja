@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biars-sur-Cère","Bretenoux","Cajarc","Capdenac-Gare","Figeac","Gramat","Lacapelle-Marival","Leyme","Livinhac-le-Haut","Maurs","Saint-Céré","Viviez"); ?>

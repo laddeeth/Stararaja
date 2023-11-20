@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcolea del Río","Cañada Rosal","Carmona","Fuentes de Andalucía","La Campana","La Luisiana","La Puebla de los Infantes","Lora del Río","Marchena","Palma del Río","Peñaflor","Tocina","Villanueva del Río y Minas"); ?>

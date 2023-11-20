@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ashaway","Central Waterford","Conning Towers-Nautilus Park","Gales Ferry","Groton","Hope Valley","Jewett City","Ledyard Center","Long Hill","Montville Center","Mystic","Noank","Norwich","Old Mystic","Oxoboxo River","Pawcatuck","Poquonock Bridge","Preston City","Uncasville","Wakefield-Peacedale","Westerly"); ?>

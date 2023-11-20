@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ames Lake","Carnation","East Renton Highlands","Fall City","Issaquah","Lake Marcel-Stillwater","Maple Heights-Lake Desire","Maple Valley","Mirrormont","Ravensdale","Riverbend","Snoqualmie","Tanner","West Lake Sammamish"); ?>

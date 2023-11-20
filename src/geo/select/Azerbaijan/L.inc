@@ -1,0 +1,1 @@
+<option value="Laçın">Laçın</option><option value="Lerik">Lerik</option><option value="Lökbatan">Lökbatan</option><option value="Lǝnkǝran">Lǝnkǝran</option>

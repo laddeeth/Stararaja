@@ -1,0 +1,1 @@
+<?php $neighbours = array("Banie Mazurskie","Giżycko","Gołdap","Kowale Oleckie","Kruklanki","Pozezdrze","Węgorzewo","Wydminy"); ?>

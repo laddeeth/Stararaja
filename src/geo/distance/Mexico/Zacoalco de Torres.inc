@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atoyac","Bellavista","Chiquilistlán","Cuyutlán","Jocotepec","San Juan Cosalá","Santa Cruz de las Flores","Teocuitatlán de Corona","Tlajomulco de Zúñiga","Villa Corona","Zacoalco de Torres"); ?>

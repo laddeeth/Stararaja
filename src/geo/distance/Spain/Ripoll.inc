@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bagà","Bas","Campdevànol","Camprodon","Gurb","Manlleu","Olost","Olot","Ribes de Freser","Ripoll","Sant Cristòfol de les Fonts","Sant Joan de les Abadesses","Sant Joan les Fonts","Sant Julià de Cerdanyola","Santa Maria de Corcó","Torelló","Vilaseca"); ?>

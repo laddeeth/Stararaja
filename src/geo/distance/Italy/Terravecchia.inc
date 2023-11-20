@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belvedere di Spinello","Bocchigliero","Calopezzati","Caloveto","Campana","Cariati","Casabona","Castelsilano","Cerenzia","Cirò","Cirò Marina","Cropalati","Crosia","Crucoli","Longobucco","Mandatoriccio","Melissa","Pallagorio","Paludi","Pietrapaola","Rossano","Savelli","Scala Coeli","Strongoli","Terravecchia","Verzino"); ?>

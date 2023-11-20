@@ -1,0 +1,1 @@
+<?php $neighbours = array("Camalote","Cañaveral","El Perico","Guacamaya","Gualjoco","Ilama","Laguna Verde","Naco","Nueva Jalapa","Petoa","Pueblo Nuevo","Río Lindo","San Antonio de Cortés","San Buenaventura","San José de Colinas","San Luis","San Luis de Planes","San Marcos","San Vicente Centenario","Santa Bárbara","Santa Elena","Trinidad"); ?>

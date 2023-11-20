@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chinavita","Chocontá","Ciénega","Garagoa","Guateque","Jenesano","Machetá","Manta","Ramiriquí","Samacá","Somondoco","Tenza","Tibaná","Turmequé","Umbita","Ventaquemada","Villapinzón"); ?>

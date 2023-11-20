@@ -1,0 +1,1 @@
+<?php $neighbours = array("Monte Alegre de Sergipe","Nossa Senhora da Glória"); ?>

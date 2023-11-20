@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cyców","Fajsławice","Jakubowice Murowane","Lublin","Ludwin","Mełgiew","Milejów","Niemce","Ostrów Lubelski","Piaski","Puchaczów","Rejowiec","Rejowiec Fabryczny","Rybczewice","Serniki","Spiczyn","Świdnik","Trawniki","Urszulin","Uścimów Stary","Wola Sernicka","Łęczna","Łopiennik Górny"); ?>

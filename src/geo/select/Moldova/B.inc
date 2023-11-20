@@ -1,0 +1,1 @@
+<option value="Bălţi">Bălţi</option><option value="Basarabeasca">Basarabeasca</option><option value="Bilicenii Vechi">Bilicenii Vechi</option><option value="Biruinţa">Biruinţa</option><option value="Briceni">Briceni</option><option value="Bucovăţ">Bucovăţ</option><option value="Bugeac">Bugeac</option>

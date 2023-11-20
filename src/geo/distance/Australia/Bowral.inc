@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bowral","Bundanoon","Buxton","Colo Vale","Mittagong","Moss Vale"); ?>

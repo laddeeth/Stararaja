@@ -1,0 +1,1 @@
+<?php $neighbours = array("Emlichheim","Esche","Georgsdorf","Getelo","Gölenkamp","Hoogstede","Itterbeck","Laar","Lage","Twist","Uelsen","Wielen","Wietmarschen","Wilsum"); ?>

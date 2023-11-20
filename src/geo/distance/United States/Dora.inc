@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brookside","Concord","Cordova","Dora","Forestdale","Gardendale","Graysville","Jasper","Kimberly","Minor","Morris","Mount Olive","Pleasant Grove","Rock Creek","Sumiton","Sylvan Springs","Warrior"); ?>

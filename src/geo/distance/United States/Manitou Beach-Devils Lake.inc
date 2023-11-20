@@ -1,0 +1,1 @@
+<?php $neighbours = array("Manitou Beach-Devils Lake","Michigan Center","Morenci","Napoleon","Vandercook Lake"); ?>

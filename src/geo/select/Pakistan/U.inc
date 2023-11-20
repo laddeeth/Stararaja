@@ -1,0 +1,1 @@
+<option value="Ubauro">Ubauro</option><option value="Umarkot">Umarkot</option><option value="Usta Muhammad">Usta Muhammad</option><option value="Uthal">Uthal</option><option value="Utmānzai">Utmānzai</option>

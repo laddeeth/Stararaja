@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ahualulco de Mercado","Ameca","Antonio Escobedo","El Refugio","Etzatlán","San Martín Hidalgo","Tala","Teuchitlán"); ?>

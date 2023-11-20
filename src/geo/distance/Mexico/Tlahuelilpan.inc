@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ajacuba","Apaxco de Ocampo","Atengo","Atitalaquia","Doxey","El Llano","Hueypoxtla","Mixquiahuala","Progreso de Obregón","San Juan Tepa","San Miguel Vindho","Santa María Ajoloapan","Tepatepec","Tepeji de Ocampo","Tequixquiac","Tetepango","Tezontepec de Aldama","Tlahuelilpan","Tlaxcoapan","Tula de Allende"); ?>

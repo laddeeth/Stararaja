@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acuitzio del Canje","Cuanajo","Opopeo","Pátzcuaro","Quiroga","Santa Fe de la Laguna","Tacámbaro de Codallos","Tzintzuntzán","Villa Escalante","Villa Madero"); ?>

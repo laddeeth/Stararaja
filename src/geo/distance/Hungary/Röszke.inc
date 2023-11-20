@@ -1,0 +1,1 @@
+<?php $neighbours = array("Algyő","Ásotthalom","Balástya","Bordány","Deszk","Domaszék","Forráskút","Maroslele","Mórahalom","Röszke","Ruzsa","Sándorfalva","Szatymaz","Szeged","Üllés","Zákányszék","Zsombó"); ?>

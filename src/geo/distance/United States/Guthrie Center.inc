@@ -1,0 +1,1 @@
+<?php $neighbours = array("Coon Rapids","Guthrie Center","Panora"); ?>

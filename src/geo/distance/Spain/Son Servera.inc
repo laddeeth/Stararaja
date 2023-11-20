@@ -1,0 +1,1 @@
+<?php $neighbours = array("Artà","Capdepera","Felanitx","Manacor","Maria de la Salut","Muro","Petra","Sant Llorenç des Cardassar","Santa Margalida","Son Servera","Vilafranca de Bonany"); ?>

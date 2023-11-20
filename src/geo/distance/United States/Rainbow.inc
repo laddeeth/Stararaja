@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguanga","Bonsall","Camp Pendleton North","Camp Pendleton South","Fallbrook","Hidden Meadows","Murrieta","Murrieta Hot Springs","Rainbow","Sedco Hills","Temecula","Vista","Wildomar"); ?>

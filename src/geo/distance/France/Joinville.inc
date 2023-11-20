@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ancerville","Bettancourt-la-Ferrée","Bienville","Bologne","Chancenay","Chevillon","Doulaincourt-Saucourt","Froncles","Gondrecourt-le-Château","Joinville","Montier-en-Der","Saint-Dizier","Wassy"); ?>

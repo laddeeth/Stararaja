@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arcos de Jalón","Ariza","Bordalba","Pozuel de Ariza","Santa María de Huerta"); ?>

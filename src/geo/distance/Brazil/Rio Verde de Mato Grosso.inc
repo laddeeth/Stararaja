@@ -1,0 +1,1 @@
+<?php $neighbours = array("Rio Verde de Mato Grosso"); ?>

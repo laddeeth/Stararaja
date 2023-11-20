@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avon Center","Avon Lake","Bay Village","Eaton Estates","Elyria","Lorain","North Olmsted","North Ridgeville","Olmsted Falls","Rocky River","Sheffield Lake","Vermilion","Vermilion-on-the-Lake","Wakeman"); ?>

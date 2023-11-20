@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altdorf","Andermatt","Attinghausen","Disentis","Engelberg","Erstfeld","Faido","Flüelen","Schattdorf","Silenen"); ?>

@@ -1,0 +1,1 @@
+<option value="Pajo">Pajo</option><option value="Panbang">Panbang</option><option value="Paro">Paro</option><option value="Phuntsholing">Phuntsholing</option>

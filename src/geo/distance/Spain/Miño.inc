@@ -1,0 +1,1 @@
+<?php $neighbours = array("A Coruña","Abegondo","Aranga","Ares","Arteixo","Bergondo","Betanzos","Cambre","Carral","Cesuras","Coirós","Culleredo","Fene","Ferrol","Mesia","Miño","Moeche","Monfero","Mugardos","Narón","Oleiros","Sada","Somozas","Valdoviño"); ?>

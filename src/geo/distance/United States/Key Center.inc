@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allyn","Artondale","Belfair","Bremerton","Canterwood","East Port Orchard","Enetai","Erlands Point-Kitsap Lake","Fircrest","Fort Lewis","Fox Island","Gig Harbor","Home","Key Center","Klahanie","Longbranch","McChord Air Force Base","Navy Yard City","Port Orchard","Southworth","Steilacoom","Tacoma","University Place","Vashon","Wauna","Wollochet"); ?>

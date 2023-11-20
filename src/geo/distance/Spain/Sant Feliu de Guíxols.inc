@@ -1,0 +1,1 @@
+<?php $neighbours = array("Begur","Blanes","Calonge","Cassà de la Selva","Cruïlles","Fornells de la Selva","Girona","Llagostera","Lloret de Mar","Malgrat de Mar","Palafrugell","Palamós","Pals","Quart d’Onyar","Riudellots de la Selva","Salt","Sant Feliu de Guíxols","Sils","Tordera","Torroella de Montgrí","Tossa de Mar","Vilablareix"); ?>

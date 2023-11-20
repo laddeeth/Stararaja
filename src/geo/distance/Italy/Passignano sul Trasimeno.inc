@@ -1,0 +1,1 @@
+<?php $neighbours = array("Castiglion Fiorentino","Castiglione del Lago","Chiusi","Città della Pieve","Corciano","Cortona","Foiano della Chiana","Magione","Monte Santa Maria Tiberina","Montepulciano","Montone","Panicale","Passignano sul Trasimeno","Perugia","Piegaro","Torrita di Siena","Tuoro sul Trasimeno","Umbertide"); ?>

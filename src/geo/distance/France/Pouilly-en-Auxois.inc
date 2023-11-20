@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arnay-le-Duc","Fleurey-sur-Ouche","Pouilly-en-Auxois","Saulieu","Savigny-lès-Beaune","Semur-en-Auxois","Velars-sur-Ouche","Vitteaux"); ?>

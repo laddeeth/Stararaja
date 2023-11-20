@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adrano","Agira","Alcara li Fusi","Assoro","Biancavilla","Bronte","Capizzi","Caronia","Castel di Lucio","Catenanuova","Centuripe","Cerami","Cesarò","Gagliano Castelferrato","Leonforte","Maletto","Maniace","Militello Rosmarino","Mistretta","Nicosia","Nissoria","Regalbuto","San Fratello","San Teodoro","Troina"); ?>

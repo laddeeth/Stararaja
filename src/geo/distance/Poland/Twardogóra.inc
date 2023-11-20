@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bierutów","Dobroszyce","Dziadowa Kłoda","Długołęka","Kobyla Góra","Krośnice","Międzybórz","Milicz","Odolanów","Perzów","Sośnie","Sulmierzyce","Syców","Trzebnica","Twardogóra"); ?>

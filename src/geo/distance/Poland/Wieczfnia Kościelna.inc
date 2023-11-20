@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chorzele","Czernice Borowe","Działdowo","Dzierzgowo","Grudusk","Iłowo -Osada","Kozłowo","Krzynowłoga Mała","Lipowiec Kościelny","Mława","Nidzica","Regimin","Stupsk","Szydłowo","Wieczfnia Kościelna","Wiśniewo"); ?>

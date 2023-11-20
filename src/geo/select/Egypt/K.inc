@@ -1,0 +1,1 @@
+<option value="Kafr ad Dawwār">Kafr ad Dawwār</option><option value="Kafr ash Shaykh">Kafr ash Shaykh</option><option value="Kafr az Zayyāt">Kafr az Zayyāt</option><option value="Kafr Şaqr">Kafr Şaqr</option><option value="Kawm Ḩamādah">Kawm Ḩamādah</option><option value="Kawm Umbū">Kawm Umbū</option><option value="Kousa">Kousa</option>

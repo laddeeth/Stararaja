@@ -1,0 +1,1 @@
+<option value="Quảng Ngãi">Quảng Ngãi</option><option value="Quy Nhơn">Quy Nhơn</option>

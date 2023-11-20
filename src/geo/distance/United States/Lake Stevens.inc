@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alderwood Manor","Cathcart","Clearview","Fobes Hill","Lake Goodwin","Lake Stevens","Lochsloy","Lynnwood","Maltby","Martha Lake","Meadowdale","Mill Creek","Mukilteo","North Creek","Silver Firs","Sisco Heights","Smokey Point","Snohomish","Sultan","Tulalip","Tulalip Bay","Warm Beach","West Lake Stevens","Woodinville","Woods Creek"); ?>

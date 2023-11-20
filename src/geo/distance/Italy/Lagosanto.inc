@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alfonsine","Argenta","Ariano nel Polesine","Berra","Codigoro","Comacchio","Copparo","Corbola","Formignana","Goro","Jolanda di Savoia","Lagosanto","Masi Torello","Massa Fiscaglia","Mesola","Migliarino","Migliaro","Ostellato","Papozze","Porto Tolle","Porto Viro","Portomaggiore","Taglio","Taglio di Po","Tresigallo","Villanova Marchesana"); ?>

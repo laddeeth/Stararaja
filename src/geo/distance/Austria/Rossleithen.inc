@@ -1,0 +1,1 @@
+<?php $neighbours = array("Admont","Aigen im Ennstal","Altenmarkt bei Sankt Gallen","Ardning","Donnersbach","Grünau im Almtal","Hall","Irdning","Johnsbach","Lassing","Liezen","Losenstein","Micheldorf in Oberösterreich","Oppenberg","Reichraming","Rossleithen","Rottenmann","Sankt Gallen","Selzthal","Stainach","Tauplitz","Ternberg","Trieben","Weißenbach bei Liezen","Wörschach"); ?>

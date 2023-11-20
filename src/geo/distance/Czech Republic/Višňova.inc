@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chrastava","Frýdlant","Hejnice","Hrádek nad Nisou","Jablonec nad Nisou","Jablonné v Podještědí","Janov nad Nisou","Josefův Důl","Liberec","Lučany nad Nisou","Mníšek","Nové Město pod Smrkem","Raspenava","Smržovka","Stráž nad Nisou","Varnsdorf","Višňova"); ?>

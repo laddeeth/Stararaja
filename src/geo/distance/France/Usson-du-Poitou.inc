@@ -1,0 +1,1 @@
+<?php $neighbours = array("Availles-Limouzine","Bussière-Poitevine","Charroux","Chaunay","Civray","Couhé","Iteuil","La Villedieu-du-Clain","Lussac-les-Châteaux","Nouaillé-Maupertuis","Roches-Prémarie-Andillé","Saint-Maurice-la-Clouère","Saulgé","Savigné","Savigny-Lévescault","Smarves","Tercé","Usson-du-Poitou","Vivonne"); ?>

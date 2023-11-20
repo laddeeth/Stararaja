@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amurrio","Lezama","Miranda de Ebro","Murguía","Oña","Trespaderne","Urduña","Villanueva de Valdegovía"); ?>

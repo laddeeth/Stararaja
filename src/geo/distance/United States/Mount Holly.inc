@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bessemer City","Charlotte","Clover","Cornelius","Cramerton","Davidson","Denver","Gastonia","Huntersville","Lake Wylie","Lowesville","Mount Holly","Pumpkin Center","Ranlo","South Gastonia","Stanley"); ?>

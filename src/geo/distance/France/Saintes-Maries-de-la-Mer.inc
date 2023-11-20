@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aigues-Mortes","Le Cailar","Le Grau-du-Roi","Saintes-Maries-de-la-Mer","Vauvert"); ?>

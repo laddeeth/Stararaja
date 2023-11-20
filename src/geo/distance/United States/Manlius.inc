@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brewerton","Camillus","Canastota","Cazenovia","Chittenango","Constantia","East Syracuse","Galeville","Liverpool","Lyncourt","Manlius","Mattydale","Minoa","Nedrow","North Syracuse","Seneca Knolls","Solvay","Wampsville","Westvale"); ?>

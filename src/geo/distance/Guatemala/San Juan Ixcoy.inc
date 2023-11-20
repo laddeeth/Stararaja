@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barillas","Chiantla","Concepción","San Juan Atitán","San Juan Ixcoy","San Mateo Ixtatán","San Miguel Acatán","San Rafael La Independencia","San Sebastián Huehuetenango","Santa Eulalia","Soloma","Todos Santos Cuchumatán"); ?>

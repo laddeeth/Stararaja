@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albertirsa","Alsónémedi","Bugyi","Cegléd","Ceglédbercel","Csemő","Dabas","Dánszentmiklós","Délegyháza","Felsőpakony","Gomba","Hernád","Inárcs","Kakucs","Kerekegyháza","Kunszentmiklós","Lajosmizse","Monor","Nagykőrös","Nyáregyháza","Ócsa","Örkény","Pánd","Péteri","Pilis","Táborfalva","Újhartyán","Üllő"); ?>

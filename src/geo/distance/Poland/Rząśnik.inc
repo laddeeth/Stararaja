@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brańszczyk","Dąbrówka","Długosiodło","Goworowo","Gzy","Karniewo","Maków Mazowiecki","Młynarze","Obryte","Pokrzywnica","Pułtusk","Różan","Rząśnik","Rzewnie","Szelków","Winnica","Wyszków","Zatory","Łochów"); ?>

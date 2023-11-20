@@ -1,0 +1,1 @@
+<option value="El Almendro">El Almendro</option><option value="El Ayote">El Ayote</option><option value="El Crucero">El Crucero</option><option value="El Realejo">El Realejo</option><option value="El Rosario">El Rosario</option><option value="El Sauce">El Sauce</option><option value="El Viejo">El Viejo</option><option value="Estelí">Estelí</option>

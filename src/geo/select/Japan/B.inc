@@ -1,0 +1,1 @@
+<option value="Beppu">Beppu</option><option value="Bibai">Bibai</option><option value="Bihoro">Bihoro</option><option value="Bungo-Takada-shi">Bungo-Takada-shi</option>

@@ -1,0 +1,1 @@
+<option value="Ādam">Ādam</option><option value="Al Buraymī">Al Buraymī</option><option value="Al Khābūrah">Al Khābūrah</option><option value="Al Liwā’">Al Liwā’</option><option value="Al Qābil">Al Qābil</option><option value="Al Sohar">Al Sohar</option><option value="Ar Rustāq">Ar Rustāq</option><option value="As Sīb">As Sīb</option><option value="As Suwayq">As Suwayq</option>

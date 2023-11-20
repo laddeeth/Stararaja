@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auburndale","Citrus Ridge","Combee Settlement","Crystal Lake","Cypress Gardens","Davenport","Dundee","Eagle Lake","Fussels Corner","Gibsonia","Haines City","Highland City","Inwood","Jan-Phyl Village","Kathleen","Lake Alfred","Lakeland","Lakeland Highlands","Loughman","Medulla","Polk City","Wahneta","Winston","Winter Haven"); ?>

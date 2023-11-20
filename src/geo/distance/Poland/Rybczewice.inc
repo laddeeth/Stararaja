@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bychawa","Fajsławice","Gorzków","Izbica","Krasnystaw","Mełgiew","Milejów","Nielisz","Piaski","Rejowiec Fabryczny","Rudnik","Rybczewice","Strzyżowice","Świdnik","Trawniki","Turobin","Wysokie","Żółkiewka","Łopiennik Górny"); ?>

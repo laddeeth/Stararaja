@@ -1,0 +1,1 @@
+<?php $neighbours = array("C. Militar Sarabia","Cerro Gordo","Cortazar","Jaral del Progreso","La Moncada","Maravatío del Encinal","Moroleón","Salamanca","Salvatierra","San Pedro de los Naranjos","Santiago de Cuenda","Uriangato","Valle de Santiago","Valtierrilla","Villagrán","Yuriria"); ?>

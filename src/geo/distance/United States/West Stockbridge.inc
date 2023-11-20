@@ -1,0 +1,1 @@
+<?php $neighbours = array("Becket","Great Barrington","Housatonic","Kinderhook","Lanesborough","Lee","Nassau","New Marlborough","Niverville","Otis","Philmont","Valatie","West Stockbridge"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barueri","Caieiras","Cajamar","Carapicuíba","Cotia","Embu","Franco da Rocha","Itapecerica da Serra","Itapevi","Jandira","Mairinque","Osasco","Pirapora do Bom Jesus","Santana de Parnaíba","São Paulo","São Roque","Taboão da Serra"); ?>

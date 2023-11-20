@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bethel Heights","Cave Springs","Elkins","Elm Springs","Farmington","Goshen","Greenland","Johnson","Lowell","Prairie Creek","Rogers","Springdale","Tontitown","West Fork"); ?>

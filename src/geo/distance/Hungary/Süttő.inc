@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almásfüzitő","Baj","Bajna","Csolnok","Dorog","Dunaalmás","Esztergom","Kecskéd","Kesztölc","Kocs","Komárom","Környe","Lábatlan","Mány","Mocsa","Naszály","Neszmély","Nyergesújfalu","Perbál","Piliscsév","Sárisáp","Süttő","Szárliget","Szomód","Tardos","Tarján","Tát","Tata","Tatabánya","Tokod","Vértesszőlős"); ?>

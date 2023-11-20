@@ -1,0 +1,1 @@
+<?php $neighbours = array("Estância Velha","Esteio","Igrejinha","Ivoti","Novo Hamburgo","Parobé","Portão","São Leopoldo","Sapiranga","Sapucaia","Taquara","Três Coroas"); ?>

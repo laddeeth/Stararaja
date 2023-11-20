@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chorkówka","Dębowiec","Dukla","Gorlice","Iwonicz-Zdrój","Jaśliska","Jasło","Jedlicze","Kobylanka","Krempna","Krosno","Lipinki","Miejsce Piastowe","Nowy Żmigród","Osiek Jasielski","Rymanów","Sękowa","Skołyszyn","Trzcinica","Uście Gorlickie"); ?>

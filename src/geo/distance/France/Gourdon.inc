@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carsac-Aillac","Cénac-et-Saint-Julien","Domme","Eyvigues-et-Eybènes","Gourdon","Gramat","Le Vigan","Luzech","Pradines","Prayssac","Salviac","Sarlat-la-Canéda","Souillac"); ?>

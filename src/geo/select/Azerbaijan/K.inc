@@ -1,0 +1,1 @@
+<option value="Kerbakhiar">Kerbakhiar</option><option value="Khodzhi-Gasan">Khodzhi-Gasan</option><option value="Khyzy">Khyzy</option><option value="Kijoba">Kijoba</option><option value="Kilyazi">Kilyazi</option><option value="Korgöz">Korgöz</option><option value="Kyadabek">Kyadabek</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldinga","Encounter Bay","Mount Compass","Normanville","Port Willunga"); ?>

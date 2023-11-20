@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ballykelly","Ballymoney","Castlerock","Coleraine","Culmore","Derry","Dungiven","Eglinton","Garvagh","Kilrea","Limavady","Londonderry County Borough","Maghera","Portrush","Portstewart"); ?>

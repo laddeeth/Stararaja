@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cathcart","Fobes Hill","Lake Goodwin","Lake Stevens","Lochsloy","Mill Creek","Mukilteo","Silver Firs","Sisco Heights","Smokey Point","Snohomish","Stanwood","Tulalip","Tulalip Bay","Warm Beach","West Lake Stevens"); ?>

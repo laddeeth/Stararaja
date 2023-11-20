@@ -1,0 +1,1 @@
+<?php $neighbours = array("Combes","Edcouch","Encantada-Ranchito-El Calaboz","Green Valley Farms","Harlingen","Heidelberg","La Feria","La Paloma","La Villa","Laureles","Llano Grande","Los Fresnos","Los Indios","Lyford","Mercedes","Mila Doce","Olivarez","Olmito","Primera","Progreso","Rancho Viejo","Rio Hondo","San Benito","Santa Rosa","Weslaco"); ?>

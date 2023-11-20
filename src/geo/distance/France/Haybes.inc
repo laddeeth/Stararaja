@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aiglemont","Charleville-Mézières","Deville","Fromelennes","Fumay","Gespunsart","Givet","Haybes","La Francheville","Les Hautes-Rivières","Montcy-Notre-Dame","Monthermé","Neufmanil","Nouzonville","Prix-lès-Mézières","Renwez","Revin","Rimogne","Rocroi","Saint-Laurent","Thilay","Tournes","Villers-Semeuse","Vireux-Molhain","Vireux-Wallerand","Warcq"); ?>

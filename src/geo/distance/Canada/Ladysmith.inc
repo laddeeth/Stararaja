@@ -1,0 +1,1 @@
+<?php $neighbours = array("Duncan","Ladysmith","Lake Cowichan","Nanaimo","North Cowichan"); ?>

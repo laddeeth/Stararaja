@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ashoknagar Kalyangarh","Badūria","Bānsbāria","Bārākpur","Bārāsat","Bhadreswar","Bhātpāra","Chandannagar","Gobārdānga","Gurdaha","Hābra","Hālīsahar","Haringhāta","Hugli","Kalyani","Kānchrāpāra","Khardah","Madanpur","Madhyamgram","Naihāti","Rāmchandrapur","Sankarpur","Sodpur","Titāgarh","Ula"); ?>

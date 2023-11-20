@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bystra","Gorlice","Grybów","Kamionka Wielka","Krynica-Zdrój","Muszyna","Nawojowa","Nowy Sącz","Piwniczna-Zdrój","Ropa","Rytro","Sękowa","Stary Sącz","Uście Gorlickie","Łabowa"); ?>

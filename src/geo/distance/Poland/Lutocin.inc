@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bieżuń","Gozdowo","Kuczbork-Osada","Lubowidz","Lutocin","Mochowo","Radzanów","Rogowo","Rościszewo","Rypin","Siemiątkowo","Sierpc","Skrwilno","Świedziebnia","Szczutowo","Szreńsk","Zawidz","Żuromin"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atglen","Blue Ball","Christiana","Conestoga","East Earl","East Petersburg","Gap","Intercourse","Lampeter","Millersville","Mountain Top","Mountville","New Holland","Paradise","Parkesburg","Quarryville","Rothsville","Strasburg","Susquehanna Trails","West Grove","Willow Street"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chelghoum el Aïd","Telerghma"); ?>

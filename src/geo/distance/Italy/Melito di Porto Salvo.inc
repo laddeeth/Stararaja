@@ -1,0 +1,1 @@
+<?php $neighbours = array("Africo Vecchio","Bagaladi","Bova Marina","Brancaleone","Bruzzano Zeffirio","Calanna","Cardeto","Condofuri","Melito di Porto Salvo","Montebello Ionico","Motta San Giovanni","Palizzi","Reggio di Calabria","Roghudi","San Lorenzo","Santo Stefano in Aspromonte"); ?>

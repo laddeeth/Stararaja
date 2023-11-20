@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blaye","Braud-et-Saint-Louis","Carcans","Cussac-Fort-Médoc","Gaillan-en-Médoc","Hourtin","Lamarque","Lesparre-Médoc","Listrac-Médoc","Meschers-sur-Gironde","Mirambeau","Mortagne-sur-Gironde","Moulis-en-Médoc","Pauillac","Saint-Ciers-sur-Gironde","Saint-Estèphe","Saint-Martin-Lacaussade","Soulac-sur-Mer","Vertheuil"); ?>

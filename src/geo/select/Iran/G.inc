@@ -1,0 +1,1 @@
+<option value="Gerāsh">Gerāsh</option><option value="Golpāyegān">Golpāyegān</option><option value="Gonābād">Gonābād</option><option value="Gonbad-e Qābūs">Gonbad-e Qābūs</option><option value="Gorgān">Gorgān</option>

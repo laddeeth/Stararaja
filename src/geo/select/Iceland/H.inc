@@ -1,0 +1,1 @@
+<option value="Hafnarfjörður">Hafnarfjörður</option><option value="Höfn">Höfn</option><option value="Húsavík">Húsavík</option><option value="Hveragerði">Hveragerði</option>

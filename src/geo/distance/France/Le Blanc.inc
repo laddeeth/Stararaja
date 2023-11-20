@@ -1,0 +1,1 @@
+<?php $neighbours = array("Azay-le-Ferron","Bélâbre","Chaillac","La Roche-Posay","Le Blanc","Martizay","Mézières-en-Brenne","Montmorillon","Pleumartin","Pouligny-Saint-Pierre","Preuilly-sur-Claise","Saint-Gaultier","Tournon-Saint-Martin","Vendœuvres","Yzeures-sur-Creuse"); ?>

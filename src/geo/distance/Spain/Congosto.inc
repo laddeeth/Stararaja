@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bembibre","Cacabelos","Camponaraya","Carracedelo","Castropodame","Congosto","Corullón","Cubillos del Sil","Fabero","Folgoso de la Ribera","Igüeña","Palacios del Sil","Ponferrada","Toreno","Torre del Bierzo","Vega de Espinareda","Villadecanes","Villafranca del Bierzo"); ?>

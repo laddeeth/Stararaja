@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andau","Apetlon","Breitenbrunn","Deutsch Jahrndorf","Frauenkirchen","Gattendorf","Gols","Halbturn","Illmitz","Jois","Mönchhof","Mörbisch am See","Neusiedl am See","Nickelsdorf","Pamhagen","Parndorf","Podersdorf am See","Potzneusiedl","Rust","Sankt Andrä am Zicksee","Tadten","Wallern im Burgenland","Weiden am See","Winden am See","Zurndorf"); ?>

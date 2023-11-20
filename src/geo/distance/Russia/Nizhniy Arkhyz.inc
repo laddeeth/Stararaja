@@ -1,0 +1,1 @@
+<?php $neighbours = array("Kardonikskaya","Nizhniy Arkhyz","Storozhevaya","Zelenchukskaya"); ?>

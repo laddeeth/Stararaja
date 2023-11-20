@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brodheadsville","Cementon","Coaldale","Effort","Egypt","Harleigh","Hazleton","Indian Mountain Lake","Jim Thorpe","Lansford","Laurys Station","Lehighton","McAdoo","Nesquehoning","Palmerton","Schnecksville","Slatington","Summit Hill","Sun Valley","Tamaqua","Towamensing Trails","Walnutport","Weatherly","Weissport East","West Hazleton","White Haven"); ?>

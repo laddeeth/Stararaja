@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cerro Gordo","Harristown","Long Creek","Maroa","Mount Pulaski","Warrensburg"); ?>

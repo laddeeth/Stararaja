@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aydat","Ceyrat","Champeix","Champs-sur-Tarentaine-Marchal","Chanonat","Condat","Gelles","La Bourboule","La Roche-Blanche","Lanobre","Le Crest","Mont-Dore","Orcines","Plauzat","Romagnat","Royat","Saint-Amant-Tallende","Saint-Genès-Champanelle","Tallende","Veyre-Monton"); ?>

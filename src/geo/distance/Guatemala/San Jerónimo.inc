@@ -1,0 +1,1 @@
+<?php $neighbours = array("Guastatoya","Morazán","Purulhá","Rabinal","San Agustín Acasaguastlán","San Jerónimo","San Miguel Chicaj","Sanarate"); ?>

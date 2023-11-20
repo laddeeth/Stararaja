@@ -1,0 +1,1 @@
+<?php $neighbours = array("Daveluyville","Drummondville","Kingsey Falls","Notre-Dame-du-Bon-Conseil","Saint-Cyrille-de-Wendover","Saint-Germain-de-Grantham","Warwick"); ?>

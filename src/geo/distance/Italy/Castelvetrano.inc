@@ -1,0 +1,1 @@
+<?php $neighbours = array("Calatafimi-Segesta","Campobello di Mazara","Castelvetrano","Gibellina","Mazara del Vallo","Menfi","Montevago","Partanna","Petrosino","Poggioreale","Salaparuta","Salemi","Sambuca di Sicilia","Santa Margherita di Belice","Santa Ninfa","Vita"); ?>

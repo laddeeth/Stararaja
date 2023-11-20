@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brąszewice","Brzeźnio","Buczek","Burzenin","Czarnożyły","Klonowa","Lututów","Osjaków","Rusiec","Sędziejowice","Siemkowice","Sieradz","Szadek","Szczerców","Widawa","Wróblew","Zapolice","Zduńska Wola","Zelów","Złoczew","Łask"); ?>

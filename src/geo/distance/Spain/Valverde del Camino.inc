@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beas","Bonares","Calañas","El Cerro de Andévalo","Gibraleón","La Palma del Condado","Lucena del Puerto","Nerva","Niebla","San Juan del Puerto","Trigueros","Valverde del Camino","Villarrasa","Zalamea la Real"); ?>

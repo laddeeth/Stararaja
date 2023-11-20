@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arbois","Arc-et-Senans","Bletterans","Champagnole","Chaussin","Choisey","Dampierre","Fraisans","Levier","Mont-sous-Vaudrey","Mouchard","Orchamps","Perrigny","Poligny","Quingey","Salins-les-Bains"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cap-Santé","Donnacona","Fossambault-sur-lac","Lévis","Neuville","Québec","Saint-Augustin-de-Desmaures","Sainte Catherine de la Jacques Cartier"); ?>

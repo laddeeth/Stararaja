@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brilliant","Burgettstown","Calcutta","East Liverpool","Follansbee","Glenmoor","Hooverson Heights","Industry","La Croft","Mingo Junction","Newell","Steubenville","Tiltonsville","Toronto","Weirton","Weirton Heights","Wellsburg","Wintersville"); ?>

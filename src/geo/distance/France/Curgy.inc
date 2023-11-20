@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arnay-le-Duc","Autun","Auxy","Chagny","Corpeau","Couches","Curgy","Écuisses","Épinac","Étang-sur-Arroux","Le Breuil","Le Creusot","Meursault","Montcenis","Montchanin","Nolay","Rully","Saint-Léger-sur-Dheune","Saint-Leu","Saint-Sernin-du-Bois"); ?>

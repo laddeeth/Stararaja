@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bastogne","Bertogne","Érezée","Fauvillers","Gouvy","Hotton","Houffalize","La Roche-en-Ardenne","Lierneux","Manhay","Marche-en-Famenne","Martelange","Nassogne","Rendeux","Saint-Hubert","Sainte-Ode","Tenneville","Vaux-sur-Sûre","Vielsalm"); ?>

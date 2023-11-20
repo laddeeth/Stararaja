@@ -1,0 +1,1 @@
+<?php $neighbours = array("Buzançais","Châteauroux","Clion","Déols","Écueillé","Graçay","Issoudun","Le Poinçonnet","Levroux","Luant","Luçay-le-Mâle","Montierchaume","Neuvy-Pailloux","Niherne","Saint-Maur","Valençay","Vatan","Vendœuvres","Villedieu-sur-Indre"); ?>

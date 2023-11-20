@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ängelholm","Asmundtorp","Åstorp","Bårslöv","Billesholm","Bjuv","Gantofta","Glumslöv","Helsingborg","Höganäs","Hyllinge","Kågeröd","Klippan","Kvidinge","Landskrona","Mörarp","Munka-Ljungby","Ödåkra","Rydebäck","Strövelstorp","Svalöv"); ?>

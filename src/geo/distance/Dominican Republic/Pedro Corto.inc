@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cercado Abajo","El Llano","Juan de Herrera","Juan Santiago","Las Matas de Farfán","Matayaya","Pedro Corto","San Juan de la Maguana","Vallejuelo"); ?>

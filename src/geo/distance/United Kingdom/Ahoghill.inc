@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ahoghill","Antrim","Ballyclare","Ballymena","Ballymoney","Bellaghy","Broughshane","Carnlough","Castledawson","Connor","Crumlin","Cullybackey","Doagh","Draperstown","Dunloy","Garvagh","Glenariff","Kilrea","Maghera","Magherafelt","Moneymore","Portglenone","Randalstown","Templepatrick"); ?>

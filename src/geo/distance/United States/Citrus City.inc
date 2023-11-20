@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abram","Alton North  (historical)","César Chávez","Citrus City","Doffing","Doolittle","Hidalgo","La Grulla","La Homa","La Joya","Lopezville","McAllen","Murillo Colonia","North Alamo","Nurillo","Palmhurst","Palmview","Palmview South","Penitas","Perezville","Pharr","San Juan","Sullivan City","West Sharyland"); ?>

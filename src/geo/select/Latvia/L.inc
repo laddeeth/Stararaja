@@ -1,0 +1,1 @@
+<option value="Lielvārde">Lielvārde</option><option value="Liepāja">Liepāja</option><option value="Līgatne">Līgatne</option><option value="Limbaži">Limbaži</option><option value="Līvāni">Līvāni</option><option value="Loja">Loja</option><option value="Lubāna">Lubāna</option><option value="Ludza">Ludza</option>

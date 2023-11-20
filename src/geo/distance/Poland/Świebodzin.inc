@@ -1,0 +1,1 @@
+<?php $neighbours = array("Babimost","Bytnica","Czerwieńsk","Kargowa","Lubrza","Międzylesie","Międzyrzecz","Skąpe","Sulechów","Świebodzin","Szczaniec","Trzciel","Trzebiechów","Zbąszyń","Zbąszynek"); ?>

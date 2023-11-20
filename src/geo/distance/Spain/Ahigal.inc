@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ahigal","Caminomorisco","Carcaboso","Casar de Palomero","Casares de las Hurdes","Galisteo","Guijo de Galisteo","Hervás","La Pesga","Malpartida de Plasencia","Montehermoso","Nuñomoral","Pinofranqueado","Piornal","Plasencia","Zarza de Granadilla"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bled","Bohinjska Bistrica","Britof","Golnik","Hrušica","Jesenice","Kamnik","Kokrica","Koroška-Bela","Kranj","Lesce","Medvode","Mekinje","Mengeš","Podhom","Radovljica","Šenčur","Škofja Loka","Šmarca","Tržič","Vodice","Železniki"); ?>

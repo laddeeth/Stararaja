@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albano Laziale","Anzio","Aprilia","Ardea","Ariccia","Castel Gandolfo","Ciampino","Cisterna di Latina","Colonna","Fiumicino","Frascati","Genzano di Roma","Grottaferrata","Lanuvio","Lariano","Lavinio","Lido di Roma","Marino","Monte Compatri","Monte Porzio Catone","Nemi","Nettuno","Pomezia","Rocca di Papa","Rocca Priora","Roma","Velletri"); ?>

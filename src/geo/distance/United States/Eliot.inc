@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cape Neddick","Eliot","Epping","Exeter","Hampton Beach","Hampton Falls","Kittery","Kittery Point","Madbury","Newmarket","North Berwick","North Hampton","Nottingham","Ogunquit","Rollinsford","Rye","Somersworth","South Berwick","South Eliot","South Sanford","Stratham Station","Wells Beach Station","York Harbor"); ?>

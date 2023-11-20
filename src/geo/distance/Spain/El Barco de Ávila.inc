@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldeanueva de la Vera","Béjar","Cabezuela del Valle","Candelario","El Barco de Ávila","Guijuelo","Hervás","Jarandilla de la Vera","Jerte","Losar de la Vera","Madrigal de la Vera","Tornavacas","Villanueva de la Vera"); ?>

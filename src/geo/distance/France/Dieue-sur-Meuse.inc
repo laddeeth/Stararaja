@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belleville-sur-Meuse","Clermont-en-Argonne","Dieue-sur-Meuse","Dugny-sur-Meuse","Étain","Saint-Mihiel","Thierville-sur-Meuse","Verdun","Vigneulles-lès-Hattonchâtel"); ?>

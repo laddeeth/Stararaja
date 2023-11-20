@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arvin","Bear Valley Springs","Golden Hills","Stallion Springs","Tehachapi","Weedpatch"); ?>

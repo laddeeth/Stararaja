@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bene Beraq","Bet Yiẕẖaq","Elyakhin","Eṭ Ṭaiyiba","Even Yehuda","Giv‘at Shemu’el","Giv‘atayim","Herzliyya","Hod HaSharon","H̱adera","Jaljūlya","Kafr Qāsim","Kefar Shemaryahu","Kefar Yona","Kfar Saba","Netanya","Nordiyya","Pardesiyya","Petah Tikva","Qalansuwa","Qesarya","Ramat Gan","Ramat HaSharon","Tel Mond","Tirah","Ẕur Moshe"); ?>

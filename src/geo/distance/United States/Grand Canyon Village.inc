@@ -1,0 +1,1 @@
+<?php $neighbours = array("Grand Canyon","Grand Canyon Village"); ?>

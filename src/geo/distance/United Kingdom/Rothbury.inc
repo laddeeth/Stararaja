@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acklington","Alnmouth","Alnwick","Amble","Ashington","Bedlington","Corsenside","Cresswell","Doddington","East Chevington","Ellingham","Embleton","Felton","Hartburn","Hebron","Longhorsley","Lynemouth","Meldon","Morpeth","Newbiggin-by-the-Sea","Otterburn","Pegswood","Rochester","Rothbury","Rothley","Stannington","Warkworth","Whittingham","Wooler"); ?>

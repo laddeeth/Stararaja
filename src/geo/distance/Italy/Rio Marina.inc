@@ -1,0 +1,1 @@
+<?php $neighbours = array("Capoliveri","Marciana","Marciana Marina","Piombino","Porto Azzurro","Portoferraio","Rio Marina"); ?>

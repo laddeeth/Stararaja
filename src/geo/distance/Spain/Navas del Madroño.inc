@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcántara","Aliseda","Arroyo de la Luz","Brozas","Cáceres","Cañaveral","Casar de Cáceres","Ceclavín","Garrovillas","Malpartida de Cáceres","Navas del Madroño"); ?>

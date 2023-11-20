@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blandford Forum","Bournemouth","Bovington Camp","Bransgore","Canford Heath","Chickerell","Christchurch","Dorchester","Easton","Ferndown","Fortuneswell","Lytchett Matravers","Overcombe","Poole","Ringwood","Saint Leonards","Sturminster Newton","Swanage","Three Legged Cross","Verwood","Wareham","Weymouth","Wool"); ?>

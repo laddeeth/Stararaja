@@ -1,0 +1,1 @@
+<option value="Keflavík">Keflavík</option><option value="Kópavogur">Kópavogur</option>

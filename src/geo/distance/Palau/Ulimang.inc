@@ -1,0 +1,1 @@
+<?php $neighbours = array("Melekeok - Palau State Capital","Melekeok Village","Mengellang","Ngardmau","Ngchemiangel","Ngereklmadel","Ngerkeai","Ulimang"); ?>

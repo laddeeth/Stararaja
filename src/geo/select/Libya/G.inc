@@ -1,0 +1,1 @@
+<option value="Ghadāmis">Ghadāmis</option><option value="Gharyān">Gharyān</option><option value="Ghāt">Ghāt</option><option value="Giado">Giado</option><option value="Gialo">Gialo</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ambierle","Beaulon","Digoin","Diou","Dompierre-sur-Besbre","La Motte-Saint-Jean","La Pacaudière","Lapalisse","Le Donjon","Marcigny","Molinet","Paray-le-Monial","Saint-François","Saint-Gérand-le-Puy","Saint-Yan"); ?>

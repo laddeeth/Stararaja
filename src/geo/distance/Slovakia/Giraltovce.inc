@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bardejov","Giraltovce","Prešov","Stropkov","Svidník","Vranov nad Topľou"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abzac","Cercoux","Chalais","Clérac","Coutras","La Roche-Chalais","Lagorce","Le Pizou","Les Églisottes-et-Chalaures","Les Peintures","Ménesplet","Montguyon","Montmoreau-Saint-Cybard","Montpon-Ménestérol","Mussidan","Ribérac","Saint-Aigulin","Saint-Aulaye","Saint-Médard-de-Guizières","Saint-Médard-de-Mussidan","Sourzac","Tocane-Saint-Apre"); ?>

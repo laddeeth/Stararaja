@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antrim","Ashburnham","Ashby","Deering","Fitzwilliam","Jaffrey","Lyndeborough","Mont Vernon","New Ipswich","Peterborough","Rindge","Royalston","South Ashburnham","Swanzey","Winchendon"); ?>

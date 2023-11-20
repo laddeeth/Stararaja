@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abtenau","Aich","Altaussee","Bad Aussee","Bad Goisern","Bad Ischl","Ebensee","Filzmoos","Fuschl am See","Gössenberg","Haus","Hintersee","Innerschwand","Oberwang","Sankt Gilgen","Sankt Lorenz","Sankt Wolfgang im Salzkammergut","Schladming","Steinbach am Attersee","Strobl"); ?>

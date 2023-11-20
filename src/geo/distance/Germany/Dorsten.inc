@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bochum","Bochum-Hordel","Borken","Bottrop","Castrop-Rauxel","Datteln","Dinslaken","Dorsten","Duisburg","Dülmen","Gelsenkirchen","Gladbeck","Haltern","Hamminkeln","Heiden","Herne","Herten","Hünxe","Klein Reken","Mülheim an der Ruhr","Oberhausen","Oer-Erkenschwick","Raesfeld","Recklinghausen","Rheinberg","Schermbeck","Velen","Voerde","Wesel"); ?>

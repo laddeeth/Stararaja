@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aillevillers-et-Lyaumont","Bains-les-Bains","Bourbonne-les-Bains","Bulgnéville","Chantraine","Châtenois","Contrexéville","Corbenay","Darney","Darnieulles","Lamarche","Les Forges","Mirecourt","Saint-Loup-sur-Semouse","Uriménil","Uxegney","Uzemain","Vittel","Xertigny"); ?>

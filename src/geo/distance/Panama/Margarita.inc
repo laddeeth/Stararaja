@@ -1,0 +1,1 @@
+<?php $neighbours = array("Buena Vista","Cativá","Colón","El Giral","Escobal","Margarita","María Chiquita","Nuevo San Juan","Palmas Bellas","Puerto Escondido","Puerto Pilón","Quebrada Bonita Adentro","Río Alejandro","Río Duque","Río Gatún","Río Rita","Sabanitas","Santa Rita Arriba"); ?>

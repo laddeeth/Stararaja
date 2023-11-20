@@ -1,0 +1,1 @@
+<?php $neighbours = array("Callender","Lompoc","Los Alamos","Nipomo","Orcutt","Santa Maria","Vandenberg Air Force Base","Vandenberg Village"); ?>

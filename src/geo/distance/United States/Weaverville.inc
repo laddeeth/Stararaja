@@ -1,0 +1,1 @@
+<?php $neighbours = array("Asheville","Avery Creek","Bent Creek","Biltmore Forest","Black Mountain","Hoopers Creek","Mars Hill","Royal Pines","Swannanoa","Weaverville","Woodfin"); ?>

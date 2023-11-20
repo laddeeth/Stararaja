@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allumiere","Bassano Romano","Blera","Bracciano","Canale Monterano","Capranica","Cerveteri","Civitavecchia","Ladispoli","Manziana","Monte Romano","Oriolo Romano","Ronciglione","Santa Marinella","Sutri","Tarquinia","Tolfa","Trevignano Romano","Tuscania","Vejano","Vetralla","Villa San Giovanni in Tuscia"); ?>

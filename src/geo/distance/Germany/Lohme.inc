@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altenkirchen","Bergen","Breege","Buschvitz","Dranske","Dreschvitz","Gingst","Glowe","Kluis","Lancken-Granitz","Lietzow","Lohme","Middelhagen","Neuenkirchen","Ostseebad Binz","Ostseebad Göhren","Ostseebad Sellin","Parchtitz","Patzig","Putbus","Putgarten","Ralswiek","Rappin","Sagard","Saßnitz","Schaprode","Sehlen","Thesenvitz","Trent","Wiek","Zirkow"); ?>

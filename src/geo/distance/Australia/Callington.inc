@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldgate","Balhannah","Bridgewater","Callington","Hahndorf","Heathfield","Langhorne Creek","Littlehampton","Lobethal","Macclesfield","Meadows","Mount Barker","Murray Bridge","Nairne","Oakbank","Strathalbyn","Woodside"); ?>

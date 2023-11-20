@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acapulco de Juárez","Bajos del Ejido","Coyuca de Benítez","Tierra Colorada","Xaltianguis"); ?>

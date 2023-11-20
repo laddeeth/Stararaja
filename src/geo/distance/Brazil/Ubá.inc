@@ -1,0 +1,1 @@
+<?php $neighbours = array("Astolfo Dutra","Rio Pomba","Tocantins","Ubá","Visconde do Rio Branco"); ?>

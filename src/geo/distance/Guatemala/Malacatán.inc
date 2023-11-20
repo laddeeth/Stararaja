@@ -1,0 +1,1 @@
+<?php $neighbours = array("Catarina","Ciudad Tecún Umán","Coatepeque","El Quetzal","El Rodeo","El Tumbador","Esquipulas Palo Gordo","La Reforma","Malacatán","Nuevo Progreso","Pajapita","San Cristóbal Cucho","San Marcos","San Pablo","San Rafael Pie de La Cuesta","Sibinal","Tajumulco"); ?>

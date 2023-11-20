@@ -1,0 +1,1 @@
+<option value="Génova">Génova</option><option value="Gualán">Gualán</option><option value="Guanagazapa">Guanagazapa</option><option value="Guastatoya">Guastatoya</option><option value="Guatemala City">Guatemala City</option><option value="Guazacapán">Guazacapán</option>

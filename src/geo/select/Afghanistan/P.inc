@@ -1,0 +1,1 @@
+<option value="Paghmān">Paghmān</option><option value="Panjāb">Panjāb</option><option value="Pārūn">Pārūn</option><option value="Pul-e Khumrī">Pul-e Khumrī</option><option value="Pul-e ‘Alam">Pul-e ‘Alam</option>

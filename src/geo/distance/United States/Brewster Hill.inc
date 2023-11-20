@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bedford Hills","Brewster Hill","Brinckerhoff","Carmel Hamlet","Crompond","Fishkill","Goldens Bridge","Heritage Hills","Hillside Lake","Jefferson Valley-Yorktown","Katonah","Lake Carmel","Lake Mohegan","Lincolndale","Mahopac","Mount Kisco","New Milford","Pawling","Peach Lake","Putnam Lake","Ridgefield","Shenorock","Shrub Oak","Yorktown Heights"); ?>

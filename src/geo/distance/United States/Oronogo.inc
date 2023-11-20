@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baxter Springs","Carl Junction","Carthage","Duenweg","Duquesne","Joplin","Oronogo","Webb City"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Hybe","Kežmarok","Liptovský Hrádok","Ľubica","Nová Lesná","Poprad","Pribylina","Štrba","Svit","Vysoké Tatry","Ždiar"); ?>

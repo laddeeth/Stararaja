@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alconchel","Barcarrota","Higuera de Vargas","Jerez de los Caballeros","Oliva de la Frontera","Salvaleón","Salvatierra de los Barros","Valle de Santa Ana","Villanueva del Fresno","Zahinos"); ?>

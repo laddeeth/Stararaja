@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bruinisse","Burgh","Dirksland","Goedereede","Goes","Haamstede","Hellevoetsluis","Middelburg","Middelharnis","Nieuw-Helvoet","Nieuwenhoorn","Ouddorp","Renesse","Scharendijke","Veere"); ?>

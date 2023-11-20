@@ -1,0 +1,1 @@
+<?php $neighbours = array("Koniecpol","Kozłów","Kroczyce","Lelów","Miechów Charsznica","Nagłowice","Ogrodzieniec","Oksa","Pilica","Potok Złoty","Przyrów","Secemin","Sędziszów","Szczekociny","Wodzisław","Wolbrom","Włodowice","Włoszczowa"); ?>

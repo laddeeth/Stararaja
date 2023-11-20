@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altura","Benaguasil","Benisanó","Casinos","Chelva","Jérica","La Pobla de Vallbona","La Yesa","Llíria","Loriguilla","Marines","Olocau","Pedralba","Ribarroja","Tuéjar","Vilamarxant","Villar del Arzobispo","Viver"); ?>

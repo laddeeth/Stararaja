@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brody-Parcele","Ciechanów","Gąsocin","Gołymin-Ośrodek","Gzy","Joniec","Karniewo","Nasielsk","Nowe Miasto","Nowy Dwór Mazowiecki","Ojrzeń","Opinogóra Górna","Pokrzywnica","Pomiechówek","Pułtusk","Płońsk","Serock","Sochocin","Sońsk","Świercze","Wieliszew","Winnica","Zakroczym","Zatory","Załuski"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atoyac","Concepción de Buenos Aires","Mazamitla","San Andrés Ixtlán","Teocuitatlán de Corona"); ?>

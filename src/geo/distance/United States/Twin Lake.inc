@@ -1,0 +1,1 @@
+<?php $neighbours = array("Fruitport","Lakewood Club","Muskegon","Muskegon Heights","North Muskegon","Norton Shores","Ravenna","Roosevelt Park","Twin Lake","Wolf Lake"); ?>

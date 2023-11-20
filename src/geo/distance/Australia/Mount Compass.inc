@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldinga","Encounter Bay","Goolwa","Hackham","Macclesfield","McLaren Vale","Meadows","Moana","Morphett Vale","Mount Compass","Noarlunga","Normanville","Port Elliot","Port Noarlunga","Port Willunga","Seaford","Strathalbyn","Victor Harbour"); ?>

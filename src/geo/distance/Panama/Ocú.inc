@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atalaya","El Espino de Santa Rosa","El Rincón","El Roble","La Colorada","La Loma","Las Minas","Los Boquerones","Ocú","Parita","Pesé","Santa María","Santiago de Veraguas"); ?>

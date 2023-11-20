@@ -1,0 +1,1 @@
+<?php $neighbours = array("Frontera Hidalgo","La Libertad","Mazatán","Puerto Madero","Suchiate","Tapachula"); ?>

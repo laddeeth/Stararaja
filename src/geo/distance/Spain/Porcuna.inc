@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andújar","Arjona","Arjonilla","Bujalance","Cañete de las Torres","El Carpio","Fuerte del Rey","Higuera de Arjona","Jamilena","Lopera","Marmolejo","Martos","Montoro","Pedro Abad","Porcuna","Torre del Campo","Torredonjimeno","Valenzuela","Villa del Río","Villanueva de la Reina","Villardompardo"); ?>

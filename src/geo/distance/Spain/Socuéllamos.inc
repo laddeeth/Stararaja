@@ -1,0 +1,1 @@
+<?php $neighbours = array("El Pedernoso","El Provencio","Las Mesas","Las Pedroñeras","Mota del Cuervo","Pedro Muñoz","Socuéllamos","Tomelloso","Villarrobledo"); ?>

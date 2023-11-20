@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avetrana","Carosino","Erchie","Faggiano","Fragagnano","Francavilla Fontana","Grottaglie","Latiano","Leporano","Lizzano","Manduria","Maruggio","Monteiasi","Monteparano","Oria","Porto Cesareo","Pulsano","Roccaforzata","San Giorgio Ionico","San Marzano di San Giuseppe","San Pancrazio Salentino","Sava","Torre Santa Susanna","Torricella"); ?>

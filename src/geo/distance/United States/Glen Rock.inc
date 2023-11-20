@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abbottstown","Dallastown","East Berlin","East York","Emigsville","Glen Rock","Grantley","Hallam","Hampstead","Jacobus","McSherrystown","New Freedom","New Oxford","North York","Pennville","Red Lion","Spring Grove","Spry","Stewartstown","Stonybrook","Valley View","Weigelstown","West York","Yoe","Yorklyn"); ?>

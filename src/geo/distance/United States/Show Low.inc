@@ -1,0 +1,1 @@
+<?php $neighbours = array("Pinetop-Lakeside","Show Low","Snowflake","White Mountain Lake"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aitona","Albalate de Cinca","Alcarràs","Alcolea de Cinca","Alpicat","Ballobar","Belver","Binaced","Binéfar","el Torricó - Altorricon","Fraga","Lleida","Mequinensa - Mequinenza","Saidí - Zaidín","Seròs","Soses","Torrefarrera","Torres de Segre"); ?>

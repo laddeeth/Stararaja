@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antelope","Arden-Arcade","Auburn Lake Trails","Carmichael","Citrus Heights","El Dorado Hills","Elverta","Foothill Farms","Gold River","Granite Bay","La Riviera","Loomis","Meadow Vista","North Auburn","North Highlands","Orangevale","Rancho Cordova","Rancho Murieta","Rio Linda","Rocklin","Shingle Springs"); ?>

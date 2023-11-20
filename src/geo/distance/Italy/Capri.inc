@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agerola","Anacapri","Bagnoli","Capri","Casola di Napoli","Castellammare di Stabia","Gragnano","Massa Lubrense","Meta","Piano di Sorrento","Pimonte","Positano","Praiano","Procida","Santa Maria la Carità","Sorrento","Torre Annunziata","Torre del Greco","Trecase","Vico Equense"); ?>

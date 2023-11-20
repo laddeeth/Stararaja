@@ -1,0 +1,1 @@
+<?php $neighbours = array("Campiglia Marittima","Castagneto Carducci","Castiglione della Pescaia","Follonica","Gavorrano","Massa Marittima","Monterotondo Marittimo","Piombino","San Vincenzo","Scarlino","Suvereto"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ankershagen","Blumenholz","Carpin","Fürstenberg","Godendorf","Gransee","Großwoltersdorf","Grünow","Hohenzieritz","Kieve","Klein Vielen","Kratzeburg","Lärz","Lindow","Lychen","Melz","Möllenbeck","Neustrelitz","Priborn","Priepert","Rechlin","Rheinsberg","Schönermark","Schwarz","Sonnenberg","Userin","Vipperow","Wesenberg"); ?>

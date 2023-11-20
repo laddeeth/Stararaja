@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acquasparta","Arrone","Avigliano Umbro","Campello sul Clitunno","Cantalice","Cascia","Castel Ritaldi","Cerreto di Spoleto","Cittaducale","Contigliano","Ferentillo","Greccio","Leonessa","Maltignano","Massa Martana","Montecastrilli","Montefranco","Narni","Poggio Bustone","Rieti","Rivodutri","San Gemini","Spoleto","Stroncone","Terni","Trevi"); ?>

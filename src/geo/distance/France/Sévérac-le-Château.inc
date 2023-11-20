@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chanac","Chirac","Creissels","La Canourgue","Laissac","Millau","Pont-de-Salars","Saint-Georges-de-Luzençon","Salles-Curan","Sévérac-le-Château"); ?>

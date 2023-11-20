@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aigre","Brioux-sur-Boutonne","Champagne-Mouton","Charroux","Chaunay","Chef-Boutonne","Civray","Lezay","Mansle","Melle","Nanteuil-en-Vallée","Rouillac","Ruffec","Saint-Amant-de-Boixe","Sauzé-Vaussais","Savigné","Vars","Villefagnan"); ?>

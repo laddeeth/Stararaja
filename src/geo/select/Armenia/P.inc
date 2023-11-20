@@ -1,0 +1,1 @@
+<option value="Parravak’ar">Parravak’ar</option><option value="Pemzashen">Pemzashen</option><option value="Pokr Mantash">Pokr Mantash</option><option value="Prroshyan">Prroshyan</option><option value="Pshatavan">Pshatavan</option><option value="Ptghni">Ptghni</option><option value="Ptghunk’">Ptghunk’</option>

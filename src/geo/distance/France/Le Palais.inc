@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carnac","La Trinité-sur-Mer","Le Palais","Locmariaquer","Plouharnel","Quiberon","Saint-Gildas-de-Rhuys","Saint-Philibert","Saint-Pierre-Quiberon"); ?>

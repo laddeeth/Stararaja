@@ -1,0 +1,1 @@
+<?php $neighbours = array("Furongdun","Guangang","Haoshan","Huangling","Huayuanli","Longcheng","Madang","Nixi","Qingshan","Rangxi","Wangjiang"); ?>

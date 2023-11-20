@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bonnet Bay","Bringelly","Camden","Chipping Norton","Cobbitty","Douglas Park","East Hills","Engadine","Glenfield","Glenmore Park","Heathcote","Helensburgh","Holsworthy","Ingleburn","Leumeah","Liverpool","Loftus","Luddenham","Lugarno","Menai","Mulgoa","Narellan","Oakdale","Padstow","Picton","Revesby"); ?>

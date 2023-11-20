@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acri","Bocchigliero","Calopezzati","Caloveto","Campana","Cariati","Corigliano Calabro","Cropalati","Crosia","Longobucco","Mandatoriccio","Paludi","Pietrapaola","Rossano","San Demetrio Corone","San Giorgio Albanese","Scala Coeli","Spezzano Albanese","Terranova da Sibari","Terravecchia","Vaccarizzo Albanese"); ?>

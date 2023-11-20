@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brojce","Cerkwica","Golczewo","Gryfice","Kamień Pomorski","Karnice","Mrzeżyno","Nowogard","Pobierowo","Płoty","Resko","Rewal","Rymań","Świerzno","Trzebiatów"); ?>

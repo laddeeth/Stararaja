@@ -1,0 +1,1 @@
+<?php $neighbours = array("Garza García","General Escobedo","Mina","San Nicolás de los Garza","Villa de García"); ?>

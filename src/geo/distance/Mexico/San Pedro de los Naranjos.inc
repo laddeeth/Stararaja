@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cortazar","Jaral del Progreso","La Moncada","Maravatío del Encinal","Moroleón","Parácuaro","Salvatierra","San Pedro de los Naranjos","Santa Ana Maya","Tarimoro","Uriangato","Valle de Santiago","Villagrán","Yuriria"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alhama de Murcia","Cartagena","Fuente-Álamo de Murcia","Mazarrón","Totana"); ?>

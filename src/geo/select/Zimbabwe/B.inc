@@ -1,0 +1,1 @@
+<option value="Banket">Banket</option><option value="Beatrice">Beatrice</option><option value="Beitbridge">Beitbridge</option><option value="Bindura">Bindura</option><option value="Binga">Binga</option><option value="Bulawayo">Bulawayo</option>

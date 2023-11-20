@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alum Creek","Clendenin","Coal Fork","Cross Lanes","Elkview","Marmet","Pinch","Rand","Saint Albans","Sissonville","Upper Falls"); ?>

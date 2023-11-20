@@ -1,0 +1,1 @@
+<option value="Panaoti">Panaoti</option><option value="Pātan">Pātan</option><option value="Pisang">Pisang</option><option value="Pokhara">Pokhara</option><option value="Pyūthān">Pyūthān</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auchinleck","Ayr","Catrine","Coalburn","Coylton","Crosshouse","Cumnock","Dalrymple","Darvel","Douglas","Dreghorn","Dundonald","Galston","Irvine","Kilmarnock","Kilmaurs","Kirkconnel","Mauchline","Maybole","Muirkirk","New Cumnock","Newmilns","Patna","Prestwick","Sanquhar","Springside","Stewarton","Stonehouse","Strathaven","Tarbolton","Troon"); ?>

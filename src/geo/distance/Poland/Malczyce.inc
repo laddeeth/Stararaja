@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brzeg Dolny","Ciechów","Jawor","Kąty Wrocławskie","Kunice","Legnica","Legnickie Pole","Lubin","Malczyce","Miękinia","Miłkowice","Mrozów","Prochowice","Ścinawa","Środa Śląska","Szczepanów","Udanin","Wińsko","Wołów"); ?>

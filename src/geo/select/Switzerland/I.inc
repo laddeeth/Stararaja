@@ -1,0 +1,1 @@
+<option value="Ibach">Ibach</option><option value="Igis">Igis</option><option value="Ilanz">Ilanz</option><option value="Illnau">Illnau</option><option value="Ingenbohl">Ingenbohl</option><option value="Ins">Ins</option><option value="Interlaken">Interlaken</option><option value="Inwil">Inwil</option><option value="Itingen">Itingen</option>

@@ -1,0 +1,1 @@
+<option value="Īdgāh">Īdgāh</option><option value="Islāmābād">Islāmābād</option><option value="Islāmkot">Islāmkot</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Balassagyarmat","Bercel","Diósjenő","Dunabogdány","Érsekvadkert","Kismaros","Kosd","Nagymaros","Nagyoroszi","Pilismarót","Rétság","Romhány","Szob","Tahitótfalu","Vác","Verőce","Visegrád"); ?>

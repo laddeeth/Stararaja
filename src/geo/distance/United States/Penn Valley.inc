@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beale Air Force Base","Grass Valley","Lake of the Pines","Lake Wildwood","Loma Rica","Meadow Vista","Nevada City","Penn Valley","Wheatland"); ?>

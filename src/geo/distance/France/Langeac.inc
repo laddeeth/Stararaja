@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allègre","Bains","Bournoncle-Saint-Pierre","Brioude","Cerzat","Espaly-Saint-Marcel","Langeac","Massiac","Paulhaguet","Polignac","Saint-Paulien","Saugues","Vieille-Brioude"); ?>

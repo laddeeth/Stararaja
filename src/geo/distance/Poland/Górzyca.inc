@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boleszkowice","Górzyca","Kostrzyn nad Odrą","Krzeszyce","Ośno Lubuskie","Rzepin","Słońsk","Witnica"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amesbury","Beverly Cove","Boxford","East Kingston","Epping","Exeter","Gloucester","Hampton Beach","Hampton Falls","Ipswich","Methuen","Middleton","Newburyport","North Andover","North Hampton","Plaistow","Rowley","Rye","Sandown","Stratham Station","Topsfield","Wenham","West Newbury"); ?>

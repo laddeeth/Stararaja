@@ -1,0 +1,1 @@
+<?php $neighbours = array("Walvis Bay"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Johannesburg","Krugersdorp","Muldersdriseloop","Randfontein","Roodepoort","Sandton","Soweto"); ?>

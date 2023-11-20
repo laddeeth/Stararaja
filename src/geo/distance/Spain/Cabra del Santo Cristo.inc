@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bélmez de la Moraleda","Cabra del Santo Cristo","Cambil","Guadahortuna","Huelma","Huesa","Jimena","Jódar","Montejicar","Peal de Becerro","Pedro Martínez","Quesada","Torre-Cardela","Torres"); ?>

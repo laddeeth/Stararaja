@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dollar Point","Incline Village","Kings Beach","Kingsbury","South Lake Tahoe","Sunnyside-Tahoe City","Tahoe Vista","Tahoma","Truckee"); ?>

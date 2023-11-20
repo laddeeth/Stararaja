@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arco da Calheta","Calheta","Câmara de Lobos","Campanário","Curral das Freiras","Estreito da Calheta","Fajã da Ovelha","Ponta do Sol","Porto Moniz","Ribeira Brava","São Vicente"); ?>

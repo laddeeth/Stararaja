@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brückl","Diex","Eberndorf","Eberstein","Feistritz ob Bleiburg","Ferlach","Gallizien","Globasnitz","Grafenstein","Griffen","Klagenfurt am Wörthersee","Köttmannsdorf","Lavamünd","Maria Rain","Maria Saal","Neuhaus","Poggersdorf","Ruden","Sankt Andrä","Sittersdorf","St. Georgen am Längsee","Völkermarkt"); ?>

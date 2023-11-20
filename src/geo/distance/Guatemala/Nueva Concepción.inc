@@ -1,0 +1,1 @@
+<?php $neighbours = array("La Gomera","Nueva Concepción","Patulul","Pueblo Nuevo Tiquisate","Río Bravo","San Juan Bautista","Santa Bárbara"); ?>

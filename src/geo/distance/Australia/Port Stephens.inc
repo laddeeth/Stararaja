@@ -1,0 +1,1 @@
+<?php $neighbours = array("Clarence Town","Corlette","Hawks Nest","Medowie","Nelson Bay","Port Stephens","Raymond Terrace"); ?>

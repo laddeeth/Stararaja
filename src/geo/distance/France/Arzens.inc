@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alzonne","Arzens","Bram","Capendu","Carcassonne","Castelnaudary","Caunes-Minervois","Chalabre","Conques-sur-Orbiel","Couiza","Cuxac-Cabardès","Espéraza","Laure-Minervois","Lavalette","Limoux","Mirepoix","Palaja","Pennautier","Pezens","Saint-Martin-Lalande","Trèbes","Villegailhenc","Villemoustaussou","Villeneuve-la-Comptal"); ?>

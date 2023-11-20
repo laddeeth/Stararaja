@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belmont","Bensville","Berkeley Vale","Budgewoi","Cooranbong","Davistown","Dora Creek","East Gosford","Empire Bay","Erina","Forresters Beach","Gorokan","Gosford","Holgate","Jilliby","Kanwal","Lisarow","Long Jetty","Narara","Point Clare","Rathmines","The Entrance"); ?>

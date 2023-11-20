@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baranów Sandomierski","Bojanów","Chwałowice","Dwikozy","Gorzyce","Grębów","Kępie Żaleszańskie","Klimontów","Koprzywnica","Lipnik","Majdan Królewski","Nowa Dęba","Obrazów","Osiek","Padew Narodowa","Radomyśl","Samborzec","Sandomierz","Sokolniki","Stalowa Wola","Tarnobrzeg","Wilczyce","Zaleszany","Zawichost","Łoniów"); ?>

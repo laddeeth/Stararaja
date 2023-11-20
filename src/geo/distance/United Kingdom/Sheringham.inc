@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aylsham","Briston","Coltishall","Cromer","Fakenham","Horsford","Mundesley","North Elmham","North Walsham","Sheringham","Spixworth","Stalham","Wells-next-the-Sea"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aurignac","Beaumont-sur-Lèze","Bérat","Carbonne","Cazères","Labastidette","Lacasse","Le Fauga","Le Fousseret","Lézat-sur-Lèze","Lherm","Longages","Marquefave","Martres-Tolosane","Montesquieu-Volvestre","Montjoie-en-Couserans","Noé","Rieumes","Rieux-Volvestre","Saint-Girons","Saint-Lizier","Saint-Sulpice-sur-Lèze","Salies-du-Salat"); ?>

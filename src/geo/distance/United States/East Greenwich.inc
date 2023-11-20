@@ -1,0 +1,1 @@
+<?php $neighbours = array("Central Falls","Coventry","Cranston","East Greenwich","East Providence","Fall River","Hope Valley","Narragansett Pier","Newport East","North Kingstown","North Providence","North Seekonk","Ocean Grove","Pawtucket","Rehoboth","Seekonk","Tiverton","Wakefield-Peacedale","West Warwick"); ?>

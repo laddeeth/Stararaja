@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ampuero","Argoños","Bárcena de Cicero","Castro-Urdiales","Colindres","El Corrillo","Espinosa de los Monteros","Gueñes","Hazas de Cesto","Lanestosa","Laredo","Limpias","Ramales de la Victoria","San Miguel de Meruelo","Santoña","Selaya","Solórzano","Sopuerta","Urrestieta","Villasana de Mena"); ?>

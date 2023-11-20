@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguilar","Alcaudete","Almedinilla","Baena","Cabra","Carcabuey","Castro del Río","Doña Mencía","Espejo","Lucena","Luque","Montilla","Monturque","Nueva-Carteya","Priego de Córdoba","Rute","Valenzuela"); ?>

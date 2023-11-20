@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anniston","Attalla","Bynum","Gadsden","Glencoe","Hokes Bluff","Jacksonville","Lincoln","Munford","Ohatchee","Oxford","Ragland","Rainbow City","Riverside","Saks","Southside","Steele","Weaver","West End-Cobb Town"); ?>

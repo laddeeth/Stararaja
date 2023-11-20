@@ -1,0 +1,1 @@
+<option value="Kharkhorin">Kharkhorin</option><option value="Khuvsget">Khuvsget</option>

@@ -1,0 +1,1 @@
+<option value="Ikhtiman">Ikhtiman</option><option value="Iskŭr">Iskŭr</option><option value="Isperikh">Isperikh</option><option value="Ivanovo">Ivanovo</option><option value="Ivaylovgrad">Ivaylovgrad</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arenas de San Juan","Camuñas","Carrión de Calatrava","Consuegra","Daimiel","Fuente el Fresno","Herencia","Madridejos","Malagón","Puerto Lápice","Torralba de Calatrava","Urda","Villarrubia de los Ojos","Villarta de San Juan"); ?>

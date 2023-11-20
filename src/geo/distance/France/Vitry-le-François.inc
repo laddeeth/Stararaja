@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bettancourt-la-Ferrée","Châlons-en-Champagne","Compertrix","Courtisols","Frignicourt","Mailly-le-Camp","Pargny-sur-Saulx","Saint-Dizier","Saint-Memmie","Sarry","Sermaize-les-Bains","Villiers-en-Lieu","Vitry-le-François"); ?>

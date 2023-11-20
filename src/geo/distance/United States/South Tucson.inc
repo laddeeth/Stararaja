@@ -1,0 +1,1 @@
+<?php $neighbours = array("Casas Adobes","Catalina Foothills","Drexel Heights","East Sahuarita","Flowing Wells","Oro Valley","Sahuarita","South Tucson","Tanque Verde","Tortolita","Tucson","Tucson Estates","Vail","Valencia West"); ?>

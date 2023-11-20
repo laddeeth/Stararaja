@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cheektowaga","Clarence","Clarence Center","Depew","Eggertsville","Gasport","Grandyle Village","Harris Hill","Kenmore","Newfane","Niagara Falls","North Tonawanda","Olcott","Ransomville","Rapids","Sloan","South Lockport","Tonawanda"); ?>

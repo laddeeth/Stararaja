@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ancy-le-Franc","Augy","Chablis","Chaource","Ervy-le-Châtel","Flogny-la-Chapelle","Gurgy","Héry","Joux-la-Ville","Ligny-le-Châtel","Monéteau","Neuvy-Sautour","Ravières","Saint-Bris-le-Vineux","Saint-Florentin","Seignelay","Tanlay","Tonnerre","Venoy","Vergigny","Vermenton"); ?>

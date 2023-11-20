@@ -1,0 +1,1 @@
+<?php $neighbours = array("Armeniş","Brebu","Buchin","Bucoşniţa","Caransebeş","Cornea","Cornereva","Domaşnea","Glimboca","Muntele Mic","Obreja","Slatina-Timiş","Târnova","Teregova"); ?>

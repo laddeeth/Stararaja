@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aosta","Aymavilles","Charvensod","Cogne","Courmayeur","Gignod","Gressan","La Salle","Morgex","Pollein","Quart","Saint-Christophe","Saint-Marcel","Saint-Pierre","Sarre","Villeneuve"); ?>

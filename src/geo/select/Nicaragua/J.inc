@@ -1,0 +1,1 @@
+<option value="Jalapa">Jalapa</option><option value="Jinotega">Jinotega</option><option value="Jinotepe">Jinotepe</option><option value="Jiquilillo">Jiquilillo</option><option value="Juigalpa">Juigalpa</option>

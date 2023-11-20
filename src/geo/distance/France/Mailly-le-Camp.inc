@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arcis-sur-Aube","Connantre","Fère-Champenoise","Frignicourt","Mailly-le-Camp","Vitry-le-François"); ?>

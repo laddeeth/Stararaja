@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alliance","Austintown","Boardman","Calcutta","Canfield","East Palestine","Glenmoor","La Croft","Leetonia","Lowellville","Mineral Ridge","New Middletown","New Waterford","Salineville","Struthers"); ?>

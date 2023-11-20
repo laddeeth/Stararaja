@@ -1,0 +1,1 @@
+<?php $neighbours = array("Clintondale","Crown Heights","Ellenville","Glasco","Haviland","Hyde Park","Kerhonkson","Lake Katrine","Napanoch","New Paltz","Plattekill","Port Ewen","Poughkeepsie","Red Hook","Rhinebeck","Rosendale Village","Saugerties","Saugerties South","Shokan","Spackenkill","Stone Ridge","Tillson","Tivoli","Wallkill","West Hurley","Zena"); ?>

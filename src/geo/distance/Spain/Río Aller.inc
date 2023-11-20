@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bimenes","Boñar","Campo de Caso","El entrego","La Pola de Gordón","La Robla","Matallana de Torío","Mieres","Pola de Laviana","Pola de Lena","Río Aller","Sama","Villamanín"); ?>

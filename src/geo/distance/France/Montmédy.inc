@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blagny","Carignan","Cosnes-et-Romain","Douzy","Gorcy","Lexy","Longuyon","Longwy","Montmédy","Mouzon","Pierrepont","Pouru-Saint-Remy","Réhon","Stenay"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anor","Fourmies","Hirson","La Capelle","La Flamengrie","Montcornet","Origny-en-Thiérache","Renwez","Revin","Rimogne","Rocroi","Rozoy-sur-Serre","Saint-Michel","Signy-le-Petit","Tournes","Trélon","Vervins","Wignehies"); ?>

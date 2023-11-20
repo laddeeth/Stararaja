@@ -1,0 +1,1 @@
+<option value="Saddat al Hindīyah">Saddat al Hindīyah</option><option value="Sāmarrā’">Sāmarrā’</option><option value="Sīnah">Sīnah</option><option value="Sinjār">Sinjār</option>

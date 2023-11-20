@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aidone","Caltagirone","Castel di Iudica","Catenanuova","Centuripe","Francofonte","Grammichele","Lentini","Licodia Eubea","Militello in Val di Catania","Mineo","Mirabella Imbaccari","Palagonia","Paternò","Piazza Armerina","Raddusa","Ramacca","Regalbuto","San Michele di Ganzaria","Scordia","Valguarnera Caropepe","Vizzini"); ?>

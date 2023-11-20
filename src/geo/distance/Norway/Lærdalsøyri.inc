@@ -1,0 +1,1 @@
+<?php $neighbours = array("Årdalstangen","Aurlandsvangen","Lærdalsøyri","Sogndal","Sogndalsfjøra","Øvre Årdal"); ?>

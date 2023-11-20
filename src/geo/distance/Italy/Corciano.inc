@@ -1,0 +1,1 @@
+<?php $neighbours = array("Assisi","Bastia Umbra","Bettona","Cannara","Castiglione del Lago","Collazzone","Corciano","Cortona","Deruta","Magione","Marsciano","Montegabbione","Montone","Panicale","Passignano sul Trasimeno","Perugia","Piegaro","San Venanzo","Torgiano","Tuoro sul Trasimeno","Umbertide","Valfabbrica"); ?>

@@ -1,0 +1,1 @@
+<option value="‘Afula ‘Illit">‘Afula ‘Illit</option><option value="‘Akko">‘Akko</option><option value="‘Atlit">‘Atlit</option><option value="‘Eilabūn">‘Eilabūn</option><option value="‘En Boqeq">‘En Boqeq</option><option value="‘Uzeir">‘Uzeir</option>

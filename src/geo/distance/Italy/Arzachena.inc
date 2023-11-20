@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aglientu","Arzachena","Calangianus","Golfo Aranci","Golfo Arnaci","La Maddalena","Loiri Porto San Paolo","Luogosanto","Luras","Olbia","Palau","Porto Cervo","Santa Teresa Gallura","Telti"); ?>

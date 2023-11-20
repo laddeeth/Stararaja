@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chenoise","Choisy-en-Brie","Connantre","Esternay","Jouy-sur-Morin","La Ferté-Gaucher","Maizières-la-Grande-Paroisse","Montmirail","Nogent-sur-Seine","Provins","Rebais","Romilly-sur-Seine","Saint-Just-Sauvage","Sézanne","Sourdun","Villenauxe-la-Grande","Villeneuve-sur-Bellot","Villiers-Saint-Georges"); ?>

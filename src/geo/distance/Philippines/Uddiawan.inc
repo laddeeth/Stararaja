@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almaguer North","Bagabag","Baggabag B","Baguinge","Bambang","Banganan","Bayombong","Bintawan","Buliwao","Busilak","Diadi","Ibung","Ineangan","Kiangan","Lagawe","Lamut","Mabasa","Salinas","Solano","Uddiawan","Villa Verde"); ?>

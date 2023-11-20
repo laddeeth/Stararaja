@@ -1,0 +1,1 @@
+<?php $neighbours = array("Big Rock","Cortland","DeKalb","Elburn","Hampshire","Hinckley","Kirkland","Malta","Maple Park","Pingree Grove","Sugar Grove","Sycamore","Village of Campton Hills","Waterman"); ?>

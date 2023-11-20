@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aserrío de Gariché","Divalá","Finca Blanco Número Uno","Finca Corredor","La Esperanza","Progreso","Puerto Armuelles","Punta de Burica","Santo Domingo"); ?>

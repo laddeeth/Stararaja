@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ávila de los Caballeros","Barraco","Burgohondo","Casavieja","Cebreros","El Tiemblo","La Adrada","Mombeltrán","Navaluenga","Pedro Bernardo","Piedralaves","Rozas de Puerto Real","Solosancho","Sotillo de la Adrada"); ?>

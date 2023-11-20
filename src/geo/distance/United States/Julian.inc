@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borrego Springs","Descanso","Julian","Pine Valley","Ramona","San Diego Country Estates"); ?>

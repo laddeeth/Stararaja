@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chattahoochee Hills","East Newnan","Fairburn","Franklin","Grantville","Hogansville","Newnan","Peachtree City","Senoia","Tyrone"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beverly Cove","Boxford","Braintree","Brookline","Cohasset","Dedham","Everett","Gloucester","Hingham","Ipswich","Jamaica Plain","Lynnfield","Marblehead","Melrose","Middleton","Nahant","North Reading","North Scituate","Revere","Saugus","South Peabody","Stoneham","Swampscott","Topsfield","Wakefield","Waltham","Wenham","Weymouth","Winthrop","Woburn"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anderlues","Beaumont","Cerfontaine","Chimay","Couvin","Doische","Erquelinnes","Florennes","Froidchapelle","Gerpinnes","Lobbes","Merbes-le-Château","Momignies","Philippeville","Thuin","Walcourt"); ?>

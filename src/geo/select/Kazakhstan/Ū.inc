@@ -1,0 +1,1 @@
+<option value="Ülken">Ülken</option><option value="Ürzhar">Ürzhar</option><option value="Ush-Tyube">Ush-Tyube</option><option value="Ust’-Kamenogorsk">Ust’-Kamenogorsk</option><option value="Ūst’-Talovka">Ūst’-Talovka</option>

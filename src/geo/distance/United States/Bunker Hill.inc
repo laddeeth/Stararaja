@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alton","Benld","Bethalto","Bunker Hill","Carlinville","East Alton","Edwardsville","Gillespie","Godfrey","Holiday Shores","Litchfield","Rosewood Heights","Roxana","South Roxana","Staunton","Upper Alton","Wood River","Worden"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baniocha","Borowie","Cegłów","Celestynów","Dębe Wielkie","Garwolin","Góra Kalwaria","Górzno","Karczew","Kołbiel","Latowicz","Maciejowice","Miastków Kościelny","Miętne","Mińsk Mazowiecki","Mrozy","Osieck","Otwock","Parysów","Pilawa","Siennica","Sobienie Jeziory","Sobolew","Sulbiny Górne","Trąbki","Wilga","Wola Rębkowska","Łaskarzew"); ?>

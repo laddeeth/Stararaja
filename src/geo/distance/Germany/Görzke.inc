@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belzig","Bensdorf","Brück","Genthin","Görzke","Gräben","Linthe","Loburg","Möckern","Niemegk","Tucheim","Wenzlow","Wiesenburg","Wollin","Wusterwitz","Zerbst","Ziesar"); ?>

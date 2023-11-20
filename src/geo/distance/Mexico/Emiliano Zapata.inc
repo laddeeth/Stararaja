@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almoloya","Apan","Axapusco","Calpulalpan","Ciudad Sahagún","Emiliano Zapata","Hueyotlipan de Hidalgo","Jaltepec","Nanacamilpa","Otumba de Gómez Farías","Sanctórum","Santa María Nopaltepec","Tepeapulco","Tlanalapan"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auckland","Muriwai Beach","North Shore","Parakai","Titirangi","Waitakere"); ?>

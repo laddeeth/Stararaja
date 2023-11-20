@@ -1,0 +1,1 @@
+<option value="Neskaupstaður">Neskaupstaður</option><option value="Njarðvík">Njarðvík</option>

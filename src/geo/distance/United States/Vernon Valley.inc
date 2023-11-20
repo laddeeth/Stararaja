@@ -1,0 +1,1 @@
+<?php $neighbours = array("Florida","Greenwood Lake","Highland Lake","Kinnelon","Kiryas Joel","Lake Mohawk","Mechanicstown","Ogdensburg","Otisville","Port Jervis","Ringwood","Scotchtown","Sloatsburg","South Blooming Grove","Vernon Valley","Walton Park","Wanaque","Warwick","Washington Heights","West Milford"); ?>

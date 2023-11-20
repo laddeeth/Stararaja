@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cervera de Pisuerga","Guardo","Ruesga","Santibáñez de la Peña","Valderrueda","Velilla del Río Carrión"); ?>

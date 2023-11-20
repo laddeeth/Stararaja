@@ -1,0 +1,1 @@
+<option value="Øksfjord">Øksfjord</option><option value="Ølen">Ølen</option><option value="Ørje">Ørje</option><option value="Ørnes">Ørnes</option><option value="Ørsta">Ørsta</option><option value="Øvre Årdal">Øvre Årdal</option><option value="Øystese">Øystese</option>

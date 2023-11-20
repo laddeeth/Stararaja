@@ -1,0 +1,1 @@
+<option value="Rajec">Rajec</option><option value="Revúca">Revúca</option><option value="Rimavská Sobota">Rimavská Sobota</option><option value="Rožňava">Rožňava</option><option value="Ružomberok">Ružomberok</option>

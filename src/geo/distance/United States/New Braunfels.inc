@@ -1,0 +1,1 @@
+<?php $neighbours = array("Canyon Lake","Cibolo","Converse","Garden Ridge","Lake Dunlap","McQueeney","New Braunfels","Northcliff","Redwood","San Marcos","Schertz","Seguin","Universal City"); ?>

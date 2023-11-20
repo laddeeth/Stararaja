@@ -1,0 +1,1 @@
+<?php $neighbours = array("Buk","Czapury","Czempiń","Czerwonak","Daszewice","Dopiewo","Duszniki","Granowo","Grodzisk Wielkopolski","Kamieniec","Kaźmierz","Komorniki","Kórnik","Kościan","Kuślin","Luboń","Mosina","Opalenica","Pecna","Plewiska","Poznań","Puszczykowo","Rogalinek","Stęszew","Suchy Las","Swarzędz","Tarnowo Podgórne","Złotniki"); ?>

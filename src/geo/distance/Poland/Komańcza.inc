@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baligród","Besko","Bukowsko","Cisna","Czaszyn","Długie","Jaśliska","Komańcza","Lesko","Niebieszczany","Nowosielce-Gniewosz","Polańczyk","Poraż","Rymanów","Rzepedź","Sanok","Strachocina","Uherce Mineralne","Zagórz","Zarszyn"); ?>

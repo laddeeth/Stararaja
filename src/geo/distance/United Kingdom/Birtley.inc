@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acomb","Bardon Mill","Birtley","Corbridge","Corsenside","Darras Hall","Greenhead","Haltwhistle","Hartburn","Healey","Hexham","Horsley","Meldon","Newburn","Otterburn","Ponteland","Prudhoe","Rochester","Rothley","Slaley","Wall","Warden","Wylam"); ?>

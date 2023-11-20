@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amatrice","Antrodoco","Arquata del Tronto","Cagnano Amiterno","Cantalice","Cascia","Cittaducale","Crognaleto","Leonessa","L’Aquila","Maltignano","Montereale","Petrella Salto","Pizzoli","Poggio Bustone","Scoppito","Tornimparte"); ?>

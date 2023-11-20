@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bolszewo","Choczewo","Chłapowo","Gniewino","Gnieżdżewo","Gościcino","Jastrzębia Góra","Krokowa","Luzino","Orle","Puck","Rekowo Dolne","Wejherowo","Wierzchucino","Władysławowo","Żelistrzewo","Łeba","Łęczyce"); ?>

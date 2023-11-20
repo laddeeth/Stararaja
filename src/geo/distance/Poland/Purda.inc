@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barczewo","Biskupiec","Czerwonka","Dywity","Dźwierzuty","Jedwabno","Jeziorany","Jonkowo","Olsztyn","Pasym","Purda","Stawiguda","Szczytno"); ?>

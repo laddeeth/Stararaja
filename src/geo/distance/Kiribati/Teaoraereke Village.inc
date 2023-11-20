@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ambo Village","Bairiki Village","Banraeaba Village","Betio Village","Bikenibeu Village","Bonriki Village","Buota Village","Eita Village","Nawerewere Village","Tarawa","Teaoraereke Village","Temaiku Village"); ?>

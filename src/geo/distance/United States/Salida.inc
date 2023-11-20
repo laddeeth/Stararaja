@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bret Harte","Bystrom","Ceres","Del Rio","East Oakdale","Empire","Escalon","French Camp","Hughson","Kennedy","Keyes","Manteca","Modesto","Riverbank","Salida","Shackelford","Taft Mosswood","West Modesto"); ?>

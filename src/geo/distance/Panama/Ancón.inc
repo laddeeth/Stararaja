@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcaldedíaz","Ancón","Arraiján","Caimitillo","Calzada Larga","Cerro Azul","Chilibre","La Cabima","La Chorrera","La Mitra","Las Cumbres","Nuevo Arraiján","Nuevo Emperador","Panamá","Paraíso","Puerto Caimito","San Miguelito","San Vicente de Bique","Santa Clara","Tocumen","Veracruz","Vista Alegre"); ?>

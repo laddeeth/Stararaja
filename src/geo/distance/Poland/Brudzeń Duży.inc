@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baruchowo","Bielsk","Brudzeń Duży","Dobrzyń nad Wisłą","Fabianki","Gostynin","Gozdowo","Kowal","Lipno","Maszewo Duże","Mochowo","Nowy Duninów","Płock","Radzanowo","Sierpc","Skępe","Tłuchowo","Wielgie","Włocławek","Łąck"); ?>

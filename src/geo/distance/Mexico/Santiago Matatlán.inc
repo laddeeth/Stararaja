@@ -1,0 +1,1 @@
+<?php $neighbours = array("Magdalena Teitipac","San Baltazar Chichicapan","San Dionisio Ocotepec","San Juan Guelavía","San Pablo Villa de Mitla","Santiago Matatlán","Teitipac","Tlacolula de Matamoros"); ?>

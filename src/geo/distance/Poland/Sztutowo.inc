@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cedry Wielkie","Elblag","Gronowo Elbląskie","Gronowo Górne","Krynica Morska","Nowy Dwór Gdański","Nowy Staw","Ostaszewo","Stegna","Suchy Dąb","Sztutowo","Tolkmicko"); ?>

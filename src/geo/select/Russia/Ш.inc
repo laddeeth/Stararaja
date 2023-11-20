@@ -1,0 +1,1 @@
+<option value="Шикотан">Шикотан</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Salinas de Hidalgo","Villa González Ortega"); ?>

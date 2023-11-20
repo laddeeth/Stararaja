@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boguty-Pianki","Brańsk","Ceranów","Ciechanowiec","Drohiczyn","Dziadkowice","Jabłonna Lacka","Korczew","Kosów Lacki","Nur","Perlejewo","Repki","Rudka","Sabnie","Siemiatycze","Sokołów Podlaski","Sterdyń"); ?>

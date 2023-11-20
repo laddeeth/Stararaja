@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boa Esperança do Sul","Brotas","Ibaté","Ribeirão Bonito","São Carlos"); ?>

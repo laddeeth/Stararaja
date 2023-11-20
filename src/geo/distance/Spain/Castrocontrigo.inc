@@ -1,0 +1,1 @@
+<?php $neighbours = array("Castrocalbón","Castrocontrigo","La Bañeza","Santa Elena de Jamuz","Santibáñez de Vidriales"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Banie","Bielice","Gryfino","Kozielice","Kołbaskowo","Lipiany","Przelewice","Pyrzyce","Stare Czarnowo","Stargard Szczeciński","Szczecin","Trzcińsko Zdrój","Warnice","Widuchowa"); ?>

@@ -1,0 +1,1 @@
+<option value="Rafsanjān">Rafsanjān</option><option value="Rāmhormoz">Rāmhormoz</option><option value="Rāmshīr">Rāmshīr</option><option value="Rasht">Rasht</option><option value="Rāvar">Rāvar</option><option value="Rehnān">Rehnān</option><option value="Robāţ Karīm">Robāţ Karīm</option><option value="Rūdsar">Rūdsar</option>

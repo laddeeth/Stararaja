@@ -1,0 +1,1 @@
+<option value="Daigo">Daigo</option><option value="Daitō">Daitō</option><option value="Date">Date</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bayport","Birchwood","Branch","Center City","Chisago City","Circle Pines","Grant","Lake Elmo","Lindstrom","Lino Lakes","Mahtomedi","North Hudson","North Oaks","Oak Park Heights","Saint Croix Falls","Scandia","Shafer","Stacy","White Bear Lake"); ?>

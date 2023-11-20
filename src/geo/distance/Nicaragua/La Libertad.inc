@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acoyapa","Cuapa","El Ayote","Juigalpa","La Libertad","Santo Domingo","Santo Tomás","Villa Sandino"); ?>

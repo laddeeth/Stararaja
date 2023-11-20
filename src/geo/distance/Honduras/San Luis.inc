@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arada","Atima","Camalote","Casa Quemada","El Ciruelo","El Corozal","Guacamaya","Gualjoco","Ilama","La Flecha","Laguna Verde","Nueva Jalapa","Petoa","Protección","Quimistán","San José de Colinas","San Luis","San Luis de Planes","San Marcos","San Vicente Centenario","Santa Bárbara","Sula","Trinidad"); ?>

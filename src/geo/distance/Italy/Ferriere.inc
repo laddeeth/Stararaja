@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albareto","Bardi","Bedonia","Bettola","Bobbio","Borgo Val di Taro","Borzonasca","Coli","Compiano","Farini","Ferriere","Gropparello","Morfasso","Rezzoaglio","Tornolo","Torriglia","Travo","Varsi"); ?>

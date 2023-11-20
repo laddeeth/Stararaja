@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chlmec","Košice","Michalovce","Sečovce","Strážske","Trebišov","Vinné","Vranov nad Topľou"); ?>

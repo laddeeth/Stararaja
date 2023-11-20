@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apricena","Casalnuovo Monterotaro","Casalvecchio di Puglia","Castelnuovo della Daunia","Chieuti","Foggia","Lesina","Lucera","Pietramontecorvino","Poggio Imperiale","Rignano Garganico","San Giovanni Rotondo","San Marco in Lamis","San Nicandro Garganico","San Paolo di Civitate","San Severo","Serracapriola","Torremaggiore"); ?>

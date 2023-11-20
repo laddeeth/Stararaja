@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anstruther","Chirnside","Cockenzie","Dunbar","Duns","East Linton","Gullane","Haddington","Longniddry","Macmerry","North Berwick","Ormiston","Pencaitland","Pittenweem","Prestonpans","Saint Monance","Tranent"); ?>

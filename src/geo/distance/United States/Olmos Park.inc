@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alamo Heights","Balcones Heights","Bulverde","Castle Hills","Cibolo","Converse","Cross Mountain","Elmendorf","Garden Ridge","Helotes","Hollywood Park","Kirby","Lackland Air Force Base","Leon Valley","Northcliff","Olmos Park","Saint Hedwig","Schertz","Shavano Park","Terrell Hills","Timberwood Park","Universal City","Von Ormy","Windcrest"); ?>

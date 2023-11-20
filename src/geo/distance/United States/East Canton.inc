@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alliance","Canal Fulton","East Canton","Green","Lakemore","Massillon","Minerva","North Canton","Perry Heights","Richville"); ?>

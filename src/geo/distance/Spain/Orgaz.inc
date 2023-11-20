@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ajofrín","Burguillos de Toledo","Cobisa","Cuerva","Los Yébenes","Mazarambroz","Mocejón","Mora","Nambroca","Orgaz","Polán","Pulgar","Sonseca","Toledo","Urda","Ventas con Peña Aguilera","Villasequilla de Yepes"); ?>

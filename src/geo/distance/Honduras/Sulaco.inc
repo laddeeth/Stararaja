@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ayapa","El Bálsamo","El Escaño de Tepale","El Pedernal","Esquías","La Trinidad","Las Vegas","Lomitas","Marale","Minas de Oro","Paujiles","San José del Potrero","Santa Rita","Sulaco","Yorito","Yoro"); ?>

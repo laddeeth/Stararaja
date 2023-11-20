@@ -1,0 +1,1 @@
+<option value="Yablanitsa">Yablanitsa</option><option value="Yakimovo">Yakimovo</option><option value="Yakoruda">Yakoruda</option><option value="Yambol">Yambol</option>

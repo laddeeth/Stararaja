@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Kohlgrub","Ettal","Farchant","Garmisch-Partenkirchen","Grainau","Großweil","Jachenau","Kochel","Krün","Mittenwald","Murnau am Staffelsee","Oberammergau","Oberau","Ohlstadt","Riegsee","Schlehdorf","Schwaigen","Seehausen am Staffelsee","Unterammergau","Wallgau"); ?>

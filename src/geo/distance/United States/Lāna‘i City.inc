@@ -1,0 +1,1 @@
+<?php $neighbours = array("Kaanapali Landing","Kā‘anapali","Lahaina","Lāna‘i City"); ?>

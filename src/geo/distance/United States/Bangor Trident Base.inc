@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bainbridge Island","Bangor Trident Base","Bremerton","East Port Orchard","Edmonds","Enetai","Erlands Point-Kitsap Lake","Esperance","Hansville","Lofall","Navy Yard City","Port Ludlow","Port Orchard","Poulsbo","Seabeck","Shoreline","Silverdale","Southworth","Suquamish","Tracyton"); ?>

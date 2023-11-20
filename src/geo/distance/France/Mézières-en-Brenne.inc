@@ -1,0 +1,1 @@
+<?php $neighbours = array("Azay-le-Ferron","Buzançais","Châtillon-sur-Indre","Clion","Le Blanc","Luant","Martizay","Mézières-en-Brenne","Niherne","Pouligny-Saint-Pierre","Preuilly-sur-Claise","Saint-Gaultier","Tournon-Saint-Martin","Vendœuvres","Villedieu-sur-Indre","Yzeures-sur-Creuse"); ?>

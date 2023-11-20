@@ -1,0 +1,1 @@
+<?php $neighbours = array("Angle Vale","Birkenhead","Cheltenham","Elizabeth","Enfield","Gawler","Golden Grove","Ingle Farm","Largs Bay","Lewiston","Mallala","One Tree Hill","Port Adelaide","Roseworthy","Salisbury","Smithfield","Two Wells","Virginia","Willaston"); ?>

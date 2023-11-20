@@ -1,0 +1,1 @@
+<option value="‘Alāqahdārī Deh-e Shū">‘Alāqahdārī Deh-e Shū</option><option value="‘Alāqahdārī-ye Kirān wa Munjān">‘Alāqahdārī-ye Kirān wa Munjān</option>

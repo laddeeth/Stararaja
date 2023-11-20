@@ -1,0 +1,1 @@
+<?php $neighbours = array("Balatonberény","Cserszegtomaj","Gyenesdiás","Hévíz","Keszthely","Nagykanizsa","Pacsa","Sármellék","Vonyarcvashegy","Zalaegerszeg","Zalakomár","Zalaszentgrót"); ?>

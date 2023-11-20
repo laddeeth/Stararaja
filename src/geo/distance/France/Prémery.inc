@@ -1,0 +1,1 @@
+<?php $neighbours = array("Challuy","Châtillon-en-Bazois","Chaulgnes","Corbigny","Coulanges-lès-Nevers","Cours-les-Barres","Donzy","Fourchambault","Garchizy","Guérigny","Herry","Imphy","La Charité-sur-Loire","Marzy","Nevers","Pougues-les-Eaux","Prémery","Saint-Éloi","Sauvigny-les-Bois","Sermoise-sur-Loire","Urzy","Varennes-Vauzelles","Varzy"); ?>

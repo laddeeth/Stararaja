@@ -1,0 +1,1 @@
+<?php $neighbours = array("Port Angeles","Port Angeles East","Port Hadlock-Irondale","Port Townsend","Sequim"); ?>

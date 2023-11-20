@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ault Field","Camano","Coupeville","Hansville","Lake Goodwin","Port Hadlock-Irondale","Port Ludlow","Port Townsend","Smokey Point","Stanwood","Tulalip","Tulalip Bay","Warm Beach"); ?>

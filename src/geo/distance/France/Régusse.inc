@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aups","Barjols","Bras","Brignoles","Cabasse","Carcès","Cotignac","Flayosc","Ginasservis","Gréoux-les-Bains","Le Thoronet","Le Val","Lorgues","Régusse","Riez","Salernes","Valensole","Villecroze","Vinon-sur-Verdon"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chirilagua","Conchagua","Intipucá","Jucuarán","La Unión","San Alejo"); ?>

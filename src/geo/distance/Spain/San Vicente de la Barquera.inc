@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cabezón de la Sal","Cartes","Comillas","Llanes","Los Corrales de Buelna","Luzmela","Reocín","San Vicente de la Barquera","Santillana","Suances","Torrelavega"); ?>

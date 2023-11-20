@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gachalá","Gachetá","Guasca","Guatavita","Guateque","Guayatá","Junín","Manta"); ?>

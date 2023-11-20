@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acres Green","Applewood","Arvada","Broomfield","Centennial","Cherry Hills Village","Columbine","Columbine Valley","Commerce City","Dove Valley","Federal Heights","Golden","Greenwood Village","Highlands Ranch","Lochbuie","Northglenn","Sherrelwood","Southglenn","Todd Creek","Welby","West Pleasant View","Wheat Ridge"); ?>

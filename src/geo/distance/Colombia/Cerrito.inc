@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cerrito","Concepción","Guaca","Málaga","Molagavita","San José de Miranda"); ?>

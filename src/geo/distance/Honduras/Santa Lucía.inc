@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antigua Ocotepeque","La Labor","Nueva Ocotepeque","San Francisco del Valle","Santa Lucía","Sensenti","Sinuapa"); ?>

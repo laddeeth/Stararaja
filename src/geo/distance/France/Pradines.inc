@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cahors","Castelnau-Montratier","Gourdon","Lalbenque","Le Vigan","Luzech","Montcuq","Pradines","Prayssac","Salviac"); ?>

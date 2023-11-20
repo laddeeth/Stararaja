@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allumiere","Anguillara Sabazia","Bracciano","Canale Monterano","Cerveteri","Civitavecchia","Fiumicino","Ladispoli","Lido di Roma","Manziana","Oriolo Romano","Santa Marinella","Tolfa","Trevignano Romano","Vejano"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Babimost","Bojadła","Bytom Odrzański","Czerwieńsk","Kargowa","Klenica","Kolsko","Konotop","Nowa Sól","Ochla","Otyń","Siedlec","Siedlisko","Skąpe","Sulechów","Świdnica","Sława","Trzebiechów","Wijewo","Wolsztyn","Zabór","Zbąszynek","Zielona Góra"); ?>

@@ -1,0 +1,1 @@
+<option value="Banī Walīd">Banī Walīd</option><option value="Bardīyah">Bardīyah</option><option value="Benghazi">Benghazi</option><option value="Birāk">Birāk</option>

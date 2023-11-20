@@ -1,0 +1,1 @@
+<option value="Jaunciems">Jaunciems</option><option value="Jaunjelgava">Jaunjelgava</option><option value="Jaunpiebalga">Jaunpiebalga</option><option value="Jaunpils">Jaunpils</option><option value="Jēkabpils">Jēkabpils</option><option value="Jelgava">Jelgava</option><option value="Jumprava">Jumprava</option><option value="Jūrmala">Jūrmala</option>

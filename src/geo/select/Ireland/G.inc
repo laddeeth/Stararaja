@@ -1,0 +1,1 @@
+<option value="Galway">Galway</option><option value="Glenties">Glenties</option><option value="Gorey">Gorey</option><option value="Gort">Gort</option><option value="Granard">Granard</option><option value="Greystones">Greystones</option><option value="Gweedore">Gweedore</option>

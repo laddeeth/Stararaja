@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allassac","Arnac-Pompadour","Brive-la-Gaillarde","Chamberet","Chamboulive","Chameyrat","Cornil","Corrèze","Cosnac","Donzenac","Égletons","Laguenne","Lubersac","Malemort-sur-Corrèze","Naves","Objat","Saint-Mexant","Saint-Viance","Sainte-Féréole","Sainte-Fortunade","Seilhac","Treignac","Tulle","Ussac","Uzerche","Varetz","Vigeois","Voutezac"); ?>

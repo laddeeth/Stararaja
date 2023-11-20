@@ -1,0 +1,1 @@
+<?php $neighbours = array("Luzilândia","Santa Quitéria do Maranhão","São Bernardo"); ?>

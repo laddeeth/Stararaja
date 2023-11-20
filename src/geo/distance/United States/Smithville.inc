@@ -1,0 +1,1 @@
+<?php $neighbours = array("Claycomo","Gladstone","Gower","Kearney","Lathrop","North Kansas City","Platte City","Plattsburg","Pleasant Valley","Smithville","Weatherby Lake"); ?>

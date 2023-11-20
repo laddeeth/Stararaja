@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ban Selaphum","Changhan","Chiang Khwan","Kamalasai","Pho Chai","Roi Et","Rong Kham","Selaphum","Thawat Buri","Thung Khao Luang"); ?>

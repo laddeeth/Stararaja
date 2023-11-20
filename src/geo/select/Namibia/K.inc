@@ -1,0 +1,1 @@
+<option value="Karasburg">Karasburg</option><option value="Karibib">Karibib</option><option value="Katima Mulilo">Katima Mulilo</option><option value="Keetmanshoop">Keetmanshoop</option><option value="Khorixas">Khorixas</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("El Rodeo","Ixchiguán","Malacatán","San José Ojetenán","San Pablo","San Rafael Pie de La Cuesta","Sibinal","Tacaná","Tajumulco","Tejutla"); ?>

@@ -1,0 +1,1 @@
+<option value="Fier">Fier</option><option value="Fier-Çifçi">Fier-Çifçi</option><option value="Fushë-Arrëz">Fushë-Arrëz</option><option value="Fushë-Krujë">Fushë-Krujë</option>

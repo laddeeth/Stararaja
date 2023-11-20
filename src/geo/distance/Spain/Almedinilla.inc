@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcalá la Real","Alcaudete","Algarinejo","Almedinilla","Baena","Carcabuey","Castillo de Locubín","Doña Mencía","Frailes","Fuensanta de Martos","Huétor-Tájar","Illora","Iznájar","Luque","Moclín","Montefrío","Priego de Córdoba","Rute","Valdepeñas de Jaén","Zagra"); ?>

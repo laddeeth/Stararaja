@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cangas del Narcea","Grado","Pola de Allande","Salas","Tineo","Villayón"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bertinoro","Borghi","Cervia","Cesena","Cesenatico","Forlì","Forlimpopoli","Gambettola","Gatteo","Longiano","Meldola","Montiano","Poggio Berni","Ravenna","Rimini","Roncofreddo","Russi","San Mauro Pascoli","Santarcangelo di Romagna","Savignano sul Rubicone","Sogliano al Rubicone","Villa Verucchio"); ?>

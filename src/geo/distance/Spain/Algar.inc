@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcalá de los Gazules","Algar","Arcos de la Frontera","Bornos","Cortes de la Frontera","El Bosque","Espera","Grazalema","Jimena de la Frontera","Paterna de Rivera","Prado del Rey","Ubrique","Villamartín"); ?>

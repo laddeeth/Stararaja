@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anglesola","Calaf","Capellades","Cervera","Fonollosa","Igualada","La Pobla de Claramunt","Mediona","Mont-roig del Camp","Òdena","Sant Guim de Freixenet","Sant Joan de Mediona","Tàrrega","Torà de Riubregós","Verdú","Vilanova del Camí"); ?>

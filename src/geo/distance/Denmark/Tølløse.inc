@@ -1,0 +1,1 @@
+<?php $neighbours = array("Asnæs","Bjæverskov","Borup","Dianalund","Ejby","Fløng","Gundsømagle","Havdrup","Holbæk","Hørve","Jyderup","Jyllinge","Jægerspris","Lejre","Nørre Hvalsø","Osted","Ringsted","Roskilde","Skibby","Solrød","Solrød Strand","Sorø","Stenlille","Svinninge","Svogerslev","Tune","Tølløse","Viby","Vindinge","Vipperød"); ?>

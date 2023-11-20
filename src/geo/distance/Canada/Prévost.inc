@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blainville","Mirabel","Prévost","Saint-Jérôme","Saint-Lin--Laurentides","Saint-Sauveur","Sainte-Adèle","Sainte-Agathe-des-Monts","Sainte-Anne-des-Plaines","Sainte-Sophie","Val-David"); ?>

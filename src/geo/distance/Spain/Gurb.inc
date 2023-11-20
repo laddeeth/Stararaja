@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aiguafreda","Artés","Avinyó","Bas","Centelles","Figaró","Gurb","Manlleu","Moià","Olost","Ripoll","Santa Eugènia de Berga","Santa Maria de Corcó","Seva","Taradell","Tona","Torelló","Vic","Viladrau","Vilaseca"); ?>

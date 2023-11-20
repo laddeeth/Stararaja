@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cercy-la-Tour","Challuy","Chantenay-Saint-Imbert","Châtillon-en-Bazois","Coulanges-lès-Nevers","Decize","Dornes","Imphy","La Machine","Lucenay-lès-Aix","Lusigny","Magny-Cours","Nevers","Saint-Éloi","Saint-Léger-des-Vignes","Saint-Parize-le-Châtel","Saint-Pierre-le-Moûtier","Sauvigny-les-Bois","Sermoise-sur-Loire","Trévol"); ?>

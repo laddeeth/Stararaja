@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benasal","Castell de Cabres","Herbés","Mas de las Matas","Mirambel","Morella","Olocau del Rey","Rosell","Villafranca del Cid","Zorita del Maestrazgo"); ?>

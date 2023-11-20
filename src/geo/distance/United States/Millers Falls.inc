@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amherst Center","Ashfield","Athol","Bernardston","Buckland","Colrain","Erving","Gill","Hadley","Hatfield","Leverett","Millers Falls","North Amherst","Phillipston","Royalston","Shelburne","Shelburne Falls","Shutesbury","South Amherst","South Deerfield","Turners Falls","Whately"); ?>

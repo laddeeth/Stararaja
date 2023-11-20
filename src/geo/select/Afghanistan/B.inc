@@ -1,0 +1,1 @@
+<option value="Baghlān">Baghlān</option><option value="Bala Murghab">Bala Murghab</option><option value="Balkh">Balkh</option><option value="Bāmyān">Bāmyān</option><option value="Barakī Barak">Barakī Barak</option><option value="Bāsawul">Bāsawul</option><option value="Bāzārak">Bāzārak</option>

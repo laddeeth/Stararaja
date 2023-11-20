@@ -1,0 +1,1 @@
+<?php $neighbours = array("Armenta","Cofradía","Cuyamel","El Zapotal del Norte","La Jutosa","Naco","Omoa","Peña Blanca","Potrerillos","Río Chiquito","San Pedro Sula"); ?>

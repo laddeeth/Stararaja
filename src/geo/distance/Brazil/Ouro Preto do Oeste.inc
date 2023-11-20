@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ouro Preto do Oeste"); ?>

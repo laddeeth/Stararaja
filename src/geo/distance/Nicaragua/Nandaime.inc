@@ -1,0 +1,1 @@
+<?php $neighbours = array("Catarina","Diriá","Diriamba","Diriomo","Dolores","Granada","Jinotepe","La Concepción","La Paz de Oriente","Masatepe","Masaya","Nandaime","Nandasmo","Nindirí","Niquinohomo","San Juan de Oriente","San Marcos","Santa Teresa"); ?>

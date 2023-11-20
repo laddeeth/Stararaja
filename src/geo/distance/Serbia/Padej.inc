@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adorjan","Bačko Petrovo Selo","Banatska Topola","Bašaid","Bečej","Bočar","Čoka","Gornji Breg","Jazovo","Kanjiža","Kikinda","Mokrin","Mol","Novi Kneževac","Novo Miloševo","Ostojićevo","Padej","Sajan","Sanad","Senta","Tiszahegyes"); ?>

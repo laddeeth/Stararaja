@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bojanów","Gorzyce","Grębów","Harasiuki","Janów Lubelski","Jarocin","Jeżowe","Kamień","Kępie Żaleszańskie","Kończyce","Krzeszów","Modliborzyce","Nisko","Nowa Sarzyna","Przędzel","Pysznica","Racławice","Radomyśl","Rudnik nad Sanem","Sokolniki","Stalowa Wola","Ulanów","Wola Żarczycka","Wólka Tanewska","Zaklików","Zaleszany","Zarzecze","Łętownia"); ?>

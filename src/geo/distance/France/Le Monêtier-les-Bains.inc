@@ -1,0 +1,1 @@
+<?php $neighbours = array("Briançon","Le Monêtier-les-Bains","Modane","Saint-Chaffrey","Saint-Martin-de-Queyrières","Saint-Michel-de-Maurienne","Valloire","Villar-Saint-Pancrace"); ?>

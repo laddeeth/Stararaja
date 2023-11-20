@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auburn Hills","Davison","Flint","Goodrich","Grand Blanc","Holly","Keego Harbor","Lake Fenton","Lake Orion","Lapeer","Ortonville","Sylvan Lake","Waterford"); ?>

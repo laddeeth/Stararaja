@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cambita Garabitos","Don Juan","El Cacao","El Carril","Esperalvillo","Juan Adrián","Los Botados","Piedra Blanca","San Cristóbal","Santo Domingo","Villa Altagracia","Yamasá"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arles","Corneilla-la-Rivière","Estagel","Ille-sur-Têt","Millas","Prades","Prats de Molló","Reiners","Ria-Sirach","Saint-Paul-de-Fenouillet","Thuir","Vernet-les-Bains","Vinça"); ?>

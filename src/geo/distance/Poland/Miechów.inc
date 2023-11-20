@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bębło","Bolechowice","Działoszyce","Giebułtów","Jerzmanowice","Kozłów","Miechów","Miechów Charsznica","Modlnica","Modlniczka","Pilica","Proszowice","Przeginia","Sąspów","Sędziszów","Skalbmierz","Skała","Sułoszowa","Słomniki","Wodzisław","Wolbrom","Zielonki"); ?>

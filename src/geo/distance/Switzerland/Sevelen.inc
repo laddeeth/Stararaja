@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altstätten","Amden","Appenzell","Bad Ragaz","Bühler","Eichberg","Flums","Gais","Gams","Gonten","Grabs","Grüsch","Haag (Rheintal)","Igis","Jenaz","Krummenau","Landquart","Maienfeld","Malans","Oberriet","Quarten","Rüthi","Sargans","Schiers","Sennwald","Sevelen","Trimmis","Untervaz","Urnäsch","Walenstadt","Weesen","Wildhaus","Zizers"); ?>

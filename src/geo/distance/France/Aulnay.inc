@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aulnay","Beauvoir-sur-Niort","Brioux-sur-Boutonne","Burie","Chef-Boutonne","Écoyeux","Fors","Frontenay-Rohan-Rohan","Matha","Melle","Prahecq","Saint-Hilaire-de-Villefranche","Saint-Savinien","Saint-Sulpice-de-Cognac","Saint-Symphorien","Tonnay-Boutonne"); ?>

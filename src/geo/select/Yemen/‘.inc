@@ -1,0 +1,1 @@
+<option value="‘Abs">‘Abs</option><option value="‘Amd">‘Amd</option><option value="‘Amrān">‘Amrān</option><option value="‘Aqqān">‘Aqqān</option><option value="‘Ataq">‘Ataq</option><option value="‘Ubāl">‘Ubāl</option><option value="‘Ukaybir">‘Ukaybir</option><option value="‘Usaylān">‘Usaylān</option>

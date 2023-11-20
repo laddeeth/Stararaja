@@ -1,0 +1,1 @@
+<option value="P’asanauri">P’asanauri</option><option value="P’ot’i">P’ot’i</option>

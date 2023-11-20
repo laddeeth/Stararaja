@@ -1,0 +1,1 @@
+<option value="Borgarnes">Borgarnes</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dąbrowa Białostocka","Goniadz","Janów","Lipsk","Mońki","Suchowola"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belpech","Cintegabelle","Foix","Gaillac-Toulza","La Tour-du-Crieu","Lavelanet","Mazères","Mercus-Garrabet","Mirepoix","Montgaillard","Nailloux","Pamiers","Saint-Jean-du-Falga","Saint-Paul-de-Jarrat","Saverdun","Tarascon-sur-Ariège","Varilhes","Verniolle"); ?>

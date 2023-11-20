@@ -1,0 +1,1 @@
+<?php $neighbours = array("Burniston","Danby","East Ayton","Guisborough","Ingleby Greenhow","Loftus","Marske-by-the-Sea","Pickering","Saltburn-by-the-Sea","Scarborough","Sleights","Thornton Dale","Whitby"); ?>

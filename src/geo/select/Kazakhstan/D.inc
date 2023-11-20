@@ -1,0 +1,1 @@
+<option value="Derzhavīnsk">Derzhavīnsk</option><option value="Dolīnka">Dolīnka</option><option value="Dossor">Dossor</option><option value="Dostyq">Dostyq</option><option value="Dzhalagash">Dzhalagash</option><option value="Dzhambeyty">Dzhambeyty</option><option value="Dzhangala">Dzhangala</option>

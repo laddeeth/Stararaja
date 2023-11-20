@@ -1,0 +1,1 @@
+<?php $neighbours = array("Airway Heights","Country Homes","Dishman","Liberty Lake","Millwood","Opportunity","Otis Orchards-East Farms","Post Falls","Rathdrum","Spokane","Spokane Valley","Trentwood","Veradale"); ?>

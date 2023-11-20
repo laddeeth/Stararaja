@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ávila de los Caballeros","Barraco","Burgohondo","Cebreros","El Hoyo de Pinares","Navalperal de Pinares","Navaluenga","Solosancho","Villacastín"); ?>

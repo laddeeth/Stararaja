@@ -1,0 +1,1 @@
+<?php $neighbours = array("Annot","Carros","Gilette","Le Broc","Levens","Puget-Théniers","Saint-Martin-du-Var","Saint-Vallier-de-Thiey","Tourrettes-sur-Loup"); ?>

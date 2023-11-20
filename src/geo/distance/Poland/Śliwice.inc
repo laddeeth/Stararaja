@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cekcyn","Czarna Woda","Czersk","Drzycim","Kaliska","Karsin","Lniano","Lubichowo","Lubiewo","Osie","Skórcz","Śliwice","Szlachta","Tuchola","Zblewo"); ?>

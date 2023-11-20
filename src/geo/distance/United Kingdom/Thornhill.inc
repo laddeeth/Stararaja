@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dumfries","Kirkconnel","Locharbriggs","Lochmaben","Lockerbie","Moffat","Sanquhar","Thornhill"); ?>

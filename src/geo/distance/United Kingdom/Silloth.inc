@@ -1,0 +1,1 @@
+<?php $neighbours = array("Annan","Aspatria","Carlisle","Cockermouth","Dalbeattie","Dearham","Dumfries","Flimby","Gretna","Locharbriggs","Lochmaben","Lockerbie","Maryport","Silloth","Wigton","Workington"); ?>

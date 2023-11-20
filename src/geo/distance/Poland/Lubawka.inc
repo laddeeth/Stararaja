@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boguszów-Gorce","Bolków","Cieplice Śląskie Zdrój","Czarny Bór","Dziećmorowice","Głuszyca","Głuszyca Górna","Janowice Wielkie","Jedlina-Zdrój","Jelenia Góra","Kamienna Góra","Karpacz","Kowary","Lubawka","Marciszów","Mieroszów","Mysłakowice","Podgórzyn","Stare Bogaczowice","Świebodzice","Szczawno-Zdrój","Wałbrzych","Wojcieszów"); ?>

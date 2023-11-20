@@ -1,0 +1,1 @@
+<?php $neighbours = array("Higginsville","Knob Noster","La Monte","Sweet Springs","Whiteman Air Force Base"); ?>

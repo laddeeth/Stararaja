@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bełżec","Cieszanów","Horyniec-Zdrój","Lubaczów","Lubycza Królewska","Narol","Nowe Sioło","Oleszyce","Susiec","Tomaszów Lubelski","Wielkie Oczy","Zamch"); ?>

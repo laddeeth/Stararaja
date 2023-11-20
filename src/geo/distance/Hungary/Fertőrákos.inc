@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ágfalva","Fertőd","Fertőrákos","Fertőszentmiklós","Nagycenk","Sopron"); ?>

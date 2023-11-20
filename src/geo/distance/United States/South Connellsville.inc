@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bear Rocks","Belle Vernon","Calumet","Collinsburg","Connellsville","Dunbar","East Uniontown","Fairchance","Fellsburg","Hiller","Hopwood","Leith-Hatfield","Lynnwood-Pricedale","New Stanton","North Belle Vernon","Oliver","Perryopolis","South Connellsville","South Uniontown","Speers","West Newton","Youngwood"); ?>

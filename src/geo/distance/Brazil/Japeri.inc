@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barra do Piraí","Belford Roxo","Itaguaí","Japeri","Mendes","Miguel Pereira","Nova Iguaçu","Paracambi","Piraí","Queimados","Seropédica","Vassouras"); ?>

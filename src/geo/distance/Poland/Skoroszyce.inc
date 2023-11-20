@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brzeg","Grodków","Henryków","Kamiennik","Korfantów","Lewin Brzeski","Niemodlin","Nysa","Nysa Zamłynie","Olszanka","Otmuchów","Pakosławice","Przeworno","Sidzina","Skarbimierz Osiedle","Skorogoszcz","Skoroszyce","Tułowice","Wiązów","Ziębice","Łambinowice","Łosiów"); ?>

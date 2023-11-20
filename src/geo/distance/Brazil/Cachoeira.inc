@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cachoeira","Conceição da Feira","Conceição do Almeida","Cruz das Almas","Maragogipe","Santo Amaro","São Francisco do Conde","São Gonçalo dos Campos","Saubara","Sobradinho"); ?>

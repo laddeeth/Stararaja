@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beloeil","Bromont","Carignan","Chambly","Farnham","Granby","Marieville","Mont-Saint-Hilaire","Otterburn Park","Richelieu","Rougemont","Saint-Basile-le-Grand","Saint-Césaire","Saint-Damase","Saint-Hyacinthe","Saint-Jean-sur-Richelieu","Saint-Pie"); ?>

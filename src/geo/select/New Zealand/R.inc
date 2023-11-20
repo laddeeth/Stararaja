@@ -1,0 +1,1 @@
+<option value="Raglan">Raglan</option><option value="Rakaia">Rakaia</option><option value="Red Hill">Red Hill</option><option value="Richmond">Richmond</option><option value="Riverton">Riverton</option><option value="Rolleston">Rolleston</option><option value="Rotorua">Rotorua</option>

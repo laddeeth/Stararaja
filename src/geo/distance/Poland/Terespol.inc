@@ -1,0 +1,1 @@
+<?php $neighbours = array("Kodeń","Piszczac","Rokitno","Terespol","Tuczna","Zalesie"); ?>

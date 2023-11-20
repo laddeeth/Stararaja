@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bom Sucesso","Santo Antônio do Amparo"); ?>

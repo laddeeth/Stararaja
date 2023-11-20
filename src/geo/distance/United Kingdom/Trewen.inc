@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bere Alston","Bodmin","Boyton","Bude","Camelford","Duloe","Flexbury","Gunnislake","Helland","Holsworthy","Horrabridge","Jacobstow","Launceston","Liskeard","Looe","Lostwithiel","North Hill","Pensilva","Pillaton","Poundstock","Saltash","South Hill","Tavistock","Trewen","Wadebridge","Werrington"); ?>

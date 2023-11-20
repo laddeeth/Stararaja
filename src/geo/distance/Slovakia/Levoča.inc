@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dobšiná","Kežmarok","Krompachy","Levoča","Ľubica","Nová Lesná","Podolínec","Poprad","Spišská Belá","Spišská Nová Ves","Spišské Podhradie","Svit","Vysoké Tatry"); ?>

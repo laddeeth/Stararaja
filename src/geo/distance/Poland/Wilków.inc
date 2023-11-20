@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bełżyce","Chodel","Chotcza","Ciepielów","Janowiec","Józefów nad Wisłą","Karczmiska","Kazanów","Kazimierz Dolny","Końskowola","Kurów","Lipsko","Markuszów","Nałęczów","Opole Lubelskie","Policzna","Poniatowa","Przyłęk","Puławy","Solec Nad Wisłą","Wąwolnica","Wilków","Wojciechów","Zwoleń","Łaziska"); ?>

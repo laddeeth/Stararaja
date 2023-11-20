@@ -1,0 +1,1 @@
+<?php $neighbours = array("San Bartolomé Ayautla","San Felipe Jalapa de Díaz","San Felipe Usila","San Juan Bautista Valle Nacional","San Lucas Ojitlán","San Pedro Ixcatlán"); ?>

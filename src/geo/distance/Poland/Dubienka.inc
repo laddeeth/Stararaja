@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dorohusk","Dubienka","Horodło","Hrubieszów","Ruda-Huta","Wojsławice"); ?>

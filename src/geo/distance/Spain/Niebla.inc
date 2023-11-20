@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almonte","Beas","Bollullos par del Condado","Bonares","Chucena","Escacena del Campo","Gibraleón","Hinojos","Huelva","La Palma del Condado","Lucena del Puerto","Manzanilla","Moguer","Niebla","Palos de la Frontera","Paterna del Campo","San Juan del Puerto","Trigueros","Valverde del Camino","Villalba del Alcor","Villarrasa"); ?>

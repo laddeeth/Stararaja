@@ -1,0 +1,1 @@
+<?php $neighbours = array("Catskill","Coxsackie","Glasco","Jefferson Heights","Lake Katrine","Lorenz Park","Palenville","Red Hook","Rhinebeck","Saugerties","Saugerties South","Shokan","Stottville","Tivoli","West Hurley","Zena"); ?>

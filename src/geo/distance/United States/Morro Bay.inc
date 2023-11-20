@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atascadero","Avila Beach","Cayucos","Los Osos","Morro Bay","San Luis Obispo","Santa Margarita"); ?>

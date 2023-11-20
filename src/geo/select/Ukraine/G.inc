@@ -1,0 +1,1 @@
+<option value="Gaspra">Gaspra</option><option value="Glevakha">Glevakha</option><option value="Gnedin">Gnedin</option><option value="Goloby">Goloby</option><option value="Gorodok">Gorodok</option><option value="Gorskoye">Gorskoye</option><option value="Gradizhsk">Gradizhsk</option><option value="Gubinikha">Gubinikha</option>

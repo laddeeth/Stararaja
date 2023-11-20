@@ -1,0 +1,1 @@
+<?php $neighbours = array("Camotán","Chiquimula","Esquipulas","Estanzuela","Jocotán","La Unión","Olopa","Quezaltepeque","San Jacinto","San José La Arada","San Juan Ermita","Zacapa"); ?>

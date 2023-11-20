@@ -1,0 +1,1 @@
+<?php $neighbours = array("Črna na Koroškem","Dravograd","Gotovlje","Kotlje","Lovrenc na Pohorju","Mežica","Mislinja","Mozirje","Muta","Pameče","Polzela","Prevalje","Radlje ob Dravi","Ravne","Šempeter v Savinjski dolini","Slovenj Gradec","Šoštanj","Topolšica","Velenje","Vojnik","Vuzenica","Žalec","Zreče"); ?>

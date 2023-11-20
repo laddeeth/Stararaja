@@ -1,0 +1,1 @@
+<?php $neighbours = array("Berre-les-Alpes","Breil-sur-Roya","Contes","Gilette","Lantosque","Le Broc","Levens","Lucéram","Roquebillière","Saint-Martin-du-Var","Saint-Martin-Vésubie","Sospel","Tende"); ?>

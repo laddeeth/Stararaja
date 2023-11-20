@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belmonte","Campo de Criptana","El Pedernoso","El Provencio","El Toboso","La Puebla de Almoradiel","Las Mesas","Las Pedroñeras","Los Hinojosos","Miguel Esteban","Mota del Cuervo","Pedro Muñoz","Quintanar de la Orden","Socuéllamos","Villamayor de Santiago","Villanueva de Alcardete"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arcata","Bayview","Blue Lake","Cutten","Fortuna","Humboldt Hill","Hydesville","McKinleyville","Myrtletown","Westhaven-Moonstone"); ?>

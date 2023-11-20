@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arpajon-sur-Cère","Aubin","Aurillac","Capdenac-Gare","Cransac","Decazeville","Figeac","Firmi","Lacapelle-Marival","Laroquebrou","Leyme","Livinhac-le-Haut","Maurs","Montbazens","Saint-Céré","Saint-Mamet-la-Salvetat","Saint-Paul-des-Landes","Sansac-de-Marmiesse","Viviez","Ytrac"); ?>

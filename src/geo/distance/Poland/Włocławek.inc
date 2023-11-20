@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baruchowo","Boniewo","Brudzeń Duży","Brześć Kujawski","Choceń","Chodecz","Dobrzyń nad Wisłą","Fabianki","Kikół","Kowal","Lipno","Lubanie","Lubień Kujawski","Lubraniec","Nieszawa","Nowy Duninów","Osięciny","Raciążek","Topólka","Tłuchowo","Waganiec","Wielgie","Włocławek"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Armenta","Camalote","Chotepe","Cofradía","El Marañón","El Milagro","El Plan","El Zapotal del Norte","La Lima","La Sabana","Laguna Verde","Naco","Nuevo Chamelecón","Peña Blanca","Petoa","Pimienta Vieja","Pinalejo","Pueblo Nuevo","Quimistán","Río Chiquito","San Manuel","San Pedro Sula","Santa Elena","Villanueva"); ?>

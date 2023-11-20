@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aalborg","Åbybro","Arden","Dronninglund","Frejlev","Gistrup","Hals","Hjallerup","Klarup","Nibe","Rebild","Skørping","Storvorde","Støvring","Svenstrup","Vadum","Vestbjerg","Vester Hassing","Vodskov"); ?>

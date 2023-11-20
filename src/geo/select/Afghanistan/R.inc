@@ -1,0 +1,1 @@
+<option value="Rūdbār">Rūdbār</option><option value="Rustāq">Rustāq</option>

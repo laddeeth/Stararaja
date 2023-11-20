@@ -1,0 +1,1 @@
+<?php $neighbours = array("Échenoz-la-Méline","Faverney","Fontaine-lès-Luxeuil","Frotey-lès-Vesoul","Jussey","Luxeuil-les-Bains","Navenne","Noidans-lès-Vesoul","Port-sur-Saône","Pusey","Quincey","Rioz","Saint-Loup-sur-Semouse","Scey-sur-Saône-et-Saint-Albin","Vaivre-et-Montoille","Vesoul"); ?>

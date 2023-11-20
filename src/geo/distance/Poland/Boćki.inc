@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bielsk Podlaski","Boćki","Brańsk","Czeremcha","Dziadkowice","Kleszczele","Milejczyce","Nurzec-Stacja","Orla","Rudka","Siemiatycze","Wyszki"); ?>

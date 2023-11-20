@@ -1,0 +1,1 @@
+<option value="Bagdadi">Bagdadi</option><option value="Bakuriani">Bakuriani</option><option value="Bakurianis Andeziti">Bakurianis Andeziti</option><option value="Bat’umi">Bat’umi</option><option value="Bichvint’a">Bichvint’a</option><option value="Bolnisi">Bolnisi</option><option value="Borjomi">Borjomi</option>

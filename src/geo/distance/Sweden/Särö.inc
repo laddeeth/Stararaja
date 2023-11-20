@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andalen","Billdal","Donsö","Fjärås kyrkby","Frillesås","Furulund","Göteborg","Hjuvik","Hönö","Kållered","Kungsbacka","Landvetter","Lindome","Majorna","Mölndal","Mölnlycke","Öckerö","Öjersjö","Onsala","Partille","Särö","Styrsö","Torslanda","Vallda"); ?>

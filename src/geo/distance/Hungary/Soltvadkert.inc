@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ágasegyháza","Akasztó","Bugac","Császártöltés","Csengőd","Fülöpszállás","Hajós","Izsák","Jászszentlászló","Kecel","Kiskőrös","Kiskunhalas","Kiskunmajsa","Kunfehértó","Orgovány","Soltvadkert","Szank","Tázlár"); ?>

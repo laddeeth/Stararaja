@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aliso Viejo","Costa Mesa","Coto De Caza","Dana Point","Foothill Ranch","Ladera Ranch","Laguna Hills","Laguna Niguel","Laguna Woods","Mission Viejo","Newport Beach","Portola Hills","Rancho Santa Margarita","San Clemente","San Joaquin Hills","San Juan Capistrano","Trabuco Canyon"); ?>

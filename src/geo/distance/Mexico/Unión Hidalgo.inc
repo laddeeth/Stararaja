@@ -1,0 +1,1 @@
+<?php $neighbours = array("Asunción Ixtaltepec","Juchitán de Zaragoza","Las Amilpas","Niltepec","San Dionisio del Mar","Unión Hidalgo"); ?>

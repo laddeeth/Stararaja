@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dewart","Elysburg","Fairview-Ferndale","Hummels Wharf","Kulpmont","Linntown","Marshallton","Mifflinburg","New Columbia","Selinsgrove","Shamokin","Shamokin Dam","Trevorton","Watsontown"); ?>

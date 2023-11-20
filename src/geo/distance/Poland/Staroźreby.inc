@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baboszewo","Bielsk","Bodzanów","Bulkowo","Drobin","Dzierzążnia","Glinojeck","Gozdowo","Maszewo Duże","Mała Wieś","Naruszewo","Płock","Płońsk","Raciąż","Radzanowo","Siemiątkowo","Staroźreby","Słubice","Zawidz"); ?>

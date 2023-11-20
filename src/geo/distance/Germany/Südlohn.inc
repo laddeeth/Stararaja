@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ahaus","Billerbeck","Bocholt","Borken","Coesfeld","Gescher","Hamminkeln","Heek","Heiden","Isselburg","Klein Reken","Legden","Raesfeld","Schermbeck","Stadtlohn","Südlohn","Velen","Vreden"); ?>

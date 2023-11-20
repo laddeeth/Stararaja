@@ -1,0 +1,1 @@
+<option value="Dabbūrīya">Dabbūrīya</option><option value="Dāliyat el Karmil">Dāliyat el Karmil</option><option value="Deir Ḥannā">Deir Ḥannā</option><option value="Dimona">Dimona</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blue Hills","Cheshire","Cheshire Village","Chester Center","Cromwell","Deep River Center","East Haddam","East Hartford","Glastonbury","Glastonbury Center","Higganum","Lake Pocotopaug","Meriden","Moodus","New Britain","North Haven","South Windsor","Terramuggus","Wallingford","Wallingford Center","West Hartford","Wethersfield","Wolcott"); ?>

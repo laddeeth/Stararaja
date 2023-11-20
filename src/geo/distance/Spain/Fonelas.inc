@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benalúa de Guadix","Darro","Fonelas","Freila","Gor","Guadahortuna","Guadix","Jeres del Marquesado","Pedro Martínez","Piñar","Purullena","Torre-Cardela"); ?>

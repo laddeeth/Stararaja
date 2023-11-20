@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belmonte de Tajo","Brea de Tajo","Campo Real","Carabaña","Chinchón","Colmenar de Oreja","Estremera","Fuente de Pedro Naharro","Fuentidueña de Tajo","Mondéjar","Morata de Tajuña","Nuevo Baztán","Perales de Tajuña","Pezuela de las Torres","Santa Cruz de la Zarza","Tarancón","Tielmes","Valdilecha","Villar del Olmo","Villarejo de Salvanés"); ?>

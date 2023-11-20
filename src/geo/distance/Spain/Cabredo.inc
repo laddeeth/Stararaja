@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alberite","Arróniz","Arrúbal","Cabredo","Cenicero","Entrena","Fuenmayor","Genevilla","Laguardia","Lapuebla de Labarca","Lardero","Logroño","Los Arcos","Mendavia","Moreda de Álava","Murillo de Río Leza","Oyón","Salvatierra","San Vicente de la Sonsierra","Villamediana de Iregua","Zúñiga"); ?>

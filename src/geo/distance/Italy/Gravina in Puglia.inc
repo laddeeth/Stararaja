@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altamura","Grassano","Gravina in Puglia","Grottole","Irsina","Matera","Miglionico","Poggiorsini","Santeramo in Colle","Toritto"); ?>

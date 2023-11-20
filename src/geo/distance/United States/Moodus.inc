@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chester Center","Cromwell","Deep River Center","East Haddam","Essex Village","Glastonbury","Glastonbury Center","Higganum","Lake Pocotopaug","Madison Center","Meriden","Montville Center","Moodus","Niantic","Old Saybrook","Old Saybrook Center","Oxoboxo River","Saybrook Manor","Terramuggus","Uncasville","Westbrook Center","Wethersfield"); ?>

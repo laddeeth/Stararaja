@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atur","Beaumont-du-Périgord","Belvès","Boulazac","Carsac-Aillac","Cénac-et-Saint-Julien","Creysse","Domme","Lalinde","Le Bugue","Montignac","Mouleydier","Notre-Dame-de-Sanilhac","Rouffignac-Saint-Cernin-de-Reilhac","Sarlat-la-Canéda","Thenon","Vergt"); ?>

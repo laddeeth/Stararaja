@@ -1,0 +1,1 @@
+<option value="Qŭrghonteppa">Qŭrghonteppa</option><option value="Quruqsoy">Quruqsoy</option>

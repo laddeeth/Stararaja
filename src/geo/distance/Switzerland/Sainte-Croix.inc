@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bevaix","Bottens","Boudry","Chavornay","Colombier","Cortaillod","Cossonay","Couvet","Cugy","Echallens","Estavayer-le-Lac","Fleurier","Froideville","Gorgier","Grandson","La Sarraz","Les Ponts-de-Martel","Lucens","Montagny","Moudon","Orbe","Penthalaz","Romanel","Saint-Aubin-Sauges","Sainte-Croix","Travers","Vallorbe","Yverdon-les-Bains","Yvonand"); ?>

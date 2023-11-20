@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allendorf","Bad Berleburg","Bad Laasphe","Battenberg","Biedenkopf","Breidenbach","Bromskirchen","Cölbe","Erndtebrück","Frankenau","Frankenberg","Gemünden an der Wohra","Haina","Hallenberg","Hatzfeld","Korbach","Medebach","Münchhausen","Rosenthal","Schmallenberg","Vöhl","Wetter","Willingen","Winterberg"); ?>

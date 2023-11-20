@@ -1,0 +1,1 @@
+<?php $neighbours = array("Clearlake","Clearlake Oaks","Cobb","Kelseyville","Lakeport","Nice","North Lakeport","Soda Bay","Talmage","Ukiah","Upper Lake"); ?>

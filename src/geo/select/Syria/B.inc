@@ -1,0 +1,1 @@
+<option value="Badāmā">Badāmā</option><option value="Bāniyās">Bāniyās</option><option value="Binnish">Binnish</option><option value="Bulbul">Bulbul</option><option value="Buşrá ash Shām">Buşrá ash Shām</option>

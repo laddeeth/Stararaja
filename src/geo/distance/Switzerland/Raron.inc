@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adelboden","Baltschieder","Brig","Chalais","Chippis","Fiesch","Gampel","Grächen","Grône","Kandersteg","Lens","Leuk","Leukerbad","Montana","Naters","Randogne","Raron","Saas-Fee","Saas-Grund","Salgesch","Sankt Niklaus","Sierre","Stalden","Turtmann","Varen","Veyras","Visp","Visperterminen"); ?>

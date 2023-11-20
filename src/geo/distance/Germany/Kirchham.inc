@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aidenbach","Bad Birnbach","Bad Füssing","Bad Griesbach","Beutelsbach","Chostlarn","Egglham","Ering","Fürstenzell","Haarbach","Haibach","Julbach","Kirchdorf am Inn","Kirchham","Malching","Ortenburg","Passau","Pfarrkirchen","Pocking","Postmünster","Rotthalmünster","Simbach am Inn","Stubenberg","Tettenweis","Triftern","Wittibreut"); ?>

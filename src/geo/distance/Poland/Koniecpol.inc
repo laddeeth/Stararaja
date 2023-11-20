@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dąbrowa Zielona","Gidle","Koniecpol","Kroczyce","Kłomnice","Lelów","Mstów","Oksa","Potok Złoty","Przyrów","Pławno","Secemin","Szczekociny","Włodowice","Włoszczowa","Żarki"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dobersberg","Eggern","Eisgarn","Gastern","Gmünd","Haugschlag","Heidenreichstein","Hirschbach","Hoheneich","Kautzen","Kirchberg am Walde","Litschau","Reingers","Schrems","Thaya","Vitis","Waidhofen an der Thaya","Waldenstein","Waldkirchen an der Thaya","Windigsteig"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcanede","Alcoentre","Alenquer","Alhandra","Almeirim","Alpiarça","Arruda dos Vinhos","Aveiras de Cima","Azambuja","Benavente","Carregado","Cartaxo","Castanheira do Ribatejo","Fazendas de Almeirim","Marinhais","Pontével","Rio Maior","Salvaterra de Magos","Samora Correia","Santarém","São João dos Montes","Ventosa","Vila Franca de Xira"); ?>

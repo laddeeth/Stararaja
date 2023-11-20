@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acate","Chiaramonte Gulfi","Comiso","Marina di Ragusa","Mazzarrone","Modica","Ragusa","Santa Croce Camerina","Scicli","Vittoria"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agaete","Agüimes","Artenara","Arucas","Cruce de Arinaga","Firgas","Gáldar","Guia","Ingenio","Las Palmas de Gran Canaria","Moya","San Bartolomé","San Nicolás","Santa Brígida","Santa Lucía","Tejeda","Telde","Teror","Valleseco","Valsequillo de Gran Canaria","Vega de San Mateo"); ?>

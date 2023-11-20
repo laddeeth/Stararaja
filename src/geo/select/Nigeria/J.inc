@@ -1,0 +1,1 @@
+<option value="Jajere">Jajere</option><option value="Jalingo">Jalingo</option><option value="Jebba">Jebba</option><option value="Jega">Jega</option><option value="Jibiya">Jibiya</option><option value="Jikamshi">Jikamshi</option><option value="Jimeta">Jimeta</option><option value="Jos">Jos</option>

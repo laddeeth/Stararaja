@@ -1,0 +1,1 @@
+<?php $neighbours = array("Álamo","Castillo de Teayo","Cazones","Coatzintla","La Ceiba","Poza Rica de Hidalgo","Santiago de la Peña","Tihuatlán","Tuxpan de Rodríguez Cano"); ?>

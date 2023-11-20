@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bigastro","Cartagena","Fuente-Álamo de Murcia","Jacarilla","La Manga del Mar Menor","La Unión","Los Alcázares","Los Montesinos","Pilar de la Horadada","San Javier","San Miguel de Salinas","San Pedro del Pinatar","Torre-Pacheco","Torrevieja"); ?>

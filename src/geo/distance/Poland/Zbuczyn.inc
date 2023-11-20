@@ -1,0 +1,1 @@
+<?php $neighbours = array("Domanice","Kotuń","Międzyrzec Podlaski","Mokobody","Mordy","Paprotnia","Przesmyki","Rzeczyca","Siedlce","Skórzec","Suchożebry","Trzebieszów","Wiśniew","Zbuczyn","Łosice","Łuków"); ?>

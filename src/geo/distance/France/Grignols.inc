@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bazas","Beaupuy","Casteljaloux","Castets-en-Dorthe","Damazan","Fourques-sur-Garonne","Gironde-sur-Dropt","Gontaud-de-Nogaret","Grignols","La Réole","Marmande","Meilhan-sur-Garonne","Noaillan","Préchac","Saint-Macaire","Saint-Maixant","Sainte-Bazeille","Tonneins","Toulenne","Virazeil"); ?>

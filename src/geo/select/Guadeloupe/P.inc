@@ -1,0 +1,1 @@
+<option value="Petit-Bourg">Petit-Bourg</option><option value="Petit-Canal">Petit-Canal</option><option value="Pointe-à-Pitre">Pointe-à-Pitre</option><option value="Pointe-Noire">Pointe-Noire</option><option value="Port-Louis">Port-Louis</option>

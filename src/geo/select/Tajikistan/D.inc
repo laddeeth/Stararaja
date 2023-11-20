@@ -1,0 +1,1 @@
+<option value="Danghara">Danghara</option><option value="Dushanbe">Dushanbe</option><option value="Dŭsty">Dŭsty</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Canillá","Chiché","Chinique","Comalapa","Cubulco","Joyabaj","Pachalum","San Andrés Sajcabajá","San José Poaquil","San Martín Jilotepeque","Santa Apolonia","Zacualpa"); ?>

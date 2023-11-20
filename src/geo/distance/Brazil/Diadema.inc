@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carapicuíba","Diadema","Embu","Embu Guaçu","Guarulhos","Itapecerica da Serra","Mauá","Osasco","Ribeirão Pires","Rio Grande da Serra","Santo André","São Bernardo do Campo","São Caetano do Sul","São Paulo","Taboão da Serra"); ?>

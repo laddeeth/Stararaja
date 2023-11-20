@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avola","Ispica","Modica","Noto","Pachino","Portopalo di Capo Passero","Pozzallo","Ragusa","Rosolini","Scicli"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Diphu","Lumding Railway Colony"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alderwood Manor","Bainbridge Island","Bangor Trident Base","Bremerton","Brier","Edmonds","Enetai","Erlands Point-Kitsap Lake","Esperance","Hansville","Lake Forest Park","Lofall","Lynnwood","Meadowdale","Mountlake Terrace","Navy Yard City","Port Hadlock-Irondale","Port Ludlow","Poulsbo","Seabeck","Shoreline","Silverdale","Suquamish","Tracyton"); ?>

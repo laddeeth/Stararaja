@@ -1,0 +1,1 @@
+<?php $neighbours = array("Algarinejo","Almedinilla","Archidona","Benamejí","Cabra","Carcabuey","Cuevas Bajas","Cuevas de San Marcos","Encinas Reales","Huétor-Tájar","Iznájar","Loja","Lucena","Montefrío","Palenciana","Priego de Córdoba","Rute","Salar","Villanueva de Algaidas","Villanueva de Tapia","Villanueva del Rosario","Villanueva del Trabuco","Zagra"); ?>

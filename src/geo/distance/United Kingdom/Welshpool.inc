@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acton","Bayston Hill","Bicton","Church Stretton","Gobowen","Great Hanwood","Great Ness","Llanfechain","Llanfyllin","Llangynog","Llanrhaeadr-ym-Mochnant","Longnor","Lydham","Mainstone","Newtown","Norbury","Oswestry","Pant","Petton","Pontesbury","Shrewsbury","Welshpool","Westbury","Whittington"); ?>

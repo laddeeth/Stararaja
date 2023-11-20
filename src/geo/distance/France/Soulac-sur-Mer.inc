@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arvert","Chaillevette","Cozes","Étaules","Gaillan-en-Médoc","La Tremblade","Le Gua","Les Mathes","Lesparre-Médoc","Médis","Meschers-sur-Gironde","Meursac","Mortagne-sur-Gironde","Royan","Sablonceaux","Saint-Georges-de-Didonne","Saint-Palais-sur-Mer","Saint-Sulpice-de-Royan","Saujon","Semussac","Soulac-sur-Mer","Vaux-sur-Mer"); ?>

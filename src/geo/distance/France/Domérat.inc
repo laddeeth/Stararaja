@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chambon-sur-Voueize","Commentry","Désertines","Domérat","Doyet","Durdat-Larequille","Estivareilles","Évaux-les-Bains","Gouzon","Huriel","Lavault-Sainte-Anne","Montluçon","Néris-les-Bains","Prémilhat","Quinssaines","Saint-Victor","Vallon-en-Sully","Villebret"); ?>

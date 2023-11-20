@@ -1,0 +1,1 @@
+<?php $neighbours = array("Băile Tuşnad","Băţanii Mari","Bodoc","Boroşneu Mare","Brateş","Breţcu","Catalina","Cernat","Covasna","Ghelinţa","Ghidfalău","Imper","Lemnia","Malnaş","Moacşa","Ojdula","Poian","Reci","Sfântu-Gheorghe","Sînsimion","Sînzieni","Tîrgu Secuiesc","Turia","Tuşnad","Valea Crişului","Valea Mare","Zăbala"); ?>

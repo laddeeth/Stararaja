@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baraboo","Black Earth","De Forest","Lake Wisconsin","Mazomanie","Pardeeville","Poynette","Prairie du Sac","Rio","Sauk City","Waunakee","West Baraboo"); ?>

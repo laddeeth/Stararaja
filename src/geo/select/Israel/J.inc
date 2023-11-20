@@ -1,0 +1,1 @@
+<option value="Jaljūlya">Jaljūlya</option><option value="Jerusalem">Jerusalem</option><option value="Jīsh">Jīsh</option><option value="Judeida">Judeida</option>

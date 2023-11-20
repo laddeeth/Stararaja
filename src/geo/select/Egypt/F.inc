@@ -1,0 +1,1 @@
+<option value="Fāqūs">Fāqūs</option><option value="Fāraskūr">Fāraskūr</option><option value="Farshūţ">Farshūţ</option><option value="Fuwah">Fuwah</option>

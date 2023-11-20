@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biscarrosse","Labouheyre","Lit-et-Mixe","Mimizan","Onesse-et-Laharie","Parentis-en-Born","Pontenx-les-Forges","Saint-Julien-en-Born","Vielle-Saint-Girons","Ychoux"); ?>

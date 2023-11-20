@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bretteville","Bricquebec","Brix","Cherbourg-Octeville","Digosville","Équeurdreville-Hainneville","Fermanville","La Glacerie","Martinvast","Montebourg","Octeville","Querqueville","Quettehou","Réville","Saint-Pierre-Église","Saint-Vaast-la-Hougue","Sainte-Mère-Église","Sottevast","Tollevast","Tourlaville","Urville-Nacqueville","Valognes"); ?>

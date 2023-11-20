@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belorado","Briviesca","Casalarreina","Cerezo de Río Tirón","Ezcaray","Haro","Labastida","Miranda de Ebro","Pradoluengo","Santo Domingo de la Calzada","Villalba de Rioja","Villarta-Quintana"); ?>

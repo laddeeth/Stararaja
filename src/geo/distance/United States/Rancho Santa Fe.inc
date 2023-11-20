@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bonsall","Camp Pendleton South","Carlsbad","Del Mar","Encinitas","Escondido","Eucalyptus Hills","Fairbanks Ranch","Hidden Meadows","La Jolla","Lake San Marcos","Poway","Rancho Santa Fe","San Pasqual","Santee","Solana Beach","Vista"); ?>

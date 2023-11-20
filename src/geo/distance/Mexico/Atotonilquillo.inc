@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ajijic","Atequiza","Atotonilquillo","Cajititlán","Chapala","Coyula","Cuyutlán","El Quince","El Verde","Ixtlahuacán de los Membrillos","Juanacatlán","La Aurora","Las Pintas de Arriba","Poncitlán","San José del Castillo","San Juan Cosalá","San Pedro Itzicán","Tizapán el Alto","Zapotlanejo"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cayuga Heights","East Ithaca","Montour Falls","Moravia","Northeast Ithaca","Northwest Ithaca","Trumansburg","Watkins Glen"); ?>

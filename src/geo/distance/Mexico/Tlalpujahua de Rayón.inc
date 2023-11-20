@@ -1,0 +1,1 @@
+<?php $neighbours = array("Contepec","El Oro de Hidalgo","Mineral de Angangueo","San Felipe del Progreso","San Lorenzo Tlacotepec","San Miguel Tenochtitlán","Santiago Citendejé","Temascalcingo","Tlalpujahua de Rayón"); ?>

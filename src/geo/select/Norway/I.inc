@@ -1,0 +1,1 @@
+<option value="Indre Arna">Indre Arna</option><option value="Innbygda">Innbygda</option><option value="Inndyr">Inndyr</option><option value="Isdalsstø">Isdalsstø</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brea de Tajo","Estremera","Fuente de Pedro Naharro","Fuentidueña de Tajo","Horcajo de Santiago","Huete","Santa Cruz de la Zarza","Tarancón","Villarejo de Salvanés"); ?>

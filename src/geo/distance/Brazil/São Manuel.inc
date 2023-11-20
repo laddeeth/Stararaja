@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barra Bonita","Botucatu","Igaraçu do Tietê","Lençóis Paulista","Macatuba","São Manuel"); ?>

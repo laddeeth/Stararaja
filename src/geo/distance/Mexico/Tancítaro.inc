@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apatzingán de la Constitución","Buenavista Tomatlán","Nuevo San Juan Parangaricutiro","Peribán de Ramos","San Juan De Los Platanos","Tancítaro"); ?>

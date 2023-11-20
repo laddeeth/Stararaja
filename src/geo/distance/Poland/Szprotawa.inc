@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bytom Odrzański","Gaworzyce","Gromadka","Iłowa","Kożuchów","Kunice Żarskie","Małomice","Nowa Sól","Nowe Miasteczko","Przemków","Radwanice","Siedlisko","Szprotawa","Żagań","Żary"); ?>

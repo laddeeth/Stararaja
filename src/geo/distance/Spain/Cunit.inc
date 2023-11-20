@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altafulla","Begues","Calafell","Castelldefels","Castellet","Creixell","Cubelles","Cunit","El Vendrell","La Granada","La Secuita","Olesa de Bonesvalls","Olivella","Roda de Barà","Sant Pere de Ribes","Sant Pere de Riudebitlles","Santa Oliva","Sitges","Subirats","Torredembarra","Vilafranca del Penedès","Vilanova i la Geltrú"); ?>

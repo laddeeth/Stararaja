@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agneaux","Bayeux","Carentan","Grandcamp-Maisy","Isigny-sur-Mer","La Meauffe","Le Molay-Littry","Marigny","Montebourg","Périers","Picauville","Pont-Hébert","Port-en-Bessin-Huppain","Saint-Hilaire-Petitville","Saint-Jean-des-Baisants","Saint-Lô","Sainte-Mère-Église"); ?>

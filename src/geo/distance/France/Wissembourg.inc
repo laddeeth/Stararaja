@@ -1,0 +1,1 @@
+<?php $neighbours = array("Betschdorf","Durrenbach","Eschbach","Gumbrechtshoffen","Gundershoffen","Gœrsdorf","Haguenau","Kaltenhouse","Lembach","Mertzwiller","Niederbronn-les-Bains","Oberbronn","Oberhoffen-sur-Moder","Reichshoffen","Roppenheim","Schweighouse-sur-Moder","Seltz","Soufflenheim","Soultz-sous-Forêts","Surbourg","Walbourg","Wissembourg"); ?>

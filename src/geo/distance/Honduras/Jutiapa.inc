@@ -1,0 +1,1 @@
+<?php $neighbours = array("Corozal","Jutiapa","La Ceiba","Nueva Armenia","Río Esteban","Sambo Creek"); ?>

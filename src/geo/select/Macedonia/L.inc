@@ -1,0 +1,1 @@
+<option value="Larce">Larce</option><option value="Lažani">Lažani</option><option value="Lisičani">Lisičani</option><option value="Ljubin">Ljubin</option><option value="Logovardi">Logovardi</option><option value="Lojane">Lojane</option><option value="Lukovo">Lukovo</option>

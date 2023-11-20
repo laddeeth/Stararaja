@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alfred","Arundel","Biddeford","Cornish","Gorham","Hollis Center","Kennebunk","Kennebunkport","Lake Arrowhead","Limerick","Limington","North Windham","Old Orchard Beach","Saco","Scarborough","Shapleigh","South Portland","South Portland Gardens","South Sanford","Springvale","Steep Falls","Waterboro","West Kennebunk","West Scarborough","Westbrook"); ?>

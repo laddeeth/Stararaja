@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allègre","Bains","Cerzat","Coubon","Cussac-sur-Loire","Espaly-Saint-Marcel","Langeac","Le Malzieu-Ville","Le Puy-en-Velay","Paulhaguet","Polignac","Saint-Alban-sur-Limagnole","Saint-Paulien","Saugues","Solignac-sur-Loire","Vals-près-le-Puy"); ?>

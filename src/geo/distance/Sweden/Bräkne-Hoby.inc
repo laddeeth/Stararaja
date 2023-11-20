@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bräkne-Hoby","Hasslö","Kallinge","Karlshamn","Mörrum","Nättraby","Rödeby","Ronneby","Svängsta"); ?>

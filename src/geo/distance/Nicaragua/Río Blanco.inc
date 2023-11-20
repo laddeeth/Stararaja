@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bocana de Paiwas","Matiguás","Río Blanco"); ?>

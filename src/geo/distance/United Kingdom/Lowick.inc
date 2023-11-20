@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allanton","Alnwick","Ancroft","Bamburgh","Beadnell","Belford","Berwick-Upon-Tweed","Chirnside","Coldstream","Doddington","Duns","Ellingham","Embleton","Eyemouth","Ford","Kelso","Lowick","North Sunderland","Whittingham","Wooler"); ?>

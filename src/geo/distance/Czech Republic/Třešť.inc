@@ -1,0 +1,1 @@
+<?php $neighbours = array("Batelov","Brtnice","Český Rudolec","Dačice","Dobronín","Dolní Cerekev","Horní Cerekev","Humpolec","Jihlava","Kamenice nad Lipou","Kněžice","Kunžak","Lípa","Luka nad Jihlavou","Nová Cerekev","Okříšky","Pelhřimov","Počátky","Polná","Stařeč","Štoky","Strmilov","Studená","Telč","Třešť","Velký Beranov","Želetava","Žirovnice"); ?>

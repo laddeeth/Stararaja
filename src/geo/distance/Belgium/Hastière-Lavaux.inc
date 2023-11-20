@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aiseau","Anhée","Assesse","Beauraing","Cerfontaine","Châtelet","Ciney","Couvin","Dinant","Doische","Floreffe","Florennes","Fosses-la-Ville","Gedinne","Gerpinnes","Gesves","Hamois","Hastière-Lavaux","Houyet","La Bruyère","Mettet","Namur","Onhaye","Philippeville","Profondeville","Rochefort","Walcourt","Wellin","Yvoir"); ?>

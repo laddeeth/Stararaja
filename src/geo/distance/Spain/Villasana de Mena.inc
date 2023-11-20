@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ampuero","Amurrio","El Corrillo","Espinosa de los Monteros","Gueñes","Lanestosa","Lezama","Llodio","Medina de Pomar","Ramales de la Victoria","Sopuerta","Urduña","Urrestieta","Urtuella","Villasana de Mena"); ?>

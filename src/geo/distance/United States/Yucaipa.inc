@@ -1,0 +1,1 @@
+<?php $neighbours = array("Banning","Big Bear Lake","Cabazon","Calimesa","Colton","Grand Terrace","Highgrove","Loma Linda","March Air Force Base","Moreno Valley","Nuevo","Redlands","Running Springs","San Bernardino","San Jacinto","Yucaipa"); ?>

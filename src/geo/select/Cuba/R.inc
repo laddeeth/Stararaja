@@ -1,0 +1,1 @@
+<option value="Rancho Veloz">Rancho Veloz</option><option value="Ranchuelo">Ranchuelo</option><option value="Remedios">Remedios</option><option value="Río Cauto">Río Cauto</option><option value="Río Guayabal de Yateras">Río Guayabal de Yateras</option><option value="Rodas">Rodas</option>

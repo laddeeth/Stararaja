@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almese","Avigliana","Bardonecchia","Borgone Susa","Bruzolo","Bussoleno","Caprie","Chianocco","Chiomonte","Chiusa di San Michele","Coazze","Condove","Giaveno","Oulx","Perosa Argentina","Pinasca","Pomaretto","Rubiana","San Germano Chisone","Susa","Vaie","Villar Dora","Villar Focchiardo","Villar Perosa","Viù"); ?>

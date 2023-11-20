@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ajuchitlán del Progreso","Arcelia","Ciudad Altamirano","Coyuca de Catalán","Tlalchapa","Tlapehuala"); ?>

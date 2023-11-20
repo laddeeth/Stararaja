@@ -1,0 +1,1 @@
+<?php $neighbours = array("Campodolcino","Chiavenna","Consiglio di Rumo","Domaso","Dubino","Gordona","Gravedona","Mese","Novate Mezzola","Piuro","Prata Camportaccio","Samolaco","Sorico","Verceia","Villa di Chiavenna"); ?>

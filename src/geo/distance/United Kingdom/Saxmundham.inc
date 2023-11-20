@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldeburgh","Beccles","Bungay","Cookley","Debenham","Ditchingham","Felixstowe","Framlingham","Halesworth","Harleston","Ipswich","Kesgrave","Kessingland","Leiston","Saxmundham","Southwold","Wickham Market","Woodbridge"); ?>

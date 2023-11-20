@@ -1,0 +1,1 @@
+<?php $neighbours = array("Choloma","El Milagro","El Negrito","El Progreso","Guaimitas","La Estancia","La Guacamaya","La Huesa","La Lima","La Mina","La Sabana","Mezapa","Mojimán","Monterrey","Morazán","Nueva Esperanza","Ocote Paulino","Puerto Alto","San José del Boquerón","San Manuel","Toyós","Victoria"); ?>

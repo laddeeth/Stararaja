@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bayon","Bulgnéville","Chantraine","Châtel-sur-Moselle","Châtenois","Chavelot","Contrexéville","Darney","Darnieulles","Dogneville","Épinal","Flavigny-sur-Moselle","Golbey","Igney","Les Forges","Mirecourt","Nomexy","Portieux","Pulligny","Thaon-les-Vosges","Uriménil","Uxegney","Uzemain","Vézelise","Vincey","Vittel"); ?>

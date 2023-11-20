@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carpino","Ischitella","Mattinata","Peschici","Rodi Garganico","Vico del Gargano","Vieste"); ?>

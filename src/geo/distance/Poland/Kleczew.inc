@@ -1,0 +1,1 @@
+<?php $neighbours = array("Golina","Jeziora Wielkie","Kazimierz Biskupi","Kleczew","Konin","Kramsk","Krzymów","Lądek","Licheń Stary","Orchowo","Piotrków Kujawski","Powidz","Rzgów Pierwszy","Skulsk","Sompolno","Strzałkowo","Strzelno","Słupca","Wierzbinek","Wilczogóra","Wilczyn","Witkowo","Zagórów"); ?>

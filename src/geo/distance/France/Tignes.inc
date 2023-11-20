@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aime","Belle-Plagne","Bourg-Saint-Maurice","Bozel","Courchevel","Les Allues","Mâcot-la-Plagne","Méribel","Saint-Bon-Tarentaise","Séez","Tignes"); ?>

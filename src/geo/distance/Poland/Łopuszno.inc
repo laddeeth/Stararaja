@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brzeziny","Chęciny","Fałków","Kaniów","Kielce","Końskie","Kostomłoty Drugie","Kostomłoty Pierwsze","Krasocin","Małogoszcz","Miedziana Góra","Mniów","Oksa","Osiedle-Nowiny","Piekoszów","Radoszyce","Ruda Maleniecka","Smyków","Strawczyn","Słupia","Włoszczowa","Zagnańsk","Łopuszno"); ?>

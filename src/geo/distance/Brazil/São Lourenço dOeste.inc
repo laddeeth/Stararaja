@@ -1,0 +1,1 @@
+<?php $neighbours = array("Pato Branco","São Lourenço dOeste"); ?>

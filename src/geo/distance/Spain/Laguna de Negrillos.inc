@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benavente","Bustillo del Páramo","Castrocalbón","Chozas de Abajo","La Bañeza","Laguna de Negrillos","San Cristóbal de Entreviñas","Santa Cristina de la Polvorosa","Santa Elena de Jamuz","Santa María del Páramo","Soto de la Vega","Valderas","Valdevimbre","Valencia de Don Juan","Villamañán","Villaquejida"); ?>

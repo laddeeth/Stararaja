@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bardo","Bozkow","Bystrzyca Kłodzka","Duszniki-Zdrój","Głuszyca Górna","Jugów","Kudowa-Zdrój","Kłodzko","Lewin Kłodzki","Ludwikowice Kłodzkie","Nowa Ruda","Polanica-Zdrój","Radków","Szczytna"); ?>

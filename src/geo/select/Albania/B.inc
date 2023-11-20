@@ -1,0 +1,1 @@
+<option value="Ballsh">Ballsh</option><option value="Berat">Berat</option><option value="Bilisht">Bilisht</option><option value="Bulqizë">Bulqizë</option><option value="Burrel">Burrel</option>

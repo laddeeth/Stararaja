@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bessemer City","Blacksburg","Boiling Springs","Cherryville","Clover","Cramerton","Gastonia","Kings Mountain","Ranlo","South Gastonia","Stanley","White Plains"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Guaratuba","Paranaguá","Pontal do Paraná"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aspendale Gardens","Black Rock","Blairgowrie","Cranbourne","Dingley Village","Frankston East","Hastings","Highett","Mordialloc","Mornington","Parkdale","Somerville","Sorrento"); ?>

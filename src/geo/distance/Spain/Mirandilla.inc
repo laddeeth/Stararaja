@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alange","Alcuéscar","Almoharín","Arroyo de San Serván","Calamonte","Cordobilla de Lácara","Esparragalejo","Guareña","La Garrovilla","La Nava de Santiago","Medellín","Mérida","Mirandilla","Montánchez","Oliva de Mérida","Santa Amalia","Trujillanos","Valdetorres","Valverde de Mérida","Villagonzalo","Zarza de Alange"); ?>

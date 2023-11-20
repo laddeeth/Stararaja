@@ -1,0 +1,1 @@
+<?php $neighbours = array("La Pintana","Lampa","Lo Prado","Peñaflor","Puente Alto","San Bernardo","Santiago","Villa Presidente Frei, Ñuñoa, Santiago, Chile"); ?>

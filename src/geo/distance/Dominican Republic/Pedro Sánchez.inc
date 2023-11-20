@@ -1,0 +1,1 @@
+<?php $neighbours = array("Hato Mayor del Rey","Miches","Pedro Sánchez","Santa Cruz de El Seibo"); ?>

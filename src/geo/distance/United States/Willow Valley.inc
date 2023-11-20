@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bullhead City","Laughlin","Mohave Valley","Needles","Willow Valley"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bembibre","Castropodame","Congosto","Cubillos del Sil","Fabero","Folgoso de la Ribera","Igüeña","Palacios del Sil","Quintana del Castillo","Toreno","Torre del Bierzo","Villablino"); ?>

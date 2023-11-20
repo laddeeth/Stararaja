@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cojutepeque","Delgado","El Rosario","Ilopango","Olocuilta","Panchimalco","Rosario de Mora","San Marcos","San Pedro Masahuat","San Salvador","San Vicente","Santiago Nonualco","Santo Tomás","Soyapango","Zacatecoluca","Zaragoza"); ?>

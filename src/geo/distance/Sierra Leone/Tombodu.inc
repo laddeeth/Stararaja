@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bunumbu","Daru","Kailahun","Manowa","Mobai","Pendembu","Tombodu"); ?>

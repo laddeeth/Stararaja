@@ -1,0 +1,1 @@
+<?php $neighbours = array("Angels Camp","Cedar Ridge","Copperopolis","Forest Meadows","Mountain Ranch","Murphys","Rancho Calaveras","San Andreas","Sutter Creek","Valley Springs"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Callington","Goolwa","Hahndorf","Langhorne Creek","Littlehampton","Macclesfield","Meadows","Mount Barker","Mount Compass","Nairne","Strathalbyn"); ?>

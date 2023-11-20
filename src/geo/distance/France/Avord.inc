@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avord","Baugy","Bourges","Cours-les-Barres","Dun-sur-Auron","Fussy","La Chapelle-Saint-Ursin","Levet","Marmagne","Menetou-Salon","Nérondes","Plaimpied-Givaudins","Rians","Saint-Doulchard","Saint-Éloy-de-Gy","Saint-Germain-du-Puy","Sainte-Solange","Trouy","Vasselay"); ?>

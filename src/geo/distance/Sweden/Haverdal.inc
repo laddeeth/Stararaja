@@ -1,0 +1,1 @@
+<?php $neighbours = array("Åled","Falkenberg","Frösakull","Fyllinge","Getinge","Gullbrandstorp","Halmstad","Harplinge","Haverdal","Mellbystrand","Mjällby","Oskarström","Påarp","Trönninge"); ?>

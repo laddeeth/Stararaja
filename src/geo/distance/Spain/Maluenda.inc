@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alhama de Aragón","Ateca","Brea de Aragón","Calatayud","Daroca","Illueca","La Almunia de Doña Godina","Maluenda","Morata de Jalón","Ricla"); ?>

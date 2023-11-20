@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borek Wielkopolski","Cieszków","Dobrzyca","Gorzyce Wielkie","Janków Przygodzki","Jutrosin","Kobylin","Konary","Kotlin","Koźmin Wielkopolski","Krośnice","Krotoszyn","Milicz","Odolanów","Ostrów Wielkopolski","Pakosław","Pępowo","Pogorzela","Przygodzice","Raszków","Rozdrażew","Sośnie","Sulmierzyce","Witaszyce","Zduny"); ?>

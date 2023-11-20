@@ -1,0 +1,1 @@
+<option value="Makedonska Kamenica">Makedonska Kamenica</option><option value="Makedonski Brod">Makedonski Brod</option><option value="Mešeišta">Mešeišta</option><option value="Miletino">Miletino</option><option value="Miravci">Miravci</option><option value="Morani">Morani</option><option value="Muleza">Muleza</option><option value="Murtino">Murtino</option>

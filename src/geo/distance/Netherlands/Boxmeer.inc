@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aarle-Rixtel","Arcen","Berg en Dal","Bergharen","Berghem","Beuningen","Boekel","Boxmeer","Bredeweg","Cuijk","De Horst","Erp","Gennep","Grave","Groesbeek","Helmond","Keldonk","Lindenholt","Mariaheide","Nijmegen","Odiliapeel","Oosterhout","Reek","Schaijk","Sint Anthonis","Uden","Veghel","Venray","Volkel","Wellerlooi","Wijchen","Zeeland","Zijtaart"); ?>

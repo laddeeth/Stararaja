@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaumont-le-Roger","Bernay","Beuvillers","Beuzeville","Brionne","Broglie","Cambremer","Cormeilles","Corneville-sur-Risle","Épaignes","La Vespière","Lieurey","Lisieux","Livarot","Manneville-sur-Risle","Menneval","Moyaux","Nassandres","Orbec","Pont-Audemer","Saint-Désir","Saint-Germain-Village","Serquigny","Thiberville","Toutainville","Vimoutiers"); ?>

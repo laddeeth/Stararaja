@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aeschi","Beatenberg","Bönigen","Brienz","Därligen","Fiesch","Flühli","Frutigen","Giswil","Grindelwald","Interlaken","Lauterbrunnen","Lungern","Matten","Meiringen","Oberdiessbach","Ringgenberg","Sigriswil","Spiez","Unterseen","Wilderswil"); ?>

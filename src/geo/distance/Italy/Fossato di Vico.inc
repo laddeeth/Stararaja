@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arcevia","Assisi","Cagli","Cantiano","Castelraimondo","Costacciaro","Esanatoglia","Fabriano","Fiuminata","Fossato di Vico","Frontone","Genga","Gualdo Tadino","Gubbio","Matelica","Nocera Umbra","Pergola","Pioraco","Sassoferrato","Scheggia e Pascelupo","Serra San Quirico","Serravalle di Chienti","Sigillo","Valfabbrica","Valtopina"); ?>

@@ -1,0 +1,1 @@
+<option value="Việt Trì">Việt Trì</option><option value="Vinh">Vinh</option><option value="Vĩnh Long">Vĩnh Long</option><option value="Vĩnh Yên">Vĩnh Yên</option><option value="Vũng Tàu">Vũng Tàu</option>

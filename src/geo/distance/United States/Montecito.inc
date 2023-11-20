@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carpinteria","Goleta","Isla Vista","Mission Canyon","Montecito","Santa Barbara","Summerland","Toro Canyon"); ?>

@@ -1,0 +1,1 @@
+<option value="Kežmarok">Kežmarok</option><option value="Kolárovo">Kolárovo</option><option value="Komárno">Komárno</option><option value="Košice">Košice</option><option value="Kremnica">Kremnica</option><option value="Krompachy">Krompachy</option><option value="Krupina">Krupina</option><option value="Kysucké Nové Mesto">Kysucké Nové Mesto</option>

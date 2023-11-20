@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agira","Aidone","Alimena","Assoro","Barrafranca","Blufi","Bompietro","Calascibetta","Caltanissetta","Enna","Gagliano Castelferrato","Gangi","Leonforte","Mazzarino","Mirabella Imbaccari","Nicosia","Nissoria","Piazza Armerina","Pietraperzia","Raddusa","Resuttano","San Cataldo","Santa Caterina Villarmosa","Valguarnera Caropepe","Villarosa"); ?>

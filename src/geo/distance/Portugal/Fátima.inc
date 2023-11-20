@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcanede","Alcanena","Alcobaça","Aljubarrota","Amor","Batalha","Caranguejeira","Entroncamento","Fátima","Golegã","Leiria","Maceira","Marinha Grande","Monsanto","Ourém","Pataias","Porto de Mós","Riachos","Santa Catarina da Serra","Souto da Carpalhosa","Tomar","Torres Novas"); ?>

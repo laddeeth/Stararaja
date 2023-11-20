@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boyne City","Charlevoix","Harbor Springs","Indian River","Petoskey"); ?>

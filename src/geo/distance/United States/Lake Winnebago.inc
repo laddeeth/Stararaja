@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belton","Blue Springs","East Independence","Grain Valley","Harrisonville","Lake Lotawana","Lake Winnebago","Leawood","Lees Summit","Lone Jack","Peculiar","Pleasant Hill","Prairie Village","Raymore","Raytown"); ?>

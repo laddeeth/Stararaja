@@ -1,0 +1,1 @@
+<?php $neighbours = array("Argo","Center Point","Chalkville","Clay","Fultondale","Gardendale","Grayson Valley","Irondale","Kimberly","Leeds","Locust Fork","Margaret","Moody","Morris","Mountain Brook","Odenville","Pell City","Pinson","Springville","Tarrant","Trussville","Vandiver","Warrior"); ?>

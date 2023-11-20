@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aubigny-sur-Nère","Avord","Baugy","Bourges","Foëcy","Fussy","Henrichemont","La Chapelle-Saint-Ursin","Marmagne","Mehun-sur-Yèvre","Menetou-Salon","Neuvy-sur-Barangeon","Plaimpied-Givaudins","Rians","Saint-Doulchard","Saint-Éloy-de-Gy","Saint-Germain-du-Puy","Saint-Satur","Sainte-Solange","Sancerre","Trouy","Vasselay","Vignoux-sur-Barangeon"); ?>

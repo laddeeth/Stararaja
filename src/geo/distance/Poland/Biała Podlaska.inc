@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biała Podlaska","Drelów","Janów Podlaski","Komarówka Podlaska","Konstantynów","Leśna Podlaska","Międzyrzec Podlaski","Piszczac","Rokitno","Rossosz","Rzeczyca","Stara Kornica","Tuczna","Wisznice","Zalesie","Łomazy"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Balneário Camboriú","Barra Velha","Itajaí","Navegantes","Penha"); ?>

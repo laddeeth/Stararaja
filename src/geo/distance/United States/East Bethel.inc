@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anoka","Branch","Brooklyn Center","Champlin","Chisago City","Circle Pines","East Bethel","Elk River","Fridley","Ham Lake","Isanti","Lindstrom","Lino Lakes","Mounds View","New Brighton","North Oaks","Nowthen","Osseo","Saint Francis","Shoreview","Spring Lake Park","Stacy","West Coon Rapids"); ?>

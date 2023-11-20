@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agazzano","Bardi","Bedonia","Bettola","Bobbio","Borgo Val di Taro","Carpaneto Piacentino","Coli","Compiano","Farini","Ferriere","Gazzola","Gropparello","Morfasso","Nibbiano","Pellegrino Parmense","Pianello Val Tidone","Podenzano","Rezzoaglio","Rivergaro","San Giorgio Piacentino","Tornolo","Travo","Varsi","Vernasca","Vigolzone","Zavattarello"); ?>

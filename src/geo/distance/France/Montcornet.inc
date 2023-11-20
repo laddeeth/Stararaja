@@ -1,0 +1,1 @@
+<?php $neighbours = array("Athies-sous-Laon","Château-Porcien","Crécy-sur-Serre","Guignicourt","Hirson","Liesse-Notre-Dame","Marle","Montcornet","Origny-en-Thiérache","Rozoy-sur-Serre","Saint-Erme-Outre-et-Ramecourt","Saint-Michel","Signy-le-Petit","Sissonne","Vervins"); ?>

@@ -1,0 +1,1 @@
+<option value="Marsa">Marsa</option><option value="Marsaxlokk">Marsaxlokk</option><option value="Mellieħa">Mellieħa</option><option value="Mġarr">Mġarr</option><option value="Mosta">Mosta</option><option value="Mqabba">Mqabba</option><option value="Msida">Msida</option>

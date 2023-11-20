@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albacete","Alcalá del Júcar","Casas de Juan Núñez","Casas Ibáñez","Cenizate","Chinchilla de Monte Aragón","Fuentealbilla","Higueruela","Madrigueras","Mahora","Valdeganga","Villamalea"); ?>

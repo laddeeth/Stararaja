@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biloxi","Escatawpa","Gautier","Gulf Hills","Gulf Park Estates","Hickory Hills","Latimer","Lyman","Moss Point","Ocean Springs","Pascagoula","Saint Martin","Vancleave","West Gulfport"); ?>

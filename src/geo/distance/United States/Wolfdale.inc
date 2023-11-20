@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baidland","Bentleyville","Bethel Park","Brilliant","Bryn Mawr","Burgettstown","Canonsburg","Castle Shannon","Cecil-Bishop","East Washington","Enlow","Gastonville","Hooverson Heights","McGovern","McMurray","Mount Lebanon","Muse","New Eagle","Rennerdale","South Park Township","Sturgeon","Upper Saint Clair","Wellsburg","Wolfdale"); ?>

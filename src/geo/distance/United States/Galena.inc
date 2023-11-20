@@ -1,0 +1,1 @@
+<?php $neighbours = array("Audubon Park","Beechwood Village","Charlestown","Corydon","Galena","Graymoor-Devondale","Henryville","Indian Hills","Indian Hills Cherokee Section","New Albany","New Pekin","Northfield","Oak Park","Pleasure Ridge Park","Prospect","Saint Dennis","Saint Matthews","Sellersburg","Shively","Valley Station","West Buechel","Windy Hills"); ?>

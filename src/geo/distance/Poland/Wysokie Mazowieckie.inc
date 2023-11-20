@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boguty-Pianki","Brańsk","Ciechanowiec","Czyżew","Rudka","Rutki","Rutki-Kossaki","Sokoły","Suraż","Szepietowo","Szumowo","Wysokie Mazowieckie","Zambrów","Łapy"); ?>

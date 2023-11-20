@@ -1,0 +1,1 @@
+<?php $neighbours = array("Białe Błota","Bydgoszcz","Chełmża","Dąbrowa Chełmińska","Fordon","Gniewkowo","Nowa Wieś Wielka","Osielsko","Pruszcz","Solec Kujawski","Toruń","Unisław","Wielka Nieszawka","Zławieś Wielka","Złotniki Kujawskie","Łabiszyn","Łubianka","Łysomice"); ?>

@@ -1,0 +1,1 @@
+<option value="Nagarkot">Nagarkot</option><option value="Nāmche Bāzār">Nāmche Bāzār</option><option value="Nepalgunj">Nepalgunj</option>

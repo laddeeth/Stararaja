@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amanalco de Becerra","Cerro La Calera","Colorines","Jesús del Monte","San Antonio Acahualco","San Bartolo","San Juan de las Huertas","San Simón de la Laguna","Santa María del Monte","Sultepec de Pedro Ascencio de Alquisiras","Tejupilco de Hidalgo","Valle de Bravo"); ?>

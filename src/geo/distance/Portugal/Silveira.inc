@@ -1,0 +1,1 @@
+<?php $neighbours = array("A dos Cunhados","Arruda dos Vinhos","Atouguia da Baleia","Bombarral","Ericeira","Lourinhã","Mafra","Malveira","Milharado","Peniche","Pero Pinheiro","São João das Lampas","São Pedro da Cadeira","Silveira","Torres Vedras","Venda do Pinheiro","Ventosa"); ?>

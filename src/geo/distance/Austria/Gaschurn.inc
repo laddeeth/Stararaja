@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bartholomäberg","Bludenz","Brand","Bürs","Bürserberg","Dalaas","Galtür","Gaschurn","Innerbraz","Ischgl","Kappl","Klösterle","Lech","Lorüns","Nüziders","Sankt Anton am Arlberg","Sankt Anton im Montafon","Sankt Gallenkirch","Schruns","Silbertal","Stallehr","Tschagguns"); ?>

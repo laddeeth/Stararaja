@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguadulce","Algámitas","El Arahal","El Saucejo","Fuentes de Andalucía","La Lantejuela","La Puebla de Cazalla","Marchena","Morón de la Frontera","Osuna","Paradas","Villanueva de San Juan"); ?>

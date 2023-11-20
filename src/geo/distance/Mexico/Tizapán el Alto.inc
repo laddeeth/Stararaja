@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ajijic","Atequiza","Atotonilquillo","Chapala","Cojumatlán de Régules","Ixtlahuacán de los Membrillos","Mazamitla","Poncitlán","San Pedro Itzicán","Tizapán el Alto","Valle de Juárez"); ?>

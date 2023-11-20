@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brainerd","Breezy Point","Cross Lake","East Gull Lake","Nisswa","Pequot Lakes"); ?>

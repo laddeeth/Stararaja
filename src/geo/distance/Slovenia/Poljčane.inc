@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brestrnica","Celje","Kamnica","Kidričevo","Limbuš","Lovrenc na Pohorju","Maribor","Miklavž na Dravskem Polju","Oplotnica","Pekre","Poljčane","Pragersko","Ptuj","Rače","Radizel","Razvanje","Rogaška Slatina","Rogoza","Ruše","Šentjur","Slovenska Bistrica","Slovenske Konjice","Spodnje Hoče","Štore","Vojnik","Zreče"); ?>

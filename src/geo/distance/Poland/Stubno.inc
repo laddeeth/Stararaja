@@ -1,0 +1,1 @@
+<?php $neighbours = array("Fredropol","Jarosław","Krasiczyn","Laszki","Medyka","Orły","Pawłosiów","Przemyśl","Radymno","Rokietnica","Sośnica","Stubno","Wiązownica","Wielkie Oczy","Wierzbna","Żurawica"); ?>

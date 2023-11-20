@@ -1,0 +1,1 @@
+<?php $neighbours = array("Pinotepa de Don Luis","San Andrés Huaxpaltepec","San Juan Cacahuatepec","San Pedro Amuzgos","San Pedro Jicayán","Santa Catarina Mechoacán","Santa María Huazolotitlan","Santiago Jamiltepec","Santiago Pinotepa Nacional"); ?>

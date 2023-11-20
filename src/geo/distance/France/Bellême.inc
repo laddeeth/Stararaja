@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaufay","Bellême","Bonnétable","Bretoncelles","Ceton","Cherré","Condé-sur-Huisne","La Ferté-Bernard","Longny-au-Perche","Mamers","Margon","Marolles-les-Braults","Mortagne-au-Perche","Nogent-le-Rotrou","Rémalard","Saint-Cosme-en-Vairais","Tourouvre","Tuffé"); ?>

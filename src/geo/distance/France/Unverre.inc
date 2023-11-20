@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arrou","Authon-du-Perche","Bailleau-le-Pin","Bonneval","Brou","Ceton","Châteaudun","Cloyes-sur-le-Loir","Condé-sur-Huisne","Courville-sur-Eure","Droué","La Bazoche-Gouet","La Chapelle-du-Noyer","Marboué","Margon","Mondoubleau","Nogent-le-Rotrou","Saint-Denis-les-Ponts","Thiron Gardais","Unverre","Yèvres"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alum Rock","Atherton","Cambrian Park","Cupertino","East Foothills","East Palo Alto","Ladera","Lexington Hills","Los Altos","Los Altos Hills","Los Gatos","Loyola","Menlo Park","Milpitas","Monte Sereno","North Fair Oaks","Portola Valley","Redwood City","San Jose","Santa Clara","Saratoga","Seven Trees","West Menlo Park"); ?>

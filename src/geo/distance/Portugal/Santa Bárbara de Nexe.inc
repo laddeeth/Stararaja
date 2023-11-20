@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albufeira","Almancil","Boliqueime","Faro","Ferreiras","Guia","Laranjeiro","Loulé","Luz","Moncarapacho","Olhão","Quarteira","Santa Bárbara de Nexe","São Brás de Alportel","Tavira","Vilamoura"); ?>

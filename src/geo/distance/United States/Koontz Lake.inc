@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bass Lake","Culver","Fish Lake","Gulivoire Park","Kingsford Heights","Knox","Koontz Lake","LaPorte","Walkerton"); ?>

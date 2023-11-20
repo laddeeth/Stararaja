@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguçadoura","Apúlia","Areosa","Árvore","Aver-o-Mar","Barcelos","Bougado","Calendário","Darque","Esposende","Ferreiros","Galegos","Marinhas","Meadela","Oliveira","Pedroso","Póvoa de Varzim","Prado","Ribeirão","Viana do Castelo","Vila do Conde","Vila Frescainha","Vila Nova de Famalicão"); ?>

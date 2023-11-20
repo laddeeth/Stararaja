@@ -1,0 +1,1 @@
+<?php $neighbours = array("Corocito","Jericó","La Brea","Puerto Castilla","Quebrada de Arena","Salamá","Santa Rosa de Aguán","Taujica","Tocoa","Trujillo"); ?>

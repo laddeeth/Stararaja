@@ -1,0 +1,1 @@
+<?php $neighbours = array("Algorfa","Benejúzar","Beniel","Benijófar","Bigastro","Formentera de Segura","Jacarilla","La Manga del Mar Menor","La Unión","Los Alcázares","Los Montesinos","Pilar de la Horadada","Rojales","San Javier","San Miguel de Salinas","San Pedro del Pinatar","Torre-Pacheco","Torrevieja"); ?>

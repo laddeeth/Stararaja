@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beelitz","Berlin Spandau","Berlin Steglitz Zehlendorf","Borkheide","Borkwalde","Brandenburg an der Havel","Brieselang","Dallgow-Döberitz","Falkensee","Fichtenwalde","Groß Kreutz","Ketzin","Kleinmachnow","Kotzen","Michendorf","Nauen","Nennhausen","Paulinenaue","Päwesin","Pessin","Potsdam","Retzow","Roskow","Stahnsdorf","Teltow","Wustermark"); ?>

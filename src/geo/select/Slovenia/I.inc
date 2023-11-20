@@ -1,0 +1,1 @@
+<option value="Idrija">Idrija</option><option value="Ig">Ig</option><option value="Ilirska Bistrica">Ilirska Bistrica</option><option value="Izlake">Izlake</option><option value="Izola">Izola</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aleksandrów Kujawski","Brzuze","Chełmża","Chrostkowo","Ciechocin","Ciechocinek","Czernikowo","Dębowa Łąka","Golub-Dobrzyń","Kikół","Kowalewo Pomorskie","Lipno","Lubicz Dolny","Lubicz Górny","Nieszawa","Obrowo","Ostrowite","Płużnica","Raciążek","Radomin","Toruń","Wąbrzeźno","Waganiec","Wąpielsk","Wielka Nieszawka","Zbójno","Łysomice"); ?>

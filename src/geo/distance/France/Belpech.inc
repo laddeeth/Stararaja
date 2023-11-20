@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auterive","Avignonet-Lauragais","Ayguesvives","Baziège","Belpech","Bram","Castelnaudary","Cintegabelle","Foix","Gaillac-Toulza","Gardouch","La Tour-du-Crieu","Mazères","Mirepoix","Nailloux","Pamiers","Saint-Jean-du-Falga","Saint-Martin-Lalande","Saverdun","Varilhes","Verniolle","Villefranche-de-Lauragais","Villeneuve-la-Comptal","Villenouvelle"); ?>

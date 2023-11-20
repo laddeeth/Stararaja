@@ -1,0 +1,1 @@
+<option value="El Aïoun">El Aïoun</option><option value="El Hajeb">El Hajeb</option><option value="El Jadida">El Jadida</option><option value="El Ksiba">El Ksiba</option><option value="Errachidia">Errachidia</option><option value="Essaouira">Essaouira</option><option value="Ezzhiliga">Ezzhiliga</option>

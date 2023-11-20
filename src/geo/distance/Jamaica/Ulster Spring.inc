@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albert Town","Alexandria","Balaclava","Bamboo","Coleyville","Discovery Bay","Duncans","Falmouth","Maroon Town","Runaway Bay","Siloah","Ulster Spring","Wakefield","Williamsfield"); ?>

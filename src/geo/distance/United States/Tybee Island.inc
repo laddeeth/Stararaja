@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bluffton","Hilton Head Island","Isle of Hope","Savannah","Skidaway Island","Thunderbolt","Tybee Island","Whitemarsh Island","Wilmington Island"); ?>

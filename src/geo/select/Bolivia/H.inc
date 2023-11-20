@@ -1,0 +1,1 @@
+<option value="Huajlaya">Huajlaya</option><option value="Huanuni">Huanuni</option><option value="Huata">Huata</option><option value="Huatajata">Huatajata</option><option value="Huayllas">Huayllas</option>

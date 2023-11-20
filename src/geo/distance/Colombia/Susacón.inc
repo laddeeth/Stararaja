@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boavita","Chita","La Uvita","Onzaga","San Mateo","Soatá","Socha Viejo","Socotá","Susacón","Tipacoque"); ?>

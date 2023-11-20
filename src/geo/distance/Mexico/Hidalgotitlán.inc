@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chinameca","Coacotla","Cosoleacaque","Hidalgotitlán","Minatitlán","Oteapan","Texistepec"); ?>

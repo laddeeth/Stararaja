@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bolesławiec","Cieplice Śląskie Zdrój","Gryfów Śląski","Jelenia Góra","Jeżów Sudecki","Leśna","Lubań","Lwówek Śląski","Mirsk","Nowogrodziec","Olszyna","Piechowice","Pisarzowice","Siekierczyn","Stara Kamienica","Świeradów-Zdrój","Świerzawa","Wleń","Wojcieszów","Zagrodno","Złotoryja"); ?>

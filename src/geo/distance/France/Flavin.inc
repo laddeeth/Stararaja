@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baraqueville","Bozouls","Calmont","Cassagnes-Bégonhès","Colombiès","Druelle","Espalion","Flavin","La Loubière","Laissac","Le Monastère","Luc-la-Primaube","Marcillac-Vallon","Moyrazès","Naucelle","Olemps","Pont-de-Salars","Réquista","Rieupeyroux","Rodez","Saint-Christophe-Vallon","Salles-Curan","Salles-la-Source","Sébazac-Concourès","Valady"); ?>

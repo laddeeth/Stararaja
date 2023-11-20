@@ -1,0 +1,1 @@
+<option value="Leopoldov">Leopoldov</option><option value="Levice">Levice</option><option value="Levoča">Levoča</option><option value="Lipany">Lipany</option><option value="Liptovský Hrádok">Liptovský Hrádok</option><option value="Liptovský Mikuláš">Liptovský Mikuláš</option><option value="Ľubica">Ľubica</option><option value="Lučenec">Lučenec</option>

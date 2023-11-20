@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amagansett","Aquebogue","Bridgehampton","Cutchogue","East Hampton North","East Quogue","Flanders","Greenport","Greenport West","Hampton Bays","Jamesport","Mattituck","Montauk","North Sea","Northwest Harbor","Noyack","Sag Harbor","Shelter Island","Shelter Island Heights","Shinnecock Hills","Southold","Springs","Water Mill","Watermill"); ?>

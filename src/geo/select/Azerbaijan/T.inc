@@ -1,0 +1,1 @@
+<option value="Tel’mankend">Tel’mankend</option><option value="Terter">Terter</option><option value="Tovuz">Tovuz</option><option value="Türkan">Türkan</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andebu","Årøysund","Åsgårdstrand","Barkåker","Berger","Borgheim","Gullhaug","Holmestrand","Horten","Hvittingfoss","Larkollen","Lervik","Melsomvik","Moss","Revetal","Rygge","Ryggebyen","Sandefjord","Sem","Skoppum","Stokke","Svarstad","Tjøme","Tønsberg"); ?>

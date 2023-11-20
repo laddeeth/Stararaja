@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bulgnéville","Châtenois","Colombey-les-Belles","Contrexéville","Darney","Lamarche","Liffol-le-Grand","Mirecourt","Neufchâteau","Vézelise","Vittel"); ?>

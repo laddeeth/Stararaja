@@ -1,0 +1,1 @@
+<option value="Sarandë">Sarandë</option><option value="Selenicë">Selenicë</option><option value="Shëngjin">Shëngjin</option><option value="Shijak">Shijak</option><option value="Shkodër">Shkodër</option>

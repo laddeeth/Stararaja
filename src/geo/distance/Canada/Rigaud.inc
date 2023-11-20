@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brownsburg-Chatham","Hawkesbury","Hudson","Lachute","Les Cèdres","Les Coteaux","Mirabel","Oka","Pincourt","Rigaud","Saint-Lazare","Sainte-Anne-de-Bellevue","Sainte-Marthe-sur-le-Lac","Salaberry-de-Valleyfield","Vaudreuil-Dorion"); ?>

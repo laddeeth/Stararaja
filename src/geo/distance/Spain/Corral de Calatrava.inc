@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abenójar","Alcolea de Calatrava","Aldea del Rey","Almodóvar del Campo","Argamasilla de Calatrava","Brazatortas","Carrión de Calatrava","Ciudad Real","Corral de Calatrava","Miguelturra","Piedrabuena","Puertollano"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alderwood Manor","Bangor Trident Base","Brier","Camano","Edmonds","Esperance","Hansville","Lake Forest Park","Lofall","Lynnwood","Martha Lake","Meadowdale","Mill Creek","Mountlake Terrace","Mukilteo","Port Hadlock-Irondale","Port Ludlow","Port Townsend","Poulsbo","Shoreline","Suquamish","Tulalip","Tulalip Bay"); ?>

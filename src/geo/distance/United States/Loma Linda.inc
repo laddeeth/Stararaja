@@ -1,0 +1,1 @@
+<?php $neighbours = array("Calimesa","Colton","Glen Avon","Grand Terrace","Highgrove","Loma Linda","March Air Force Base","Mead Valley","Mira Loma","Moreno Valley","Muscoy","Nuevo","Pedley","Perris","Redlands","Rialto","Rubidoux","Running Springs","San Bernardino","Sunnyslope","Woodcrest","Yucaipa"); ?>

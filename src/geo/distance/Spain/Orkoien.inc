@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aoiz","Artajona","Atarrabia","Barañáin","Beriáin","Berriobeiti","Berriozar","Burlata","Cizur Mayor","Egues-Uharte","Elorz","Galar","Mendigorría","Oltza","Orkoien","Pamplona","Puente la Reina","Villatuerta","Yerri"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arenas de San Pedro","Candeleda","Lagartera","Madrigal de la Vera","Mombeltrán","Navalcán","Oropesa","Velada","Villanueva de la Vera"); ?>

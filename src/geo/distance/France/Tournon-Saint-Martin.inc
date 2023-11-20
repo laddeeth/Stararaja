@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abilly","Archigny","Azay-le-Ferron","Bélâbre","Bonneuil-Matours","Chauvigny","La Roche-Posay","Le Blanc","Le Grand-Pressigny","Martizay","Mézières-en-Brenne","Pleumartin","Pouligny-Saint-Pierre","Preuilly-sur-Claise","Tournon-Saint-Martin","Yzeures-sur-Creuse"); ?>

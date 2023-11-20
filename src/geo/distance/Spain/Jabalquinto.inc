@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baeza","Bailén","Baños de la Encina","Begíjar","Canena","Fuerte del Rey","Guarromán","Higuera de Arjona","Ibros","Jabalquinto","Jaén","Jimena","La Carolina","Linares","Lupión","Mancha Real","Mengibar","Rus","Torreblascopedro","Vilches","Villanueva de la Reina"); ?>

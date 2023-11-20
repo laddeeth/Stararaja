@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amandola","Belforte del Chienti","Caldarola","Camerino","Castelraimondo","Cerreto di Spoleto","Colmurano","Esanatoglia","Fiuminata","Matelica","Montefortino","Nocera Umbra","Norcia","Pieve Torina","Pioraco","San Ginesio","San Severino Marche","Sarnano","Sellano","Serravalle di Chienti","Tolentino","Valtopina","Visso"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alto del Espino","Arraiján","Bejuco","Capira","Cerro Cama","El Coco","El Espino","Guadalupe","La Chorrera","La Herradura","La Mitra","Lídice","Nuevo Arraiján","Nuevo Emperador","Paraíso","Potrero Grande","Puerto Caimito","San Vicente de Bique","Santa Clara","Veracruz","Villa Carmen","Villa Rosario","Vista Alegre"); ?>

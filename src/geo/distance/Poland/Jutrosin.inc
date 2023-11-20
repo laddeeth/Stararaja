@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bojanowo","Cieszków","Gostyń","Jutrosin","Kobylin","Konary","Koźmin Wielkopolski","Krobia","Krośnice","Krotoszyn","Miejska Górka","Milicz","Pakosław","Pępowo","Pogorzela","Poniec","Rawicz","Rozdrażew","Sulmierzyce","Zduny","Żmigród"); ?>

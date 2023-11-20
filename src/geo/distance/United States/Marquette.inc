@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gwinn","Ishpeming","K. I. Sawyer Air Force Base","Marquette","Negaunee","Trowbridge Park","West Ishpeming"); ?>

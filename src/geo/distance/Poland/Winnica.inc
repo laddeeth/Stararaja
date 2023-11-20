@@ -1,0 +1,1 @@
+<?php $neighbours = array("Białobrzegi","Brody-Parcele","Dąbrówka","Gąsocin","Gołymin-Ośrodek","Gzy","Jabłonna","Joniec","Karniewo","Legionowo","Maków Mazowiecki","Michałów-Reginów","Nasielsk","Nieporęt","Nowe Miasto","Nowy Dwór Mazowiecki","Obryte","Pokrzywnica","Pomiechówek","Pułtusk","Rząśnik","Serock","Sońsk","Świercze","Szelków","Wieliszew","Winnica","Zatory"); ?>

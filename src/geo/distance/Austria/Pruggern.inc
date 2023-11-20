@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aich","Aigen im Ennstal","Altaussee","Bad Aussee","Donnersbach","Filzmoos","Forstau","Gössenberg","Gröbming","Großsölk","Haus","Irdning","Kleinsölk","Krakauhintermühlen","Krakauschatten","Michaelerberg","Niederöblarn","Öblarn","Pruggern","Sankt Martin am Grimming","Sankt Nikolai im Sölktal","Schladming","Stainach","Tauplitz","Wörschach"); ?>

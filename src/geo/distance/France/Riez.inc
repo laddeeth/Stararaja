@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aups","Barjols","Forcalquier","Ginasservis","Gréoux-les-Bains","Les Mées","Malijai","Mallemoisson","Mane","Manosque","Oraison","Peyruis","Pierrevert","Régusse","Riez","Sainte-Tulle","Valensole","Vinon-sur-Verdon","Volx"); ?>

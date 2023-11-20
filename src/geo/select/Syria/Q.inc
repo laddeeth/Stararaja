@@ -1,0 +1,1 @@
+<option value="Qal‘at al Maḑīq">Qal‘at al Maḑīq</option><option value="Qārah">Qārah</option><option value="Qasţal Ma‘āf">Qasţal Ma‘āf</option><option value="Qaţanā">Qaţanā</option><option value="Quţaylibīyah">Quţaylibīyah</option>

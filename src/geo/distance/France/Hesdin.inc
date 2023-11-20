@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auchy-lès-Hesdin","Auxi-le-Château","Beaurainville","Bernaville","Campagne-lès-Hesdin","Crécy-en-Ponthieu","Frévent","Fruges","Hesdin","Marconne","Marconnelle","Montreuil","Nouvion","Pernes","Quend","Rang-du-Fliers","Rue","Sailly-Flibeaucourt","Saint-Josse","Saint-Pol-sur-Ternoise","Saint-Riquier","Verton","Wailly"); ?>

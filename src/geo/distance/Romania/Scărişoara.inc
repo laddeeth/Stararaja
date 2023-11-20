@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abrud","Albac","Arieşeni","Avram Iancu","Beliş","Blăjeni","Blideşti","Bogdăneşti","Cărpinet","Cîmpeni","Ciuruleasa","Criştioru de Jos","Gârda de Sus","Hălmăgel","Lupşa","Mărişel","Nucet","Pietroasa","Poiana Vadului","Scărişoara","Sohodol","Vadu Moţilor","Vaşcău"); ?>

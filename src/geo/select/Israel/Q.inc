@@ -1,0 +1,1 @@
+<option value="Qalansuwa">Qalansuwa</option><option value="Qesarya">Qesarya</option><option value="Qiryat Ata">Qiryat Ata</option><option value="Qiryat Bialik">Qiryat Bialik</option><option value="Qiryat Gat">Qiryat Gat</option><option value="Qiryat Motzkin">Qiryat Motzkin</option><option value="Qiryat Shemona">Qiryat Shemona</option><option value="Qiryat Yam">Qiryat Yam</option>

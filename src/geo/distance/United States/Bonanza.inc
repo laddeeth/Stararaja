@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bonanza","Candler-McAfee","College Park","Conley","East Griffin","East Point","Experiment","Fairburn","Forest Park","Gresham Park","Griffin","Hapeville","Locust Grove","Lovejoy","McDonough","Morrow","Panthersville","Peachtree City","Riverdale","Senoia","Stockbridge","Tyrone","Union City"); ?>

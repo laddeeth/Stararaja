@@ -1,0 +1,1 @@
+<?php $neighbours = array("Monção","Mozelos","Ponte do Lima","Valenza","Vila Praia de Âncora"); ?>

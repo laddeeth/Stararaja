@@ -1,0 +1,1 @@
+<?php $neighbours = array("Coolum Beach","Nambour","Noosa Heads","Tewantin","Twin Waters","Yandina"); ?>

@@ -1,0 +1,1 @@
+<option value="Odda">Odda</option><option value="Olderdalen">Olderdalen</option><option value="Oppdal">Oppdal</option><option value="Oppeide">Oppeide</option><option value="Orkanger">Orkanger</option><option value="Os">Os</option><option value="Oslo">Oslo</option><option value="Osøyro">Osøyro</option><option value="Otta">Otta</option>

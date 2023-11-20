@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baranoa","Barranquilla","Galapa","Juan de Acosta","Malambo","Polonuevo","Puerto Colombia","Soledad","Tubará","Usiacurí"); ?>

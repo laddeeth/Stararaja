@@ -1,0 +1,1 @@
+<?php $neighbours = array("Iława","Kisielice","Kurzętnik","Lubawa","Miłomłyn","Nowe Miasto Lubawskie","Ostróda","Prabuty","Susz","Zalewo"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Buitrago del Lozoya","Bustarviejo","El Molar","El Vellón","Gallegos","Guadalix de la Sierra","La Cabrera","La Cuesta","Miraflores de la Sierra","Montejo de la Sierra","Pedrezuela","Rascafría","Robregordo","Somosierra","Talamanca de Jarama","Torrelaguna","Uceda","Valdepiélagos","Venturada"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Creissels","La Cavalerie","Millau","Saint-Affrique","Saint-Georges-de-Luzençon","Salles-Curan","Sévérac-le-Château"); ?>

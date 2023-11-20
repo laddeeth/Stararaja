@@ -1,0 +1,1 @@
+<option value="Sâmraông">Sâmraông</option><option value="Sen monorom">Sen monorom</option><option value="Sênmônoŭrôm">Sênmônoŭrôm</option><option value="Siĕmréab">Siĕmréab</option><option value="Sihanoukville">Sihanoukville</option><option value="Sisŏphŏn">Sisŏphŏn</option><option value="Stœ̆ng Trêng">Stœ̆ng Trêng</option><option value="Svay Riĕng">Svay Riĕng</option>

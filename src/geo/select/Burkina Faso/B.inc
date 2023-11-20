@@ -1,0 +1,1 @@
+<option value="Banfora">Banfora</option><option value="Batié">Batié</option><option value="Bobo-Dioulasso">Bobo-Dioulasso</option><option value="Bogandé">Bogandé</option><option value="Boromo">Boromo</option><option value="Boulsa">Boulsa</option><option value="Boussé">Boussé</option>

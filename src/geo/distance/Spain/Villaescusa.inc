@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguilar de Campóo","Arenas de Iguña","Barruelo de Santullán","Cervera de Pisuerga","Mataporquera","Molledo","Reinosa","San Martín de Elines","Villaescusa"); ?>

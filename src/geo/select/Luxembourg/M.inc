@@ -1,0 +1,1 @@
+<option value="Mamer">Mamer</option><option value="Mersch">Mersch</option><option value="Mertert">Mertert</option><option value="Mertzig">Mertzig</option><option value="Mondercange">Mondercange</option><option value="Mondorf-les-Bains">Mondorf-les-Bains</option><option value="Moutfort">Moutfort</option><option value="Müllendorf">Müllendorf</option>

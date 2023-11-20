@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abla","Abrucena","Adra","Alcolea","Alhama de Almería","Alpujarra Granadina","Berja","Cádiar","Canjáyar","Dalías","El Ejido","Fiñana","Huéneja","Laujar de Andarax","Ugíjar","Vícar"); ?>

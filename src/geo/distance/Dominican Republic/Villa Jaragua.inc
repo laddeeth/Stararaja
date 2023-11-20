@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cercado Abajo","Cristóbal","Duvergé","El Palmar","Galván","Guayabal","Juan Santiago","La Descubierta","Las Salinas","Los Ríos","Mella","Neiba","Postrer Río","Vallejuelo","Villa Jaragua"); ?>

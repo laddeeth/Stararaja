@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benavarri - Benabarre","Fonz","Graus","Tamarit de Llitera - Tamarite de Litera"); ?>

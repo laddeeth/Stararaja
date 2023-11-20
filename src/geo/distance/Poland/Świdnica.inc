@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bobrowice","Bojadła","Czerwieńsk","Klenica","Kożuchów","Krosno Odrzańskie","Międzylesie","Nowa Sól","Nowogród Bobrzański","Ochla","Otyń","Skąpe","Sulechów","Świdnica","Trzebiechów","Zabór","Zielona Góra"); ?>

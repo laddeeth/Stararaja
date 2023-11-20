@@ -1,0 +1,1 @@
+<?php $neighbours = array("Billingham","Bilsdale","Danby","Eaglescliffe","Elwick","Great Ayton","Greatham","Guisborough","Hartlepool","Ingleby Greenhow","Loftus","Marske-by-the-Sea","Middlesbrough","Nunthorpe","Redcar","Saltburn-by-the-Sea","Sleights","South Bank","Stockton-on-Tees","Stokesley","Thornaby on Tees","Whitby"); ?>

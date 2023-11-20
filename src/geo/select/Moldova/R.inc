@@ -1,0 +1,1 @@
+<option value="Rezina">Rezina</option><option value="Rîbniţa">Rîbniţa</option><option value="Rîşcani">Rîşcani</option>

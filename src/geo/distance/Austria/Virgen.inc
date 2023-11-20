@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abfaltersbach","Ainet","Anras","Außervillgraten","Heiligenblut","Heinfels","Hollersbach im Pinzgau","Hopfgarten in Defereggen","Innervillgraten","Matrei in Osttirol","Mittersill","Oberlienz","Schlaiten","Sillian","Strassen","Thurn","Virgen"); ?>

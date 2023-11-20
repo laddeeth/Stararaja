@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albán","Ambalema","Anapoima","Anolaima","Apulo","Bojacá","Chaguaní","Facatativá","Guayabal de Síquima","Quipile","San Antonio del Tequendama","Sasaima","Vianí","Zipacón"); ?>

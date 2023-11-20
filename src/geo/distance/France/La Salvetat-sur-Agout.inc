@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belmont-sur-Rance","Bout-du-Pont-de-Larn","Brassac","Camarès","La Salvetat-sur-Agout","Labastide-Rouairoux","Lacaune","Lamalou-les-Bains","Le Poujol-sur-Orb","Mazamet","Payrin-Augmontel","Pont-de-Larn","Saint-Amans-Soult","Saint-Amans-Valtoret","Saint-Chinian","Saint-Pons-de-Thomières"); ?>

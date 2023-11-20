@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alkmaar","Beverwijk","Broek op Langedijk","Castricum","Den Helder","Den Oever","Egmond aan Zee","Harenkarspel","Heemskerk","Heerhugowaard","Heiloo","Hoorn","Opmeer","Opperdoes","Purmerend","Schagen","Uitgeest"); ?>

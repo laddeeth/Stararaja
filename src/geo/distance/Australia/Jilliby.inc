@@ -1,0 +1,1 @@
+<?php $neighbours = array("Berkeley Vale","Budgewoi","Cooranbong","Davistown","Dora Creek","East Gosford","Erina","Forresters Beach","Gorokan","Gosford","Holgate","Jilliby","Kanwal","Lisarow","Long Jetty","Narara","Point Clare","Rathmines","The Entrance"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chattanooga","Chattanooga Valley","Chickamauga","East Brainerd","East Chattanooga","East Ridge","Fairmount","Fairview","Fort Oglethorpe","Lakeview","Lone Oak","Lookout Mountain","Ringgold","Rossville","Signal Mountain","Walden"); ?>

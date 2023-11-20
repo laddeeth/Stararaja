@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altenbeken","Augustdorf","Bad Driburg","Bad Lippspringe","Barntrup","Blomberg","Borgentreich","Brakel","Delbrück","Detmold","Horn-Bad Meinberg","Hövelhof","Lichtenau","Nieheim","Oerlinghausen","Paderborn","Salzkotten","Schieder-Schwalenberg","Schlangen","Schloß Holte-Stukenbrock","Steinheim","Willebadessen"); ?>

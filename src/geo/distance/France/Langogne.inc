@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cussac-sur-Loire","Langogne","Le Monastier-sur-Gazeille","Solignac-sur-Loire","Thueyts"); ?>

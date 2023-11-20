@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altheim","Pfarrkirchen im Mühlkreis","Ried im Innkreis","Sankt Florian am Inn","Schärding"); ?>

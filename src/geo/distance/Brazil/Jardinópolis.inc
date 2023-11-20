@@ -1,0 +1,1 @@
+<?php $neighbours = array("Batatais","Brodósqui","Jardinópolis","Pontal","Ribeirão Preto","Serrana","Sertãozinho"); ?>

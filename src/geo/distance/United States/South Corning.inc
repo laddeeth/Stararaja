@@ -1,0 +1,1 @@
+<?php $neighbours = array("Big Flats","Elkland","Elmira","Elmira Heights","Gang Mills","Horseheads","Horseheads North","Montour Falls","Painted Post","South Corning","West Elmira"); ?>

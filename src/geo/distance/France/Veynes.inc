@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gap","La Roche-des-Arnauds","Laragne-Montéglin","Saint-Bonnet-en-Champsaur","Serres","Tallard","Veynes"); ?>

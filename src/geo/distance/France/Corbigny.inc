@@ -1,0 +1,1 @@
+<?php $neighbours = array("Château-Chinon(Ville)","Châtillon-en-Bazois","Clamecy","Corbigny","Lormes","Prémery","Varzy"); ?>

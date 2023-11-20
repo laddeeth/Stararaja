@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anor","Aulnoye-Aymeries","Avesnelles","Avesnes-sur-Helpe","Bachant","Boué","Buironfosse","Cartignies","Esquéhéries","Ferrière-la-Grande","Fourmies","Hirson","La Capelle","La Flamengrie","Le Nouvion-en-Thiérache","Leval","Maroilles","Origny-en-Thiérache","Sains-du-Nord","Saint-Michel","Signy-le-Petit","Trélon","Vervins","Wignehies"); ?>

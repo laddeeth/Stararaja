@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adeje","Arona","Granadilla de Abona","Guía de Isora","Icod de los Vinos","La Guancha","Las Rosas","Lomo de Arico","Los Silos","Playa de las Américas","San Miguel","Santiago del Teide","Tanque","Vilaflor"); ?>

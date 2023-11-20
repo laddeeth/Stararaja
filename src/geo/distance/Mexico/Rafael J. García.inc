@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cosautlán de Carbajal","Coscomatepec de Bravo","Guadalupe Victoria","Huatusco de Chicuellar","Rafael J. García","Teocelo","Tetelzingo","Tomatlán","Totutla","Xico","Xocotla"); ?>

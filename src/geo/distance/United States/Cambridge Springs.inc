@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cambridge Springs","Conneaut Lakeshore","Edinboro"); ?>

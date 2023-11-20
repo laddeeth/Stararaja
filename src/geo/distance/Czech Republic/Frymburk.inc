@@ -1,0 +1,1 @@
+<?php $neighbours = array("Český Krumlov","Chvalšiny","Dolní Dvořiště","Frymburk","Horní Planá","Kájov","Kaplice","Křemže","Loučovice","Velešín","Větřní","Vyšší Brod"); ?>

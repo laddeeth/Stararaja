@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andernos-les-Bains","Arès","Avensan","Carcans","Castelnau-de-Médoc","Hourtin","Lacanau","Le Porge","Listrac-Médoc","Moulis-en-Médoc","Saint-Médard-en-Jalles"); ?>

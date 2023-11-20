@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aliminusa","Caltavuturo","Campofelice di Roccella","Castelbuono","Castellana Sicula","Cefalù","Cerda","Collesano","Geraci Siculo","Gratteri","Isnello","Lascari","Petralia Soprana","Petralia Sottana","Pettineo","Polizzi Generosa","Pollina","San Mauro Castelverde","Santo Stefano di Camastra","Sciara","Termini Imerese","Tusa"); ?>

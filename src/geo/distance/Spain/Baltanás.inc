@@ -1,0 +1,1 @@
+<?php $neighbours = array("Astudillo","Baltanás","Dueñas","Palencia","Torquemada","Venta de Baños","Villamuriel de Cerrato"); ?>

@@ -1,0 +1,1 @@
+<option value="Ţahţā">Ţahţā</option><option value="Talā">Talā</option><option value="Ṭalkha">Ṭalkha</option><option value="Ţāmiyah">Ţāmiyah</option><option value="Tanda">Tanda</option><option value="Tor">Tor</option><option value="Toukh">Toukh</option>

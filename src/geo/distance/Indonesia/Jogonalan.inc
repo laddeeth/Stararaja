@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baki","Boyolali","Candi Prambanan","Ceper","Delanggu","Depok","Gamping Lor","Gatak","Godean","Jogonalan","Karanganom","Kartasura","Kasihan","Kebonarun","Klaten","Melati","Ngemplak","Sewon","Sleman","Trucuk","Wedi","Yogyakarta"); ?>

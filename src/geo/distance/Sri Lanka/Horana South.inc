@@ -1,0 +1,1 @@
+<?php $neighbours = array("Battaramulla South","Beruwala","Galkissa","Hanwella Ihala","Homagama","Horana South","Horawala Junction","Kalutara","Kotikawatta","Maharagama","Moratuwa","Mulleriyawa","Panadura","Pita Kotte","Sri Jayewardenepura Kotte"); ?>

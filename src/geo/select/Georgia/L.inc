@@ -1,0 +1,1 @@
+<option value="Lagodekhi">Lagodekhi</option><option value="Lentekhi">Lentekhi</option>

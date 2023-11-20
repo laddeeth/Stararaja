@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arafo","Arona","Candelaria","Fasnia","Granadilla de Abona","Güimar","La Guancha","La Matanza de Acentejo","La Orotava","La Victoria de Acentejo","Lomo de Arico","Los Realejos","Puerto de la Cruz","Realejo Alto","San Juan de la Rambla","San Miguel","Santa Úrsula","Sauzal","Tacoronte","Vilaflor"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bakerstown","Brackenridge","Bradford Woods","Chicora","Curtisville","Evans City","Fernway","Fox Run","Homeacre-Lyndora","Mars","Meadowood","Oak Hills","Russellton","Saxonburg","Seven Fields","Shanor-Northvue","Slippery Rock","Tarentum","Zelienople"); ?>

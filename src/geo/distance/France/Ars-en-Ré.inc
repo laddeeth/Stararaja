@@ -1,0 +1,1 @@
+<?php $neighbours = array("Angles","Ars-en-Ré","Jard-sur-Mer","La Couarde-sur-Mer","La Flotte","La Rochelle","La Tranche-sur-Mer","Lagord","Le Bois-Plage-en-Ré","Longeville-sur-Mer","Nieul-sur-Mer","Rivedoux-Plage","Saint-Hilaire-de-Talmont","Saint-Martin-de-Ré","Sainte-Marie-de-Ré"); ?>

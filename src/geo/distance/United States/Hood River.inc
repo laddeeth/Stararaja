@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cascade Locks","Chenoweth","Dallesport","Hood River","The Dalles","White Salmon"); ?>

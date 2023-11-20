@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agua Dulce","Calabasas","Castaic","Hidden Hills","Piru","San Fernando","Santa Clarita","Santa Susana","Simi Valley","Val Verde"); ?>

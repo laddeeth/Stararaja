@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bandora","Benaulim","Canacona","Cavelossim","Chinchinim","Colva","Cortalim","Cuncolim","Curchorem","Curti","Davorlim","Kānkon","Madgaon","Ponda","Quepem","Queula","Raia","Sancoale","Sanguem","Sanvordem","Varca"); ?>

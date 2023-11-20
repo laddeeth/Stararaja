@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bury St Edmunds","Downham Market","East Harling","Ely","Emneth","Exning","Feltwell","Great Barton","Griston","Isleham","Ixworth","Lakenheath","Littleport","Manea","Mundford","Necton","Newmarket","Outwell","Shipdham","Soham","Stretham","Swaffham","Terrington Saint John","Thetford","Weeting","Witchford"); ?>

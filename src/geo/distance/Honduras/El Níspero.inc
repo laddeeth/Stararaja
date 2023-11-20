@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arada","Atima","Berlín","Ceguaca","Concepción del Sur","El Mochito","El Níspero","Gualjoco","La Libertad","Las Tejeras","Lepaera","Nueva Jalapa","San José de Colinas","San Pedro Zacapa","San Vicente Centenario","Santa Bárbara","Taragual"); ?>

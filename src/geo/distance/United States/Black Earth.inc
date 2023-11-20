@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barneveld","Black Earth","Lake Wisconsin","Maple Bluff","Mazomanie","Mount Horeb","Prairie du Sac","Sauk City","Shorewood Hills","Spring Green","Waunakee"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baie-Mahault","Baillif","Basse-Terre","Bouillante","Capesterre-Belle-Eau","Gourbeyre","Lamentin","Le Gosier","Les Abymes","Petit-Bourg","Pointe-à-Pitre","Saint-Claude","Sainte-Anne","Terre-de-Bas","Trois-Rivières","Vieux-Habitants"); ?>

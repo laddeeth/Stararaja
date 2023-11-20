@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barneville-Plage","Blainville-sur-Mer","Carentan","Cerisy-la-Salle","Coutances","Créances","Gouville-sur-Mer","La Haye-du-Puits","Lessay","Marigny","Montmartin-sur-Mer","Périers","Picauville","Pirou","Portbail","Quettreville-sur-Sienne","Saint-Hilaire-Petitville","Saint-Sauveur-le-Vicomte","Saint-Sauveur-Lendelin"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altach","Andelsbuch","Au","Bezau","Bildstein","Bizau","Bregenz","Doren","Dornbirn","Egg","Eichenberg","Fraxern","Fußach","Gaißau","Götzis","Hard","Höchst","Hohenems","Hohenweiler","Hörbranz","Kennelbach","Krumbach","Lauterach","Lochau","Lustenau","Mäder","Möggers","Reuthe","Riefensberg","Schnepfau","Schwarzach","Sibratsgfäll","Sulzberg","Wolfurt"); ?>

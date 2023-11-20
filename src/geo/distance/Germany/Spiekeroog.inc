@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baltrum","Dornum","Dunum","Esens","Hagermarsch","Holtgast","Jever","Langeoog","Moorweg","Nenndorf","Neuharlingersiel","Ostochtersum","Schillig","Schweindorf","Sillenstede","Spiekeroog","Stedesdorf","Utarp","Wangerooge","Werdum","Westerholt","Wittmund"); ?>

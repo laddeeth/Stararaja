@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beckingen","Bous","Dillingen","Eppelborn","Großrosseln","Heusweiler","Illingen","Kleinblittersdorf","Lebach","Merchweiler","Merzig","Mettlach","Nalbach","Püttlingen","Quierschied","Rehlingen-Siersburg","Riegelsberg","Saarbrücken","Saarlouis","Saarwellingen","Schmelz","Überherrn","Völklingen","Wadgassen","Wallerfangen"); ?>

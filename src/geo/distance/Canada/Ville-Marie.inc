@@ -1,0 +1,1 @@
+<?php $neighbours = array("Saint-Bruno-de-Guigues","Temiskaming Shores","Ville-Marie"); ?>

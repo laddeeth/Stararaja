@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blachownia","Ciasna","Dalachów","Dobrodzień","Działoszyn","Gorzów Śląski","Herby","Kalej","Kamyk","Kochanowice","Krzepice","Kłobuck","Lipie","Miedzno","Mokrsko","Ostrowy nad Okszą","Panki","Pątnów","Pawonków","Popów","Praszka","Przystajń","Sieraków Śląski","Starokrzepice","Truskolasy","Wierzchlas","Wręczyca Wielka","Zębowice","Łobodno"); ?>

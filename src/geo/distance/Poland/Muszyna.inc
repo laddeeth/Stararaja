@@ -1,0 +1,1 @@
+<?php $neighbours = array("Kamionka Wielka","Krynica-Zdrój","Muszyna","Nawojowa","Piwniczna-Zdrój","Ropa","Rytro","Stary Sącz","Uście Gorlickie","Łabowa"); ?>

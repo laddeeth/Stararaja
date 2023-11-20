@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amatitlán","Escuintla","Guanagazapa","Guazacapán","Masagua","Palín","Pueblo Nuevo Viñas","San Vicente Pacaya","Taxisco"); ?>

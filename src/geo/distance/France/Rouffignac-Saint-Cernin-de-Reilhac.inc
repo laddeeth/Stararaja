@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antonne-et-Trigonant","Atur","Bassillac","Boulazac","Champcevinel","Chancelade","Coulounieix-Chamiers","Coursac","Cublac","Hautefort","Le Bugue","Montignac","Notre-Dame-de-Sanilhac","Périgueux","Rouffignac-Saint-Cernin-de-Reilhac","Sarlat-la-Canéda","Sorges","Terrasson-Lavilledieu","Thenon","Trélissac","Vergt"); ?>

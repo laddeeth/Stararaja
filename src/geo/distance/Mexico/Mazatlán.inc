@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atliaca","Chilpancingo de los Bravos","El Ocotito","Mazatlán","Petaquillas","Quechultenango","Tixtla de Guerrero","Zumpango del Río"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borowie","Dęblin","Garbatka-Letnisko","Garwolin","Górzno","Kozienice","Kłoczew","Maciejowice","Miastków Kościelny","Miętne","Parysów","Pilawa","Podebłocie","Ryczywół","Ryki","Sobolew","Stężyca","Sulbiny Górne","Trąbki","Trojanów","Wilga","Wola Rębkowska","Żelechów","Łaskarzew"); ?>

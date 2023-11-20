@@ -1,0 +1,1 @@
+<?php $neighbours = array("Breña Alta","Breña Baja","El Paso","Fuencaliente de la Palma","Los Llanos de Aridane","Mazo","Puntallana","Santa Cruz de la Palma","Tazacorte","Tijarafe"); ?>

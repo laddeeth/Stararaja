@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldona","Arambol","Calangute","Candolim","Carapur","Colovale","Dicholi","Guirim","Jua","Māpuca","Morjim","Navelim","Panaji","Pernem","Saligao","Sanquelim","Sāvantvādi","Serula","Solim","Taleigao","Vagator","Vengurla"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Am Mellensee","Baruth","Bestensee","Diensdorf-Radlow","Drahnsdorf","Eichwalde","Erkner","Golßen","Groß Köris","Grünheide","Halbe","Kasel-Golzig","Königs Wusterhausen","Lübben","Münchehofe","Rangsdorf","Reichenwalde","Schlepzig","Schönefeld","Schulzendorf","Spreenhagen","Storkow","Teupitz","Wendisch Rietz","Wildau","Zeuthen","Zossen"); ?>

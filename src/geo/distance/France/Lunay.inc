@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auzouer-en-Touraine","Azé","Bessé-sur-Braye","Château-Renault","Droué","Herbault","La Chartre-sur-le-Loir","La Ville-aux-Clercs","Lunay","Mondoubleau","Montoire-sur-le-Loir","Morée","Naveil","Oucques","Ruillé-sur-Loir","Saint-Amand-Longpré","Saint-Calais","Sargé-sur-Braye","Savigny-sur-Braye","Vendôme","Villedômer","Villiers-sur-Loir"); ?>

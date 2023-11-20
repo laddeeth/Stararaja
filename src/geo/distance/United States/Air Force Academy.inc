@@ -1,0 +1,1 @@
+<?php $neighbours = array("Air Force Academy","Black Forest","Cascade-Chipita Park","Cimarron Hills","Colorado Springs","Fort Carson","Gleneagle","Manitou Springs","Monument","Palmer Lake","Stratmoor","Woodmoor"); ?>

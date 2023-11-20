@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amblève","Aywaille","Baelen","Bullange","Butgenbach","Dison","Eupen","Ferrières","Gouvy","Herve","Jalhay","Lierneux","Limbourg","Lontzen","Malmédy","Manhay","Olne","Pepinster","Raeren","Saint-Vith","Soumagne","Spa","Sprimont","Stavelot","Stoumont","Theux","Trois-Ponts","Trooz","Verviers","Vielsalm","Waimes","Welkenraedt"); ?>

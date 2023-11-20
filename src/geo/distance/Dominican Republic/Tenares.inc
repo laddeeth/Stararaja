@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cayetano Germosén","Concepción de La Vega","Fantino","Gaspar Hernández","Jima Abajo","Joba Arriba","Juan López Abajo","Las Guáranas","Licey al Medio","Moca","Rincón","Río Verde Arriba","Salsipuedes","San Francisco de Macorís","San Víctor Arriba","Tamboril","Tenares","Veragua Arriba","Villa Tapia"); ?>

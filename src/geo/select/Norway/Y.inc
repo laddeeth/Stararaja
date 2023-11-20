@@ -1,0 +1,1 @@
+<option value="Ystabøhamn">Ystabøhamn</option><option value="Ytre Arna">Ytre Arna</option><option value="Ytre Skålevik">Ytre Skålevik</option><option value="Ytre Strai">Ytre Strai</option><option value="Ytrebygda">Ytrebygda</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andalo","Caldes","Campodenno","Cles","Denno","Dimaro","Malè","Molveno","Peio","Pinzolo","Ponte di Legno","Rabbi","San Lorenzo in Banale","Sondalo","Sonico","Spiazzo","Spormaggiore","Tassullo","Temù","Tione di Trento","Tuenno","Valdisotto","Valfurva","Vermiglio"); ?>

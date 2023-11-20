@@ -1,0 +1,1 @@
+<?php $neighbours = array("Corral de Almaguer","Estremera","Fuente de Pedro Naharro","Fuentidueña de Tajo","Horcajo de Santiago","Santa Cruz de la Zarza","Tarancón","Villamayor de Santiago","Villanueva de Alcardete","Villatobas"); ?>

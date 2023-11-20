@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bytča","Čadca","Kysucké Nové Mesto","Martin","Považská Bystrica","Rajec","Turzovka","Vrútky","Žilina"); ?>

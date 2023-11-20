@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abbadia San Salvatore","Acquapendente","Arcidosso","Campagnatico","Castel del Piano","Cinigiano","Farnese","Gradoli","Grotte di Castro","Ischia di Castro","Latera","Magliano in Toscana","Manciano","Onano","Piancastagnaio","Radicofani","Roccalbegna","Santa Fiora","Scansano","Semproniano","Sorano","Valentano"); ?>

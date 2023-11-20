@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ameca","Bellavista","Chiquilistlán","El Crucero de Santa María","San Martín Hidalgo","Tecolotlán","Villa Corona"); ?>

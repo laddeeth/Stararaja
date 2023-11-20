@@ -1,0 +1,1 @@
+<option value="Kemisē">Kemisē</option><option value="Kibre Mengist">Kibre Mengist</option><option value="Kofelē">Kofelē</option><option value="Kombolcha">Kombolcha</option><option value="Konso">Konso</option><option value="Korem">Korem</option><option value="K’olīto">K’olīto</option>

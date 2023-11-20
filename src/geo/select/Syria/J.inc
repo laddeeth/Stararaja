@@ -1,0 +1,1 @@
+<option value="Jablah">Jablah</option><option value="Jandayris">Jandayris</option><option value="Jarābulus">Jarābulus</option><option value="Jāsim">Jāsim</option><option value="Jayrūd">Jayrūd</option><option value="Jisr ash Shughūr">Jisr ash Shughūr</option><option value="Jubb al Jarrāḩ">Jubb al Jarrāḩ</option><option value="Judaydat Khābūr">Judaydat Khābūr</option>

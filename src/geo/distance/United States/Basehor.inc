@@ -1,0 +1,1 @@
+<?php $neighbours = array("Basehor","Bonner Springs","Fairway","Kansas City","Lansing","Leavenworth","Lenexa","Merriam","Mission","Overland Park","Platte City","Roeland Park","Shawnee","Tonganoxie","Weatherby Lake","Westwood"); ?>

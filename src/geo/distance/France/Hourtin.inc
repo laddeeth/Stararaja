@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carcans","Castelnau-de-Médoc","Cussac-Fort-Médoc","Gaillan-en-Médoc","Hourtin","Lacanau","Lesparre-Médoc","Listrac-Médoc","Moulis-en-Médoc","Pauillac","Saint-Estèphe","Vertheuil"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amorebieta-Etxano","Araya","Aretxabaleta","Arrasate","Ataun","Azkoitia","Azpeitia","Beasain","Bergara","Berriatua","Berriz","Deba","Durango","Eibar","Elgoibar","Elorrio","Ermua","Eskoriatza","Idiazabal","Legorreta","Mendaro","Murguía","Mutriku","Oñati","Ondarroa","Salvatierra","Segura","Vitoria-Gasteiz","Zeanuri","Zumarraga"); ?>

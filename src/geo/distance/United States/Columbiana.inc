@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alabaster","Brook Highland","Calera","Chelsea","Childersburg","Columbiana","Fayetteville","Harpersville","Helena","Indian Springs Village","Jemison","Lake Purdy","Meadowbrook","Montevallo","Pelham","Shelby","Vincent","Westover","Wilsonville"); ?>

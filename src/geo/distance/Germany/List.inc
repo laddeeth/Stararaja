@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aventoft","Emmelsbüll-Horsbüll","Friedrich-Wilhelm-Lübke-Koog","Klanxbüll","List","Rodenäs","Sylt-Ost","Westerland"); ?>

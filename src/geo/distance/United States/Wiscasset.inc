@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bath","Boothbay","Boothbay Harbor","Damariscotta","Edgecomb","Farmingdale","Friendship","Gardiner","Nobleboro","North Bath","Phippsburg","Pittston","Topsham","Waldoboro","Whitefield","Wiscasset","Woolwich"); ?>

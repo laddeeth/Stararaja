@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alpinópolis","Itaú de Minas","Passos"); ?>

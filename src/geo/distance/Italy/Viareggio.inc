@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bagni di Lucca","Barga","Borgo a Mozzano","Calci","Camaiore","Capannori","Carrara","Cascina","Forte dei Marmi","Gallicano","Lucca","Marina di Carrara","Massa","Massarosa","Molazzana","Montignoso","Ortonovo","Pescaglia","Pietrasanta","Pisa","Porcari","San Giuliano Terme","Seravezza","Stazzema","Tirrenia","Vagli Sotto","Vecchiano","Viareggio"); ?>

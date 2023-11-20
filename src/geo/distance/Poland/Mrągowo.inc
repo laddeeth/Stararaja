@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biskupiec","Czerwonka","Dźwierzuty","Gierłoż","Kętrzyn","Mikołajki","Mrągowo","Piecki","Reszel","Ruciane-Nida","Ryn"); ?>

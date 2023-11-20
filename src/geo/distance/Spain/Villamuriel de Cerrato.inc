@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baltanás","Becerril de Campos","Cabezón","Cigales","Dueñas","Grijota","Palencia","Paredes de Nava","Torquemada","Venta de Baños","Villamuriel de Cerrato"); ?>

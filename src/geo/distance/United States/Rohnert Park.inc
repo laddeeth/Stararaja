@@ -1,0 +1,1 @@
+<?php $neighbours = array("Black Point-Green Point","Boyes Hot Springs","Calistoga","Cotati","El Verano","Fetters Hot Springs-Agua Caliente","Graton","Larkfield-Wikiup","Novato","Occidental","Penngrove","Petaluma","Rohnert Park","Saint Helena","Sebastopol","Sonoma","Temelec"); ?>

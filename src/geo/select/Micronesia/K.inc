@@ -1,0 +1,1 @@
+<option value="Kapingamarangi">Kapingamarangi</option><option value="Kolonia">Kolonia</option><option value="Kolonia Town">Kolonia Town</option><option value="Kosrae State Legislature">Kosrae State Legislature</option><option value="Kuttu">Kuttu</option>

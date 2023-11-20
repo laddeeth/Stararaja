@@ -1,0 +1,1 @@
+<?php $neighbours = array("Banning","Cabazon","Calimesa","East Hemet","Green Acres","Hemet","Homeland","Idyllwild","Idyllwild-Pine Cove","Menifee","Murrieta Hot Springs","Nuevo","Perris","Quail Valley","Romoland","San Jacinto","Valle Vista"); ?>

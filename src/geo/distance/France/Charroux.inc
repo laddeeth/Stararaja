@@ -1,0 +1,1 @@
+<?php $neighbours = array("Availles-Limouzine","Champagne-Mouton","Charroux","Chaunay","Civray","Confolens","Couhé","Loubert","Nanteuil-en-Vallée","Ruffec","Saint-Claud","Saint-Maurice-la-Clouère","Sauzé-Vaussais","Savigné","Usson-du-Poitou","Villefagnan"); ?>

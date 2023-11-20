@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baligród","Cisna","Czaszyn","Komańcza","Lesko","Lutowiska","Polańczyk","Rzepedź","Uherce Mineralne"); ?>

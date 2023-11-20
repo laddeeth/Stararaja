@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ambleston","Camrose","Castlemartin","Dale","Freystrop","Herbrandston","Hundleton","Hwlffordd","Jeffreyston","Johnston","Llanrhian","Manorbier","Mathry","Milford Haven","Neyland","Pembroke","Pembroke Dock","Saint David’s","Spittal","Wiston"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Afrátion","Árma","Áyios Nikólaos","Chalkída","Fáros","Fílla","Kastélla","Lárimna","Límni","Loukísia","Malesína","Mantoúdion","Martínon","Mytikas","Néa Artáki","Politiká","Prokópion","Psakhná","Skhimatárion","Vasilikón","Vathí"); ?>

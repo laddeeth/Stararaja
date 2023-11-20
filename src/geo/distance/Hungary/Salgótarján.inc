@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bátonyterenye","Karancskeszi","Karancslapujtő","Kazár","Mátraderecske","Mátranovák","Mátraterenye","Mátraverebély","Parád","Parádsasvár","Pásztó","Pétervására","Recsk","Rimóc","Salgótarján","Somoskőújfalu","Szécsény","Szurdokpüspöki","Tar","Tarnalelesz"); ?>

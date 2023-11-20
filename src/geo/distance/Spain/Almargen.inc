@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguadulce","Alcalá del Valle","Algámitas","Almargen","Ardales","Arriate","Campillos","Cañete la Real","Casarabonela","Cuevas del Becerro","El Saucejo","Gilena","Los Corrales","Martín de la Jara","Olvera","Osuna","Pedrera","Pruna","Setenil de las Bodegas","Sierra de Yeguas","Teba","Villanueva de San Juan"); ?>

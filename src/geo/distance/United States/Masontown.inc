@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cheat Lake","Dunbar","East Uniontown","Fairchance","Hiller","Hopwood","Leith-Hatfield","Luzerne","Maple Glen","Masontown","Oliver","Perryopolis","Point Marion","South Uniontown","Waynesburg"); ?>

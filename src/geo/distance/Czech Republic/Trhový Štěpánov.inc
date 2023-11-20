@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benešov","Bystřice","Čechtice","Čerčany","Divišov","Ledeč nad Sázavou","Lukavec","Mladá Vožice","Načeradec","Ondřejov","Pacov","Poříčí nad Sázavou","Postupice","Sázava","Suchdol","Světlá nad Sázavou","Trhový Štěpánov","Uhlířské Janovice","Vlašim","Votice","Zásmuky","Zbraslavice","Želiv","Zruč nad Sázavou"); ?>

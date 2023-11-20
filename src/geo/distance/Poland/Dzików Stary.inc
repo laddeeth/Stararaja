@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adamówka","Aleksandrów","Biszcza","Cieszanów","Dębno","Dzików Stary","Księżpol","Laszki","Lubaczów","Nowe Sioło","Obsza","Oleszyce","Piskorowice","Sieniawa","Susiec","Tarnogród","Tryńcza","Wiązownica","Wielkie Oczy","Wólka Pełkińska","Zamch","Łukowa"); ?>

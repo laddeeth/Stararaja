@@ -1,0 +1,1 @@
+<?php $neighbours = array("Balerno","Biggar","Bonnyrigg","Carnwath","Colinton","Currie","Dalkeith","Galashiels","Gorebridge","Innerleithen","Kirknewton","Lauder","Loanhead","Melrose","Peebles","Penicuik","Selkirk","West Linton"); ?>

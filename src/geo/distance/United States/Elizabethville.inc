@@ -1,0 +1,1 @@
+<?php $neighbours = array("Colonial Park","Duncannon","Elizabethville","Lawrence Park","Linglestown","Lykens","Matamoras","Paxtonia","Progress","Selinsgrove","Skyline View","Tower City","Trevorton"); ?>

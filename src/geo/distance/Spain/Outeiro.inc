@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abadín","Baralla","Castroverde","Corgo","Fonsagrada","Lugo","Meira","Mondoñedo","Mos","Outeiro","Páramo","Rábade","Ríotorto"); ?>

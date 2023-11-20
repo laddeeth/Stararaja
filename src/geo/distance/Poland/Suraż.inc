@@ -1,0 +1,1 @@
+<?php $neighbours = array("Białystok","Bielsk Podlaski","Brańsk","Choroszcz","Dobrzyniewo Duże","Rudka","Sokoły","Suraż","Szepietowo","Turośń Kościelna","Wysokie Mazowieckie","Wyszki","Zabłudów","Łapy"); ?>

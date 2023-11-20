@@ -1,0 +1,1 @@
+<?php $neighbours = array("East Hemet","Green Acres","Hemet","Homeland","Lake Elsinore","Lakeland Village","March Air Force Base","Mead Valley","Menifee","Moreno Valley","Murrieta","Murrieta Hot Springs","Nuevo","Perris","Quail Valley","Romoland","San Jacinto","Sedco Hills","Temecula","Valle Vista","Wildomar","Woodcrest"); ?>

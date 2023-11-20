@@ -1,0 +1,1 @@
+<?php $neighbours = array("Garden City","Isle of Hope","Pooler","Port Wentworth","Richmond Hill","Savannah","Skidaway Island","Thunderbolt","Tybee Island","Whitemarsh Island","Wilmington Island"); ?>

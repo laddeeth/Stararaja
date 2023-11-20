@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arnac-Pompadour","Boisseuil","Bussière-Galant","Coussac-Bonneval","Excideuil","Juillac","Jumilhac-le-Grand","La Coquille","Ladignac-le-Long","Lanouaille","Le Vigen","Linards","Lubersac","Nexon","Objat","Payzac","Pierre-Buffière","Saint-Germain-les-Belles","Saint-Yrieix-la-Perche","Solignac","Uzerche","Vicq-sur-Breuilh","Vigeois","Voutezac"); ?>

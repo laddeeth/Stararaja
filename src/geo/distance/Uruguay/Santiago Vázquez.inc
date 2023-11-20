@@ -1,0 +1,1 @@
+<?php $neighbours = array("Colonia Nicolich","Delta del Tigre","Joanicó","Joaquín Suárez","La Paz","Las Piedras","Los Cerrillos","Montevideo","Pajas Blancas","Paso de Carrasco","Progreso","Santiago Vázquez","Toledo"); ?>

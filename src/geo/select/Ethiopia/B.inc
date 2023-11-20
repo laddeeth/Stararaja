@@ -1,0 +1,1 @@
+<option value="Bahir Dar">Bahir Dar</option><option value="Bako">Bako</option><option value="Batī">Batī</option><option value="Bedelē">Bedelē</option><option value="Bedēsa">Bedēsa</option><option value="Bichena">Bichena</option><option value="Bodītī">Bodītī</option><option value="Bonga">Bonga</option><option value="Burē">Burē</option><option value="Butajīra">Butajīra</option>

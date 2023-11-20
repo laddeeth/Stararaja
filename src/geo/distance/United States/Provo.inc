@@ -1,0 +1,1 @@
+<?php $neighbours = array("American Fork","Elk Ridge","Lehi","Lindon","Orem","Provo","Spanish Fork","West Mountain","Woodland Hills"); ?>

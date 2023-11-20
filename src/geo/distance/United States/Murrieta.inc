@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bonsall","Camp Pendleton North","Fallbrook","Green Acres","Homeland","Lake Elsinore","Lakeland Village","Menifee","Murrieta","Murrieta Hot Springs","Nuevo","Perris","Quail Valley","Rainbow","Romoland","Sedco Hills","Temecula","Wildomar"); ?>

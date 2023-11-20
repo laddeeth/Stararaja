@@ -1,0 +1,1 @@
+<?php $neighbours = array("Basse-Pointe","Ducos","Fort-de-France","La Trinité","Le Gros-Morne","Le Lamentin","Le Lorrain","Le Morne-Rouge","Le Robert","Les Trois-Îlets","Petite Rivière Salée","Saint-Joseph","Saint-Pierre","Sainte-Marie"); ?>

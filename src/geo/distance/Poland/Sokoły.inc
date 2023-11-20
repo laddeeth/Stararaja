@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brańsk","Choroszcz","Rudka","Rutki","Rutki-Kossaki","Sokoły","Suraż","Szepietowo","Turośń Kościelna","Tykocin","Wysokie Mazowieckie","Wyszki","Łapy"); ?>

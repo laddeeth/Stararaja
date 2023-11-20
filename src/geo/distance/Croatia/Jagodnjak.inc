@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antunovac","Batina","Beli Manastir","Belišće","Bilje","Bistrinci","Bizovac","Brijest","Čeminac","Čepin","Darda","Ernestinovo","Jagodnjak","Josipovac","Karanac","Koška","Ladimirevci","Osijek","Ovčara","Petrijevci","Sarvaš","Tenja","Valpovo","Višnjevac","Vladislavci"); ?>

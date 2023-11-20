@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antón Lizardo","Boca del Río","El Tejar","Jamapa","Manlio Fabio Altamirano","Paso del Toro","Veracruz"); ?>

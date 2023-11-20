@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borger","Coevorden","Dalen","Emmen","Emmer-Compascuum","Hardenberg","Hoogeveen","Klazienaveen","Ruinen","Schoonebeek","Sleen","Vroomshoop","Westerhaar-Vriezenveensewijk"); ?>

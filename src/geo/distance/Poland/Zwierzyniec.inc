@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aleksandrów","Biłgoraj","Frampol","Goraj","Krasnobród","Krynice","Księżpol","Michałów","Nielisz","Radecznica","Rudnik","Stary Zamość","Susiec","Szczebrzeszyn","Tereszpol","Turobin","Zamość","Zwierzyniec","Łabunie","Łukowa"); ?>

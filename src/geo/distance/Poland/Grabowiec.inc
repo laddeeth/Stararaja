@@ -1,0 +1,1 @@
+<?php $neighbours = array("Grabowiec","Hrubieszów","Izbica","Komarów-Osada","Kraśniczyn","Krynice","Miączyn","Siennica Różana","Sitno","Skierbieszów","Stary Zamość","Tyszowce","Werbkowice","Wojsławice","Zamość","Łabunie"); ?>

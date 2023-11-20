@@ -1,0 +1,1 @@
+<?php $neighbours = array("Mount Horeb","New Glarus"); ?>

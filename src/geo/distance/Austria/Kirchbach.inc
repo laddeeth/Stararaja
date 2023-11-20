@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baldramsdorf","Berg im Drautal","Dellach","Dellach im Drautal","Greifenburg","Hermagor","Irschen","Kirchbach","Lendorf","Nikolsdorf","Oberdrauburg","Rangersdorf","Sachsenburg","Seeboden","Spittal an der Drau","Stall","Steinfeld","Stockenboi"); ?>

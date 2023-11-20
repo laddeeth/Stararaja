@@ -1,0 +1,1 @@
+<?php $neighbours = array("Duisburg","Düsseldorf","Erkelenz","Geldern","Grefrath","Grevenbroich","Issum","Jüchen","Kaarst","Kamp-Lintfort","Kempen","Korschenbroich","Krefeld","Meerbusch","Moers","Mönchengladbach","Nettetal","Neuß","Niederkrüchten","Ratingen","Rheinberg","Rheurdt","Schwalmtal","Straelen","Tönisvorst","Viersen","Wachtendonk","Wegberg","Willich"); ?>

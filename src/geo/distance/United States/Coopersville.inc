@@ -1,0 +1,1 @@
+<?php $neighbours = array("Comstock Park","Coopersville","East Grand Rapids","Ferrysburg","Fruitport","Grand Haven","Grand Rapids","Grandville","Hudsonville","Jenison","Kent City","Muskegon Heights","Northview","Norton Shores","Ravenna","Wolf Lake","Zeeland"); ?>

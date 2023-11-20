@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abernethy","Alyth","Auchterarder","Auchtermuchty","Ballingry","Balmullo","Bankfoot","Blairgowrie","Bridge of Earn","Coupar Angus","Crieff","Cupar","Dundee","Errol","Falkland","Freuchie","Glenrothes","Kinglassie","Kinross","Ladybank","Luncarty","Markinch","Methven","Milnathort","Muirhead","New Scone","Newport-On-Tay","Perth","Stanley"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bécancour","Daveluyville","Notre-Dame-du-Bon-Conseil","Plessisville","Victoriaville"); ?>

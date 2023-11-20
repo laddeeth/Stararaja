@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bath","Dalvey","Easington","Golden Grove","Gordon Town","Hope Bay","Kingston","Manchioneal","Mavis Bank","Mona Heights","Moore Town","Morant Bay","New Kingston","Port Antonio","Seaforth","Trinity Ville","Yallahs"); ?>

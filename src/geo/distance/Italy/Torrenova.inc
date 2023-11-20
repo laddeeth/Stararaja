@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acquedolci","Alcara li Fusi","Brolo","Capri Leone","Caronia","Cesarò","Ficarra","Galati Mamertino","Gioiosa Marea","Librizzi","Longi","Maniace","Militello Rosmarino","Mirto","Montagnareale","Naso","Patti","Piraino","Raccuja","San Fratello","San Piero Patti","San Salvatore di Fitalia","San Teodoro","Sinagra","Torrenova","Tortorici","Ucria"); ?>

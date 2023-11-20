@@ -1,0 +1,1 @@
+<?php $neighbours = array("Badbergen","Bakum","Bösel","Bühren","Cappeln","Cloppenburg","Dinklage","Dötlingen","Emstek","Essen","Friesoythe","Garrel","Goldenstedt","Großenkneten","Hilkenbrook","Lahn","Lastrup","Lohne","Löningen","Lorup","Menslage","Molbergen","Nortrup","Quakenbrück","Rastdorf","Vechta","Visbek","Vrees","Wardenburg","Werlte","Wildeshausen"); ?>

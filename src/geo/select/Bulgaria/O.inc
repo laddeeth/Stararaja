@@ -1,0 +1,1 @@
+<option value="Obzor">Obzor</option><option value="Omurtag">Omurtag</option><option value="Opaka">Opaka</option><option value="Oryakhovo">Oryakhovo</option>

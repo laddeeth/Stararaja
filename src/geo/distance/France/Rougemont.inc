@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arcey","Baume-les-Dames","Bavans","Clerval","Colombier-Fontaine","Échenoz-la-Méline","Frotey-lès-Vesoul","Lure","Magny-Vernois","Montenois","Nancray","Navenne","Noidans-lès-Vesoul","Novillars","Pusey","Quincey","Rioz","Rougemont","Roulans","Sancey-le-Grand","Thise","Vaivre-et-Montoille","Vesoul","Villersexel"); ?>

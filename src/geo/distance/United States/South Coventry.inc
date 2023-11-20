@@ -1,0 +1,1 @@
+<?php $neighbours = array("Broad Brook","Coventry Lake","East Hartford","Ellington","Glastonbury","Glastonbury Center","Lake Pocotopaug","Mansfield City","Somers","South Coventry","South Windham","South Windsor","Stafford Springs","Storrs","Terramuggus","Tolland","Wethersfield","Willimantic","Windham"); ?>

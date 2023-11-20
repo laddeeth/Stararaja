@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcaudete","Arjona","Arjonilla","Castillo de Locubín","Fuensanta de Martos","Fuerte del Rey","Higuera de Arjona","Jaén","Jamilena","La Guardia de Jaén","Lopera","Mancha Real","Martos","Mengibar","Pegalajar","Porcuna","Torre del Campo","Torredonjimeno","Valdepeñas de Jaén","Valenzuela","Villanueva de la Reina","Villardompardo"); ?>

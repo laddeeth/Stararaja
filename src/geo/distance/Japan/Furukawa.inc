@@ -1,0 +1,1 @@
+<?php $neighbours = array("Furukawa","Kogota","Matsushima","Rifu","Shiogama","Tomiya","Wakuya","Yamoto"); ?>

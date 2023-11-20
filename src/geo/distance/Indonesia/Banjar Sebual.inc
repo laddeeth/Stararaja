@@ -1,0 +1,1 @@
+<?php $neighbours = array("Asahbadung","Baler Baleagung","Banjar Asahduren","Banjar Dangin Pangkung","Banjar Dauhmarga","Banjar Delodsetra","Banjar Sebual","Banjar Swastika","Banjar Tegakgede","Banjar Yehsatang","Batuagung","Delod Pangkung","Loloan Timur","Negara","Pamedilan","Pekutatan","Satria","Sepang","Tista"); ?>

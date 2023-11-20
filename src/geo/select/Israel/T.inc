@@ -1,0 +1,1 @@
+<option value="Tamra">Tamra</option><option value="Tel Aviv">Tel Aviv</option><option value="Tel Mond">Tel Mond</option><option value="Tiberias">Tiberias</option><option value="Timrat">Timrat</option><option value="Tirah">Tirah</option><option value="Tirat Karmel">Tirat Karmel</option>

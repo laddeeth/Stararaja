@@ -1,0 +1,1 @@
+<?php $neighbours = array("Birchwood Lakes","Conashaugh Lakes","Crandon Lakes","East Bangor","East Stroudsburg","Gold Key Lake","Hemlock Farms","Mount Pocono","Mountainhome","Pocono Ranch Lands","Roseto","Saw Creek","Stroudsburg","Sunrise Lake","Tannersville"); ?>

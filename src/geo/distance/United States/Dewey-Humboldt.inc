@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cordes Lakes","Dewey-Humboldt","Prescott Valley","Verde Village"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bełchatów","Brzeźnio","Buczek","Burzenin","Dobroń","Drużbice","Dłutów","Kluki","Osjaków","Pabianice","Rusiec","Sędziejowice","Sieradz","Szadek","Szczerców","Widawa","Wodzierady","Zapolice","Zduńska Wola","Zelów","Łask"); ?>

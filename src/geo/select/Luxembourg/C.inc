@@ -1,0 +1,1 @@
+<option value="Capellen">Capellen</option><option value="Clemency">Clemency</option><option value="Clervaux">Clervaux</option><option value="Colmar">Colmar</option><option value="Consdorf">Consdorf</option><option value="Contern">Contern</option><option value="Crauthem">Crauthem</option>

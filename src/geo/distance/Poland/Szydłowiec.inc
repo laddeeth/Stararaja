@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bliżyn","Borkowice","Chlewiska","Gowarczów","Grzybowa Góra","Iłża","Jastrząb","Kowala","Mirów","Mirzec","Orońsko","Przysucha","Przytyk","Radom","Rogów","Skaryszew","Skarżysko Kościelne","Skarżysko-Kamienna","Stąporków","Starachowice","Suchedniów","Szydłowiec","Trablice","Wąchock","Wielka Wieś","Wieniawa","Wierzbica","Wolanów","Zakrzew","Łączna"); ?>

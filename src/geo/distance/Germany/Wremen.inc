@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bremerhaven","Butjadingen","Cappel","Cuxhaven","Dorum","Drangstedt","Elmlohe","Flögeln","Heerstedt","Hollen","Ihlienworth","Köhlen","Kührstedt","Langen","Lintig","Loxstedt","Lunestedt","Misselwarden","Mulsum","Nordenham","Nordholz","Nordleda","Odisheim","Padingbüttel","Ringstedt","Schiffdorf","Steinau","Stinstedt","Wanna","Wilhelmshaven","Wremen"); ?>

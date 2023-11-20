@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acquarossa","Ascona","Bellinzona","Biasca","Bodio","Cadenazzo","Camorino","Cancori","Cevio","Claro","Cugnasco","Faido","Giubiasco","Gordola","Hinterrhein","Lavertezzo","Locarno","Lodrino","Losone","Lumino","Magadino","Malvaglia","Mesocco","Minusio","Monte Carasso","Sementina","Verscio"); ?>

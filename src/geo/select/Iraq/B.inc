@@ -1,0 +1,1 @@
+<option value="Baghdad">Baghdad</option><option value="Balad">Balad</option><option value="Bayjī">Bayjī</option><option value="Ba‘qūbah">Ba‘qūbah</option>

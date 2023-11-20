@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aloha","Beaver Creek","Cedar Hills","Cedar Mill","Clackamas","Estacada","Garden Home-Whitford","Gresham","Happy Valley","Jennings Lodge","Lake Oswego","Lents","Metzger","Milwaukie","Molalla","Mulino","Newberg","Oatfield","Oregon City","Raleigh Hills","Tigard","Troutdale","Tualatin","West Haven-Sylvan","West Linn","West Slope","Wood Village"); ?>

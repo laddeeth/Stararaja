@@ -1,0 +1,1 @@
+<?php $neighbours = array("Campanario","Casas de Don Pedro","Esparragosa de Lares","La Coronada","Logrosán","Madrigalejo","Navalvillar de Pela","Orellana la Vieja","Puebla de Alcocer","Talarrubias","Villar de Rena","Zorita"); ?>

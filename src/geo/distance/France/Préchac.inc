@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barsac","Bazas","Cabanac-et-Villagrains","Cadillac","Castets-en-Dorthe","Cérons","Gironde-sur-Dropt","Grignols","Illats","Landiras","Loupiac","Noaillan","Podensac","Préchac","Preignac","Rions","Saint-Macaire","Saint-Maixant","Toulenne"); ?>

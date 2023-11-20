@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aspet","Cazères","Martres-Tolosane","Montesquieu-Volvestre","Montjoie-en-Couserans","Rieux-Volvestre","Saint-Girons","Saint-Lizier","Salies-du-Salat"); ?>

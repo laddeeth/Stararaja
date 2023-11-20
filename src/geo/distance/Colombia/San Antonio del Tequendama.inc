@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albán","Anapoima","Anolaima","Apulo","Bojacá","El Rosal","Facatativá","Funza","Madrid","Mosquera","Quipile","San Antonio del Tequendama","Sibaté","Silvania","Soacha","Viotá","Zipacón"); ?>

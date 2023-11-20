@@ -1,0 +1,1 @@
+<?php $neighbours = array("Elk Plain","Fircrest","Fort Lewis","Fox Island","Home","Lacey","Longbranch","McChord Air Force Base","North Yelm","Olympia","Spanaway","Steilacoom","Tanglewilde-Thompson Place","Tenino","Tumwater","University Place","Wollochet","Yelm"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bormes-les-Mimosas","Cavalaire-sur-Mer","Cogolin","Collobrières","Fréjus","Gassin","Gonfaron","Grimaud","La Croix-Valmer","La Garde-Freinet","Le Cannet-des-Maures","Le Lavandou","Le Muy","Le Plan-de-la-Tour","Les Arcs","Puget-sur-Argens","Ramatuelle","Roquebrune-sur-Argens","Saint-Raphaël","Saint-Tropez","Sainte-Maxime","Vidauban"); ?>

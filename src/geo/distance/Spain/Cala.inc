@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aracena","Bodonal de la Sierra","Cabeza la Vaca","Cala","Calera de León","Fuentes de León","Hinojales","Monesterio","Montemolín","Segura de León"); ?>

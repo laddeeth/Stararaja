@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aken","Barby","Biederitz","Burg bei Magdeburg","Eggersdorf","Gerwisch","Glindenberg","Gommern","Görzke","Gräben","Groß Rosenburg","Hohenwarthe","Leitzkau","Loburg","Lostau","Magdeburg","Möckern","Möser","Neue Neustadt","Plötzky","Rodleben","Roßlau","Schermen","Schönebeck","Tucheim","Wahlitz","Wiesenburg","Zerbst","Ziesar"); ?>

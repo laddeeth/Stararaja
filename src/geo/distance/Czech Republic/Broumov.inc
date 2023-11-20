@@ -1,0 +1,1 @@
+<?php $neighbours = array("Broumov","Červený Kostelec","Česká Skalice","Hronov","Machov","Malé Svatoňovice","Meziměstí","Náchod","Nové Město nad Metují","Police nad Metují","Radvanice","Rtyně v Podkrkonoší","Teplice nad Metují","Trutnov","Úpice","Velké Poříčí","Velké Svatoňovice"); ?>

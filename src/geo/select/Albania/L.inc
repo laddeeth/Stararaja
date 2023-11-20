@@ -1,0 +1,1 @@
+<option value="Laç">Laç</option><option value="Leskovik">Leskovik</option><option value="Lezhë">Lezhë</option><option value="Libohovë">Libohovë</option><option value="Librazhd-Qendër">Librazhd-Qendër</option><option value="Lushnjë">Lushnjë</option>

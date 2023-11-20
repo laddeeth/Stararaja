@@ -1,0 +1,1 @@
+<option value="Garachiné">Garachiné</option><option value="Gómez">Gómez</option><option value="Guabito">Guabito</option><option value="Guadalupe">Guadalupe</option><option value="Gualaca">Gualaca</option><option value="Guararé">Guararé</option><option value="Guarumal">Guarumal</option>

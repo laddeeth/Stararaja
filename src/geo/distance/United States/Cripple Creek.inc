@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cascade-Chipita Park","Cripple Creek","Manitou Springs"); ?>

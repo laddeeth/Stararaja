@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bowen Island","Burnaby","Gibsons","Lions Bay","North Vancouver","Vancouver"); ?>

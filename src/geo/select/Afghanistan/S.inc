@@ -1,0 +1,1 @@
+<option value="Sang Atesh">Sang Atesh</option><option value="Sang-e Chārak">Sang-e Chārak</option><option value="Sangīn">Sangīn</option><option value="Sar-e Pul">Sar-e Pul</option><option value="Shahrak">Shahrak</option><option value="Shibirghān">Shibirghān</option><option value="Shīnḏanḏ">Shīnḏanḏ</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Arolsen","Bad Wildungen","Borgentreich","Breuna","Brilon","Calden","Grebenstein","Hofgeismar","Korbach","Lichtenau","Marsberg","Martinhagen","Medebach","Naumburg","Niedenstein","Vöhl","Volkmarsen","Waldeck","Warburg","Willebadessen","Willingen","Wolfhagen","Wünnenberg","Zierenberg"); ?>

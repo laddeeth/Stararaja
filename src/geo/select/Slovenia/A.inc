@@ -1,0 +1,1 @@
+<option value="Ajdovščina">Ajdovščina</option><option value="Ankaran">Ankaran</option>

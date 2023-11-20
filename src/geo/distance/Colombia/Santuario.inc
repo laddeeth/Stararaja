@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carmen de Viboral","Cocorná","Granada","Guarne","Guatapé","La Ceja","Marinilla","Retiro","Rionegro","San Vicente","Santuario"); ?>

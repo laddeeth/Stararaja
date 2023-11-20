@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bozouls","Calmont","Druelle","Espalion","Flavin","La Loubière","Laissac","Le Monastère","Luc-la-Primaube","Olemps","Pont-de-Salars","Rodez","Salles-Curan","Salles-la-Source","Sébazac-Concourès","Sévérac-le-Château"); ?>

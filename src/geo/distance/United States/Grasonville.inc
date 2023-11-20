@@ -1,0 +1,1 @@
+<?php $neighbours = array("Annapolis","Arnold","Cape Saint Claire","Easton","Grasonville","Hillsmere Shores","Lake Shore","Londontowne","Naval Academy","Parole","Ridgely","Robinwood","Rock Hall","Saint Michaels","Selby-on-the-Bay","Shady Side","Stevensville"); ?>

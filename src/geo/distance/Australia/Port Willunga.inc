@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldinga","Bedford Park","Brighton","Coromandel Valley","Craigburn Farm","Darlington","Hackham","Happy Valley","Marino","Marion","McLaren Vale","Meadows","Moana","Morphett Vale","Mount Compass","Noarlunga","Normanville","Port Noarlunga","Port Willunga","Reynella","Seacliff","Seaford","Sturt"); ?>

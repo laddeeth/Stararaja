@@ -1,0 +1,1 @@
+<option value="Qādis">Qādis</option><option value="Qala i Naw">Qala i Naw</option><option value="Qalāt">Qalāt</option><option value="Qal‘ah-ye Shahr">Qal‘ah-ye Shahr</option><option value="Qarah Bāgh">Qarah Bāgh</option><option value="Qarāwul">Qarāwul</option><option value="Qarchī Gak">Qarchī Gak</option><option value="Qarqīn">Qarqīn</option>

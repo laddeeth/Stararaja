@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chaudes-Aigues","Laguiole","Murat","Neussargues-Moissac","Neuvéglise","Pierrefort","Polminhac","Saint-Flour","Saint-Simon","Sainte-Geneviève-sur-Argence","Vic-sur-Cère"); ?>

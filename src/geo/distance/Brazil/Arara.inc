@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alagoa Nova","Alagoinha","Arara","Areia","Bananeiras","Belém","Cacimba de Dentro","Dona Inês","Esperança","Guarabira","Pirpirituba","Remígio","Solânea"); ?>

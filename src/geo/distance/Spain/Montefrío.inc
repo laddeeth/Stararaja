@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcalá la Real","Algarinejo","Almedinilla","Carcabuey","Castillo de Locubín","Chauchina","Chimeneas","Cijuela","Colomera","Frailes","Fuente Vaqueros","Huétor-Tájar","Illora","Iznájar","Láchar","Loja","Moclín","Montefrío","Moraleda de Zafayona","Pinos Puente","Priego de Córdoba","Salar","Zagra"); ?>

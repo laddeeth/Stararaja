@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boguszów-Gorce","Bolków","Czarny Bór","Janowice Wielkie","Jawor","Jaworzyna Śląska","Jeżów Sudecki","Kamienna Góra","Kunice","Legnica","Legnickie Pole","Marciszów","Miłkowice","Paszowice","Stanowice","Stare Bogaczowice","Strzegom","Świebodzice","Świerzawa","Szczawno-Zdrój","Udanin","Wałbrzych","Wojcieszów","Zagrodno","Żarów","Złotoryja"); ?>

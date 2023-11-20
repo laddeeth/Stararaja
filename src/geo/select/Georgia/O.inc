@@ -1,0 +1,1 @@
+<option value="Ochkhamuri">Ochkhamuri</option><option value="Och’amch’ire">Och’amch’ire</option><option value="Oni">Oni</option>

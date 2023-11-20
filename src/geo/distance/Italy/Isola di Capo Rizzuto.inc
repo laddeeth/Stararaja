@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belcastro","Botricello","Cropani","Crotone","Cutro","Isola di Capo Rizzuto","Mesoraca","Rocca di Neto","Roccabernarda","San Mauro Marchesato","Santa Severina","Scandale"); ?>

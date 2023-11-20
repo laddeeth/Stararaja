@@ -1,0 +1,1 @@
+<option value="Baldone">Baldone</option><option value="Baloži">Baloži</option><option value="Baltinava">Baltinava</option><option value="Balvi">Balvi</option><option value="Bauska">Bauska</option><option value="Bolderaja">Bolderaja</option><option value="Brocēni">Brocēni</option>

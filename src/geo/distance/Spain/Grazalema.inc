@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcalá del Valle","Algar","Algodonales","Arriate","Benaoján","Coripe","Cortes de la Frontera","El Bosque","El Gastor","Gaucín","Grazalema","Igualeja","Olvera","Prado del Rey","Pruna","Puerto Serrano","Ronda","Setenil de las Bodegas","Ubrique","Villamartín","Zahara"); ?>

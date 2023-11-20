@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antiguo Cuscatlán","La Libertad","Nueva San Salvador","Nuevo Cuscatlán","Olocuilta","Panchimalco","Rosario de Mora","San Marcos","San Salvador","Santo Tomás","Zaragoza"); ?>

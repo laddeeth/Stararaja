@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bolków","Ciechów","Gniechowice","Jawor","Jaworzyna Śląska","Kąty Wrocławskie","Kunice","Legnica","Legnickie Pole","Malczyce","Miękinia","Mrozów","Paszowice","Prochowice","Sobótka","Środa Śląska","Stanowice","Stare Bogaczowice","Strzegom","Świebodzice","Szczawno-Zdrój","Szczepanów","Udanin","Żarów"); ?>

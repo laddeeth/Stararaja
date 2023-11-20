@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chozas de Abajo","Cuadros","Garrafe de Torío","Gradefes","León","Mansilla de las Mulas","Onzonilla","San Andrés del Rabanedo","Sariegos","Valdefresno","Valdepolo","Valdevimbre","Valencia de Don Juan","Valverde de la Virgen","Villadangos del Páramo","Villamañán","Villaquilambre","Villasabariego","Villaturiel"); ?>

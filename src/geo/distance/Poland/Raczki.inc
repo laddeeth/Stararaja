@@ -1,0 +1,1 @@
+<?php $neighbours = array("Augustów","Filipów","Olecko","Raczki","Rajgród","Suwałki"); ?>

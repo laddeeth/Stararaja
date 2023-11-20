@@ -1,0 +1,1 @@
+<?php $neighbours = array("Back Mountain","Browntown","Dupont","Duryea","Forty Fort","Glen Lyon","Harleigh","Harveys Lake","Hilldale","Hughestown","Inkerman","Laflin","Larksville","Moosic","Nanticoke","Old Forge","Plains","Scranton","Shavertown","Swoyersville","Trucksville","West Pittston","West Wyoming","White Haven","Wilkes-Barre"); ?>

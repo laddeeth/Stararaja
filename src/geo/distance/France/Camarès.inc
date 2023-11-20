@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belmont-sur-Rance","Camarès","La Salvetat-sur-Agout","La Tour-sur-Orb","Lacaune","Lamalou-les-Bains","Le Poujol-sur-Orb","Saint-Affrique","Saint-Georges-de-Luzençon"); ?>

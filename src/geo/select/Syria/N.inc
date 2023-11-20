@@ -1,0 +1,1 @@
+<option value="Nāḩiyat as Sab‘ Biyār">Nāḩiyat as Sab‘ Biyār</option><option value="Nawá">Nawá</option><option value="Nubl">Nubl</option>

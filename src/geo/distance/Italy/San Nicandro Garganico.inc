@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apricena","Cagnano Varano","Carpino","Ischitella","Lesina","Poggio Imperiale","Rignano Garganico","Rodi Garganico","San Giovanni Rotondo","San Marco in Lamis","San Nicandro Garganico","San Paolo di Civitate","San Severo","Torremaggiore"); ?>

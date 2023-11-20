@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dzików Stary","Jagiełła","Jarosław","Laszki","Lubaczów","Medyka","Mirocin","Nowe Sioło","Oleszyce","Orły","Pawłosiów","Przemyśl","Przeworsk","Radymno","Rokietnica","Rozbórz","Sieniawa","Sośnica","Stubno","Tryńcza","Wiązownica","Wielkie Oczy","Wierzbna","Wólka Pełkińska","Żurawica","Żurawiczki"); ?>

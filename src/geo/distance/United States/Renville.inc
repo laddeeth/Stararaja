@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bird Island","Clara City","Olivia","Redwood Falls","Renville"); ?>

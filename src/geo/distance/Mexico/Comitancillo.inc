@@ -1,0 +1,1 @@
+<?php $neighbours = array("Asunción Ixtaltepec","Comitancillo","Juchitán de Zaragoza","San Jerónimo Ixtepec","Santo Domingo Tehuantepec"); ?>

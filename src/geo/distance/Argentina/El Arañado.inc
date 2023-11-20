@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carrilobo","Colonia San Bartolomé","El Arañado","Las Varas","Las Varillas","Sacanta"); ?>

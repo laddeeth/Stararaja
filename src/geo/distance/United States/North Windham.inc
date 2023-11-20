@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cornish","Cumberland Center","Falmouth Foreside","Gorham","Hollis Center","Limington","Minot","New Gloucester","North Windham","Poland","Scarborough","South Portland","South Portland Gardens","Steep Falls","West Scarborough","Westbrook"); ?>

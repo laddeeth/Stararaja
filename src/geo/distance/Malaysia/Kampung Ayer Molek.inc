@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alor Gajah","Batu Berendam","Bemban","Bukit Rambai","Kampong Masjid Tanah","Kampung Ayer Keroh","Kampung Ayer Molek","Kampung Bukit Baharu","Klebang Besar","Melaka","Pulau Sebang","Sungai Udang","Tangkak"); ?>

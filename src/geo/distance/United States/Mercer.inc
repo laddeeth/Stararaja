@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brookfield Center","Farrell","Masury","Mercer","New Castle Northwest","New Wilmington","Reynolds Heights","Sharpsville","Slippery Rock","Stoneboro","West Hill"); ?>

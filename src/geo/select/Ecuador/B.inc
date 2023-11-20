@@ -1,0 +1,1 @@
+<option value="Babahoyo">Babahoyo</option><option value="Bahía de Caráquez">Bahía de Caráquez</option><option value="Baláo">Baláo</option><option value="Balzar">Balzar</option><option value="Baños">Baños</option><option value="Boca Suno">Boca Suno</option>

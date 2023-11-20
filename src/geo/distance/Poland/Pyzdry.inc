@@ -1,0 +1,1 @@
+<?php $neighbours = array("Broniszewice","Chocz","Dominowo","Gizałki","Golina","Grodziec","Kotlin","Kołaczkowo","Krzykosy","Lądek","Miłosław","Nekla","Nowe Miasto nad Wartą","Pyzdry","Rzgów Pierwszy","Środa Wielkopolska","Strzałkowo","Słupca","Witaszyce","Września","Zagórów","Żerków"); ?>

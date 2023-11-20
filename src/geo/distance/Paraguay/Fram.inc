@@ -1,0 +1,1 @@
+<?php $neighbours = array("Capitán Miranda","Fram","Hohenau","Jesús","Obligado","Trinidad"); ?>

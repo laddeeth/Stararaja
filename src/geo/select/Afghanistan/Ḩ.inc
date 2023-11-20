@@ -1,0 +1,1 @@
+<option value="Herāt">Herāt</option><option value="Ḩokūmat-e Nād ‘Alī">Ḩokūmat-e Nād ‘Alī</option><option value="Ḩokūmatī Gīzāb">Ḩokūmatī Gīzāb</option><option value="Ḩukūmat-e Shīnkaī">Ḩukūmat-e Shīnkaī</option><option value="Ḩukūmatī Azrow">Ḩukūmatī Azrow</option><option value="Ḩukūmatī Dahānah-ye Ghōrī">Ḩukūmatī Dahānah-ye Ghōrī</option>

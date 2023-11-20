@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aire-la-Ville","Anières","Bellevue","Bernex","Carouge","Chancy","Chêne-Bougeries","Chêne-Bourg","Confignon","Coppet","Corsier","Dardagny","Founex","Genève","Jussy","Lancy","Le Grand-Saconnex","Les Avanchets","Meinier","Meyrin","Onex","Plan-les-Ouates","Puplinge","Satigny","Thônex","Troinex","Vandœuvres","Vernier","Versoix","Veyrier"); ?>

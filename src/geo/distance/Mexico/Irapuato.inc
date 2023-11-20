@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cerro Gordo","Irapuato","La Aldea","La Calera","Romita","Salamanca","San Cristóbal","San José Temascatío","Santa Teresa","Silao","Valtierrilla"); ?>

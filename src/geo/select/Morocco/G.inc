@@ -1,0 +1,1 @@
+<option value="Galaz">Galaz</option><option value="Ghouazi">Ghouazi</option><option value="Goulmima">Goulmima</option><option value="Guelmim">Guelmim</option><option value="Guenfouda">Guenfouda</option><option value="Guercif">Guercif</option><option value="Guisser">Guisser</option>

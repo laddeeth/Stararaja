@@ -1,0 +1,1 @@
+<?php $neighbours = array("Banks","Bay Horse","Blackpool","Catterall","Clayton-le-Woods","Croston","Euxton","Fleetwood","Formby","Freckleton","Fylde","Galgate","Garstang","Goosnargh","Great Eccleston","Great Marton","Kirkham","Leyland","Longridge","Lytham St Annes","Ormskirk","Parbold","Poulton le Fylde","Preesall","Preston","Southport","Tarleton","Warton"); ?>

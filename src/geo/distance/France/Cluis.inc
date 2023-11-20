@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aigurande","Ardentes","Argenton-sur-Creuse","Arthon","Bonnat","Chantôme","Cluis","Dun-le-Palestel","La Châtre","Le Pêchereau","Le Poinçonnet","Luant","Montgivray","Neuvy-Saint-Sépulchre","Saint-Gaultier"); ?>

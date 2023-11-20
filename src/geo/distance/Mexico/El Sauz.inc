@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ajuchitlán","El Colorado","El Sauz","Huimilpan","La Cañada","La Estancia","La Lira","La Llave","Pedro Escobedo","San Juan del Río","San Nicolás","Tequisquiapan"); ?>

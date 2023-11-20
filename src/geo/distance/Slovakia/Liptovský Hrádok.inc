@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brezno","Hybe","Liptovský Hrádok","Liptovský Mikuláš","Pribylina","Štrba"); ?>

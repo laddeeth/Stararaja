@@ -1,0 +1,1 @@
+<?php $neighbours = array("Banie Mazurskie","Gierłoż","Giżycko","Kruklanki","Pozezdrze","Ryn","Srokowo","Stare Juchy","Swiętajno","Węgorzewo","Wydminy"); ?>

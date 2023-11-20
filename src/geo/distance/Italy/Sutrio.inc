@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ampezzo","Arta Terme","Cavazzo Carnico","Cima Sappada","Enemonzo","Gemona del Friuli","Moggio Udinese","Osoppo","Ovaro","Paluzza","Paularo","Pontebba","Prato Carnico","Prato di Resia","Resia","Sappada","Socchieve","Sutrio","Tolmezzo","Trasaghis","Venzone","Villa Santina"); ?>

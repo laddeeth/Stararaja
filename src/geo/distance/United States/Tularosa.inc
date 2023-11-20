@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alamogordo","Boles Acres","Holloman Air Force Base","La Luz","Mescalero","Tularosa"); ?>

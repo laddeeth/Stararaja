@@ -1,0 +1,1 @@
+<?php $neighbours = array("Jardim do Seridó","Parelhas"); ?>

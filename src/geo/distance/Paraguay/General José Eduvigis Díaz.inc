@@ -1,0 +1,1 @@
+<?php $neighbours = array("General José Eduvigis Díaz"); ?>

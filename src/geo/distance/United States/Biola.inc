@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biola","Bonadelle Ranchos-Madera Ranchos","Clovis","Kerman","Madera","Madera Acres","Parksdale","Parkwood","San Joaquin","Tarpey Village"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carpinteria","Channel Islands Beach","El Rio","Meiners Oaks","Mira Monte","Oak View","Ojai","Oxnard","Oxnard Shores","Port Hueneme","Santa Paula","Saticoy","Summerland","Toro Canyon","Ventura"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Nuestra Señora del Rosario de Caa Catí","San Miguel"); ?>

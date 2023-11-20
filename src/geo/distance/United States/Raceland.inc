@@ -1,0 +1,1 @@
+<?php $neighbours = array("Catlettsburg","Ceredo","Coal Grove","Flatwoods","Franklin Furnace","Kenova","New Boston","Raceland","Sciotodale","South Point","South Shore","Wheelersburg"); ?>

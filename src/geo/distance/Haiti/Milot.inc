@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acul du Nord","Bahon","Cap-Haïtien","Caracol","Dondon","Grande Rivière du Nord","Limbé","Limonade","Marmelade","Milot","Plaine du Nord","Plaisance","Port Margot","Quartier Morin","Ranquitte","Saint-Raphaël","Trou du Nord"); ?>

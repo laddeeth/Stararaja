@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cana Chapetón","Castañuelas","Dajabón","Las Matas de Santa Cruz","Partido","Pepillo Salcedo","San Fernando de Monte Cristi","Villa Elisa","Villa Vásquez"); ?>

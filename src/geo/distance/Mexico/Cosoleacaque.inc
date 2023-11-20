@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allende","Chinameca","Coacotla","Coatzacoalcos","Cosoleacaque","Hidalgotitlán","Minatitlán","Nanchital","Oteapan","Pajapan","Soconusco","Tatahuicapan","Texistepec"); ?>

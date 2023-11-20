@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blizanów","Broniszewice","Cieszków","Dobrzyca","Gorzyce Wielkie","Gołuchów","Janków Przygodzki","Kalisz","Kotlin","Koźmin Wielkopolski","Krotoszyn","Mikstat","Nowe Skalmierzyce","Odolanów","Ostrów Wielkopolski","Pleszew","Przygodzice","Raszków","Rozdrażew","Sieroszewice","Skalmierzyce","Sośnie","Sulmierzyce","Witaszyce","Zduny"); ?>

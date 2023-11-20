@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bernstadt","Boxberg","Görlitz","Guttau","Hähnichen","Hochkirch","Horka","Klitten","Kodersdorf","Königshain","Krauschwitz","Löbau","Malschwitz","Markersdorf","Mücka","Niesky","Quitzdorf","Reichenbach","Rietschen","Schönau-Berzdorf","Sohland am Rotstein","Uhyst","Weißenberg","Weißkeißel"); ?>

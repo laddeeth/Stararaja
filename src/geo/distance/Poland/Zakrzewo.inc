@@ -1,0 +1,1 @@
+<?php $neighbours = array("Debrzno","Jastrowie","Kamień Krajeński","Krajenka","Lipka","Okonek","Sępólno Krajeńskie","Tarnówka","Więcbork","Wyrzysk","Zakrzewo","Złotów","Łobżenica"); ?>

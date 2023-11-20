@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apaseo el Alto","Apaseo el Grande","Celaya","Comonfort","Empalme Escobedo","Juventino Rosas","Rincón de Tamayo","San Juan de la Vega","San Miguel de Allende","San Miguel Octopan","Santa Rosa de Jáuregui","Santiago de Cuenda","Tenería","Tlacote el Bajo"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Commercy","Dieue-sur-Meuse","Dugny-sur-Meuse","Euville","Foug","Lérouville","Ligny-en-Barrois","Saint-Mihiel","Tronville-en-Barrois","Vacon","Velaines","Vigneulles-lès-Hattonchâtel","Vignot"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apeldoorn","Biddinghuizen","Boskamp","Dalfsen","Dronten","Elburg","Emmeloord","Emst","Ens","Epe","Ermelo","Garderen","Harderwijk","Hasselt","Hattem","Heerde","Heino","Horst","Kampen","Lelystad","Nunspeet","Oene","Oldebroek","Olst","Putten","Sint Jansklooster","Twello","Uddel","Urk","Vaassen","Vollenhove","Wijhe","Zeewolde","Zwolle"); ?>

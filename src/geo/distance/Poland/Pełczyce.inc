@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barlinek","Bierzwnik","Choszczno","Dolice","Krzęcin","Kłodawa","Lipiany","Nowogródek Pomorski","Pełczyce","Przelewice","Pyrzyce","Recz","Strzelce Krajeńskie","Suchań","Zwierzyń"); ?>

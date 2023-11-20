@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aubiet","Auch","Beaumont-de-Lomagne","Fleurance","Fontenilles","Gimont","Launac","Léguevin","Lévignac","Lombez","Montaigut-sur-Save","Pavie","Preignan","Pujaudran","Saint-Lys","Sainte-Foy-de-Peyrolières","Samatan","Seissan"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bangor Trident Base","Camano","Edmonds","Esperance","Hansville","Lofall","Lynnwood","Meadowdale","Mukilteo","Port Hadlock-Irondale","Port Ludlow","Port Townsend","Poulsbo","Suquamish"); ?>

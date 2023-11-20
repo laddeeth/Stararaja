@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cojumatlán de Régules","Cuitzeo","Jamay","Jiquilpan de Juárez","Pajacuarán","Poncitlán","Sahuayo de José María Morelos","San Pedro Itzicán","Tizapán el Alto","Valle de Juárez","Villamar"); ?>

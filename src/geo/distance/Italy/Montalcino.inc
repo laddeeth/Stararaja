@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abbadia San Salvatore","Arcidosso","Asciano","Buonconvento","Campagnatico","Castel del Piano","Chianciano Terme","Cinigiano","Civitella Marittima","Civitella Paganico","Montalcino","Montepulciano","Monticiano","Murlo","Piancastagnaio","Pienza","Radicofani","Rapolano Terme","Roccastrada","Santa Fiora","Sinalunga","Torrita di Siena","Trequanda"); ?>

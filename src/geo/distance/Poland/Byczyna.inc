@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bralin","Byczyna","Czastary","Dalachów","Galewice","Gorzów Śląski","Kępno","Kluczbork","Mokrsko","Pątnów","Praszka","Rychtal","Skomlin","Słupia pod Kępnem","Walichnowy","Wieluń","Wieruszów","Wołczyn","Łęka Opatowska"); ?>

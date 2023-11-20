@@ -1,0 +1,1 @@
+<?php $neighbours = array("Briseñas","Cojumatlán de Régules","Cuitzeo","Jamay","La Barca","Poncitlán","San Pedro Itzicán","Tototlán"); ?>

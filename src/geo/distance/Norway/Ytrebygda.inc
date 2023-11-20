@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ågotnes","Askøy","Bergen","Eikelandsosen","Espeland","Frekhaug","Hagavik","Hylkje","Indre Arna","Isdalsstø","Kleppestø","Knappskog","Knarrviki","Lonevåg","Osøyro","Sandsli","Skogsvågen","Storebø","Syfteland","Tysse","Ytre Arna","Ytrebygda"); ?>

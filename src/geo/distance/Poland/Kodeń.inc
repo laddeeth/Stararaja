@@ -1,0 +1,1 @@
+<?php $neighbours = array("Kodeń","Piszczac","Sosnówka","Sławatycze","Terespol","Tuczna","Zalesie","Łomazy"); ?>

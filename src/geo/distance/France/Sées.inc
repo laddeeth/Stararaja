@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alençon","Arçonnay","Argentan","Champfleur","Condé-sur-Sarthe","Damigny","Écouché","Gacé","Mortagne-au-Perche","Mortrée","Radon","Saint-Denis-sur-Sarthon","Saint-Germain-du-Corbéis","Saint-Paterne","Sainte-Gauburge-Sainte-Colombe","Sées","Trun","Valframbert"); ?>

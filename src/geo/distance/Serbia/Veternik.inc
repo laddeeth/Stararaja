@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bačka Palanka","Bački Petrovac","Beška","Čelarevo","Čortanovci","Despotovo","Gardinovci","Gložan","Kisač","Kovilj","Kulpin","Maglić","Novi Sad","Petrovaradin","Ravno Selo","Ruma","Rumenka","Šajkaš","Sremski Karlovci","Stepanovićevo","Veternik","Žabalj","Zmajevo","Ðurđevo"); ?>

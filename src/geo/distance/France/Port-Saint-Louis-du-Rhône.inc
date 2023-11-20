@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carry-le-Rouet","Châteauneuf-les-Martigues","Cornillon-Confoux","Fos-sur-Mer","Istres","Martigues","Miramas","Port-de-Bouc","Port-Saint-Louis-du-Rhône","Saint-Chamas","Saint-Martin-de-Crau","Saint-Mitre-les-Remparts","Sausset-les-Pins"); ?>

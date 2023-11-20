@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carlos Fonseca Amador","Ciudad Sandino","El Crucero","La Concepción","Managua","Nagarote","Nindirí","Ticuantepe","Tipitapa"); ?>

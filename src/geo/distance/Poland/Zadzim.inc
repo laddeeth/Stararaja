@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dalików","Goszczanów","Kawęczyn","Lutomiersk","Pęczniew","Poddębice","Przykona","Sieradz","Świnice Warckie","Szadek","Uniejów","Warta","Wartkowice","Wodzierady","Wróblew","Zadzim","Zapolice","Zduńska Wola","Łask"); ?>

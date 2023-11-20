@@ -1,0 +1,1 @@
+<?php $neighbours = array("Artsvanist","Astghadzor","Dzoragyugh","Geghamasar","Karanlukh","Karchaghbyur","Lanjaghbyur","Lichk’","Madina","Martuni","Mets Masrik","Nerk’in Getashen","Tsovak","Tsovinar","T’azagyugh","Vaghashen","Vardadzor","Vardenik","Vardenis","Verin Getashen","Yeranos"); ?>

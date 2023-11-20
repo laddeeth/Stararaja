@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ancy-le-Franc","Bar-sur-Seine","Chaource","Châtillon-sur-Seine","Les Riceys","Mussy-sur-Seine","Ravières","Tanlay","Vendeuvre-sur-Barse"); ?>

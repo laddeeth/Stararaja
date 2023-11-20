@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bolesław","Bukowno","Chruszczobród","Gorenice","Jerzmanowice","Klucze","Kozłów","Kroczyce","Lelów","Miechów","Miechów Charsznica","Myszków","Niegowonice","Ogrodzieniec","Olkusz","Pilica","Przeginia","Rokitno Szlacheckie","Sąspów","Skała","Sułoszowa","Szczekociny","Sławków","Wolbrom","Włodowice","Żarki","Zawiercie","Łazy"); ?>

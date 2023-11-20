@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alfonsine","Argenta","Bagnacavallo","Bagnara di Romagna","Brisighella","Castel Bolognese","Castel Guelfo di Bologna","Castrocaro Terme e Terra del Sole","Conselice","Cotignola","Dozza","Faenza","Forlì","Forlimpopoli","Fusignano","Imola","Lugo","Massa Lombarda","Medicina","Mordano","Ravenna","Riolo Terme","Russi","Solarolo"); ?>

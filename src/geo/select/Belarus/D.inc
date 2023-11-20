@@ -1,0 +1,1 @@
+<option value="Davyd-Haradok">Davyd-Haradok</option><option value="Disna">Disna</option><option value="Dobrush">Dobrush</option><option value="Dokshytsy">Dokshytsy</option><option value="Drahichyn">Drahichyn</option><option value="Druya">Druya</option><option value="Drybin">Drybin</option><option value="Dzyarzhynsk">Dzyarzhynsk</option><option value="Dzyatlava">Dzyatlava</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apen","Aurich","Barßel","Bockhorst","Brinkum","Bunde","Detern","Emden","Esterwegen","Filsum","Firrel","Hesel","Hinte","Holtland","Jemgum","Leer","Mittegroßefehn","Neukamperfehn","Neulehe","Nortmoor","Ostrhauderfehn","Papenburg","Rhede","Schwerinsdorf","Surwold","Weener","Wiesmoor"); ?>

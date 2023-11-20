@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acala","Cancuc","Chamula","Chiapilla","El Zapotal","Ixtapa","San Cristóbal de Las Casas","Santa Catarina Pantelhó","Soyaló","Zinacantán"); ?>

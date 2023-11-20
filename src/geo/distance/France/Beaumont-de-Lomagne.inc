@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aubiet","Auvillar","Beaumont-de-Lomagne","Bressols","Campsas","Castelsarrasin","Finhan","Fleurance","Gimont","Grenade","Grisolles","Lamagistère","Launac","Lavit","Lectoure","Lévignac","Moissac","Montaigut-sur-Save","Montbeton","Montech","Ondes","Pompignan","Saint-Nicolas-de-la-Grave","Saint-Porquier","Verdun-sur-Garonne"); ?>

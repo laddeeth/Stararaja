@@ -1,0 +1,1 @@
+<?php $neighbours = array("Attalla","Ballplay","Gadsden","Glencoe","Hokes Bluff","Jacksonville","Leesburg","Ohatchee","Piedmont","Rainbow City","Saks","Sardis City","Southside","Steele","Weaver","Whitesboro"); ?>

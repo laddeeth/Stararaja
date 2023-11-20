@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bagno di Romagna","Bertinoro","Brisighella","Castrocaro Terme e Terra del Sole","Civitella di Romagna","Dovadola","Forlì","Forlimpopoli","Galeata","Marradi","Meldola","Mercato Saraceno","Modigliana","Pratovecchio","Predappio","Predappio Alta","Rocca San Casciano","San Godenzo","Santa Sofia","Sarsina","Stia","Tredozio","Verghereto"); ?>

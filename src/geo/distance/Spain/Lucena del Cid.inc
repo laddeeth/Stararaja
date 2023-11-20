@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adzaneta","Almassora","Alquerías del Niño Perdido","Artana","Benasal","Borriol","Cabanes","Castelló de la Plana","Fuentes de Rubielos","Lucena del Cid","Olba","Onda","Ribesalbes","San Juan de Moró","Sierra-Engarcerán","Vila-real","Villafamés"); ?>

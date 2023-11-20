@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blountville","Bluff City","Church Hill","Colonial Heights","Elizabethton","Fall Branch","Gate City","Johnson City","Jonesborough","Kingsport","Spurgeon","Unicoi","Walnut Hill"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alpharetta","Auburn","Berkeley Lake","Braselton","Buford","Chamblee","Cumming","Dacula","Doraville","Duluth","Dunwoody","Flowery Branch","Grayson","Hoschton","Johns Creek","Lawrenceville","Lilburn","Loganville","Mountain Park","Norcross","Oakwood","Roswell","Snellville","Stone Mountain","Sugar Hill","Suwanee","Tucker"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("East Grand Forks","Grand Forks","Grand Forks Air Force Base"); ?>

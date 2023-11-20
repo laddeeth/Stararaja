@@ -1,0 +1,1 @@
+<?php $neighbours = array("Connantre","Esternay","Fère-Champenoise","Maizières-la-Grande-Paroisse","Méry-sur-Seine","Montmirail","Romilly-sur-Seine","Saint-Just-Sauvage","Sézanne","Vertus","Villenauxe-la-Grande","Villiers-Saint-Georges"); ?>

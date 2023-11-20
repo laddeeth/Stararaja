@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bretenoux","Brive-la-Gaillarde","Carsac-Aillac","Cénac-et-Saint-Julien","Cosnac","Domme","Eyvigues-et-Eybènes","Gourdon","Gramat","Larche","Le Vigan","Meyssac","Saint-Pantaléon-de-Larche","Salviac","Sarlat-la-Canéda","Souillac","Terrasson-Lavilledieu","Vayrac"); ?>

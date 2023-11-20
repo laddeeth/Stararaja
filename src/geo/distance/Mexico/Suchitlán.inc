@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cofradía","Colima","Comala","Coquimatlán","La Quesería","Suchitlán","Tonila","Villa de Alvarez"); ?>

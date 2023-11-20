@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acayuca","Axapusco","Ciudad Sahagún","Jaltepec","Mineral del Monte","Otumba de Gómez Farías","Pachuca de Soto","Pachuquilla","San Martín de las Pirámides","Santa María Nopaltepec","Singuilucan","Temascalapa","Tepeapulco","Tezontepec","Tlanalapan","Tolcayuca","Zapotlán de Juárez","Zempoala"); ?>

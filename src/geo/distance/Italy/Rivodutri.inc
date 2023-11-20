@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antrodoco","Arrone","Cantalice","Cantalupo in Sabina","Cascia","Casperia","Cittaducale","Contigliano","Ferentillo","Greccio","Leonessa","Maltignano","Montefranco","Narni","Poggio Bustone","Poggio Catino","Rieti","Rivodutri","San Gemini","Spoleto","Stroncone","Tarano","Terni","Torri in Sabina","Torricella in Sabina"); ?>

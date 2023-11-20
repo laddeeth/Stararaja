@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albareto","Bardi","Bedonia","Berceto","Borgo Val di Taro","Borzonasca","Brugnato","Carasco","Castiglione Chiavarese","Compiano","Farini","Ferriere","Filattiera","Mezzanego","Morfasso","Mulazzo","Ne","Pontremoli","Rezzoaglio","Sesta Godano","Solignano","Tornolo","Varese Ligure","Varsi","Zeri"); ?>

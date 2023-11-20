@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auckland","Mangere","Manukau City","Pakuranga","Papakura","Pukekohe East","Red Hill","Takanini","Tamaki","Titirangi","Waitakere","Waiuku","Wiri"); ?>

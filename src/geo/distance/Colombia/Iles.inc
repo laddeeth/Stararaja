@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldana","Carlosama","Consacá","Contadero","Funes","Guachucal","Guaitarilla","Gualmatán","Iles","Imués","Ipiales","Ospina","Potosí","Pupiales","Sapuyes","Tangua","Túquerres","Yacuanquer"); ?>

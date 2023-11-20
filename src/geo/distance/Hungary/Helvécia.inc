@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ágasegyháza","Ballószög","Bugac","Fülöpjakab","Fülöpszállás","Helvécia","Izsák","Kecskemét","Kerekegyháza","Kiskunfélegyháza","Kocsér","Lajosmizse","Lakitelek","Nagykőrös","Nyárlőrinc","Orgovány","Szentkirály","Tiszaalpár","Városföld"); ?>

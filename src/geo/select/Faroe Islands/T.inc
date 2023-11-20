@@ -1,0 +1,1 @@
+<option value="Tórshavn">Tórshavn</option><option value="Tvøroyri">Tvøroyri</option>

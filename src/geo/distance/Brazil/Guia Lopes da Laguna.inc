@@ -1,0 +1,1 @@
+<?php $neighbours = array("Guia Lopes da Laguna"); ?>

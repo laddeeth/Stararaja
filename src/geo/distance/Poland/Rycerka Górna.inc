@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cięcina","Cisiec","Istebna","Jaworzynka","Juszczyna","Kamesznica","Koniaków","Korbielów","Krzyżowa","Laliki","Lipowa","Milówka","Pietrzykowice","Radziechowy","Rajcza","Rycerka Dolna","Rycerka Górna","Sól","Sopotnia Wielka","Świnna","Ujsoły","Węgierska Górka","Wisła","Żabnica","Żywiec"); ?>

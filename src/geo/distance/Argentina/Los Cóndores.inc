@@ -1,0 +1,1 @@
+<?php $neighbours = array("Berrotarán","Embalse","Los Cóndores","Río Tercero","Tancacha","Villa del Dique","Villa Rumipal"); ?>

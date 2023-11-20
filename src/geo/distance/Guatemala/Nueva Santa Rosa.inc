@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barberena","Casillas","Cuilapa","Fraijanes","Mataquescuintla","Nueva Santa Rosa","Oratorio","Pueblo Nuevo Viñas","Quesada","San José Acatempa","San José Pinula","San Rafael Las Flores","Santa Cruz Naranjo","Santa María Ixhuatán","Santa Rosa de Lima","Villa Canales"); ?>

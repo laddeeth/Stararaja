@@ -1,0 +1,1 @@
+<?php $neighbours = array("Montbard","Pouilly-en-Auxois","Ravières","Saulieu","Semur-en-Auxois","Venarey-les-Laumes","Vitteaux"); ?>

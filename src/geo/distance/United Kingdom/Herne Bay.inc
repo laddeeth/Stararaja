@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barham","Blean","Broadstairs","Canterbury","Chartham","Dover","Dunkirk","Eastry","Faversham","Hawkinge","Herne Bay","Kennington","Leysdown-on-Sea","Lyminge","Margate","Queenborough","Ramsgate","Sandwich","Sheerness","Shepherdswell","Sittingbourne","Sturry","Tankerton","Teynham","Westgate on Sea","Whitstable","Wye"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bludov","Bystřec","Červená Voda","Česká Ves","Dolní Bohdíkov","Dolní Studénky","Hanušovice","Jablonné nad Orlicí","Javorník","Jeseník","Králíky","Kunvald","Loučná nad Desnou","Nový Malín","Olšany","Písečná","Postřelmov","Rapotín","Ruda nad Moravou","Sobotín","Štěpánov","Štíty","Sudkov","Šumperk","Vápenná","Velké Losiny","Vikýřovice","Žulová"); ?>

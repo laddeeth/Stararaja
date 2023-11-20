@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albocàsser","Alcalà de Xivert","Alcanar","Alcocéber","Benicarló","Càlig","Cuevas de Vinromá","Peníscola","Rosell","Sant Carles de la Ràpita","Traiguera","Ulldecona","Vinaròs"); ?>

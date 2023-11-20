@@ -1,0 +1,1 @@
+<?php $neighbours = array("Friedrichswalde","Fürstenberg","Gransee","Großwoltersdorf","Joachimsthal","Leegebruch","Liebenwalde","Lindow","Lychen","Marienwerder","Milmersdorf","Oranienburg","Rüthnick","Schönermark","Sonnenberg","Templin","Wandlitz","Zehdenick"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baborów","Biała","Branice","Cisek","Długomiłowice","Głogówek","Głubczyce","Kietrz","Koźle","Krzanowice","Moszczanka","Pawłowiczki","Pietrowice Wielkie","Polska Cerekiew","Prudnik","Racławice Śląskie","Reńska Wieś","Strzeleczki","Twardawa","Walce","Większyce","Łąka Prudnicka"); ?>

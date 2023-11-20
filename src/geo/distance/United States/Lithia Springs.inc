@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atlanta","Austell","Chattahoochee Hills","College Park","Dallas","Douglasville","East Point","Fair Oaks","Fairburn","Hapeville","Hiram","Kennesaw","Lithia Springs","Mableton","Marietta","Powder Springs","Sandy Springs","Union City","Villa Rica","Vinings"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acqualagna","Apecchio","Cagli","Cantiano","Citerna","Città di Castello","Costacciaro","Fermignano","Frontone","Gubbio","Lunano","Mercatello sul Metauro","Monte Grimano","Monte Santa Maria Tiberina","Monterchi","Montone","Piandimeleto","Pietralunga","Piobbico","San Giustino","Sansepolcro","Scheggia e Pascelupo","Sigillo","Umbertide","Urbania"); ?>

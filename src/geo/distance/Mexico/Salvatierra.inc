@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acámbaro","Irámuco","Jaral del Progreso","La Moncada","Maravatío del Encinal","Parácuaro","Rincón de Tamayo","Salvatierra","San Pedro de los Naranjos","Santa Ana Maya","Tarimoro","Yuriria"); ?>

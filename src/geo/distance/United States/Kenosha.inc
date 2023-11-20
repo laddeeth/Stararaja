@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antioch","Beach Park","Camp Lake","Channel Lake","Franksville","Gages Lake","Grandwood Park","Gurnee","Kenosha","Lake Catherine","Lake Villa","Lindenhurst","North Chicago","Paddock Lake","Pleasant Prairie","Racine","Sturtevant","Third Lake","Union Grove","Venetian Village","Wadsworth","Waukegan","Wind Point","Winthrop Harbor","Zion"); ?>

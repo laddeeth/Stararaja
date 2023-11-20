@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bălăciţa","Burila Mare","Corlăţel","Cujmir","Devesel","Dîrvari","Drobeta-Turnu Severin","Dumbrava de Sus","Gârla-Mare","Gruia","Hinova","Husnicioara","Jiana Veche","Obârşia-Câmp","Oprişor","Padina Mică","Pătulele","Poroina Mare","Pristol","Prunişor","Punghina","Rogova","Tîmna","Vânători","Vânju-Mare","Vânjuleţ","Verbiţa","Vlădaia","Voloiacu"); ?>

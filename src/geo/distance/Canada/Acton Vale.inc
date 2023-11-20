@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acton Vale","Drummondville","Saint-Germain-de-Grantham","Valcourt"); ?>

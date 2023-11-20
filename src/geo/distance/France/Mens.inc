@@ -1,0 +1,1 @@
+<?php $neighbours = array("Champ-sur-Drac","La Motte-Saint-Martin","La Mure","Mens","Notre-Dame-de-Mésage","Pierre-Châtel","Saint-Georges-de-Commiers","Saint-Paul-de-Varces","Vif","Vizille"); ?>

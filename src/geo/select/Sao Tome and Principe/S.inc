@@ -1,0 +1,1 @@
+<option value="Santo António">Santo António</option><option value="São Tomé">São Tomé</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ario de Rayón","Churintzio","Ecuandureo","Ixtlán","La Piedad Cavadas","Numarán","Santa Ana Pacueco","Tanhuato de Guerrero","Tlazazalca","Yurécuaro","Zamora de Hidalgo"); ?>

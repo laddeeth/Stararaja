@@ -1,0 +1,1 @@
+<?php $neighbours = array("Casillas","Comapa","Conguaco","Cuilapa","El Adelanto","El Progreso","Jalpatagua","Jutiapa","Moyuta","Nueva Santa Rosa","Oratorio","Quesada","San José Acatempa","San Rafael Las Flores","Santa María Ixhuatán","Yupiltepeque","Zapotitlán"); ?>

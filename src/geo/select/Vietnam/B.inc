@@ -1,0 +1,1 @@
+<option value="Bắc Giang">Bắc Giang</option><option value="Bắc Kạn">Bắc Kạn</option><option value="Bạc Liêu">Bạc Liêu</option><option value="Bắc Ninh">Bắc Ninh</option><option value="Bến Tre">Bến Tre</option><option value="Biên Hòa">Biên Hòa</option><option value="Bỉm Sơn">Bỉm Sơn</option><option value="Buôn Ma Thuột">Buôn Ma Thuột</option>

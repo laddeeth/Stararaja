@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cabra del Santo Cristo","Cazorla","Chilluévar","Huesa","Iznatoraf","Jódar","La Iruela","Peal de Becerro","Pozo Alcón","Quesada","Sabiote","Santo Tomé","Torreperogil","Úbeda","Villacarrillo"); ?>

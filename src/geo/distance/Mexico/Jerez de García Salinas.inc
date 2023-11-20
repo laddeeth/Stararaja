@@ -1,0 +1,1 @@
+<?php $neighbours = array("Jerez de García Salinas"); ?>

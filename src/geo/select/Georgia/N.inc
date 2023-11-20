@@ -1,0 +1,1 @@
+<option value="Naghvarevi">Naghvarevi</option><option value="Naruja">Naruja</option><option value="Ninotsminda">Ninotsminda</option>

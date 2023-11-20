@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aubenas","Jaujac","Joyeuse","Labégude","Lablachère","Lachapelle-sous-Aubenas","Langogne","Largentière","Lavilledieu","Le Chambon","Ruoms","Saint-Étienne-de-Fontbellon","Saint-Sernin","Thueyts","Vals-les-Bains","Vesseaux","Veyras","Villeneuve-de-Berg"); ?>

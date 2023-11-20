@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biała","Chmielowice","Chróścice","Chrościna","Czarnowąsy","Dobrzeń Wielki","Gogolin","Górażdże","Grodków","Komprachcice","Korfantów","Krapkowice","Kup","Lewin Brzeski","Niemodlin","Nysa","Nysa Zamłynie","Olszanka","Opole","Pakosławice","Popielów","Prószków","Sidzina","Skorogoszcz","Skoroszyce","Strzeleczki","Tułowice","Łambinowice","Łosiów"); ?>

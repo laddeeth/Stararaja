@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albalate de Cinca","Alcolea de Cinca","Belver","Binaced","Grañén","Lanaja","Sariñena"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bojanowo Stare","Brenno","Granowo","Grodzisk Wielkopolski","Kamieniec","Kolsko","Konotop","Kościan","Osieczna","Przemęt","Rakoniewice","Siedlec","Śmigiel","Święciechowa","Sława","Wielichowo","Wijewo","Wilkowice","Wolsztyn","Wschowa","Włoszakowice"); ?>

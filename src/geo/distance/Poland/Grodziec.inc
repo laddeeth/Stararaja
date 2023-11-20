@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blizanów","Broniszewice","Chocz","Gizałki","Golina","Gołuchów","Grodziec","Konin","Lądek","Malanów","Pleszew","Pyzdry","Rychwał","Rzgów Pierwszy","Stawiszyn","Tuliszków","Władysławów","Zagórów","Żelazków"); ?>

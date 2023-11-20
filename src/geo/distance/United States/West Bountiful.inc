@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bountiful","Canyon Rim","East Millcreek","Fruit Heights","Holladay","Kaysville","Kearns","Layton","Magna","Millcreek","Mount Olympus","Mountain Green","North Salt Lake","Salt Lake City","South Salt Lake","South Weber","Summit Park","Uintah","West Bountiful","West Valley City","Woods Cross"); ?>

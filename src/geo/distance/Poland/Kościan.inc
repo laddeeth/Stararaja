@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bojanowo Stare","Czempiń","Dopiewo","Granowo","Grodzisk Wielkopolski","Kamieniec","Komorniki","Kościan","Krzemieniewo","Krzywiń","Mosina","Opalenica","Osieczna","Pecna","Przemęt","Puszczykowo","Rakoniewice","Rogalinek","Śmigiel","Śrem","Stęszew","Święciechowa","Wielichowo","Wilkowice","Włoszakowice"); ?>

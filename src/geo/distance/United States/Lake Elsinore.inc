@@ -1,0 +1,1 @@
+<?php $neighbours = array("Coto De Caza","Green Acres","Home Gardens","Homeland","Lake Elsinore","Lakeland Village","March Air Force Base","Mead Valley","Menifee","Murrieta","Murrieta Hot Springs","Nuevo","Perris","Portola Hills","Quail Valley","Rancho Santa Margarita","Romoland","Sedco Hills","Temecula","Trabuco Canyon","Wildomar","Woodcrest"); ?>

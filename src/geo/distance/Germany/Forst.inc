@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Muskau","Cottbus","Drachhausen","Drehnow","Forst","Gablenz","Groß Düben","Guben","Guhrow","Heinersbrück","Jänschwalde","Kolkwitz","Krauschwitz","Peitz","Schenkendöbern","Schleife","Spremberg","Tauer","Trebendorf","Tschernitz","Weißkeißel","Weißwasser"); ?>

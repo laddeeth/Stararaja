@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ascoli Satriano","Candela","Carapelle","Castelluccio dei Sauri","Cerignola","Foggia","Ordona","Orta Nova","Stornara","Stornarella","Zapponeta"); ?>

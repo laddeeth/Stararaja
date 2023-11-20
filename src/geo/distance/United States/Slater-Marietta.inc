@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arial","City View","Dunean","Easley","East Flat Rock","Flat Rock","Gantt","Greer","Judson","Powdersville","Sans Souci","Slater-Marietta","Taylors","Tigerville","Travelers Rest","Valley Hill","Wade Hampton"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Pio XII","Vitorino Freire"); ?>

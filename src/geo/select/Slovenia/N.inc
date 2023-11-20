@@ -1,0 +1,1 @@
+<option value="Nova Gorica">Nova Gorica</option><option value="Novo Mesto">Novo Mesto</option>

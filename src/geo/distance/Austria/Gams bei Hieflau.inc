@@ -1,0 +1,1 @@
+<?php $neighbours = array("Admont","Altenmarkt bei Sankt Gallen","Eisenerz","Gaflenz","Gams bei Hieflau","Göstling an der Ybbs","Hall","Hieflau","Hollenstein an der Ybbs","Johnsbach","Kalwang","Landl","Lunz am See","Mautern in Steiermark","Opponitz","Palfau","Sankt Gallen","Treglwang","Vordernberg","Wald am Schoberpaß","Weyer Markt","Wildalpen"); ?>

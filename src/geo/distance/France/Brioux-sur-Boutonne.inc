@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aiffres","Aulnay","Azay-le-Brûlé","Beauvoir-sur-Niort","Bessines","Brioux-sur-Boutonne","Celles-sur-Belle","Chauray","Chef-Boutonne","Fors","Frontenay-Rohan-Rohan","La Crèche","La Mothe-Saint-Héray","Lezay","Melle","Mougon","Niort","Prahecq","Saint-Symphorien","Sauzé-Vaussais","Thorigné","Villefagnan"); ?>

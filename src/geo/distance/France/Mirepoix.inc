@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arzens","Bélesta","Belpech","Bram","Castelnaudary","Chalabre","Foix","La Tour-du-Crieu","Lavelanet","Limoux","Mazères","Mirepoix","Montgaillard","Pamiers","Saint-Jean-du-Falga","Saint-Martin-Lalande","Saint-Paul-de-Jarrat","Saverdun","Varilhes","Verniolle","Villeneuve-la-Comptal"); ?>

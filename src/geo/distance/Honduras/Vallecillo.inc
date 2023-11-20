@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agalteca","Comayagua","Concepción de Guasistagua","El Guantillo","El Sauce","El Suyatal","Esquías","Jamalteca","Mata de Plátano","Quebradas","San Antonio de la Cuesta","Valle de Ángeles","Vallecillo","Zambrano"); ?>

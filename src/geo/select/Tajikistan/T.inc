@@ -1,0 +1,1 @@
+<option value="Taboshar">Taboshar</option><option value="Tagob">Tagob</option><option value="Tartki">Tartki</option><option value="Tursunzoda">Tursunzoda</option>

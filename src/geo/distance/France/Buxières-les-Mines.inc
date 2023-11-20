@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avermes","Buxières-les-Mines","Cérilly","Chantelle","Commentry","Désertines","Doyet","Estivareilles","Lurcy-Lévis","Montmarault","Neuvy","Saint-Victor","Souvigny","Vallon-en-Sully"); ?>

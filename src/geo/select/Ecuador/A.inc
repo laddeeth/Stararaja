@@ -1,0 +1,1 @@
+<option value="Alausí">Alausí</option><option value="Alfredo Baquerizo Moreno">Alfredo Baquerizo Moreno</option><option value="Ambato">Ambato</option><option value="Archidona">Archidona</option><option value="Atuntaqui">Atuntaqui</option><option value="Azogues">Azogues</option>

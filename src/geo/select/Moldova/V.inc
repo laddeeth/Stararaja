@@ -1,0 +1,1 @@
+<option value="Vadul lui Vodă">Vadul lui Vodă</option><option value="Varniţa">Varniţa</option><option value="Vatra">Vatra</option><option value="Vişniovca">Vişniovca</option><option value="Vulcăneşti">Vulcăneşti</option>

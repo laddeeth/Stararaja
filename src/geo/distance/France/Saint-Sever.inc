@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amou","Barcelonne-du-Gers","Bégaar","Benquet","Hagetmau","Meilhan","Mont-de-Marsan","Montfort-en-Chalosse","Mugron","Pomarez","Saint-Perdon","Saint-Pierre-du-Mont","Saint-Sever","Samadet","Souprosse","Tartas","Villeneuve-de-Marsan","Ygos-Saint-Saturnin"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Kolonia","Kolonia Town","Madolenihm Municipality Government","Palikir - National Government Center"); ?>

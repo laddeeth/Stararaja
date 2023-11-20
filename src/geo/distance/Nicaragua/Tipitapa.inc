@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ciudad Sandino","Managua","Masaya","Nindirí","Ticuantepe","Tipitapa","Tisma"); ?>

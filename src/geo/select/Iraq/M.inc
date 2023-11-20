@@ -1,0 +1,1 @@
+<option value="Mandalī">Mandalī</option><option value="Markaz Nāḩiyat Khūshān">Markaz Nāḩiyat Khūshān</option><option value="Mosul">Mosul</option>

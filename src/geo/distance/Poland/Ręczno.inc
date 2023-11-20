@@ -1,0 +1,1 @@
+<?php $neighbours = array("Fałków","Gomunice","Gorzkowice","Kamieńsk","Mniszków","Paradyż","Piotrków Trybunalski","Przedbórz","Ręczno","Rozprza","Ruda Maleniecka","Sulejów","Słupia","Wola Krzysztoporska","Żarnów","Łęki Szlacheckie"); ?>

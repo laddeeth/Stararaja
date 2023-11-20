@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bayport","Birchwood","Cottage Grove","Grant","Inver Grove Heights","Lake Elmo","Lake Saint Croix Beach","Little Canada","Mahtomedi","North Hudson","North Oaks","North Saint Paul","Oak Park Heights","River Falls","Roberts","Saint Paul Park","Scandia","South Saint Paul","Vadnais Heights","West Saint Paul","White Bear Lake"); ?>

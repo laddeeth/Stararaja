@@ -1,0 +1,1 @@
+<?php $neighbours = array("Balarim","Boyalıca","Çakırca","Çakırlı","Gemlik","Gürsu","İznik","Kadıköy","Kestel","Küçükkumla","Narlıca","Orhangazi","Sölöz","Umurbey","Yalakdere","Yenişehir"); ?>

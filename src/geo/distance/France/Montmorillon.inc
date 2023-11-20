@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bélâbre","Bonnes","Bussière-Poitevine","Chauvigny","Lathus-Saint-Rémy","Le Blanc","Le Dorat","Lussac-les-Châteaux","Montmorillon","Saulgé","Tercé"); ?>

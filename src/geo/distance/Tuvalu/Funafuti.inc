@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alapi Village","Fakaifou Village","Funafuti"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bolków","Cieplice Śląskie Zdrój","Gryfów Śląski","Janowice Wielkie","Jelenia Góra","Jeżów Sudecki","Kamienna Góra","Karpacz","Kowary","Lwówek Śląski","Marciszów","Mirsk","Mysłakowice","Olszyna","Paszowice","Piechowice","Podgórzyn","Stara Kamienica","Świeradów-Zdrój","Świerzawa","Szklarska Poręba","Wleń","Wojcieszów","Zagrodno","Złotoryja"); ?>

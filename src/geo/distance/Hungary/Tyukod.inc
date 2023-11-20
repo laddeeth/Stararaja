@@ -1,0 +1,1 @@
+<?php $neighbours = array("Csenger","Fehérgyarmat","Hodász","Kocsord","Mátészalka","Mérk","Nagydobos","Nagyecsed","Nyírcsaholy","Nyírmeggyes","Nyírvasvári","Ököritófülpös","Ópályi","Porcsalma","Szamosszeg","Tarpa","Tunyogmatolcs","Tyukod"); ?>

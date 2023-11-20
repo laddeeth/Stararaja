@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ay","Bazancourt","Bétheny","Bezannes","Cernay-lès-Reims","Châlons-en-Champagne","Compertrix","Cormontreuil","Courtisols","Fagnières","Mareuil-sur-Ay","Mourmelon-le-Grand","Pontfaverger-Moronvilliers","Reims","Rilly-la-Montagne","Saint-Memmie","Sarry","Sillery","Suippes","Taissy","Tours-sur-Marne","Verzenay","Verzy","Warmeriville","Witry-lès-Reims"); ?>

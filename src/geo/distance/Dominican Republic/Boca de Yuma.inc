@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boca de Yuma","Salvaleón de Higüey","San Rafael del Yuma"); ?>

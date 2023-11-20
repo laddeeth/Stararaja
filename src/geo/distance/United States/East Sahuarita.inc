@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arivaca Junction","Corona de Tucson","Drexel Heights","East Sahuarita","Sahuarita","South Tucson","Vail","Valencia West"); ?>

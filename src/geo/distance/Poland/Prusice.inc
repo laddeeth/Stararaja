@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brzeg Dolny","Dobroszyce","Długołęka","Kiełczów","Miękinia","Milicz","Mirków","Mrozów","Oborniki Śląskie","Pakosław","Prusice","Psary","Rawicz","Trzebnica","Wińsko","Wołów","Żmigród"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belvidere","Bull Valley","Capron","Delavan Lake","Fontana","Genoa City","Harvard","Lake Geneva","McCullom Lake","Pell Lake","Poplar Grove","Powers Lake","Walworth","Williams Bay","Wonder Lake"); ?>

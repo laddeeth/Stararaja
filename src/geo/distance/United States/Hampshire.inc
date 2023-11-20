@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bull Valley","Carpentersville","Cortland","DeKalb","East Dundee","Elburn","Fox River Grove","Gilberts","Hampshire","Huntley","Kirkland","Lake in the Hills","Maple Park","Oakwood Hills","Pingree Grove","Sleepy Hollow","South Elgin","Sycamore","Village of Campton Hills","West Dundee"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Big Park","Clarkdale","Kachina Village","Lake Montezuma","Mountainaire","Sedona","Verde Village","Village of Oak Creek (Big Park)","West Sedona"); ?>

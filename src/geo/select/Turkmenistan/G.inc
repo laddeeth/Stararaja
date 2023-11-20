@@ -1,0 +1,1 @@
+<option value="Gazanjyk">Gazanjyk</option><option value="Gazojak">Gazojak</option><option value="Gowurdak">Gowurdak</option><option value="Gumdag">Gumdag</option><option value="Gyzylarbat">Gyzylarbat</option>

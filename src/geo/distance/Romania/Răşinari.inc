@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apoldu de Jos","Avrig","Cisnădie","Cristian","Gura Rîului","Loamneş","Miercurea Sibiului","Ocna Sibiului","Orlat","Poiana Sibiului","Poplaca","Răşinari","Sadu","Sălişte","Şelimbăr","Sibiu","Slimnic","Şura Mare","Şura Mică","Tilişca","Turnu Roşu"); ?>

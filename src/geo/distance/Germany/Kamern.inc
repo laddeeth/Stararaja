@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arneburg","Bad Wilsnack","Breddin","Goldbeck","Großderschau","Gumtow","Havelberg","Hohenberg-Krusemark","Iden","Jerichow","Kamern","Klietz","Kyritz","Osterburg","Plattenburg","Premnitz","Rathenow","Rhinow","Rochau","Rühstädt","Sandau","Schollene","Seehausen","Stendal","Tangermünde","Uenglingen","Wusterhausen"); ?>

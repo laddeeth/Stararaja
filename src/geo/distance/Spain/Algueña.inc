@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abanilla","Albatera","Algueña","Aspe","Benferri","Callosa de Segura","Catral","Cox","Crevillente","Elda","Elx","Fortuna","Granja de Rocamora","Hondón de las Nieves","Hondón de los Frailes","La Romana","Monforte del Cid","Monóvar","Novelda","Orihuela","Pinoso","Rafal","Redován","Salinas","San Isidro","Sax"); ?>

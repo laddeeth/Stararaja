@@ -1,0 +1,1 @@
+<option value="Phan Rang-Tháp Chàm">Phan Rang-Tháp Chàm</option><option value="Phan Thiết">Phan Thiết</option><option value="Phong Thổ">Phong Thổ</option><option value="Phú Khương">Phú Khương</option><option value="Phủ Lý">Phủ Lý</option><option value="Pleiku">Pleiku</option>

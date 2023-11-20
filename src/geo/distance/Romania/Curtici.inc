@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arad","Chişineu Criş","Covăsinţ","Curtici","Fântânele","Felnac","Grăniceri","Iratoşu","Macea","Mîsca","Olari","Pecica","Pilu","Şimand","Sîntana","Sintea Mare","Şiria","Socodor","Şofronea","Vladimirescu","Zărand","Zimandu Nou"); ?>

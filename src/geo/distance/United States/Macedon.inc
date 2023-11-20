@@ -1,0 +1,1 @@
+<?php $neighbours = array("Canandaigua","Clifton Springs","East Rochester","Fairport","Holcomb","Honeoye Falls","Irondequoit","Macedon","Ontario","Phelps","Pittsford","Shortsville","Sodus","Victor"); ?>

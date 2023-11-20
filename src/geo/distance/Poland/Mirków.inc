@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bielany Wrocławskie","Bierutów","Bystrzyca","Czernica","Dobroszyce","Długołęka","Jelcz","Jelcz Laskowice","Kamieniec Wrocławski","Kiełczów","Kobierzyce","Mirków","Mrozów","Oborniki Śląskie","Oława","Prusice","Psary","Ratowice","Siechnice","Smolec","Święta Katarzyna","Trzebnica","Tyniec Mały","Wrocław","Żerniki Wrocławskie","Żórawina"); ?>

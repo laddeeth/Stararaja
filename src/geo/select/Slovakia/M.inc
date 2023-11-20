@@ -1,0 +1,1 @@
+<option value="Malacky">Malacky</option><option value="Martin">Martin</option><option value="Medzev">Medzev</option><option value="Medzilaborce">Medzilaborce</option><option value="Michalovce">Michalovce</option><option value="Modra">Modra</option><option value="Moldava nad Bodvou">Moldava nad Bodvou</option><option value="Myjava">Myjava</option>

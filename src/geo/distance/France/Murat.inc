@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allanche","Condat","Murat","Neussargues-Moissac","Neuvéglise","Pierrefort","Polminhac","Riom-ès-Montagnes","Saint-Flour","Vic-sur-Cère"); ?>

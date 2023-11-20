@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bog Walk","Chapelton","Hayes","Linstead","Lionel Town","Lluidas Vale","May Pen","Old Harbour","Old Harbour Bay","Point Hill","Port Royal","Portmore","Race Course","Rocky Point","Spanish Town"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Destin","Eglin Air Force Base","Eglin Village","Fort Walton Beach","Holley","Lake Lorraine","Mary Esther","Miramar Beach","Navarre","Niceville","Ocean City","Valparaiso","Wright"); ?>

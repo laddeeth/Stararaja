@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acquasanta Terme","Amandola","Amatrice","Arquata del Tronto","Campello sul Clitunno","Cascia","Cerreto di Spoleto","Leonessa","Maltignano","Montefortino","Norcia","Pieve Torina","Sellano","Spoleto","Visso"); ?>

@@ -1,0 +1,1 @@
+<option value="Palacagüina">Palacagüina</option><option value="Posoltega">Posoltega</option><option value="Potosí">Potosí</option><option value="Pueblo Nuevo">Pueblo Nuevo</option><option value="Puerto Cabezas">Puerto Cabezas</option><option value="Puerto Morazán">Puerto Morazán</option>

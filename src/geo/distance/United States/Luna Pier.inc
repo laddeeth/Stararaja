@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carleton","Curtice","Detroit Beach","Lambertville","Luna Pier","Ottawa Hills","Rossford","South Monroe","Temperance","Walbridge","Woodland Beach"); ?>

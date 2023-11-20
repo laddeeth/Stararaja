@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ch’ŏngjin","Kyŏngsŏng","Nanam","Sŭngam-nodongjagu"); ?>

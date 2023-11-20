@@ -1,0 +1,1 @@
+<option value="Ohangaron">Ohangaron</option><option value="Olmaliq">Olmaliq</option><option value="Olot">Olot</option><option value="Oltiariq">Oltiariq</option><option value="Oltinko’l">Oltinko’l</option><option value="Oqmang’it">Oqmang’it</option><option value="Oqtosh">Oqtosh</option>

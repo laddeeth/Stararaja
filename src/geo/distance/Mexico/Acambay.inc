@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acambay","Atlacomulco","Contepec","Jocotitlán","San Antonio Enchisi","San Felipe del Progreso","San Lorenzo Tlacotepec","San Miguel Tenochtitlán","Santiago Acutzilapan","Santiago Citendejé","Temascalcingo"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anghiari","Apecchio","Cantiano","Citerna","Città di Castello","Corciano","Cortona","Gubbio","Magione","Monte Grimano","Monte Santa Maria Tiberina","Monterchi","Montone","Passignano sul Trasimeno","Perugia","Pietralunga","Piobbico","San Giustino","Sansepolcro","Scheggia e Pascelupo","Tuoro sul Trasimeno","Umbertide"); ?>

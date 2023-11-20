@@ -1,0 +1,1 @@
+<option value="Al Ghuwayrīyah">Al Ghuwayrīyah</option><option value="Al Jumaylīyah">Al Jumaylīyah</option><option value="Al Khawr">Al Khawr</option><option value="Al Wakrah">Al Wakrah</option><option value="Al Wukayr">Al Wukayr</option><option value="Ar Rayyān">Ar Rayyān</option><option value="Ar Ru’ays">Ar Ru’ays</option><option value="Ash Shaḩānīyah">Ash Shaḩānīyah</option>

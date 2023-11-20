@@ -1,0 +1,1 @@
+<?php $neighbours = array("Elk Plain","Fort Lewis","Frederickson","Lacey","McChord Air Force Base","North Yelm","Olympia","Spanaway","Steilacoom","Tanglewilde-Thompson Place","Tenino","Tumwater","Yelm"); ?>

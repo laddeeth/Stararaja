@@ -1,0 +1,1 @@
+<?php $neighbours = array("Central Valley (historical)","Palo Cedro","Redding","Shasta","Shasta Lake"); ?>

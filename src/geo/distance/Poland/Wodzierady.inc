@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aleksandrów Łódzki","Buczek","Dalików","Dobroń","Dłutów","Konstantynów Łódzki","Ksawerów","Lutomiersk","Ozorków","Pabianice","Parzęczew","Poddębice","Rzgów","Sędziejowice","Starowa Góra","Szadek","Tuszyn","Wodzierady","Zadzim","Zapolice","Zduńska Wola","Zelów","Zgierz","Łask","Łódź"); ?>

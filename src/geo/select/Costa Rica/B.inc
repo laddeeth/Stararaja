@@ -1,0 +1,1 @@
+<option value="Bagaces">Bagaces</option><option value="Batán">Batán</option><option value="Belén">Belén</option><option value="Bijagua">Bijagua</option><option value="Buenos Aires">Buenos Aires</option>

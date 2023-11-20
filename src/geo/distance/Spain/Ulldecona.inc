@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcanar","Amposta","Benicarló","Càlig","Camarles","Deltebre","Masdenverge","Peníscola","Rosell","Sant Carles de la Ràpita","Santa Bárbara","Tortosa","Traiguera","Ulldecona","Vinaròs"); ?>

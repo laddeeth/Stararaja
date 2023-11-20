@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alvin","Bacliff","Brookside Village","Clear Lake Shores","Dickinson","El Lago","Fresno","Friendswood","Hitchcock","Iowa Colony","Kemah","La Marque","League City","Manvel","Nassau Bay","Pearland","Rosharon","Santa Fe","Sienna Plantation","South Houston","Taylor Lake Village","Webster"); ?>

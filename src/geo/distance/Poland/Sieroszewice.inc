@@ -1,0 +1,1 @@
+<?php $neighbours = array("Czajków","Doruchów","Gorzyce Wielkie","Gołuchów","Grabów nad Prosną","Janków Przygodzki","Kalisz","Kobyla Góra","Kraszewice","Mikstat","Nowe Skalmierzyce","Odolanów","Opatówek","Ostrów Wielkopolski","Ostrzeszów","Przygodzice","Raszków","Sieroszewice","Skalmierzyce","Sośnie","Żelazków"); ?>

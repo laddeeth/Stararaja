@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bałtów","Chotcza","Ciepielów","Iłża","Janowiec","Józefów nad Wisłą","Karczmiska","Kazanów","Kazimierz Dolny","Lipsko","Opole Lubelskie","Przyłęk","Rzeczniów","Sienno","Solec Nad Wisłą","Tarłów","Tczów","Wilków","Zwoleń","Łaziska"); ?>

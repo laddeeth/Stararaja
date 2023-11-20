@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bar-le-Duc","Blénod-lès-Toul","Commercy","Domgermain","Dommartin-lès-Toul","Écrouves","Euville","Foug","Gondrecourt-le-Château","Lérouville","Ligny-en-Barrois","Longeville-en-Barrois","Saint-Mihiel","Toul","Tronville-en-Barrois","Vacon","Vaucouleurs","Velaines","Vigneulles-lès-Hattonchâtel","Vignot"); ?>

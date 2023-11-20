@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atzesberg","Feldkirchen an der Donau","Goldwörth","Herzogsdorf","Kleinzell im Mühlkreis","Nebelberg","Oberneukirchen","Pfarrkirchen im Mühlkreis","Sankt Florian am Inn","Sankt Gotthard im Mühlkreis","Schärding","Ulrichsberg"); ?>

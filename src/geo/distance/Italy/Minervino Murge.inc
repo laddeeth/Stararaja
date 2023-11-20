@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andria","Banzi","Canosa di Puglia","Cerignola","Corato","Genzano di Lucania","Lavello","Maschito","Minervino Murge","Montemilone","Palazzo San Gervasio","Poggiorsini","San Ferdinando di Puglia","Spinazzola","Venosa"); ?>

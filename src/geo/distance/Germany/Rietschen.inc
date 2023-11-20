@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Muskau","Boxberg","Gablenz","Groß Düben","Großdubrau","Guttau","Hähnichen","Horka","Klitten","Kodersdorf","Königshain","Krauschwitz","Lohsa","Malschwitz","Mücka","Niesky","Quitzdorf","Reichenbach","Rietschen","Schleife","Trebendorf","Tschernitz","Uhyst","Weißenberg","Weißkeißel","Weißwasser"); ?>

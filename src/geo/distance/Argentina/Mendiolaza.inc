@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agua de Oro","Córdoba","Cosquín","Huerta Grande","La Calera","La Falda","La Granja","Malagueño","Malvinas Argentinas","Mendiolaza","Río Ceballos","Saldán","Salsipuedes","Unquillo","Valle Hermoso","Villa Allende","Villa Carlos Paz"); ?>

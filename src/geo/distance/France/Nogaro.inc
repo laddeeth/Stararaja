@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barcelonne-du-Gers","Cazaubon","Eauze","Gabarret","Garlin","Gondrin","Le Houga","Montréal","Nogaro","Plaisance","Riscle","Vic-Fezensac","Villeneuve-de-Marsan"); ?>

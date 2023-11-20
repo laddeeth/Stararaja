@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ahuy","Arc-sur-Tille","Belleneuve","Champlitte-la-Ville","Couternon","Daix","Hauteville-lès-Dijon","Is-sur-Tille","Marcilly-sur-Tille","Messigny-et-Vantoux","Mirebeau-sur-Bèze","Ruffey-lès-Echirey","Saint-Apollinaire","Selongey","Varois-et-Chaignot"); ?>

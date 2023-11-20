@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aigueblanche","Aime","Belle-Plagne","Bourg-Saint-Maurice","Bozel","Courchevel","La Bâthie","La Chambre","Les Allues","Mâcot-la-Plagne","Méribel","Modane","Saint-Bon-Tarentaise","Saint-Jean-de-Maurienne","Saint-Martin-de-Belleville","Saint-Michel-de-Maurienne","Salins-les-Thermes","Séez","Tignes","Val Thorens","Villargondran"); ?>

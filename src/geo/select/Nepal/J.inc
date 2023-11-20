@@ -1,0 +1,1 @@
+<option value="Jaleswar">Jaleswar</option><option value="Janakpur">Janakpur</option><option value="Jomsom">Jomsom</option><option value="Jumlā">Jumlā</option>

@@ -1,0 +1,1 @@
+<option value="Kaffrine">Kaffrine</option><option value="Kanel">Kanel</option><option value="Kaolack">Kaolack</option><option value="Kayar">Kayar</option><option value="Kédougou">Kédougou</option><option value="Khombole">Khombole</option><option value="Kolda">Kolda</option><option value="Koungheul">Koungheul</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chmielno","Dziemiany","Garcz","Grabowo Kościerskie","Kaliska","Karsin","Kartuzy","Kościerzyna","Liniewo","Lipusz","Parchowo","Przywidz","Sierakowice","Somonino","Stara Kiszewa","Studzienice","Sulęczyno"); ?>

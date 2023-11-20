@@ -1,0 +1,1 @@
+<?php $neighbours = array("Austintown","Boardman","Bolindale","Brookfield Center","Canfield","Churchill","Craig Beach","East Palestine","Farrell","Howland Center","Leetonia","Lordstown","Lowellville","Masury","McDonald","McKinley Heights","Mineral Ridge","Morgandale","New Beaver","New Castle Northwest","New Middletown","New Waterford","New Wilmington","Struthers","West Hill"); ?>

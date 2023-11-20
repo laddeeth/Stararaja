@@ -1,0 +1,1 @@
+<?php $neighbours = array("Castellar de Santiago","La Calzada de Calatrava","La Carolina","Pozuelo de Calatrava","Santa Cruz de Mudela","Torrenueva","Viso del Marqués"); ?>

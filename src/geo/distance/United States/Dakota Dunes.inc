@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dakota Dunes","Elk Point","North Sioux City","Ponca","Sergeant Bluff","Sioux City","South Sioux City"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bánovce nad Bebravou","Dubnica nad Váhom","Ilava","Nemšová","Nová Dubnica","Považská Bystrica","Púchov","Trenčianske Teplice","Trenčín"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arroyo del Ojanco","Beas de Segura","Chiclana de Segura","La Puerta de Segura","Orcera","Puente de Génave","Riópar","Segura de la Sierra"); ?>

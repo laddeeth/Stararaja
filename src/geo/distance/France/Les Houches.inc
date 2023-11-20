@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arâches-la-Frasse","Beaufort","Bourg-Saint-Maurice","Chamonix-Mont-Blanc","Châtillon-sur-Cluses","Cluses","Combloux","Cordon","Domancy","La Clusaz","Le Grand-Bornand","Les Contamines-Montjoie","Les Houches","Magland","Marnaz","Megève","Passy","Praz-sur-Arly","Saint-Gervais-les-Bains","Sallanches","Samoëns","Scionzier","Séez","Taninges"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agua Fría","Amapala","Ciudad Choluteca","El Tular","Jícaro Galán","La Criba","Los Llanitos","Marcovia","Monjarás","Nacaome","Pespire","San José de Las Conchas","San Lorenzo"); ?>

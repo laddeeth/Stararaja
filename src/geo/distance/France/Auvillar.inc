@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agen","Astaffort","Auvillar","Beaumont-de-Lomagne","Boé","Bon-Encontre","Castelculier","Castelsarrasin","Foulayronnes","Lafrançaise","Lamagistère","Laroque-Timbaut","Lauzerte","Lavit","Layrac","Le Passage","Lectoure","Moissac","Montech","Pont-du-Casse","Saint-Nicolas-de-la-Grave","Saint-Porquier"); ?>

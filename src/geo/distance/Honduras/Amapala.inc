@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agua Fría","Amapala","El Cubolero","El Tular","San José de Las Conchas","San Lorenzo"); ?>

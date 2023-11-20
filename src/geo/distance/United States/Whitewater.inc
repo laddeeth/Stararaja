@@ -1,0 +1,1 @@
+<?php $neighbours = array("Delavan Lake","Dousman","East Troy","Fort Atkinson","Johnson Creek","Lake Koshkonong","Lake Ripley","North Prairie","Whitewater"); ?>

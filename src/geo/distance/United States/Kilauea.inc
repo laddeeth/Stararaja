@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anahola","Hanamaulu","Kapaa","Kilauea","Lihue","Puhi","Wailua","Wailua Homesteads"); ?>

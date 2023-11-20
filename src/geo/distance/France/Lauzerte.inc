@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auvillar","Castelnau-Montratier","Castelsarrasin","Cazes-Mondenard","Lafrançaise","Lamagistère","Laroque-Timbaut","Lauzerte","Luzech","Moissac","Molières","Montaigu-de-Quercy","Montayral","Montbeton","Montcuq","Prayssac","Saint-Nicolas-de-la-Grave","Saint-Porquier","Saint-Vite"); ?>

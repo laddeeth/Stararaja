@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antrim","Ashby","Deering","East Merrimack","Goffstown","Jaffrey","Lyndeborough","Merrimack","Mont Vernon","New Ipswich","Peterborough","Pinardville","Rindge","Weare"); ?>

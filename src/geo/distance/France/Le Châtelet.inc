@@ -1,0 +1,1 @@
+<?php $neighbours = array("Charenton-du-Cher","Châteaumeillant","Châteauneuf-sur-Cher","La Châtre","Le Châtelet","Lignières","Montgivray","Orval","Saint-Amand-Montrond","Vallon-en-Sully"); ?>

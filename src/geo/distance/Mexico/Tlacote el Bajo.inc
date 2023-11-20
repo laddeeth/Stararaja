@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amascala","Apaseo el Alto","Apaseo el Grande","Comonfort","El Colorado","El Pueblito","Empalme Escobedo","La Cañada","Querétaro","San José el Alto","San Juan de la Vega","San Miguel Octopan","Santa Rosa de Jáuregui","Tenería","Tlacote el Bajo"); ?>

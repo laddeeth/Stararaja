@@ -1,0 +1,1 @@
+<?php $neighbours = array("Braniewo","Elblag","Frombork","Gronowo Elbląskie","Gronowo Górne","Krynica Morska","Małdyty","Młynary","Orneta","Pasłęk","Pieniężno","Tolkmicko"); ?>

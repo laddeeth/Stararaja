@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alkersum","Borgsum","Dunsum","Emmelsbüll-Horsbüll","Friedrich-Wilhelm-Lübke-Koog","Klanxbüll","List","Midlum","Nebel","Nieblum","Norddorf","Oevenum","Oldsum","Rodenäs","Süderende","Sylt-Ost","Utersum","Westerland","Witsum","Wrixum","Wyk auf Föhr"); ?>

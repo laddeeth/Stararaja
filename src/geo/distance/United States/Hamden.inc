@@ -1,0 +1,1 @@
+<?php $neighbours = array("Branford","Branford Center","Cheshire","Cheshire Village","East Haven","Guilford","Guilford Center","Hamden","Madison Center","Meriden","Naugatuck","North Branford","North Haven","Shelton","Southbury","Wallingford","Wallingford Center","Waterbury","West Haven","Wolcott","Woodmont"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cresaptown","Friedens","Frostburg","La Vale","Lonaconing","Meyersdale","Potomac Park"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Hale‘iwa","Hau‘ula","He‘eia","Kaaawa","Kahalu‘u","Kahuku","Kaneohe Station","Kāne‘ohe","Lā‘ie","Mililani Town","Mokuleia","Pearl City","Punaluu","Punalu‘u","Pūpūkea","Schofield Barracks","Wahiawā","Waialua","Waimalu","Waipi‘o","Waipi‘o Acres","Wheeler Air Force Base","Whitmore Village","‘Āhuimanu"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bobrowo","Dębowa Łąka","Gardeja","Grudziądz","Gruta","Jabłonowo Pomorskie","Kisielice","Książki","Lisewo","Nowe","Płużnica","Radzyń Chełmiński","Sadlinki","Świecie nad Osą","Wąbrzeźno","Warlubie","Łasin"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bañón","Calera Víctor Rosales","Fresnillo de González Echeverría","General Enrique Estrada","Hacienda Toribio","Morelos","Plateros","Pozo Gamboa"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bormio","Castelbello-Ciardes - Kastelbell-Tschars","Curon Venosta - Graun im Vinschgau","Laces - Latsch","Lasa - Laas","Malles Venosta - Mals","Peio","Prato allo Stelvio - Prad am Stilfser Joch","Senales - Schnals","Silandro - Schlanders","Sluderno - Schluderns","Stelvio - Stilfs","Valdidentro","Valdisotto","Valfurva"); ?>

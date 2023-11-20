@@ -1,0 +1,1 @@
+<option value="Vágur">Vágur</option><option value="Vestmanna">Vestmanna</option>

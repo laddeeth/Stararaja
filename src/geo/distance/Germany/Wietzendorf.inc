@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amelinghausen","Bispingen","Bomlitz","Eimke","Eschede","Fallingbostel","Faßberg","Gerdau","Habighorst","Hanstedt Eins","Hermannsburg","Munster","Rehlingen","Schneverdingen","Soderstorf","Soltau","Unterlüß","Visselhövede","Walsrode","Wietzendorf","Winsen (Aller)","Wriedel"); ?>

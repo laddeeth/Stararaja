@@ -1,0 +1,1 @@
+<?php $neighbours = array("Keuka Park","Montour Falls","Penn Yan","Sylvan Beach","Watkins Glen"); ?>

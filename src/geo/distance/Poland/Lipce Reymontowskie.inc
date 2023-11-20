@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andrespol","Bielawy","Bobrowniki","Bolimów","Budziszewice","Dmosin","Domaniewice","Gałków Mały","Godzianów","Głowno","Głuchów","Jeżów","Kawęczyn Nowy","Koluszki","Lipce Reymontowskie","Maków","Nieborów","Nowosolna","Puszcza Mariańska","Rawa Mazowiecka","Rokiciny","Rokiciny-Kolonia","Skierniewice","Stryków","Żelechlinek","Łowicz","Łyszkowice"); ?>

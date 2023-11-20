@@ -1,0 +1,1 @@
+<option value="Laktaši">Laktaši</option><option value="Lamovita">Lamovita</option><option value="Liješnica">Liješnica</option><option value="Livno">Livno</option><option value="Ljubinje">Ljubinje</option><option value="Ljubuški">Ljubuški</option><option value="Lokvine">Lokvine</option><option value="Lopare">Lopare</option><option value="Lukavica">Lukavica</option>

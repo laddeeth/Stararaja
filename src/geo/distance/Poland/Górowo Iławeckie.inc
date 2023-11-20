@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bartoszyce","Górowo Iławeckie","Lelkowo","Lidzbark Warmiński","Lubomino","Orneta","Pieniężno"); ?>

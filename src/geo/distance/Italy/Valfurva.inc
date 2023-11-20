@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bormio","Grosio","Grosotto","Lasa - Laas","Livigno","Malles Venosta - Mals","Mazzo di Valtellina","Peio","Ponte di Legno","Prato allo Stelvio - Prad am Stilfser Joch","Sluderno - Schluderns","Sondalo","Stelvio - Stilfs","Temù","Valdidentro","Valdisotto","Valfurva","Vermiglio"); ?>

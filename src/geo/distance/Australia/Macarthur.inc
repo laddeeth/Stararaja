@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belconnen","Canberra","Kaleen","Macarthur","Macquarie","Queanbeyan"); ?>

@@ -1,0 +1,1 @@
+<option value="Haifa">Haifa</option><option value="Har Adar">Har Adar</option><option value="Herzliyya">Herzliyya</option><option value="Hod HaSharon">Hod HaSharon</option><option value="Ḥurfeish">Ḥurfeish</option><option value="H̱adera">H̱adera</option><option value="H̱olon">H̱olon</option>

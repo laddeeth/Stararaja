@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arenas de Iguña","Cabezón de la Sal","Cartes","Corvera","Los Corrales de Buelna","Luzmela","Molledo","Penagos","Puente Viesgo","Reinosa","Reocín","Santa María de Cayón","Santillana","Santiurde de Toranzo","Selaya","Torrelavega","Villacarriedo","Villaescusa","Villafufre"); ?>

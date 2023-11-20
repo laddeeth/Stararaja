@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avize","Ay","Châlons-en-Champagne","Compertrix","Courtisols","Dizy","Épernay","Fagnières","Le Mesnil-sur-Oger","Magenta","Mardeuil","Mareuil-sur-Ay","Mourmelon-le-Grand","Pierry","Rilly-la-Montagne","Saint-Memmie","Sarry","Sillery","Suippes","Tours-sur-Marne","Vertus","Verzenay","Verzy"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aube-sur-Rîle","Bellême","Bretoncelles","Condé-sur-Huisne","Longny-au-Perche","Mamers","Margon","Mortagne-au-Perche","Rai","Rémalard","Saint-Cosme-en-Vairais","Sainte-Gauburge-Sainte-Colombe","Sées","Tourouvre"); ?>

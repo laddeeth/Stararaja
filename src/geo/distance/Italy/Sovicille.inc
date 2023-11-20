@@ -1,0 +1,1 @@
+<?php $neighbours = array("Asciano","Buonconvento","Castellina in Chianti","Castelnuovo Berardenga","Castelnuovo di Val di Cecina","Chiusdino","Gaiole in Chianti","Monteriggioni","Monticiano","Montieri","Murlo","Poggibonsi","Pomarance","Radda in Chianti","San Gimignano","Siena","Sovicille"); ?>

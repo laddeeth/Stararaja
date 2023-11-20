@@ -1,0 +1,1 @@
+<?php $neighbours = array("Fort Edward","Glens Falls","Glens Falls North","Hudson Falls","Queensbury","South Glens Falls","West Glens Falls"); ?>

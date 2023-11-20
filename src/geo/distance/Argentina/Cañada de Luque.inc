@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cañada de Luque","Villa del Totoral"); ?>

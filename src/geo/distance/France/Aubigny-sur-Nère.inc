@@ -1,0 +1,1 @@
+<?php $neighbours = array("Argent-sur-Sauldre","Aubigny-sur-Nère","Autry-le-Châtel","Blancafort","Briare","Brinon-sur-Sauldre","Cerdon","Coullons","Gien","Henrichemont","Menetou-Salon","Neuvy-sur-Barangeon","Nevoy","Poilly-lez-Gien","Saint-Brisson-sur-Loire","Saint-Martin-sur-Ocre","Savigny-en-Sancerre","Souesmes"); ?>

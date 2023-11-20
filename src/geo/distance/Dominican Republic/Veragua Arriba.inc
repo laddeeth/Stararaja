@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cabarete","Gaspar Hernández","Jamao al Norte","Joba Arriba","Juan López Abajo","Moca","Río San Juan","Salsipuedes","San Víctor Arriba","Sosúa","Tenares","Veragua Arriba"); ?>

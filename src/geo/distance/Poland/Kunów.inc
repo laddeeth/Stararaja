@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baćkowice","Bałtów","Bieliny","Bodzechów","Bodzentyn","Brody","Ćmielów","Grzybowa Góra","Iwaniska","Iłża","Kunów","Lipnik","Mirzec","Nowa Słupia","Opatów","Ostrowiec Świętokrzyski","Ożarów","Pawłów","Rzeczniów","Sadowie","Sienno","Starachowice","Wąchock","Waśniów","Wielka Wieś","Wojciechowice","Łagów"); ?>

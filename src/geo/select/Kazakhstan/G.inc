@@ -1,0 +1,1 @@
+<option value="Georgīevka">Georgīevka</option><option value="Glubokoye">Glubokoye</option><option value="Granītogorsk">Granītogorsk</option>

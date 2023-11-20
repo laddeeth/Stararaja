@@ -1,0 +1,1 @@
+<?php $neighbours = array("Averill Park","Ballston Spa","Cohoes","Colonie","Country Knolls","East Glenville","East Greenbush","Green Island","Hampton Manor","Mechanicville","Menands","Niskayuna","North Ballston Spa","Poestenkill","Rotterdam","Schenectady","Scotia","Voorheesville","Watervliet","West Albany","West Sand Lake","Westmere","Wynantskill"); ?>

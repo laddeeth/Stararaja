@@ -1,0 +1,1 @@
+<?php $neighbours = array("Saint-Joseph-de-Coleraine","Thetford-Mines"); ?>

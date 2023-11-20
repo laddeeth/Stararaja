@@ -1,0 +1,1 @@
+<?php $neighbours = array("Achiet-le-Grand","Albert","Bapaume","Beauquesne","Boves","Bray-sur-Somme","Bucquoy","Cagny","Camon","Chaulnes","Corbie","Doingt","Harbonnières","Hombleux","Longueau","Méaulte","Moislains","Moreuil","Nesle","Péronne","Poulainville","Rivery","Roisel","Rosières-en-Santerre","Roye","Talmas","Vaulx-Vraucourt","Villers-Bocage","Villers-Bretonneux"); ?>

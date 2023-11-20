@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agramunt","Artesa de Segre","Castellserà","Cervera","La Fuliola","Mont-roig del Camp","Oliana","Ponts","Solsona","Torà de Riubregós"); ?>

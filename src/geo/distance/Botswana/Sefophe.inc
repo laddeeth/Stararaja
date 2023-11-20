@@ -1,0 +1,1 @@
+<?php $neighbours = array("Mogapi","Sefophe","Selebi-Phikwe","Tobane"); ?>

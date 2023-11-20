@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaverdale","Boswell","Claysburg","Conemaugh","Cresson","Davidsville","East Conemaugh","Ebensburg","Elim","Gallitzin","Geistown","Mundys Corner","Nanty Glo","Paint","Salix","Vinco","Windber"); ?>

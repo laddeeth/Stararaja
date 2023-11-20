@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alsfeld","Bad Salzschlirf","Birstein","Eichenzell","Flieden","Freiensteinau","Fulda","Gedern","Grebenau","Grebenhain","Großenlüder","Grünberg","Herbstein","Hirzenhain","Hosenfeld","Kalbach","Kefenrod","Kirtorf","Künzell","Laubach","Lautertal","Nidda","Ottrau","Romrod","Schlitz","Schlüchtern","Schotten","Solms","Steinau an der Straße","Ulrichstein"); ?>

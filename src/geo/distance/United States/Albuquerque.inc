@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albuquerque","Bernalillo","Bosque Farms","Carnuel","Corrales","Enchanted Hills","Lee Acres","Los Ranchos de Albuquerque","North Valley","Paradise Hills","Peralta","Rio Rancho","Sandia Heights","South Valley"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bala","Barmouth","Blaenau-Ffestiniog","Corris","Dolgellau","Ffestiniog","Llanbedr","Llanfair","Machynlleth","Maentwrog","Porthmadog","Trawsfynydd","Tywyn"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bojanowo","Brzeg Dolny","Jemielno","Jutrosin","Konary","Miejska Górka","Milicz","Oborniki Śląskie","Pakosław","Prusice","Rawicz","Trzebnica","Wińsko","Wołów","Żmigród"); ?>

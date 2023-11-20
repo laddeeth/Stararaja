@@ -1,0 +1,1 @@
+<?php $neighbours = array("Broad Creek","Cape Carteret","Cedar Point","Emerald Isle","Havelock","Pine Knoll Shores","Piney Green","Sneads Ferry","Swansboro"); ?>

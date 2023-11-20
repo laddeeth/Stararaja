@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bluffton","Garden City","Guyton","Hardeeville","Pooler","Port Wentworth","Rincon","Savannah","Thunderbolt","Whitemarsh Island"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chaupimarca","San Miguel de Cauri","Yanacancha"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Capitán Bermúdez","Carcarañá","Casilda","Fray Luis A. Beltrán","Funes","Gobernador Gálvez","Granadero Baigorria","Pérez","Roldán","Rosario"); ?>

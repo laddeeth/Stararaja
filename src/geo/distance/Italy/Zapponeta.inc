@@ -1,0 +1,1 @@
+<?php $neighbours = array("Canosa di Puglia","Carapelle","Cerignola","Manfredonia","Margherita di Savoia","Mattinata","Orta Nova","San Ferdinando di Puglia","Stornara","Stornarella","Trinitapoli","Zapponeta"); ?>

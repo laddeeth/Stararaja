@@ -1,0 +1,1 @@
+<?php $neighbours = array("Filipów","Gołdap","Kowale Oleckie","Olecko","Raczki","Suwałki","Swiętajno"); ?>

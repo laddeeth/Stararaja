@@ -1,0 +1,1 @@
+<option value="Yardımlı">Yardımlı</option><option value="Yevlakh">Yevlakh</option><option value="Yukhary-Dashkesan">Yukhary-Dashkesan</option>

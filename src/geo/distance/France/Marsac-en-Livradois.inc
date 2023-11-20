@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ambert","Arlanc","Craponne-sur-Arzon","Cunlhat","Fontannes","Job","Lézigneux","Marsac-en-Livradois","Montaigut","Montbrison","Saint-Bonnet-le-Château","Sauxillanges","Usson-en-Forez"); ?>

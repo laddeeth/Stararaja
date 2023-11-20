@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avalon","Cape May Court House","Erma","Estell Manor","Linwood","Margate City","North Cape May","North Wildwood","Rio Grande","Sea Isle City","Somers Point","Ventnor City","Whitesboro-Burleigh","Wildwood Crest"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("General Juan José Ríos","Los Mochis","Topolobampo"); ?>

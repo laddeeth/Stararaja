@@ -1,0 +1,1 @@
+<option value="Khamir">Khamir</option><option value="Khawrah">Khawrah</option><option value="Kilmia">Kilmia</option><option value="Kirsh">Kirsh</option><option value="Kitāf">Kitāf</option><option value="Kuḩlān ‘Afār">Kuḩlān ‘Afār</option><option value="Kushar">Kushar</option><option value="Kusmah">Kusmah</option><option value="Ku‘aydinah">Ku‘aydinah</option>

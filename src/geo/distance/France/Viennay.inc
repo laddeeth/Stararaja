@@ -1,0 +1,1 @@
+<?php $neighbours = array("Airvault","Ayron","Boismé","Bressuire","Champdeniers-Saint-Denis","Châtillon-sur-Thouet","Chiché","Courlay","Exireuil","La Chapelle-Saint-Laurent","La Peyratte","Latillé","Le Tallud","Moncontour","Moncoutant","Parthenay","Pompaire","Saint-Aubin-le-Cloud","Saint-Pardoux","Saint-Varent","Saivres","Secondigny","Thénezay","Vasles","Viennay"); ?>

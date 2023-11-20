@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anoka","Becker","Big Lake","Champlin","Corcoran","East Bethel","Elk River","Ham Lake","Maple Grove","Nowthen","Osseo","Saint Francis","Saint Michael","West Coon Rapids","Zimmerman"); ?>

@@ -1,0 +1,1 @@
+<option value="San">San</option><option value="Ségou">Ségou</option><option value="Sikasso">Sikasso</option><option value="Sokolo">Sokolo</option>

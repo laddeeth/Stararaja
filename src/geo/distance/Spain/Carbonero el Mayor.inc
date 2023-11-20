@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cantimpalos","Carbonero el Mayor","Coca","La Cuesta","La Lastrilla","Nava de la Asunción","Navalmanzano","Navas de Oro","Palazuelos de Eresma","San Cristóbal de Segovia","Santa María la Real de Nieva","Segovia","Turégano"); ?>

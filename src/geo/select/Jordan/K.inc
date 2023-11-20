@@ -1,0 +1,1 @@
+<option value="Kafr Abīl">Kafr Abīl</option><option value="Kafr Asad">Kafr Asad</option><option value="Kafr Sawm">Kafr Sawm</option><option value="Karak City">Karak City</option><option value="Kharjā">Kharjā</option><option value="Kitim">Kitim</option><option value="Kurayyimah">Kurayyimah</option>

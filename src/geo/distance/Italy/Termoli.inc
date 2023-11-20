@@ -1,0 +1,1 @@
+<?php $neighbours = array("Campomarino","Castelmauro","Chieuti","Cupello","Fresagrandinaria","Guardialfiera","Guglionesi","Larino","Mafalda","Montecilfone","Montenero di Bisaccia","Monteodorisio","Palata","Petacciato","Portocannone","Rotello","San Giacomo degli Schiavoni","San Martino in Pensilis","San Salvo","Serracapriola","Termoli","Ururi","Vasto"); ?>

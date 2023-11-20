@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bottisham","Chatteris","Cottenham","Downham Market","Earith","Ely","Emneth","Exning","Feltwell","Girton","Histon","Isleham","Lakenheath","Littleport","Manea","March","Mundford","Needingworth","Newmarket","Outwell","Ramsey","Soham","Somersham","Stretham","Swavesey","Terrington Saint John","Warboys","Waterbeach","Weeting","Wisbech","Witchford"); ?>

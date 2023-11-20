@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arenas de San Pedro","Calera y Chozas","Castillo de Bayuela","Cazalegas","Cebolla","El Real de San Vicente","La Pueblanueva","Lagartera","Mejorada","Navalcán","Oropesa","Pedro Bernardo","Segurilla","Talavera de la Reina","Velada"); ?>

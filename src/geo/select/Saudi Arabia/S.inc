@@ -1,0 +1,1 @@
+<option value="Şabyā">Şabyā</option><option value="Şafwá">Şafwá</option><option value="Sājir">Sājir</option><option value="Sakākā">Sakākā</option><option value="Şāmitah">Şāmitah</option><option value="Sayhāt">Sayhāt</option><option value="shokhaibٍ">shokhaibٍ</option><option value="Sulţānah">Sulţānah</option><option value="Şuwayr">Şuwayr</option>

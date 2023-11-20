@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boñar","Cuadros","Garrafe de Torío","La Pola de Gordón","La Robla","Matallana de Torío","Pola de Lena","Río Aller","Villamanín"); ?>

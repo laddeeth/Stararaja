@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ailly-sur-Noye","Albert","Amiens","Boves","Bray-sur-Somme","Cagny","Camon","Chaulnes","Corbie","Doingt","Harbonnières","Hombleux","Longueau","Méaulte","Moislains","Montdidier","Moreuil","Nesle","Péronne","Poulainville","Rivery","Rosières-en-Santerre","Roye","Sains-en-Amiénois","Villers-Bocage","Villers-Bretonneux"); ?>

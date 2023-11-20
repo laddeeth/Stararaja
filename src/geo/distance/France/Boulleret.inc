@@ -1,0 +1,1 @@
+<?php $neighbours = array("Autry-le-Châtel","Belleville-sur-Loire","Blancafort","Bonny-sur-Loire","Boulleret","Briare","Cosne-Cours-sur-Loire","Donzy","Henrichemont","Herry","La Charité-sur-Loire","Léré","Neuvy-sur-Loire","Ouzouer-sur-Trézée","Pouilly-sur-Loire","Saint-Amand-en-Puisaye","Saint-Brisson-sur-Loire","Saint-Fargeau","Saint-Satur","Sancerre","Savigny-en-Sancerre"); ?>

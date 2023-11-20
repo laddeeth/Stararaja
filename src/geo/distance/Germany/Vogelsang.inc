@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beeskow","Brieskow-Finkenheerd","Eisenhüttenstadt","Frankfurt (Oder)","Groß Lindow","Guben","Jacobsdorf","Jamlitz","Lawitz","Lebus","Mixdorf","Müllrose","Neuzelle","Schenkendöbern","Vogelsang","Wiesenau","Ziltendorf"); ?>

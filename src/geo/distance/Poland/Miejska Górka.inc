@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bojanowo","Cieszków","Góra","Gostyń","Jutrosin","Kobylin","Konary","Krobia","Krzemieniewo","Miejska Górka","Milicz","Pakosław","Pępowo","Pogorzela","Poniec","Rawicz","Rydzyna","Zduny","Żmigród"); ?>

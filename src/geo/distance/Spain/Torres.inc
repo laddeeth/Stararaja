@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baeza","Begíjar","Bélmez de la Moraleda","Cabra del Santo Cristo","Cambil","Campillo de Arenas","Canena","Guadahortuna","Huelma","Ibros","Jaén","Jimena","Jódar","La Guardia de Jaén","Lupión","Mancha Real","Montejicar","Pegalajar","Rus","Torreblascopedro","Torres","Úbeda"); ?>

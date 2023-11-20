@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ashdod","Ashqelon","Azor","Bat Yam","Bet Dagan","Gan Yavne","Gedera","H̱olon","Kefar H̱abad","Lod","Mazkeret Batya","Ness Ziona","Qiryat Gat","Ramla","Rishon LeẔiyyon","Tel Aviv","Yafo","Yavne"); ?>

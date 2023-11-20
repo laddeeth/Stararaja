@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaulon","Blanzy","Bourbon-Lancy","Charolles","Ciry-le-Noble","Digoin","Diou","Génelard","Gueugnon","La Motte-Saint-Jean","Luzy","Molinet","Montceau-les-Mines","Palinges","Paray-le-Monial","Perrecy-les-Forges","Saint-Berain-sous-Sanvignes","Saint-François","Saint-Vallier","Saint-Yan","Sanvignes-les-Mines","Toulon-sur-Arroux"); ?>

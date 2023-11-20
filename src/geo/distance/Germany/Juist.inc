@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baltrum","Berumbur","Borkum","Dornum","Hage","Hagermarsch","Halbemond","Juist","Leezdorf","Lütetsburg","Marienhafe","Norden","Norderney","Osteel","Rechtsupweg","Upgant-Schott","Wirdum"); ?>

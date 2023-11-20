@@ -1,0 +1,1 @@
+<option value="Čachtice">Čachtice</option><option value="Čadca">Čadca</option><option value="Chlmec">Chlmec</option><option value="Čierna nad Tisou">Čierna nad Tisou</option>

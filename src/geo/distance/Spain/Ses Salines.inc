@@ -1,0 +1,1 @@
+<?php $neighbours = array("Algaida","Campos","Felanitx","Llucmajor","Manacor","Montuïri","Porreres","Santanyí","Ses Salines","Vilafranca de Bonany"); ?>

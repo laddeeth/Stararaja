@@ -1,0 +1,1 @@
+<?php $neighbours = array("Assisi","Bastia Umbra","Bettona","Bevagna","Cannara","Castel Ritaldi","Collazzone","Corciano","Deruta","Foligno","Fratta Todina","Gualdo Cattaneo","Magione","Marsciano","Massa Martana","Monte Castello di Vibio","Montefalco","Nocera Umbra","Perugia","San Venanzo","Spello","Todi","Torgiano","Trevi","Valfabbrica","Valtopina"); ?>

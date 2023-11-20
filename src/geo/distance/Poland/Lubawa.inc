@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brzozie","Dąbrówno","Gierzwałd","Iława","Kurzętnik","Lidzbark","Lubawa","Miłomłyn","Nowe Miasto Lubawskie","Ostróda"); ?>

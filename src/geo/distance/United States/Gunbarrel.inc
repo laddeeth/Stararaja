@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arvada","Berthoud","Boulder","Broomfield","Coal Creek","Dacono","Federal Heights","Firestone","Gunbarrel","Longmont","Mead","Niwot","Northglenn","Sherrelwood","Todd Creek"); ?>

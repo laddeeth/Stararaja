@@ -1,0 +1,1 @@
+<?php $neighbours = array("Labelle","Mont-Tremblant"); ?>

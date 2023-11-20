@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alt Tucheband","Berkenbrück","Briesen","Brieskow-Finkenheerd","Falkenhagen","Frankfurt (Oder)","Golzow","Groß Lindow","Jacobsdorf","Lebus","Letschin","Lietzen","Manschnow","Mixdorf","Müllrose","Müncheberg","Neuhardenberg","Podelzig","Reitwein","Seelow","Steinhöfel","Treplin","Vogelsang","Wiesenau","Zechin","Ziltendorf"); ?>

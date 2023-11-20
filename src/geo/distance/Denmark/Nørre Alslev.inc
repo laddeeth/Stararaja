@@ -1,0 +1,1 @@
+<?php $neighbours = array("Maribo","Neder Vindinge","Nykøbing Falster","Nyråd","Nørre Alslev","Præstø","Sakskøbing","Stege","Stubbekøbing","Sundby","Vordingborg","Ørslev"); ?>

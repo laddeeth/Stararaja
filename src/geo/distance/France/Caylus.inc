@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cahuzac-sur-Vère","Cajarc","Caussade","Caylus","Cordes-sur-Ciel","La Fouillade","Lalbenque","Monteils","Montricoux","Nègrepelisse","Réalville","Septfonds","Villefranche-de-Rouergue","Villeneuve"); ?>

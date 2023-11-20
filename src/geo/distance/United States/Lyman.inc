@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bay Saint Louis","Biloxi","De Lisle","Diamondhead","Gulf Hills","Latimer","Lyman","Pass Christian","Saint Martin","Saucier","West Gulfport"); ?>

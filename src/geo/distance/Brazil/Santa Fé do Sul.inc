@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aparecida do Taboado","Santa Fé do Sul"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Balan","Bazeilles","Blagny","Carignan","Dom-le-Mesnil","Donchery","Douzy","Floing","Montmédy","Mouzon","Nouvion-sur-Meuse","Pouru-Saint-Remy","Saint-Menges","Sedan","Stenay","Vivier-au-Court","Vrigne-aux-Bois"); ?>

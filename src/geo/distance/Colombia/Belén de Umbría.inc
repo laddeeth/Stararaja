@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anserma","Apía","Balboa","Belén de Umbría","Guática","La Celia","La Merced","Mistrató","Pueblo Rico","Quinchía","Risaralda","San José","Viterbo"); ?>

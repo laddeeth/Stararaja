@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bakovci","Beltinci","Černelavci","Črenšovci","Gančani","Gornja Radgona","Krog","Lenart v Slovenskih Goricah","Lipovci","Ljutomer","Maribor","Miklavž na Dravskem Polju","Murska Sobota","Odranci","Ptuj","Radenci","Rakičan","Šentilj","Turnišče"); ?>

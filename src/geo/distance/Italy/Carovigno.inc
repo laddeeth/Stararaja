@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brindisi","Carovigno","Ceglie Messapica","Cisternino","Fasano","Francavilla Fontana","Grottaglie","Latiano","Locorotondo","Martina Franca","Mesagne","Oria","Ostuni","San Michele Salentino","San Vito dei Normanni","Torre Santa Susanna","Villa Castelli"); ?>

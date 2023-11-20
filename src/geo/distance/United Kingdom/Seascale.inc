@@ -1,0 +1,1 @@
+<?php $neighbours = array("Askam in Furness","Cleator Moor","Distington","Egremont","Frizington","Millom","Seascale","Whitehaven","Workington"); ?>

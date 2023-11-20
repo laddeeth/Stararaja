@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benešov nad Černou","Český Krumlov","Chvalšiny","Dolní Dvořiště","Frymburk","Horní Planá","Kájov","Kaplice","Loučovice","Malonty","Velešín","Větřní","Vyšší Brod"); ?>

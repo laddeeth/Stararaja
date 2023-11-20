@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ahlen","Bad Sassendorf","Beckum","Beelen","Bergkamen","Bönen","Drensteinfurt","Ennigerloh","Everswinkel","Hamm","Harsewinkel","Kamen","Langenberg","Lippstadt","Nordkirchen","Oelde","Rheda-Wiedenbrück","Rosendahl","Sassenberg","Sendenhorst","Soest","Telgte","Wadersloh","Warendorf","Welver","Werl","Werne"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Birchwood Lakes","Conashaugh Lakes","Florida","Gold Key Lake","Hemlock Farms","Highland Lake","Mechanicstown","Otisville","Port Jervis","Sunrise Lake","Vernon Valley","Washington Heights","Wurtsboro"); ?>

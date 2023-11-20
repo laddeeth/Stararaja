@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chocianów","Chojnów","Ciechów","Jawor","Kunice","Legnica","Legnickie Pole","Lubin","Malczyce","Miłkowice","Paszowice","Prochowice","Ścinawa","Świerzawa","Udanin","Zagrodno","Złotoryja"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Duino","Duino-Aurisina","Monfalcone","Muggia","San Dorligo della Valle","Sgonico","Trieste"); ?>

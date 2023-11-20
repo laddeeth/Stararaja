@@ -1,0 +1,1 @@
+<?php $neighbours = array("Buk","Chrzypsko Wielkie","Dopiewo","Duszniki","Granowo","Grodzisk Wielkopolski","Kaźmierz","Komorniki","Kuślin","Kwilcz","Lwówek","Nowy Tomyśl","Obrzycko","Opalenica","Ostroróg","Pamiątkowo","Plewiska","Stęszew","Szamotuły","Tarnowo Podgórne","Wronki"); ?>

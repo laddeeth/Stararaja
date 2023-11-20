@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aserrío de Gariché","Gómez","Monte Lirio","Plaza de Caisán","Río Sereno","San Andrés","Santa Marta","Santo Domingo","Sioguí Arriba","Sortová","Volcán"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ixhuatán","Las Amilpas","Niltepec","San Dionisio del Mar","San Francisco del Mar","Santo Domingo Zanatepec"); ?>

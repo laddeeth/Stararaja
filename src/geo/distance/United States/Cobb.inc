@@ -1,0 +1,1 @@
+<?php $neighbours = array("Calistoga","Clearlake","Clearlake Oaks","Cobb","Healdsburg","Hidden Valley Lake","Kelseyville","Lakeport","Lower Lake","Soda Bay"); ?>

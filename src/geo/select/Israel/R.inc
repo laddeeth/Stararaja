@@ -1,0 +1,1 @@
+<option value="Ramat Gan">Ramat Gan</option><option value="Ramat HaSharon">Ramat HaSharon</option><option value="Ramat Yishay">Ramat Yishay</option><option value="Ramla">Ramla</option><option value="Rekhasim">Rekhasim</option><option value="Rishon LeẔiyyon">Rishon LeẔiyyon</option><option value="Rosh Pinna">Rosh Pinna</option><option value="Rūmat Heib">Rūmat Heib</option>

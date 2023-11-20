@@ -1,0 +1,1 @@
+<option value="Ḩablah">Ḩablah</option><option value="Ḩajjah">Ḩajjah</option><option value="Ḩalḩūl">Ḩalḩūl</option><option value="Ḩāris">Ḩāris</option><option value="Hebron">Hebron</option><option value="Ḩizmā">Ḩizmā</option><option value="Ḩūsān">Ḩūsān</option><option value="Ḩūwārah">Ḩūwārah</option>

@@ -1,0 +1,1 @@
+<option value="Pagaruša">Pagaruša</option><option value="Papraqan">Papraqan</option><option value="Pejë">Pejë</option><option value="Peqan">Peqan</option><option value="Podujeva">Podujeva</option><option value="Prilep">Prilep</option><option value="Pristina">Pristina</option><option value="Prizren">Prizren</option>

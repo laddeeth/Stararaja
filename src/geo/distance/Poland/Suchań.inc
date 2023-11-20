@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chociwel","Choszczno","Dobrzany","Dolice","Drawno","Ińsko","Krzęcin","Marianowo","Maszewo","Pełczyce","Przelewice","Recz","Stara Dąbrowa","Stargard Szczeciński","Suchań","Warnice"); ?>

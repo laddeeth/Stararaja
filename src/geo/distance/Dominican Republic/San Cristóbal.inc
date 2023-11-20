@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bajos de Haina","Baní","Cambita Garabitos","El Cacao","El Carril","Nizao","Paya","Pizarrete","Sabana Grande de Palenque","San Cristóbal","San Gregorio de Nigua","Santo Domingo","Villa Altagracia","Yaguate"); ?>

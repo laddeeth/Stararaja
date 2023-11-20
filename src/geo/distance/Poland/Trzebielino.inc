@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borzytuchom","Bytów","Dębnica Kaszubska","Kępice","Kobylnica","Kołczygłowy","Miastko","Polanów","Słupsk","Trzebielino","Tuchomie"); ?>

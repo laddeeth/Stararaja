@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ampezzo","Arta Terme","Auronzo di Cadore","Cavazzo Carnico","Cima Sappada","Comelico Superiore","Enemonzo","Forni di Sopra","Lozzo di Cadore","Ovaro","Paluzza","Paularo","Prato Carnico","San Pietro di Cadore","Santo Stefano di Cadore","Sappada","Socchieve","Sutrio","Tolmezzo","Vigo di Cadore","Villa Santina"); ?>

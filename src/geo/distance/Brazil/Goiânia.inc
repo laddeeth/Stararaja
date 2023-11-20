@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aparecida de Goiânia","Goiânia","Goianira","Senador Canedo"); ?>

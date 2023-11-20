@@ -1,0 +1,1 @@
+<?php $neighbours = array("Formosa do Rio Preto"); ?>

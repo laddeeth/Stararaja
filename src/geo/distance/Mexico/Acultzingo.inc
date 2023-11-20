@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acultzingo","Atzitzintla","Chapuco","Ciudad Mendoza","Cuacnopalan","Esperanza","Huiloapan","Ixhuatlancillo","Jalapilla","Magdalena Cuayucatepec","Maltrata","Morelos Cañada","Nogales","Orizaba","Palmar de Bravo","Rafael Delgado","Río Blanco","San Marcos Tlacoyalco","Santiago Miahuatlán","Tequila"); ?>

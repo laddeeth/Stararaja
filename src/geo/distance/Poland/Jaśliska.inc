@@ -1,0 +1,1 @@
+<?php $neighbours = array("Besko","Bukowsko","Chorkówka","Czaszyn","Dukla","Długie","Górki","Haczów","Iwonicz-Zdrój","Jabłonica Polska","Jasionów","Jaśliska","Komańcza","Krempna","Krościenko Wyżne","Krosno","Miejsce Piastowe","Niebieszczany","Nowosielce-Gniewosz","Nowy Żmigród","Rymanów","Rzepedź","Strachocina","Turze Pole","Zarszyn","Zmiennica"); ?>

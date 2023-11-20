@@ -1,0 +1,1 @@
+<?php $neighbours = array("Casa Conejo","Castaic","Fillmore","Moorpark","Piru","Santa Clarita","Santa Paula","Santa Susana","Simi Valley","Thousand Oaks","Val Verde","Westlake Village"); ?>

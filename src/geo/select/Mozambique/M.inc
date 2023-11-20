@@ -1,0 +1,1 @@
+<option value="Macia">Macia</option><option value="Manjacaze">Manjacaze</option><option value="Maputo">Maputo</option><option value="Matola">Matola</option><option value="Maxixe">Maxixe</option><option value="Mocímboa">Mocímboa</option><option value="Montepuez">Montepuez</option><option value="Mutuáli">Mutuáli</option>

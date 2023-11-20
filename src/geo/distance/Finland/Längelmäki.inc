@@ -1,0 +1,1 @@
+<?php $neighbours = array("Kankaanpää","Kullaa","Längelmäki","Lavia","Noormarkku","Pomarkku","Pori","Siikainen","Ulvila"); ?>

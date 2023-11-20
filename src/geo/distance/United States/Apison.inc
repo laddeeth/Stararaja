@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apison","Chattanooga","Chickamauga","Collegedale","Dalton","East Brainerd","East Chattanooga","East Cleveland","East Ridge","Fairview","Falling Water","Fort Oglethorpe","Hopewell","Lakesite","Lakeview","Middle Valley","Ringgold","Rossville","Soddy-Daisy","South Cleveland","Varnell","Walden","Wildwood Lake"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arlon","Attert","Bastogne","Bertogne","Bertrix","Chiny","Étalle","Fauvillers","Habay-la-Vieille","Léglise","Martelange","Neufchâteau","Saint-Hubert","Saint-Léger","Sainte-Ode","Tenneville","Tintigny","Vaux-sur-Sûre"); ?>

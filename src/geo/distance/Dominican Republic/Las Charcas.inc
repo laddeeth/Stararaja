@@ -1,0 +1,1 @@
+<?php $neighbours = array("Azua de Compostela","Estebanía","Las Charcas","Palmar de Ocoa","Peralta","Pueblo Viejo","Sabana Buey","San José de Ocoa"); ?>

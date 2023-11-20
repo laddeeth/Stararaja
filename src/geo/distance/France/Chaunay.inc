@@ -1,0 +1,1 @@
+<?php $neighbours = array("Celle-Lévescault","Celles-sur-Belle","Charroux","Chaunay","Chef-Boutonne","Civray","Couhé","La Mothe-Saint-Héray","Lezay","Lusignan","Melle","Nanteuil-en-Vallée","Pamproux","Rouillé","Ruffec","Saint-Maurice-la-Clouère","Saint-Sauvant","Sauzé-Vaussais","Savigné","Usson-du-Poitou","Villefagnan","Vivonne"); ?>

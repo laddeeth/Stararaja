@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gozdnica","Iłowa","Kunice Żarskie","Lipinki Łużyckie","Małomice","Pieńsk","Przewóz","Sieniawa Żarska","Trzebiel","Węgliniec","Wymiarki","Żagań","Żary","Łęknica"); ?>

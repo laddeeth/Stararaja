@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bavorov","Brloh","Chvalšiny","Čkyně","Horní Planá","Husinec","Kájov","Lhenice","Netolice","Prachatice","Stachy","Strunkovice nad Blanicí","Vacov","Vimperk","Vlachovo Březí","Volary","Volyně","Zdíkov"); ?>

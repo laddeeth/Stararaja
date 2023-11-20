@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benešov nad Ploučnicí","Česká Kamenice","Chřibská","Děčín","Dolní Podluží","Dolní Poustevna","Jiříkov","Kamenický Šenov","Krásná Lípa","Mikulášovice","Rumburk","Šluknov","Staré Křečany","Varnsdorf","Velký Šenov","Vilémov"); ?>

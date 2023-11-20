@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barberton","Boston Heights","Brecksville","Broadview Heights","Cuyahoga Falls","Doylestown","Green","Kent","Lakemore","Macedonia","Mogadore","Montrose-Ghent","Munroe Falls","Portage Lakes","Reminderville","Sawyerwood","Streetsboro","Tallmadge","Twinsburg","Walton Hills"); ?>

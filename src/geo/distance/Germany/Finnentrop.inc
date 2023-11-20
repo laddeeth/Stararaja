@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altena","Arnsberg","Attendorn","Balve","Bergneustadt","Drolshagen","Erndtebrück","Eslohe","Finnentrop","Hemer","Herscheid","Hilchenbach","Iserlohn","Kierspe","Kirchhundem","Kreuztal","Lennestadt","Lüdenscheid","Meinerzhagen","Nachrodt-Wiblingwerde","Netphen","Neuenrade","Olpe","Plettenberg","Schmallenberg","Sundern","Wenden","Werdohl"); ?>

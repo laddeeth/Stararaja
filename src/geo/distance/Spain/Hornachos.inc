@@ -1,0 +1,1 @@
+<?php $neighbours = array("Campillo de Llerena","El Casar","Hornachos","Los Santos de Maimona","Maguilla","Oliva de Mérida","Ribera del Fresno","Usagre","Valle de la Serena","Villafranca de los Barros","Villagarcía de la Torre"); ?>

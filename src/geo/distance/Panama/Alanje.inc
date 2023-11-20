@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alanje","Aserrío de Gariché","Boquerón","Bugaba","Chiriquí","David","Divalá","Dolega","El Quiteño","Gómez","Guarumal","La Concepción","La Esperanza","Los Algarrobos","Los Anastacios","Mata del Nance","Pedregal","Potrerillos Abajo","Pueblo Nuevo","Santa Marta","Santo Domingo","Sioguí Abajo","Sioguí Arriba","Sortová","Tijera"); ?>

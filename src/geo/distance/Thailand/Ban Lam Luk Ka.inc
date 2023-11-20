@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ban Bang Kadi Pathum Thani","Ban Lam Luk Ka","Ban Rangsit","Bang Kapi","Bang Khen","Bueng Kum","Chatuchak","Don Mueang","Khan Na Yao","Khlong Luang","Khlong Sam Wa","Lak Si","Lam Luk Ka","Lat Krabang","Lat Phrao","Min Buri","Nong Chok","Nong Suea","Ongkharak","Pathum Thani","Sai Mai","Sam Khok","Saphan Sung","Thanyaburi","Wang Noi","Wang Thonglang"); ?>

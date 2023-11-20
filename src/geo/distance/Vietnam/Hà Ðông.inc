@@ -1,0 +1,1 @@
+<?php $neighbours = array("Hà Nội","Hà Ðông"); ?>

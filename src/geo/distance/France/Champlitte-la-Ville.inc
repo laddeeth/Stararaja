@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arc-lès-Gray","Chalindrey","Champlitte-la-Ville","Dampierre-sur-Salon","Fayl-Billot","Gray","Gray-la-Ville","Mirebeau-sur-Bèze","Selongey"); ?>

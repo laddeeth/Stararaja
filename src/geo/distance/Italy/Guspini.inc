@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arborea","Arbus","Buggerru","Collinas","Domusnovas","Fluminimaggiore","Furtei","Gonnosfanadiga","Guspini","Iglesias","Lunamatrona","Marrubiu","Masullas","Mogoro","Musei","Pabillonis","Samassi","San Gavino Monreale","San Nicolò d’Arcidano","Sanluri","Sardara","Serramanna","Terralba","Uras","Vallermosa","Villacidro","Villamar","Villamassargia"); ?>

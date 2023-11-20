@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baume-les-Dames","Blamont","Charquemont","Clerval","Colombier-Fontaine","Damprichard","Étalans","Gilley","Le Russey","Les Fins","Maîche","Mamirolle","Montlebon","Morteau","Nancray","Orchamps-Vennes","Pierrefontaine-les-Varans","Pont-de-Roide","Roulans","Sancey-le-Grand","Valdahon","Vercel-Villedieu-le-Camp","Villers-le-Lac"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldeamayor de San Martín","Boecillo","Coca","Cuéllar","Iscar","La Pedraja de Portillo","La Seca","Laguna de Duero","Matapozuelos","Medina del Campo","Mojados","Montemayor de Pililla","Nava de la Asunción","Navas de Oro","Olmedo","Pedrajas de San Esteban","Portillo","Serrada","Tudela de Duero","Valdestillas","Viana de Cega"); ?>

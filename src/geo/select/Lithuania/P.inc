@@ -1,0 +1,1 @@
+<option value="Pabradė">Pabradė</option><option value="Pagėgiai">Pagėgiai</option><option value="Pakruojis">Pakruojis</option><option value="Palanga">Palanga</option><option value="Panevėžys">Panevėžys</option><option value="Pasvalys">Pasvalys</option><option value="Plungė">Plungė</option><option value="Priekulė">Priekulė</option><option value="Prienai">Prienai</option>

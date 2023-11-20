@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barcin","Dąbrowa","Gniewkowo","Inowrocław","Janikowo","Jeziora Wielkie","Kruszwica","Mogilno","Nowa Wieś Wielka","Pakość","Radziejów","Strzelno","Wielka Nieszawka","Złotniki Kujawskie","Łabiszyn"); ?>

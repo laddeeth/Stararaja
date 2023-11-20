@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ejutla de Crespo","Miahuatlán de Porfirio Díaz","San Cristóbal Amatlán","San Vicente Coatlán","Santa Cruz Xitla"); ?>

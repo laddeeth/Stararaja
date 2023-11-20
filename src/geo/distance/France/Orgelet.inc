@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arbent","Arinthod","Bletterans","Clairvaux-les-Lacs","Coligny","Cousance","Cuiseaux","Dortan","Lavans-lès-Saint-Claude","Longchaumois","Lons-le-Saunier","Moirans-en-Montagne","Montmorot","Orgelet","Oyonnax","Perrigny","Saint-Amour","Saint-Claude","Saint-Lupicin","Valfin-lès-Saint-Claude","Varennes-Saint-Sauveur"); ?>

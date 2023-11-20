@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acatic","Atequiza","Atotonilquillo","Coyula","El Quince","El Verde","Guadalajara","Juanacatlán","La Aurora","Las Pintas de Arriba","San José del Castillo","Tlaquepaque","Tototlán","Zapotlanejo"); ?>

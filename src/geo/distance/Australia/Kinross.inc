@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bassendean","Bullsbrook","Caversham","Clarkson","Currambine","Guildford","Heathridge","Hillarys","Iluka","Joondalup","Kinross","Maylands","Mindarie","Mullaloo","North Beach","Osborne Park","Pearce","Perth","Quinns Rocks","Scarborough","Shenton Park","Subiaco","Swanbourne","Trigg","Two Rocks","Wanneroo","Wembley","Yanchep"); ?>

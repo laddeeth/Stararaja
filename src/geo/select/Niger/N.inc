@@ -1,0 +1,1 @@
+<option value="Nguigmi">Nguigmi</option><option value="Niamey">Niamey</option>

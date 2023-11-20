@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almont","Barnes Lake-Millers Lake","Davison","Goodrich","Grand Blanc","Imlay City","Lapeer","North Branch","Ortonville"); ?>

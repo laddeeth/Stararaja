@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adamówka","Aleksandrów","Biszcza","Biłgoraj","Dębno","Dzików Stary","Giedlarowa","Grodzisko Dolne","Grodzisko Górne","Harasiuki","Krzeszów","Księżpol","Kuryłówka","Leżajsk","Nowa Sarzyna","Obsza","Oleszyce","Piskorowice","Potok Górny","Sieniawa","Stare Miasto","Tarnogród","Tereszpol","Tryńcza","Wierzawice","Zamch","Łukowa"); ?>

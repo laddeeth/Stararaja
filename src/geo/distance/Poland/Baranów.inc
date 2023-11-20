@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abramów","Adamów","Baranów","Dęblin","Firlej","Garbów","Jeziorzany","Kamionka","Kazimierz Dolny","Kock","Końskowola","Krzywda","Kurów","Kłoczew","Markuszów","Michów","Nowodwór","Podebłocie","Przytoczno","Puławy","Ryki","Serokomla","Stężyca","Trojanów","Ułęż","Wąwolnica","Wojcieszków","Żyrzyn"); ?>

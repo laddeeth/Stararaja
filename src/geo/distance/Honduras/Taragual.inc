@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arada","Atima","Berlín","El Níspero","Gracias","La Libertad","Las Tejeras","Lepaera","Nueva Jalapa","San Juan de Opoa","San Vicente Centenario","Taragual"); ?>

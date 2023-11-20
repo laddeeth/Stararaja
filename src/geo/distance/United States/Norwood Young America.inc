@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chaska","Cologne","Jordan","Lester Prairie","Mayer","Minnetrista","Mound","Norwood Young America","Saint Bonifacius","Spring Park","Tonka Bay","Waconia","Young America"); ?>

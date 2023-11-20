@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blue Mound","Harristown","Long Creek","Maroa","Mount Pulaski","Moweaqua","Warrensburg"); ?>

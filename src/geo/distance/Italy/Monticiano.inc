@@ -1,0 +1,1 @@
+<?php $neighbours = array("Buonconvento","Campagnatico","Castelnuovo di Val di Cecina","Chiusdino","Civitella Marittima","Civitella Paganico","Massa Marittima","Montalcino","Monteriggioni","Monterotondo Marittimo","Monticiano","Montieri","Murlo","Roccastrada","Siena","Sovicille"); ?>

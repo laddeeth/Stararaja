@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ainzón","Alagón","Boquiñeni","Borja","Buñuel","Ejea de los Caballeros","Figueruelas","Fréscano","Fustiñana","Gallur","Luceni","Magallón","Mallén","Pedrola","Pinseque","Remolinos","Ribaforada","Tauste","Torres de Berrellén"); ?>

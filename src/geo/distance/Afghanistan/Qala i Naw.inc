@@ -1,0 +1,1 @@
+<?php $neighbours = array("Qala i Naw"); ?>

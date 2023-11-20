@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bynum","Lincoln","Odenville","Ohatchee","Pell City","Ragland","Rainbow City","Riverside","Saks","Southside","Springville","Steele","West End-Cobb Town"); ?>

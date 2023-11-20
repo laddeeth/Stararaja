@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allende","Coatzacoalcos","Cosoleacaque","Minatitlán","Nanchital"); ?>

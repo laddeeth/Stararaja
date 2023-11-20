@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blue Springs","Claycomo","East Independence","Excelsior Springs","Fairway","Gladstone","Kansas City","Kearney","Merriam","Mission","Mission Hills","North Kansas City","Pleasant Valley","Prairie Village","Raytown","Roeland Park","Shawnee","Smithville","Sugar Creek","Weatherby Lake","Westwood"); ?>

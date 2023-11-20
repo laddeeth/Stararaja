@@ -1,0 +1,1 @@
+<option value="Celje">Celje</option><option value="Cerknica">Cerknica</option><option value="Cerkno">Cerkno</option><option value="Černelavci">Černelavci</option><option value="Črenšovci">Črenšovci</option><option value="Črna na Koroškem">Črna na Koroškem</option><option value="Črnomelj">Črnomelj</option>

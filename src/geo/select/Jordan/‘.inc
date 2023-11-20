@@ -1,0 +1,1 @@
+<option value="‘Ajlūn">‘Ajlūn</option><option value="‘Anjarah">‘Anjarah</option><option value="‘Ayn Jannā">‘Ayn Jannā</option><option value="‘Ayy">‘Ayy</option><option value="‘Izrā">‘Izrā</option>

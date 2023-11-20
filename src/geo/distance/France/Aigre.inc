@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aigre","Angoulême","Asnières-sur-Nouère","Balzac","Brie","Champniers","Chassors","Chef-Boutonne","Fléac","Gond-Pontouvre","Hiersac","Jarnac","Linars","Mansle","Matha","Nanteuil-en-Vallée","Nercillac","Nersac","Rouillac","Ruelle-sur-Touvre","Ruffec","Saint-Amant-de-Boixe","Saint-Yrieix-sur-Charente","Sauzé-Vaussais","Vars","Villefagnan"); ?>

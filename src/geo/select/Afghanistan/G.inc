@@ -1,0 +1,1 @@
+<option value="Gardēz">Gardēz</option><option value="Ghazni">Ghazni</option><option value="Ghormach">Ghormach</option><option value="Girishk">Girishk</option>

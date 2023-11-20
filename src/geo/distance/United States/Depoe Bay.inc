@@ -1,0 +1,1 @@
+<?php $neighbours = array("Depoe Bay","Lincoln Beach","Lincoln City","Rose Lodge","Siletz"); ?>

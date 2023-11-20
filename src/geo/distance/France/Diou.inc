@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaulon","Bourbon-Lancy","Digoin","Diou","Dompierre-sur-Besbre","Gueugnon","La Motte-Saint-Jean","Le Donjon","Lucenay-lès-Aix","Lusigny","Molinet","Neuilly-le-Réal","Paray-le-Monial","Saint-François","Saint-Yan","Toulon-sur-Allier"); ?>

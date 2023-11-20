@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allendorf","Bad Wildungen","Battenberg","Bromskirchen","Cölbe","Frankenau","Frankenberg","Fritzlar","Gemünden an der Wohra","Gilserberg","Haina","Hallenberg","Hatzfeld","Jesberg","Korbach","Medebach","Münchhausen","Naumburg","Neuental","Rauschenberg","Rosenthal","Schwalmstadt","Vöhl","Wabern","Waldeck","Wetter"); ?>

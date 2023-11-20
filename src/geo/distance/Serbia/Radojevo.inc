@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aleksandrovo","Banatska Topola","Banatsko Karađorđevo","Banatsko Veliko Selo","Čestereg","Hetin","Kikinda","Međa","Nakovo","Nova Crnja","Novi Itebej","Novi Kozarci","Radojevo","Rusko Selo","Srpska Crnja","Srpski Itebej","Toba","Vojvoda Stepa"); ?>

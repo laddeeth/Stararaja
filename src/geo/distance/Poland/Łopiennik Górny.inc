@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cyców","Fajsławice","Gorzków","Izbica","Kraśniczyn","Krasnystaw","Mełgiew","Milejów","Nielisz","Piaski","Rejowiec","Rejowiec Fabryczny","Rudnik","Rybczewice","Siennica Różana","Stary Zamość","Świdnik","Trawniki","Wysokie","Żółkiewka","Łopiennik Górny"); ?>

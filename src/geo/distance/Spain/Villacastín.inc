@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ávila de los Caballeros","Las Navas del Marqués","Los Molinos","Navalperal de Pinares","Santa María de la Alameda","Villacastín"); ?>

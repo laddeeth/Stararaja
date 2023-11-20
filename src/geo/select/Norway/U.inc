@@ -1,0 +1,1 @@
+<option value="Uggdal">Uggdal</option><option value="Ulefoss">Ulefoss</option><option value="Ulsteinvik">Ulsteinvik</option><option value="Ulvik">Ulvik</option><option value="Utsira">Utsira</option>

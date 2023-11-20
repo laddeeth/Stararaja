@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaumont-de-Pertuis","Céreste","Forcalquier","Ginasservis","Grambois","Gréoux-les-Bains","La Bastide-des-Jourdans","Les Mées","Malijai","Mallemoisson","Mane","Manosque","Oraison","Peyruis","Pierrevert","Reillanne","Riez","Sainte-Tulle","Valensole","Vinon-sur-Verdon","Volonne","Volx"); ?>

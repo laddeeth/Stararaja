@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aubiet","Aurignac","Bérat","Boulogne-sur-Gesse","Fonsorbes","Fontenilles","Gimont","Labastidette","Lacasse","Le Fousseret","Léguevin","Lherm","Lombez","Longages","Masseube","Pavie","Pujaudran","Rieumes","Saint-Lys","Sainte-Foy-de-Peyrolières","Samatan","Seissan"); ?>

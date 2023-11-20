@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bras-Panon","Cilaos","La Possession","Le Port","Le Tampon","Les Avirons","Petite-Île","Piton Saint-Leu","Saint-André","Saint-Benoît","Saint-Denis","Saint-Leu","Saint-Louis","Saint-Paul","Saint-Pierre","Sainte-Marie","Sainte-Suzanne","Salazie","Trois-Bassins"); ?>

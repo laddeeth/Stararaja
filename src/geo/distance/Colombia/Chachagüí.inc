@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ancuya","Arboleda","Buesaco","Chachagüí","Consacá","El Peñol","El Tablón","La Florida","Linares","Olaya Herrera","Pasto","Puerres","San Lorenzo","Sandoná","Santacruz","Sotomayor","Taminango","Yacuanquer"); ?>

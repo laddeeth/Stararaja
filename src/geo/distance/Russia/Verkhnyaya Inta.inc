@@ -1,0 +1,1 @@
+<?php $neighbours = array("Inta","Verkhnyaya Inta"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chavinda","Cojumatlán de Régules","Cotija de la Paz","Jiquilpan de Juárez","Pajacuarán","Sahuayo de José María Morelos","Santiago Tangamandapio","Valle de Juárez","Villamar"); ?>

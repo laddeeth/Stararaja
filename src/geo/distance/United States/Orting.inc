@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alderton","Bonney Lake","Buckley","Elk Plain","Enumclaw","Federal Way","Fife","Fife Heights","Fircrest","Fort Lewis","Frederickson","Lake Morton-Berrydale","Lakeland North","Lakeland South","Lea Hill","McChord Air Force Base","McMillin","North Puyallup","Orting","Prairie Ridge","Puyallup","Spanaway","Tacoma"); ?>

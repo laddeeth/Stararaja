@@ -1,0 +1,1 @@
+<option value="Parkent">Parkent</option><option value="Paxtakor">Paxtakor</option><option value="Payshanba">Payshanba</option><option value="Piskent">Piskent</option><option value="Pop">Pop</option><option value="Pop Shahri">Pop Shahri</option>

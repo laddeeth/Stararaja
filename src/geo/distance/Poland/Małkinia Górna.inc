@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boguty-Pianki","Brok","Ceranów","Czyżew","Kosów Lacki","Małkinia Górna","Miedzna","Nur","Ostrów Mazowiecka","Ostrówek","Sabnie","Sadowne","Sterdyń","Stoczek","Szumowo","Łochów"); ?>

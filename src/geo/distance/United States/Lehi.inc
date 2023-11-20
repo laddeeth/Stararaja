@@ -1,0 +1,1 @@
+<?php $neighbours = array("American Fork","Bluffdale","Cottonwood Heights","Draper","Herriman","Lehi","Lindon","Little Cottonwood Creek Valley","Midvale","Orem","Provo","Sandy City","Sandy Hills","South Jordan","South Jordan Heights","West Jordan"); ?>

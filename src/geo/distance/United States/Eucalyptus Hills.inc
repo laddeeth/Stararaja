@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bonita","Bostonia","Casa de Oro-Mount Helix","Chula Vista","Crest","El Cajon","Escondido","Eucalyptus Hills","Fairbanks Ranch","Granite Hills","Harbison Canyon","Jamul","La Mesa","La Presa","Lemon Grove","National City","Poway","Ramona","Rancho San Diego","Rancho Santa Fe","San Diego Country Estates","San Pasqual","Santee","Winter Gardens"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baja Mar","Baracoa","Chivana","Choloma","El Porvenir","El Rancho","La Jutosa","Omoa","Puerto Alto","Puerto Cortez","Quebrada Seca","Río Blanquito","Travesía"); ?>

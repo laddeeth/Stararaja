@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chacewater","Falmouth","Germoe","Hayle","Landewednack","Marazion","Mevagissey","Mullion","Newquay","Penryn","Perranporth","Porthleven","Portscatho","Probus","Redruth","Saint Agnes","Saint Dennis","Saint Stephen","St Ives","St. Day","Tregoney","Truro","Wendron"); ?>

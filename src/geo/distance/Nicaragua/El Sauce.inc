@@ -1,0 +1,1 @@
+<?php $neighbours = array("Achuapa","El Sauce","La Jicaral","Larreynaga","Santa Rosa del Peñón"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Buena","Chesilhurst","Collings Lakes","Egg Harbor City","Elmer","Estell Manor","Fairton","Folsom","Glassboro","Hammonton","Laurel Lake","Mays Landing","Millville","Newfield","Olivet","Rosenhayn","Seabrook Farms","South Vineland","Victory Lakes","Vineland"); ?>

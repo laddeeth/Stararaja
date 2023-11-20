@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cotuit","East Falmouth","Edgartown","Marstons Mills","Mashpee","Mattapoisett","Mattapoisett Center","Monument Beach","North Falmouth","Oak Bluffs","Osterville","Pocasset","Teaticket","Vineyard Haven","West Falmouth","West Tisbury"); ?>

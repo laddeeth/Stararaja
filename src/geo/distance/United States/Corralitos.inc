@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amesti","Aptos","Aptos Hills-Larkin Valley","Aromas","Ben Lomond","Capitola","Corralitos","Day Valley","Gilroy","Interlaken","La Selva Beach","Lexington Hills","Lompico","Morgan Hill","Opal Cliffs","Pajaro","Pasatiempo","Prunedale","Rio Del Mar","San Juan Bautista","San Martin","Santa Cruz","Scotts Valley","Seacliff","Soquel","Watsonville"); ?>

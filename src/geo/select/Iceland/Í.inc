@@ -1,0 +1,1 @@
+<option value="Ísafjörður">Ísafjörður</option>

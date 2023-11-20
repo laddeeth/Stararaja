@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acancéh","Baca","Cacalchén","Chicxulub","Cholul","Conkal","Dzemul","Hocabá","Hoctún","Ixil","Kanasín","Mérida","Motul de Felipe Carrillo Puerto","Seyé","Tahmek","Tecoh","Telchac","Timucuy","Tixkokob","Tixpehual"); ?>

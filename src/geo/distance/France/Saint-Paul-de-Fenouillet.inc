@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baixas","Corneilla-la-Rivière","Couiza","Espéraza","Estagel","Ille-sur-Têt","Le Soler","Millas","Peyrestortes","Pézilla-la-Rivière","Prades","Quillan","Ria-Sirach","Saint-Paul-de-Fenouillet","Thuir","Villeneuve-la-Rivière","Vinça"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amagansett","East Hampton North","Montauk","Northwest Harbor","Sag Harbor","Springs"); ?>

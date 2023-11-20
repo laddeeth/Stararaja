@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beinette","Bernezzo","Borgo San Dalmazzo","Boves","Caraglio","Castelletto Stura","Cervasca","Chiusa di Pesio","Cuneo","Demonte","Frabosa Sottana","Limone Piemonte","Margarita","Monastero di Vasco","Mondovì","Morozzo","Ormea","Peveragno","Pianfei","Robilante","Roccaforte Mondovì","Roccavione","Vernante","Vicoforte","Vignolo","Villanova Mondovì"); ?>

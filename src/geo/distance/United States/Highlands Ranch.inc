@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acres Green","Applewood","Arvada","Carriage Club","Castle Pines","Castle Rock","Centennial","Cherry Hills Village","Columbine","Columbine Valley","Commerce City","Dove Valley","Genesee","Greenwood Village","Highlands Ranch","Ken Caryl","Roxborough Park","Southglenn","Stonegate","The Pinery","West Pleasant View","Wheat Ridge"); ?>

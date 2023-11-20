@@ -1,0 +1,1 @@
+<?php $neighbours = array("Playa del Carmen","San Miguel de Cozumel"); ?>

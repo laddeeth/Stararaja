@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ax-les-Thermes","Bélesta","Chalabre","Couiza","Espéraza","Foix","Lavelanet","Limoux","Mercus-Garrabet","Mirepoix","Montgaillard","Quillan","Saint-Paul-de-Jarrat","Tarascon-sur-Ariège","Varilhes"); ?>

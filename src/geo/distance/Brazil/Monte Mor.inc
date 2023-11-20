@@ -1,0 +1,1 @@
+<?php $neighbours = array("Americana","Campinas","Capivari","Elias Fausto","Hortolândia","Indaiatuba","Monte Mor","Nova Odessa","Paulínia","Salto","Sumaré"); ?>

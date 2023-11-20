@@ -1,0 +1,1 @@
+<?php $neighbours = array("Absecon","Atlantic City","Barnegat","Beach Haven","Beach Haven West","Brigantine","Egg Harbor City","Linwood","Manahawkin","Margate City","Mystic Island","North Beach Haven","Ocean Acres","Pleasantville","Pomona","Port Republic","Ship Bottom","Tuckerton","Ventnor City"); ?>

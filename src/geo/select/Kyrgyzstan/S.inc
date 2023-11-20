@@ -1,0 +1,1 @@
+<option value="Sosnovka">Sosnovka</option><option value="Sulyukta">Sulyukta</option>

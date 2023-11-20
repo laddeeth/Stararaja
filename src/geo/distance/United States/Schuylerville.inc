@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ballston Spa","Country Knolls","Fort Edward","Glens Falls","Glens Falls North","Hoosick Falls","Hudson Falls","Mechanicville","North Ballston Spa","Saratoga Springs","Schuylerville","South Glens Falls","West Glens Falls"); ?>

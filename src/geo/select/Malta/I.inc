@@ -1,0 +1,1 @@
+<option value="Il-Furjana">Il-Furjana</option><option value="Il-Gżira">Il-Gżira</option><option value="Is-Swieqi">Is-Swieqi</option>

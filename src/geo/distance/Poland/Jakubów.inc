@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cegłów","Celestynów","Dębe Wielkie","Dobre","Grębków","Halinów","Jadów","Jakubów","Jasienica","Kałuszyn","Korytnica","Kotuń","Kołbiel","Latowicz","Liw","Mińsk Mazowiecki","Mokobody","Mrozy","Parysów","Poświętne","Siennica","Stanisławów","Strachówka","Sulejówek","Tłuszcz","Wierzbno","Wodynie"); ?>

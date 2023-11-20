@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agua Caliente","Buenos Aires","Copán","Dolores","Dulce Nombre","El Ocotón","Florida","La Entrada","La Playona","La Zumbadora","San Agustín","San Jerónimo","San Joaquín","San Juan de Planes","San Nicolás","Trinidad de Copán","Veracruz"); ?>

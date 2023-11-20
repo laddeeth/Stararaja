@@ -1,0 +1,1 @@
+<?php $neighbours = array("Castlederg","Derry","Londonderry County Borough","Newtownstewart","Omagh","Sion Mills","Strabane"); ?>

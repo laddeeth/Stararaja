@@ -1,0 +1,1 @@
+<option value="Dashtobod">Dashtobod</option><option value="Daxbet">Daxbet</option><option value="Denov">Denov</option><option value="Dŭstlik">Dŭstlik</option>

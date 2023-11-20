@@ -1,0 +1,1 @@
+<?php $neighbours = array("Garbatka-Letnisko","Gózd","Jastrzębia","Jedlińsk","Jedlnia-Letnisko","Kazanów","Kowala","Kozienice","Orońsko","Pionki","Policzna","Promna","Przytyk","Radom","Ryczywół","Skaryszew","Stara Błotnica","Stromiec","Sucha","Tczów","Trablice","Wierzbica","Wolanów","Zakrzew","Zwoleń"); ?>

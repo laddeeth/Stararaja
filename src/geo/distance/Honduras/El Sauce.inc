@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguas del Padre","Ajuterique","Cane","Cerro Blanco","Comayagua","Concepción de Guasistagua","El Agua Dulcita","El Rincón","El Sauce","El Socorro","Flores","Jamalteca","La Paz","Las Lajas","Lejamaní","San Antonio de la Cuesta","Siguatepeque","Tepanguare","Valle de Ángeles","Vallecillo","Villa de San Antonio","Yarumela"); ?>

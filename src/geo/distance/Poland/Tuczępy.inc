@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bogoria","Borowa","Busko-Zdrój","Chmielnik","Gnojno","Mędrzechów","Nowy Korczyn","Oleśnica","Pacanów","Pierzchnica","Połaniec","Raków","Rytwiany","Solec-Zdrój","Staszów","Stopnica","Szczucin","Szydłów","Słupiec","Tuczępy","Wiślica","Łagów","Łubnice"); ?>

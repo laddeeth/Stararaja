@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avilla","Churubusco","Columbia City","Fort Wayne","Garrett","Huntertown","Kendallville","Ligonier","North Webster","Pierceton","Rome City","South Whitley","Tri-Lakes"); ?>

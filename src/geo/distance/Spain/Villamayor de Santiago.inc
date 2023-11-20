@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belmonte","Corral de Almaguer","El Toboso","Fuente de Pedro Naharro","Horcajo de Santiago","La Puebla de Almoradiel","Los Hinojosos","Miguel Esteban","Mota del Cuervo","Quintanar de la Orden","Villa de Don Fadrique","Villamayor de Santiago","Villanueva de Alcardete"); ?>

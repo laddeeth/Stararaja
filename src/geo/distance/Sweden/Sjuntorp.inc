@@ -1,0 +1,1 @@
+<?php $neighbours = array("Älvängen","Lilla Edet","Ljungskile","Lödöse","Nossebro","Sjuntorp","Skepplanda","Sollebrunn","Stenungsund","Svanesund","Trollhättan","Uddevalla","Vänersborg","Vargön"); ?>

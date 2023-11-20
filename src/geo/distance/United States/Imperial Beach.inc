@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bonita","Bostonia","Casa de Oro-Mount Helix","Chula Vista","Coronado","El Cajon","Imperial Beach","Jamul","La Mesa","La Presa","Lemon Grove","National City","Rancho San Diego"); ?>

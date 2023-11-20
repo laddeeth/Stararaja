@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belmont-sur-Rance","Camarès","Creissels","La Cavalerie","Millau","Réquista","Saint-Affrique","Saint-Georges-de-Luzençon","Salles-Curan"); ?>

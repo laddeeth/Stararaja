@@ -1,0 +1,1 @@
+<option value="Dagda">Dagda</option><option value="Daugavgrīva">Daugavgrīva</option><option value="Daugavpils">Daugavpils</option><option value="Dobele">Dobele</option><option value="Dundaga">Dundaga</option>

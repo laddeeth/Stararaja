@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bethlehem","Cajahs Mountain","Claremont","Connelly Springs","Conover","Drexel","Granite Falls","Hickory","Hildebran","Icard","Lenoir","Longview","Maiden","Northlakes","Pumpkin Center","Rhodhiss","Rutherford College","Saint Stephens","Sawmills","Stony Point","Valdese"); ?>

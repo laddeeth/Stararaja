@@ -1,0 +1,1 @@
+<?php $neighbours = array("Authon-du-Perche","Bellême","Bretoncelles","Ceton","Condé-sur-Huisne","Courville-sur-Eure","La Loupe","Longny-au-Perche","Margon","Mortagne-au-Perche","Nogent-le-Rotrou","Rémalard","Senonches","Thiron Gardais","Tourouvre"); ?>

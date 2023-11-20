@@ -1,0 +1,1 @@
+<option value="Bafatá">Bafatá</option><option value="Bissau">Bissau</option><option value="Bissorã">Bissorã</option><option value="Bolama">Bolama</option><option value="Buba">Buba</option><option value="Bubaque">Bubaque</option>

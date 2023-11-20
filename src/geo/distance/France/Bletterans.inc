@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arbois","Bletterans","Branges","Chaussin","Clairvaux-les-Lacs","Cousance","Cuiseaux","Lons-le-Saunier","Louhans","Mervans","Mont-sous-Vaudrey","Montmorot","Orgelet","Perrigny","Petit-Noir","Pierre-de-Bresse","Poligny","Saint-Germain-du-Bois","Saint-Usuge","Sornay"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barciany","Bartoszyce","Bisztynek","Gierłoż","Kętrzyn","Korsze","Reszel","Sępopol","Srokowo"); ?>

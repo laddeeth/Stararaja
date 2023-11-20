@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bärnau","Floß","Flossenbürg","Fuchsmühl","Georgenberg","Hohenberg an der Eger","Konnersreuth","Leonberg","Mähring","Mitterteich","Neualbenreuth","Pechbrunn","Püchersreuth","Schirnding","Schwarzenbach","Tirschenreuth","Waldsassen","Wiesau","Windischeschenbach"); ?>

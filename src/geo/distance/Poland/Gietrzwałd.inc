@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dobre Miasto","Dywity","Gierzwałd","Gietrzwałd","Jonkowo","Miłomłyn","Morąg","Olsztyn","Olsztynek","Ostróda","Stawiguda"); ?>

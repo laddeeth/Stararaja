@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bockhorn","Butjadingen","Dunum","Fedderwarden","Firrel","Friedeburg","Jever","Neuharlingersiel","Sande","Schillig","Schortens","Sillenstede","Stedesdorf","Varel","Werdum","Westerstede","Wiefelstede","Wiesmoor","Wilhelmshaven","Wittmund","Zetel"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acton","Bucknell","Knighton","Llanfechain","Llanfyllin","Llanidloes","Lydham","Mainstone","Newtown","Norbury","Penybont","Rhayader","Welshpool"); ?>

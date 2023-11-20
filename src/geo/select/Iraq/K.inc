@@ -1,0 +1,1 @@
+<option value="Karbala">Karbala</option><option value="Khāliş">Khāliş</option><option value="Kifrī">Kifrī</option><option value="Kirkuk">Kirkuk</option><option value="Kūysanjaq">Kūysanjaq</option>

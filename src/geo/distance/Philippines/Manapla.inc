@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ajuy","Alacaygan","Alicante","Andres Bonifacio","Bay-ang","Binonga","Cadiz Viejo","Chambrey","Daan Banua","Dos Hermanas","Eustaquio Lopez","Igbon","Imbang","Kapitan Ramon","Malayo-an","Manapla","Nangka","Paraiso","Polopina","Saravia","Tiglawigan","Tortosa","Victorias City"); ?>

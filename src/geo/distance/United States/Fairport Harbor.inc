@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chardon","Chesterland","Eastlake","Euclid","Fairport Harbor","Gates Mills","Geneva-on-the-Lake","Kirtland","Mayfield Heights","Mentor","Mentor-on-the-Lake","Painesville","Willoughby","Willoughby Hills","Willowick"); ?>

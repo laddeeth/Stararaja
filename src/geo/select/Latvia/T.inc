@@ -1,0 +1,1 @@
+<option value="Talsi">Talsi</option><option value="Tīreļi">Tīreļi</option><option value="Tukums">Tukums</option>

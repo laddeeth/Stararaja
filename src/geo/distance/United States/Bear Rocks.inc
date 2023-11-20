@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bear Rocks","Calumet","Collinsburg","Connellsville","Dunbar","Jeannette","Latrobe","Lawson Heights","Loyalhanna","New Stanton","Perryopolis","South Connellsville","South Greensburg","Southwest Greensburg","West Newton","Youngwood"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arnac-la-Poste","Bessines-sur-Gartempe","Bussière-Dunoise","Chaillac","Chantôme","Châteauponsac","Dun-le-Palestel","La Souterraine","Le Grand-Bourg","Magnac-Laval","Saint-Agnant-de-Versillat","Saint-Maurice-la-Souterraine","Saint-Sulpice-le-Guérétois","Saint-Sulpice-les-Feuilles","Saint-Vaury"); ?>

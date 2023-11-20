@@ -1,0 +1,1 @@
+<option value="Lenger">Lenger</option><option value="Lenīnskīy">Lenīnskīy</option><option value="Lepsy">Lepsy</option><option value="Lisakovsk">Lisakovsk</option><option value="Lugovoy">Lugovoy</option>

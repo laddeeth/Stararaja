@@ -1,0 +1,1 @@
+<option value="Батинци">Батинци</option><option value="Берово">Берово</option><option value="Бистрица">Бистрица</option><option value="Богданци">Богданци</option><option value="Богомила">Богомила</option><option value="Булачани">Булачани</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baependi","Caxambu","Conceição do Rio Verde","Cruzília"); ?>

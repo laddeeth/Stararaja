@@ -1,0 +1,1 @@
+<?php $neighbours = array("Águas de Lindóia","Andradas","Espírito Santo do Pinhal","Itapira","Jacutinga","Monte Sião"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Babimost","Bojadła","Brenno","Grodzisk Wielkopolski","Kamieniec","Kargowa","Klenica","Kolsko","Konotop","Nowy Tomyśl","Opalenica","Przemęt","Rakoniewice","Siedlec","Sława","Trzebiechów","Wielichowo","Wijewo","Wolsztyn","Włoszakowice","Zbąszyń","Zbąszynek"); ?>

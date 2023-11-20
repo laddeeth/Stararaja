@@ -1,0 +1,1 @@
+<?php $neighbours = array("Korčula","Lumbarda","Orebić","Smokvica","Vrgorac","Žrnovo"); ?>

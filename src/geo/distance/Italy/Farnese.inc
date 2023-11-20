@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acquapendente","Bolsena","Canino","Capalbio","Capodimonte","Castel Giorgio","Cellere","Farnese","Gradoli","Grotte di Castro","Ischia di Castro","Latera","Manciano","Marta","Montalto di Castro","Montefiascone","Onano","Piansano","San Lorenzo Nuovo","Semproniano","Sorano","Tuscania","Valentano"); ?>

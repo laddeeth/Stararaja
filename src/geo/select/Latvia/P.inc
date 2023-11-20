@@ -1,0 +1,1 @@
+<option value="Pāvilosta">Pāvilosta</option><option value="Pilsrundāle">Pilsrundāle</option><option value="Piltene">Piltene</option><option value="Piņķi">Piņķi</option><option value="Pļaviņas">Pļaviņas</option><option value="Preiļi">Preiļi</option><option value="Priekule">Priekule</option>

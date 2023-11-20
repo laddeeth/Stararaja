@@ -1,0 +1,1 @@
+<?php $neighbours = array("Canyon Rim","Coalville","Cottonwood Heights","East Millcreek","Francis","Holladay","Kamas","Little Cottonwood Creek Valley","Millcreek","Mount Olympus","Sandy Hills","Snyderville","South Salt Lake","Summit Park"); ?>

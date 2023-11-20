@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gardeja","Gruta","Iława","Jabłonowo Pomorskie","Kisielice","Kwidzyn","Mikołajki Pomorskie","Prabuty","Sadlinki","Susz","Świecie nad Osą","Łasin"); ?>

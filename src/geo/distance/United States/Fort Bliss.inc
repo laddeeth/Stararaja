@@ -1,0 +1,1 @@
+<?php $neighbours = array("Canutillo","Chaparral","Fort Bliss","Homestead Meadows North","Homestead Meadows South","Horizon City","La Union","San Elizario","Socorro Mission Number 1 Colonia","Sunland Park","Westway"); ?>

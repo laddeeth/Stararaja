@@ -1,0 +1,1 @@
+<option value="Tolmin">Tolmin</option><option value="Topolšica">Topolšica</option><option value="Trbovlje">Trbovlje</option><option value="Trebnje">Trebnje</option><option value="Tržič">Tržič</option><option value="Trzin">Trzin</option><option value="Turnišče">Turnišče</option>

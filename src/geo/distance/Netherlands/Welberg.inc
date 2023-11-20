@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bergen op Zoom","Bruinisse","Dinteloord","Dirksland","Halsteren","Heinenoord","Klundert","Kruisland","Lepelstraat","Middelharnis","Mijnsheerenland","Nieuw-Vossemeer","Oud-Beijerland","Roosendaal","Rucphen","Spijkenisse","Steenbergen","Strijen","Tholen","Welberg","Willemstad","Woensdrecht","Yerseke","Zundert"); ?>

@@ -1,0 +1,1 @@
+<option value="Dekani">Dekani</option><option value="Deskle">Deskle</option><option value="Divača">Divača</option><option value="Dob">Dob</option><option value="Domžale">Domžale</option><option value="Dragomer">Dragomer</option><option value="Dravograd">Dravograd</option>

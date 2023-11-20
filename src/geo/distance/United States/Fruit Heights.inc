@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bountiful","Fruit Heights","Hooper","Kaysville","Layton","Marriott-Slaterville","Mountain Green","North Salt Lake","Roy","South Ogden","South Weber","Uintah","Washington Terrace","West Bountiful","Woods Cross"); ?>

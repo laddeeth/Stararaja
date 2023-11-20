@@ -1,0 +1,1 @@
+<option value="Sebeta">Sebeta</option><option value="Semera">Semera</option><option value="Sendafa">Sendafa</option><option value="Shakīso">Shakīso</option><option value="Shambu">Shambu</option><option value="Shashemenē">Shashemenē</option><option value="Sirre">Sirre</option>

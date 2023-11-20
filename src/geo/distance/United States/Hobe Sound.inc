@@ -1,0 +1,1 @@
+<?php $neighbours = array("Hobe Sound","Hutchinson Island South","Jensen Beach","Juno Beach","Jupiter","Lake Park","Limestone Creek","North Palm Beach","North River Shores","Palm Beach Gardens","Palm City","Port Salerno","Stuart","Tequesta"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brantice","Bruntál","Česká Ves","Jeseník","Jindřichov","Karlovice","Krnov","Lichnov","Město Albrechtice","Mikulovice","Osoblaha","Písečná","Vidnava","Vrbno pod Pradědem","Zátor","Zlaté Hory"); ?>

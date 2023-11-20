@@ -1,0 +1,1 @@
+<?php $neighbours = array("Angwin","Boyes Hot Springs","Calistoga","Fetters Hot Springs-Agua Caliente","Hidden Valley Lake","Larkfield-Wikiup","Saint Helena","Yountville"); ?>

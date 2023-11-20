@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almudébar","Grañén","Gurrea de Gállego","Huesca","Lanaja","Leciñena","San Mateo de Gállego","Tardienta","Zuera"); ?>

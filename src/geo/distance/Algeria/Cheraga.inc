@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aïn Taya","Algiers","Bab Ezzouar","Baraki","Beni Mered","Birkhadem","Bordj el Kiffan","Bou Ismaïl","Boufarik","Bougara","Bouinan","Chebli","Cheraga","Dar el Beïda","Douera","Kolea","L’Arba","Meftah","Oued el Alleug","Rouiba","Saoula","Sidi Moussa","Souma","Zeralda","’Aïn Benian"); ?>

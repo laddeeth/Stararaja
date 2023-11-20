@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adelboden","Aeschi","Beatenberg","Bönigen","Brienz","Därligen","Diemtigen","Erlenbach im Simmental","Fiesch","Frutigen","Grindelwald","Hilterfingen","Interlaken","Kandersteg","Lauterbrunnen","Lungern","Matten","Meiringen","Oberdiessbach","Ringgenberg","Sigriswil","Spiez","Steffisburg","Thun","Unterseen","Wilderswil","Wimmis"); ?>

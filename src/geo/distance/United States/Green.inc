@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barberton","Canal Fulton","Cuyahoga Falls","Doylestown","East Canton","Green","Kent","Lakemore","Massillon","Mogadore","Montrose-Ghent","Munroe Falls","North Canton","Orrville","Perry Heights","Portage Lakes","Richville","Rittman","Sawyerwood","Tallmadge"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alto de la Estancia","Antón","Bejuco","Chame","Chigoré","Churuquita Chiquita","Churuquita Grande","El Entradero","Juan Díaz","Las Colinas","Llano Marín","Nueva Gorgona","Río Hato"); ?>

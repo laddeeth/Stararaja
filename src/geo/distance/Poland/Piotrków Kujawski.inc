@@ -1,0 +1,1 @@
+<?php $neighbours = array("Babiak","Boniewo","Brdów","Brześć Kujawski","Bytoń","Izbica Kujawska","Jeziora Wielkie","Kleczew","Kruszwica","Licheń Stary","Lubraniec","Osięciny","Piotrków Kujawski","Radziejów","Skulsk","Sompolno","Strzelno","Topólka","Wierzbinek","Wilczogóra","Wilczyn"); ?>

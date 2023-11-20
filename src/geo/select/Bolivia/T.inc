@@ -1,0 +1,1 @@
+<option value="Tarabuco">Tarabuco</option><option value="Tarata">Tarata</option><option value="Tarija">Tarija</option><option value="Tiahuanaco">Tiahuanaco</option><option value="Tomás Barrón">Tomás Barrón</option><option value="Tomina">Tomina</option><option value="Totora">Totora</option><option value="Totoral">Totoral</option><option value="Tupiza">Tupiza</option>

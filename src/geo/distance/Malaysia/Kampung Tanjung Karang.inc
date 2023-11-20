@@ -1,0 +1,1 @@
+<?php $neighbours = array("Batang Berjuntai","Kampong Dungun","Kampung Tanjung Karang","Kuala Selangor"); ?>

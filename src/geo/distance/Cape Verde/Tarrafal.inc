@@ -1,0 +1,1 @@
+<?php $neighbours = array("Tarrafal","Vila da Ribeira Brava"); ?>

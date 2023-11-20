@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bobrowice","Gubin","Kunice Żarskie","Lipinki Łużyckie","Lubsko","Nowogród Bobrzański","Sieniawa Żarska","Trzebiel","Tuplice","Żary"); ?>

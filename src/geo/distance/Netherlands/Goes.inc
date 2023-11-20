@@ -1,0 +1,1 @@
+<?php $neighbours = array("Axel","Bergen op Zoom","Borssele","Bruinisse","Burgh","Goes","Haamstede","Halsteren","Hulst","Lepelstraat","Middelburg","Nieuw-Vossemeer","Renesse","Scharendijke","Sluiskil","Terneuzen","Tholen","Veere","Vlissingen","Woensdrecht","Yerseke","Zaamslag"); ?>

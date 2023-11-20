@@ -1,0 +1,1 @@
+<?php $neighbours = array("Accadia","Anzano di Puglia","Ascoli Satriano","Biccari","Bovino","Candela","Carapelle","Castelluccio dei Sauri","Castelluccio Valmaggiore","Deliceto","Foggia","Lacedonia","Lucera","Monteleone di Puglia","Ordona","Orsara di Puglia","Orta Nova","Savignano Irpino","Scampitella","Stornara","Stornarella","Troia"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chrzypsko Wielkie","Czarnków","Drawsko","Duszniki","Kaźmierz","Kwilcz","Lubasz","Obrzycko","Ostroróg","Pamiątkowo","Połajewo","Sieraków","Szamotuły","Wieleń","Wronki"); ?>

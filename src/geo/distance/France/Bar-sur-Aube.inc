@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bar-sur-Aube","Bar-sur-Seine","Brienne-le-Château","Châteauvillain","Montier-en-Der","Vendeuvre-sur-Barse","Ville-sous-la-Ferté"); ?>

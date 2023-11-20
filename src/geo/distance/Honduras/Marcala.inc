@@ -1,0 +1,1 @@
+<?php $neighbours = array("Intibucá","Los Planes","Marcala","San Pedro de Tutule","Santiago Puringla","Yamaranguila"); ?>

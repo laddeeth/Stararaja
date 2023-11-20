@@ -1,0 +1,1 @@
+<option value="Fantan">Fantan</option><option value="Fioletovo">Fioletovo</option>

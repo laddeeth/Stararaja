@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abondance","Allinges","Armoy","Bellevaux","Châtel","Châtillon-sur-Cluses","Évian-les-Bains","Féternes","Larringes","Les Gets","Lugrin","Lyaud","Marin","Maxilly-sur-Léman","Mieussy","Morzine","Neuvecelle","Perrignier","Publier","Saint-Paul-en-Chablais","Samoëns","Taninges","Thonon-les-Bains"); ?>

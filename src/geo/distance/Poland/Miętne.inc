@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borowie","Cegłów","Celestynów","Garwolin","Góra Kalwaria","Górzno","Karczew","Kołbiel","Latowicz","Maciejowice","Miastków Kościelny","Miętne","Mińsk Mazowiecki","Osieck","Otwock","Parysów","Pilawa","Ryczywół","Siennica","Sobienie Jeziory","Sobolew","Stoczek Łukowski","Sulbiny Górne","Trąbki","Wilga","Wodynie","Wola Rębkowska","Żelechów","Łaskarzew"); ?>

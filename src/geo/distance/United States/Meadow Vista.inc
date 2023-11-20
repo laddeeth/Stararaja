@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auburn Lake Trails","Foresthill","Granite Bay","Grass Valley","Lake of the Pines","Loomis","Meadow Vista","Nevada City","North Auburn","Penn Valley","Rocklin"); ?>

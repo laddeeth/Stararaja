@@ -1,0 +1,1 @@
+<option value="Pakhtakoron">Pakhtakoron</option><option value="Palas">Palas</option><option value="Panj">Panj</option><option value="Panjakent">Panjakent</option><option value="Proletarsk">Proletarsk</option>

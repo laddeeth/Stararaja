@@ -1,0 +1,1 @@
+<?php $neighbours = array("Asciano","Bucine","Buonconvento","Castelnuovo Berardenga","Chianciano Terme","Civitella in Val di Chiana","Foiano della Chiana","Gaiole in Chianti","Lucignano","Marciano della Chiana","Montalcino","Monte San Savino","Montepulciano","Murlo","Pergine Valdarno","Pienza","Rapolano Terme","Siena","Sinalunga","Sovicille","Torrita di Siena","Trequanda"); ?>

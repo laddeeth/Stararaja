@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chicora","Ford City","Homeacre-Lyndora","Kittanning","Lenape Heights","Meadowood","Oak Hills","Saxonburg","Shanor-Northvue","Slippery Rock","West Kittanning"); ?>

@@ -1,0 +1,1 @@
+<option value="Ban Houakhoua">Ban Houakhoua</option><option value="Ban Houayxay">Ban Houayxay</option><option value="Ban Nahin">Ban Nahin</option><option value="Ban Phônsavan">Ban Phônsavan</option><option value="Bolikhan">Bolikhan</option>

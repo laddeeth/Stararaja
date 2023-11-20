@@ -1,0 +1,1 @@
+<?php $neighbours = array("Delavan","East Peoria","Glasford","Hanna City","Mackinaw","Manito","Marquette Heights","Minier","North Pekin","North Peoria","Pekin","Peoria","Peoria Heights","South Pekin","Tremont","West Peoria"); ?>

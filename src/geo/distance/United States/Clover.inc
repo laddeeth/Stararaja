@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bessemer City","Blacksburg","Clover","Cramerton","Fort Mill","Gastonia","India Hook","Kings Mountain","Lake Wylie","Mount Holly","Ranlo","South Gastonia","Stanley","Tega Cay","White Plains"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ciudad Manuel Doblado","San Diego de Alejandría","San Francisco del Rincón","San Julián","San Roque","Unión de San Antonio"); ?>

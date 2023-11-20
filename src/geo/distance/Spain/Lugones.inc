@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arriba","Avilés","Bimenes","Castandiello","Corvera de Asturias","El entrego","Gijón","Grado","Illas","Llanera","Luanco","Lugones","Mieres","Muros de Nalón","Noreña","Oviedo","Pola de Laviana","Pola de Lena","Pola de Siero","Sama","Sariego","Soto del Barco"); ?>

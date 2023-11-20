@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brisbane","Carindale","Cleveland","Logan City","Redland Bay","Rocklea","Slacks Creek","Springwood","Sunnybank","Tarragindi","Victoria Point","Wellington Point","Windaroo","Woodridge","Woolloongabba","Wynnum","Yatala"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Banize","Bourganeuf","Bugeat","Chamberet","Châteauneuf-la-Forêt","Eymoutiers","Linards","Neuvic-Entier","Peyrat-le-Château","Pierre-Buffière","Saint-Germain-les-Belles","Saint-Léonard-de-Noblat","Sauviat-sur-Vige","Treignac","Vicq-sur-Breuilh"); ?>

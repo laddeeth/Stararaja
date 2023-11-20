@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bukit Mertajam","Butterworth","George Town","Juru","Kepala Batas","Kulim","Nibong Tebal","Parit Buntar","Perai","Permatang Kuching","Tasek Glugor"); ?>

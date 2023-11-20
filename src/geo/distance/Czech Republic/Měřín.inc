@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bohdalov","Brtnice","Budišov","Dobronín","Jihlava","Kněžice","Křižanov","Luka nad Jihlavou","Měřín","Náměšť nad Oslavou","Nové Město na Moravě","Nové Veselí","Okříšky","Polná","Přibyslav","Stařeč","Štoky","Třebíč","Velká Bíteš","Velké Meziříčí","Velký Beranov","Vladislav","Žďár nad Sázavou","Žďár nad Sázavou Druhy"); ?>

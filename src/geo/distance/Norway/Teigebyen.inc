@@ -1,0 +1,1 @@
+<?php $neighbours = array("Åneby","Ask","Auli","Eidsvoll","Fjellfoten","Frogner","Gjerdrum","Grua","Hurdal","Jessheim","Kløfta","Leirsund","Lillestrøm","Maura","Neskollen","Råholt","Roa","Rotnes","Sørumsand","Teigebyen"); ?>

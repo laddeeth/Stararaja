@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bayou La Batre","Escatawpa","Gautier","Grand Bay","Hickory Hills","Hurley","Moss Point","Pascagoula","Theodore","Tillmans Corner","Wade"); ?>

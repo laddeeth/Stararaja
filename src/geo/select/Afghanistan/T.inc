@@ -1,0 +1,1 @@
+<option value="Tagāb">Tagāb</option><option value="Tagāw-Bāy">Tagāw-Bāy</option><option value="Taloqan">Taloqan</option><option value="Tarinkot">Tarinkot</option><option value="Tīr Pul">Tīr Pul</option><option value="Tukzār">Tukzār</option>

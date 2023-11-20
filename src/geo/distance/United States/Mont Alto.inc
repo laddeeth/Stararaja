@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biglerville","Carroll Valley","Cavetown","Chambersburg","Emmitsburg","Fountainhead-Orchard Hills","Gettysburg","Guilford Siding","Highfield-Cascade","Maugansville","Mercersburg","Mont Alto","Paramount-Long Meadow","Scotland","Shippensburg","Smithsburg","State Line","Thurmont","Wayne Heights"); ?>

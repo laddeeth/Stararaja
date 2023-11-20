@@ -1,0 +1,1 @@
+<?php $neighbours = array("Auzat-la-Combelle","Bournoncle-Saint-Pierre","Brassac-les-Mines","Brioude","Cerzat","Issoire","Langeac","Le Breuil-sur-Couze","Lempdes-sur-Allagnon","Massiac","Paulhaguet","Saint-Germain-Lembron","Sainte-Florine","Sauxillanges","Vergongheon","Vieille-Brioude"); ?>

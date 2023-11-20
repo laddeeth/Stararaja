@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amor","Batalha","Buarcos","Caranguejeira","Figueira da Foz","Lavos","Leiria","Louriçal","Maceira","Marinha Grande","Monte Redondo","Pataias","Pombal","Santa Catarina da Serra","Soure","Souto da Carpalhosa","Vieira de Leiria"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allendorf","Bad Arolsen","Bestwig","Brilon","Bromskirchen","Büren","Frankenberg","Hallenberg","Korbach","Marsberg","Medebach","Meschede","Olsberg","Rüthen","Schmallenberg","Vöhl","Warstein","Willingen","Winterberg","Wünnenberg"); ?>

@@ -1,0 +1,1 @@
+<option value="Tafo">Tafo</option><option value="Takoradi">Takoradi</option><option value="Tamale">Tamale</option><option value="Tarkwa">Tarkwa</option><option value="Techiman">Techiman</option><option value="Tema">Tema</option><option value="Teshi">Teshi</option>

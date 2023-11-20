@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altotonga","Atempan","Chignautla","Cuetzalán del Progreso","Hueytamalco","Jalacingo","Martínez de La Torre","San José Acateno","San Juan Xiutetelco","Teteles","Teziutlán","Tlapacoyan","Tlatlauquitepec","Yaonáhuac"); ?>

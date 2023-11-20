@@ -1,0 +1,1 @@
+<?php $neighbours = array("Appledore","Barnstaple","Bideford","Braunton","Combe Martin","Fremington","Great Torrington","Ilfracombe","Northam","South Molton"); ?>

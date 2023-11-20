@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaumont-du-Périgord","Belvès","Bias","Cancon","Casseneuil","Castillonnès","Cours-de-Pile","Creysse","Eymet","Fumel","Lalinde","Monbazillac","Monflanquin","Monsempron-Libos","Montayral","Mouleydier","Pujols","Saint-Pardoux-Isaac","Saint-Sylvestre-sur-Lot","Saint-Vite","Sainte-Livrade-sur-Lot","Villeneuve-sur-Lot","Villeréal"); ?>

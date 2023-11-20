@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bellenaves","Buxières-les-Mines","Chambon-sur-Voueize","Commentry","Désertines","Domérat","Doyet","Durdat-Larequille","Estivareilles","Évaux-les-Bains","Huriel","Lavault-Sainte-Anne","Montluçon","Montmarault","Néris-les-Bains","Pionsat","Prémilhat","Quinssaines","Saint-Éloy-les-Mines","Saint-Victor","Villebret","Youx"); ?>

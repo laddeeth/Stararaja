@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cañada Rosal","Fuente Palmera","Hornachuelos","La Campana","La Puebla de los Infantes","Lora del Río","Palma del Río","Peñaflor","Posadas"); ?>

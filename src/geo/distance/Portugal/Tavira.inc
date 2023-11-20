@@ -1,0 +1,1 @@
+<?php $neighbours = array("Castro Marim","Faro","Laranjeiro","Luz","Moncarapacho","Monte Gordo","Olhão","Santa Bárbara de Nexe","São Brás de Alportel","Tavira","Vila Real de Santo António"); ?>

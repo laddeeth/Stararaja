@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arenys de Lledó  - Arens de Lledó","Batea","Calaceite","Castell de Cabres","Herbés","Lledó","Maella","Rosell","Valderrobres"); ?>

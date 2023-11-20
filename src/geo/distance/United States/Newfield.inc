@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alloway","Blackwood","Buena","Chesilhurst","Clementon","Collings Lakes","Elmer","Estell Manor","Fairton","Folsom","Glassboro","Hammonton","Laurel Lake","Mays Landing","Millville","Mullica Hill","Newfield","Olivet","Pine Hill","Pitman","Rosenhayn","Seabrook Farms","South Vineland","Turnersville","Victory Lakes","Vineland","Wenonah","Woodstown"); ?>

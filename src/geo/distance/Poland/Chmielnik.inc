@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bieliny","Brzeziny","Busko-Zdrój","Chęciny","Chmielnik","Daleszyce","Domaszowice","Gnojno","Górno","Imielno","Kielce","Kije","Morawica","Oleśnica","Osiedle-Nowiny","Pierzchnica","Pińczów","Raków","Sobków","Solec-Zdrój","Staszów","Stopnica","Szydłów","Tuczępy","Wola Jachowa","Złota","Łagów"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blaye-les-Mines","Cagnac-les-Mines","Cahuzac-sur-Vère","Carmaux","Caylus","Colombiès","Cordes-sur-Ciel","La Fouillade","La Salvetat-Peyralès","Le Garric","Mirandol-Bourgnounac","Monestiés","Naucelle","Rieupeyroux","Saint-Benoît-de-Carmaux","Villefranche-de-Rouergue","Villeneuve"); ?>

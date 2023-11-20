@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baruchowo","Bedlno","Boniewo","Choceń","Chodecz","Chodów","Dąbrowice","Daszyna","Gostynin","Kowal","Krośniewice","Krzyżanów","Kutno","Lubień Kujawski","Nowe Ostrowy","Nowy Duninów","Oporów","Ostrowy","Pacyna","Przedecz","Strzelce","Witonia","Żychlin","Łąck","Łanięta"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beattystown","Bernardsville","Brass Castle","Budd Lake","Califon","East Bangor","Glen Gardner","Hackettstown","High Bridge","Hopatcong","Hopatcong Hills","Kenvil","Lake Mohawk","Long Valley","Mendham","Morris Plains","Mount Arlington","Netcong","Peapack","Rockaway","Stanhope","Succasunna","Victory Gardens","White Meadow Lake","Whitehouse Station"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alturas","Babson Park","Bartow","Bowling Green","Crooked Lake Park","Cypress Gardens","Eagle Lake","Fort Meade","Frostproof","Fuller Heights","Highland City","Jan-Phyl Village","Lake Wales","Lakeland Highlands","Medulla","Wahneta","Wauchula","Willow Oak","Zolfo Springs"); ?>

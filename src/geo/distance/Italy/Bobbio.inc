@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agazzano","Bettola","Bobbio","Borgo Priolo","Borgonovo Val Tidone","Coli","Farini","Ferriere","Gazzola","Godiasco","Gropparello","Morfasso","Nibbiano","Pianello Val Tidone","Rezzoaglio","Rivergaro","Santa Maria della Versa","Travo","Varzi","Vigolzone","Zavattarello","Ziano Piacentino"); ?>

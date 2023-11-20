@@ -1,0 +1,1 @@
+<?php $neighbours = array("Goleniów","Nowe Warpno","Osina","Police","Przybiernów","Stepnica","Szczecin","Wolin"); ?>

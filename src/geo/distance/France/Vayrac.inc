@@ -1,0 +1,1 @@
+<?php $neighbours = array("Argentat","Beaulieu-sur-Dordogne","Biars-sur-Cère","Bretenoux","Brive-la-Gaillarde","Cornil","Cosnac","Eyvigues-et-Eybènes","Gramat","Larche","Leyme","Malemort-sur-Corrèze","Meyssac","Saint-Céré","Saint-Pantaléon-de-Larche","Sainte-Fortunade","Souillac","Vayrac"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altlichtenwarth","Asparn an der Zaya","Bernhardsthal","Drasenhofen","Drösing","Dürnkrut","Ebenthal","Falkenstein","Großkrut","Hausbrunn","Hauskirchen","Herrnbaumgarten","Jedenspeigen","Mistelbach","Neudorf bei Staatz","Neusiedl an der Zaya","Ottenthal","Poysdorf","Rabensburg","Schrattenberg","Spannberg","Staatz","Wilfersdorf","Zistersdorf"); ?>

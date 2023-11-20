@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alaró","Algaida","Andratx","Binissalem","Búger","Bunyola","Calvià","Campanet","Consell","Costitx","Deià","Esporles","Inca","Lloseta","Magaluf","Marratxí","Palma","Puigpunyent","Santa Eugènia","Selva","Sencelles","Sóller","Valldemossa"); ?>

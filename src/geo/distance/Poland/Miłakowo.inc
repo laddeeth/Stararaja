@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dobre Miasto","Jonkowo","Lubomino","Małdyty","Miłakowo","Morąg","Orneta","Pasłęk","Pieniężno"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andorra la Vella","Arinsal","Canillo","Encamp","la Massana","les Escaldes","Ordino","Pas de la Casa","Sant Julià de Lòria"); ?>

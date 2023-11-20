@@ -1,0 +1,1 @@
+<?php $neighbours = array("Clevelândia","Coronel Vivida","Pato Branco","São Lourenço dOeste"); ?>

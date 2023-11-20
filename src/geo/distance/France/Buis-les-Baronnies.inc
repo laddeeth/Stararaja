@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aubignan","Beaumes-de-Venise","Bédoin","Buis-les-Baronnies","Caromb","Malaucène","Malemort-du-Comtat","Mazan","Mirabel-aux-Baronnies","Mormoiron","Nyons","Sablet","Sault","Tulette","Vacqueyras","Vaison-la-Romaine","Valréas","Villes-sur-Auzon","Vinsobres","Violès","Visan"); ?>

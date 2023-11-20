@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ainay-le-Château","Avord","Baugy","Bourges","Charenton-du-Cher","Châteauneuf-sur-Cher","Dun-sur-Auron","La Chapelle-Saint-Ursin","Levet","Lunery","Nérondes","Orval","Plaimpied-Givaudins","Saint-Amand-Montrond","Saint-Doulchard","Saint-Florent-sur-Cher","Saint-Germain-du-Puy","Sainte-Solange","Sancoins","Trouy"); ?>

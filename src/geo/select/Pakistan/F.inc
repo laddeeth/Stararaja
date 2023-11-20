@@ -1,0 +1,1 @@
+<option value="Faisalābād">Faisalābād</option><option value="Faqīrwāli">Faqīrwāli</option><option value="Faruka">Faruka</option><option value="Fazalpur">Fazalpur</option><option value="Fort Abbās">Fort Abbās</option>

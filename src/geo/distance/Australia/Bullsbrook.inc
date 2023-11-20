@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bassendean","Bellevue","Bullsbrook","Caversham","Clarkson","Currambine","Greenmount","Guildford","Heathridge","Hillarys","Iluka","Joondalup","Kinross","Lower Chittering","Middle Swan","Midland","Mindarie","Mullaloo","Parkerville","Pearce","Swan View","Wanneroo"); ?>

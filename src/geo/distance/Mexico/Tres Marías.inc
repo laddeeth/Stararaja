@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almaya","Almoloya del Río","Capulhuac","Cuernavaca","Huitzilac","Jalatlaco","Jiutepec","Joquicingo de León Guzmán","Magdalena Contreras","Malinalco","Milpa Alta","San Mateo Texcalyacac","San Nicolás Coatepec","Santa Catarina","Santiago Tilapa","Temixco","Tepoztlán","Tianguistenco","Tlalpan","Tres Marías","Xochimilco","Xochitepec","Yautepec"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abington","Braintree","Brockton","Cohasset","Duxbury","East Bridgewater","Green Harbor-Cedar Crest","Hanson","Hingham","Holbrook","Marshfield Hills","North Pembroke","North Plymouth","North Scituate","Norwell","Ocean Bluff-Brant Rock","Plympton","Randolph","Scituate","South Duxbury","Stoughton","West Bridgewater","Weymouth","Whitman","Winthrop"); ?>

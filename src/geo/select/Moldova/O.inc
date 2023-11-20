@@ -1,0 +1,1 @@
+<option value="Orhei">Orhei</option><option value="Otaci">Otaci</option>

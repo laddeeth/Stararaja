@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bustillo del Páramo","Chozas de Abajo","Laguna de Negrillos","Mansilla de las Mulas","Mayorga","Onzonilla","San Cristóbal de Entreviñas","Santa María del Páramo","Valderas","Valdevimbre","Valencia de Don Juan","Villamañán","Villaquejida","Villasabariego","Villaturiel"); ?>

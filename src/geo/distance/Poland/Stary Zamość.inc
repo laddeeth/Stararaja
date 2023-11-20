@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gorzków","Grabowiec","Izbica","Kraśniczyn","Krasnystaw","Krynice","Miączyn","Michałów","Nielisz","Radecznica","Rudnik","Siennica Różana","Sitno","Skierbieszów","Stary Zamość","Szczebrzeszyn","Wojsławice","Zamość","Żółkiewka","Zwierzyniec","Łabunie","Łopiennik Górny"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arroyohondo","Calamar","Campo de la Cruz","Candelaria","Cerro de San Antonio","El Piñón","Manatí","Pedraza","Pivijay","Ponedera","Sabanalarga","Salamina","Santa Lucía","Suan"); ?>

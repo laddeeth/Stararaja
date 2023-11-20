@@ -1,0 +1,1 @@
+<option value="Malkerns">Malkerns</option><option value="Manzini">Manzini</option><option value="Mbabane">Mbabane</option><option value="Mhlambanyatsi">Mhlambanyatsi</option><option value="Mhlume">Mhlume</option>

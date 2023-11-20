@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aydat","Bort-les-Orgues","Ceyrat","Champs-sur-Tarentaine-Marchal","Chanonat","Condat","Gelles","La Bourboule","Lanobre","Mont-Dore","Saint-Genès-Champanelle"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blumberg","Bonndorf im Schwarzwald","Büsingen","Dettighofen","Eggingen","Engen","Gailingen","Gottmadingen","Hilzingen","Jestetten","Lauchringen","Lottstetten","Mühlhausen-Ehingen","Öhningen","Rielasingen-Worblingen","Singen","Staufen","Stühlingen","Tengen","Ühlingen-Birkendorf","Volkertshausen","Waldshut-Tiengen","Weilheim","Wutöschingen"); ?>

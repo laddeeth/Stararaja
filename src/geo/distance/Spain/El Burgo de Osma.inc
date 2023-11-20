@@ -1,0 +1,1 @@
+<?php $neighbours = array("Berlanga de Duero","El Burgo de Osma","San Esteban de Gormaz","San Leonardo de Yagüe"); ?>

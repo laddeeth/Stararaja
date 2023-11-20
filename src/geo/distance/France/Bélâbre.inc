@@ -1,0 +1,1 @@
+<?php $neighbours = array("Argenton-sur-Creuse","Bélâbre","Chaillac","Lathus-Saint-Rémy","Le Blanc","Le Pêchereau","Martizay","Montmorillon","Pouligny-Saint-Pierre","Saint-Gaultier","Saulgé","Tournon-Saint-Martin"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acayucan","Corral Nuevo","Hueyapan de Ocampo","San Juan Evangelista","Soteapan"); ?>

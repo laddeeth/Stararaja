@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Gastein","Bad Hofgastein","Dorfgastein","Flattach","Goldegg","Großkirchheim","Heiligenblut","Hüttschlag","Kleinarl","Lend","Mörtschach","Mühlbach am Hochkönig","Muhr","Obervellach","Rauris","Sankt Johann im Pongau","Sankt Veit im Pongau","Schwarzach im Pongau","Stall","Taxenbach","Wagrain","Zederhaus"); ?>

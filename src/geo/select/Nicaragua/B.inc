@@ -1,0 +1,1 @@
+<option value="Belén">Belén</option><option value="Bluefields">Bluefields</option><option value="Boaco">Boaco</option><option value="Bocana de Paiwas">Bocana de Paiwas</option><option value="Bonanza">Bonanza</option><option value="Buenos Aires">Buenos Aires</option>

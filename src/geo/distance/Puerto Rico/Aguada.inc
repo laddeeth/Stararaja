@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aceitunas","Aguada","Aguadilla","Añasco","Caban","Cacao","Espino","Hormigueros","Isabela","Juncal","La Playa","Las Marias","Luyando","Mayagüez","Moca","Mora","Quebradillas","Rafael Hernandez","Rincón","San Antonio","San Sebastián","Stella"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Big Bend","Bohners Lake","Browns Lake","Cudahy","Delafield","Dousman","East Troy","Elm Grove","Franksville","Hales Corners","Hartland","Lannon","Mukwonago","Muskego","Nashotah","North Prairie","Oak Creek","Pewaukee","Potter Lake","South Milwaukee","Tichigan","Union Grove","Waukesha","Wauwatosa","West Allis","West Milwaukee","Wind Lake"); ?>

@@ -1,0 +1,1 @@
+<option value="Sembabule">Sembabule</option><option value="Sironko">Sironko</option><option value="Soroti">Soroti</option>

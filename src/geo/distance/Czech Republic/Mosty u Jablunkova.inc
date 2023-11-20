@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bukovec","Český Těšín","Chotěbuz","Dobrá","Dobratice","Frýdlant nad Ostravicí","Jablunkov","Janovice","Komorní Lhotka","Milíkov","Morávka","Mosty u Jablunkova","Návsí u Jablunkova","Nýdek","Ostravice","Písek","Pražmo","Raškovice","Ropice","Třinec","Vendryně"); ?>

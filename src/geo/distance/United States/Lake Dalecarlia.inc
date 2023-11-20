@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beecher","Cedar Lake","Chicago Heights","Crete","Crown Point","DeMotte","Ford Heights","Gary","Grant Park","Griffith","Lake Dalecarlia","Lakes of the Four Seasons","Lynwood","Merrillville","Momence","Munster","New Chicago","Park Forest","Roselawn","Sauk Village","Schererville","Shorewood Forest","South Chicago Heights","Steger"); ?>

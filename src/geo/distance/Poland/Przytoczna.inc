@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bledzew","Deszczno","Kwilcz","Lubniewice","Miedzichowo","Międzychód","Międzyrzecz","Przytoczna","Pszczew","Santok","Sieraków","Skwierzyna","Trzciel","Zwierzyń"); ?>

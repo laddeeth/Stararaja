@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bray-sur-Seine","Chenoise","Esternay","Gouaix","La Ferté-Gaucher","Longueville","Maizières-la-Grande-Paroisse","Marigny-le-Châtel","Méry-sur-Seine","Nogent-sur-Seine","Provins","Romilly-sur-Seine","Saint-Just-Sauvage","Sainte-Colombe","Sézanne","Sourdun","Villenauxe-la-Grande","Villiers-Saint-Georges"); ?>

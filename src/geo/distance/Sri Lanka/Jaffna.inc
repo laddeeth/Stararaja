@@ -1,0 +1,1 @@
+<?php $neighbours = array("Jaffna","Point Pedro","Valvedditturai"); ?>

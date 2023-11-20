@@ -1,0 +1,1 @@
+<?php $neighbours = array("Azay-le-Ferron","Beaulieu-lès-Loches","Buzançais","Chambourg-sur-Indre","Châtillon-sur-Indre","Clion","Écueillé","Genillé","Le Grand-Pressigny","Ligueil","Loches","Luçay-le-Mâle","Martizay","Mézières-en-Brenne","Perrusson","Preuilly-sur-Claise","Vendœuvres"); ?>

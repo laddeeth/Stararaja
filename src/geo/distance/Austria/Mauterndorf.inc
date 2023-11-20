@@ -1,0 +1,1 @@
+<?php $neighbours = array("Falkendorf","Forstau","Krakaudorf","Krakauhintermühlen","Krakauschatten","Mariapfarr","Mauterndorf","Muhr","Ramingstein","Sankt Andrä im Lungau","Sankt Margarethen im Lungau","Sankt Michael im Lungau","Sankt Ruprecht ob Murau","Schladming","Stadl an der Mur","Tamsweg","Thomatal","Tweng","Untertauern","Zederhaus"); ?>

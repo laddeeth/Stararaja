@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aleksandrów Łódzki","Bielawy","Dalików","Daszyna","Góra Świętej Małgorzaty","Grabów","Głowno","Konstantynów Łódzki","Krzyżanów","Lutomiersk","Ozorków","Parzęczew","Piątek","Poddębice","Stryków","Świnice Warckie","Wartkowice","Witonia","Wodzierady","Zgierz","Łęczyca","Łódź"); ?>

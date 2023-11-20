@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gozdnica","Iłowa","Leśna","Lubań","Nowogrodziec","Pieńsk","Pisarzowice","Przewóz","Siekierczyn","Sulików","Węgliniec","Wymiarki","Zawidów","Zgorzelec"); ?>

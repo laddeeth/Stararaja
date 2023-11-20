@@ -1,0 +1,1 @@
+<?php $neighbours = array("Actlzayanca de Hidalgo","Cuapiaxtla","Guadalupe Victoria","Libres","Nopalucan de la Granja","Oriental","Rafael Lara Grajales","San José Chiapa","San Nicolás de Buenos Aires","San Salvador el Seco","Santa María Ixtiyucan","Soltepec","Tequixquitla","Zacatepec"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bella Vista","Bentonville","Bethel Heights","Cave Springs","Centerton","Elm Springs","Farmington","Goshen","Greenland","Johnson","Little Flock","Lowell","Prairie Creek","Rogers","Springdale","Tontitown"); ?>

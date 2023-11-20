@@ -1,0 +1,1 @@
+<?php $neighbours = array("Coal Run Village","Paintsville","Prestonsburg","Salyersville","Van Lear"); ?>

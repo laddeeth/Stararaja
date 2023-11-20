@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baiona","Bueu","Cangas","Gondomar","Marín","Moaña","Nigrán","Ponteareas","Porriño","Redondela","Rosal","Sanxenxo","Tomiño","Tui","Vigo"); ?>

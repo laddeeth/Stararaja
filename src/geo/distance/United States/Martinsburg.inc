@@ -1,0 +1,1 @@
+<?php $neighbours = array("Berkeley Springs","Boonsboro","Charles Town","Halfway","Keedysville","Martinsburg","Ranson","Saint James","Shannondale","Shepherdstown","Williamsport","Wilson-Conococheague"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baza","Benamaurel","Castilléjar","Castril","Cortes de Baza","Cuevas del Campo","Galera","Huéscar","Orce","Pozo Alcón","Zújar"); ?>

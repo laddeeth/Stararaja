@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brigham City","Farr West","Honeyville","Hyrum","Marriott-Slaterville","Nibley","North Ogden","River Heights","South Willard","Tremonton","Wolf Creek"); ?>

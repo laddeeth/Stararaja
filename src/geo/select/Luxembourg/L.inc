@@ -1,0 +1,1 @@
+<option value="Lamadelaine">Lamadelaine</option><option value="Larochette">Larochette</option><option value="Leudelange">Leudelange</option><option value="Lintgen">Lintgen</option><option value="Luxembourg">Luxembourg</option>

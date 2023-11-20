@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcalá de Guadaira","Coria del Río","Dos Hermanas","El Arahal","El Coronil","El Viso del Alcor","Gelves","La Puebla del Río","Las Cabezas de San Juan","Los Molares","Los Palacios y Villafranca","Mairena del Alcor","Mairena del Aljarafe","Montellano","Palomares del Río","Paradas","San Juan de Aznalfarache","Sevilla","Utrera"); ?>

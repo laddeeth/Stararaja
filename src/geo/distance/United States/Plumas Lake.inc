@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beale Air Force Base","Linda","Olivehurst","Plumas Lake","South Yuba City","Sutter","Tierra Buena","Wheatland","Yuba City"); ?>

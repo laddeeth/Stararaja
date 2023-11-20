@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baracoa","El Progreso","Guaimitas","La Huesa","Mezapa","Monterrey","Ocote Paulino","Puerto Alto","San José del Boquerón","Tornabé","Toyós","Victoria"); ?>

@@ -1,0 +1,1 @@
+<option value="Jacaltenango">Jacaltenango</option><option value="Jalapa">Jalapa</option><option value="Jalpatagua">Jalpatagua</option><option value="Jerez">Jerez</option><option value="Jocotán">Jocotán</option><option value="Jocotenango">Jocotenango</option><option value="Joyabaj">Joyabaj</option><option value="Jutiapa">Jutiapa</option>

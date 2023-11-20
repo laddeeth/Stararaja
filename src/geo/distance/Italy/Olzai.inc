@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abbasanta","Ardauli","Aritzo","Atzara","Bolotana","Bono","Borore","Bortigali","Burgos","Busachi","Desulo","Fonni","Gavoi","Ghilarza","Illorai","Mamoiada","Meana Sardo","Norbello","Nuoro","Oliena","Ollolai","Olzai","Orani","Orgosolo","Orotelli","Ortueri","Ottana","Ovodda","Sarule","Sedilo","Silanus","Sorgono","Tonara"); ?>

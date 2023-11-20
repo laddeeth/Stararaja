@@ -1,0 +1,1 @@
+<?php $neighbours = array("Armação","Biguaçu","Carianos","Carvoeira","Corrego Grande","Costeira do Pirajubae","Florianópolis","Freguesia do Ribeirao da Ilha","Itacorubi","Lagoa","Morro da Cruz","Palhoça","Pantanal","Pantano do Sul","Ribeirão da Ilha","Rio Tavares","Saco dos Limoes","Santa Monica","Tapera"); ?>

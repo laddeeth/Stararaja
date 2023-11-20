@@ -1,0 +1,1 @@
+<?php $neighbours = array("Eidsvoll","Fjellfoten","Gjerdrum","Hurdal","Jessheim","Kløfta","Maura","Neskollen","Råholt","Sand","Skarnes","Teigebyen"); ?>

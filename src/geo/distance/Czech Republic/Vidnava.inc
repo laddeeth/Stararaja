@@ -1,0 +1,1 @@
+<?php $neighbours = array("Česká Ves","Javorník","Jeseník","Jindřichov","Mikulovice","Písečná","Vápenná","Vidnava","Zlaté Hory","Žulová"); ?>

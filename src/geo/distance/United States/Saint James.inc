@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boonsboro","Braddock Heights","Cavetown","Fountainhead-Orchard Hills","Halfway","Highfield-Cascade","Keedysville","Martinsburg","Maugansville","Myersville","Paramount-Long Meadow","Saint James","Shepherdstown","Smithsburg","State Line","Wayne Heights","Williamsport","Wilson-Conococheague"); ?>

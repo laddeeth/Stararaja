@@ -1,0 +1,1 @@
+<?php $neighbours = array("Columbia City","North Manchester","North Webster","Pierceton","South Whitley","Tri-Lakes","Winona Lake"); ?>

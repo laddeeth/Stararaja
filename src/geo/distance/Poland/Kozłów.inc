@@ -1,0 +1,1 @@
+<?php $neighbours = array("Działoszyce","Jędrzejów","Kozłów","Miechów","Miechów Charsznica","Nagłowice","Oksa","Pilica","Sędziszów","Szczekociny","Słomniki","Wodzisław","Wolbrom"); ?>

@@ -1,0 +1,1 @@
+<option value="Adriskan">Adriskan</option><option value="Aībak">Aībak</option><option value="Anār Darah">Anār Darah</option><option value="Andkhōy">Andkhōy</option><option value="Ārt Khwājah">Ārt Khwājah</option><option value="Asadābād">Asadābād</option><option value="Ashkāsham">Ashkāsham</option><option value="Āsmār">Āsmār</option>

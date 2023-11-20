@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boalsburg","Centre Hall","Houserville","Mifflintown","Milroy","Pine Grove Mills","Pleasant Gap","State College","Yeagertown"); ?>

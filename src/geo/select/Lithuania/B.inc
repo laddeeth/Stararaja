@@ -1,0 +1,1 @@
+<option value="Baltoji Vokė">Baltoji Vokė</option><option value="Birštonas">Birštonas</option><option value="Biržai">Biržai</option>

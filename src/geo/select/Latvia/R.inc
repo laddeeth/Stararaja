@@ -1,0 +1,1 @@
+<option value="Rēzekne">Rēzekne</option><option value="Riga">Riga</option><option value="Roja">Roja</option><option value="Ropaži">Ropaži</option><option value="Rugāji">Rugāji</option><option value="Rūjiena">Rūjiena</option>

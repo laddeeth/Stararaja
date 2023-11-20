@@ -1,0 +1,1 @@
+<option value="Delvinë">Delvinë</option><option value="Durrës">Durrës</option>

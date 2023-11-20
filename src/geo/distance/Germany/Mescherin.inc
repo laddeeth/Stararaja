@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bergholz","Boock","Brüssow","Casekow","Gartz","Glasow","Gramzow","Krackow","Löcknitz","Mescherin","Meyenburg","Nadrensee","Penkun","Plöwen","Ramin","Schwedt (Oder)","Tantow","Zichow"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bobowo","Czarna Woda","Czersk","Grabowo Kościerskie","Kaliska","Karsin","Kościerzyna","Liniewo","Lubichowo","Skarszewy","Skórcz","Śliwice","Stara Kiszewa","Starogard Gdański","Szlachta","Zblewo"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cannon Falls","Dodge Center","Dundas","Faribault","Kenyon","Mantorville","Owatonna","Pine Island","Wanamingo","Zumbrota"); ?>

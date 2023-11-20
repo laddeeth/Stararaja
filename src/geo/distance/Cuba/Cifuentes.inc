@@ -1,0 +1,1 @@
+<?php $neighbours = array("Calabazar de Sagua","Cifuentes","Encrucijada","Esperanza","Quemado de Güines","Sagua la Grande","Santa Clara","Santo Domingo"); ?>

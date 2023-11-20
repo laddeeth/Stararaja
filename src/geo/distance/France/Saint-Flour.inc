@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allanche","Chaudes-Aigues","Le Malzieu-Ville","Massiac","Murat","Neussargues-Moissac","Neuvéglise","Pierrefort","Saint-Flour"); ?>

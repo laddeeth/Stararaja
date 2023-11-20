@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alton","Benld","Bethalto","Bunker Hill","East Alton","Edwardsville","Gillespie","Glasgow Village","Glen Carbon","Godfrey","Holiday Shores","Maryville","Mitchell","Pontoon Beach","Rosewood Heights","Roxana","Saint Jacob","South Roxana","Spanish Lake","Staunton","Upper Alton","Wood River","Worden"); ?>

@@ -1,0 +1,1 @@
+<option value="Mafeteng">Mafeteng</option><option value="Maputsoe">Maputsoe</option><option value="Maseru">Maseru</option><option value="Mohale’s Hoek">Mohale’s Hoek</option><option value="Mokhotlong">Mokhotlong</option>

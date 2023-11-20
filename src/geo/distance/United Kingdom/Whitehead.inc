@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ballyclare","Ballygowan","Ballywalter","Bangor","Belfast","Carrickfergus","Carryduff","Castlereagh","Comber","Doagh","Donaghadee","Greenisland","Greyabbey","Holywood","Larne","Millisle","Newtownabbey","Newtownards","Templepatrick","Whitehead"); ?>

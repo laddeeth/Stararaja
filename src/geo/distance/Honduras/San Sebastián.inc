@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ajuterique","Cane","Comayagua","Flores","La Paz","Lamaní","Lejamaní","Lepaterique","San Pedro de Tutule","San Sebastián","Tepanguare","Valle de Ángeles","Villa de San Antonio","Yarumela","Zambrano"); ?>

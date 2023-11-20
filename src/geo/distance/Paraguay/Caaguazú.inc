@@ -1,0 +1,1 @@
+<?php $neighbours = array("Caaguazú","Colonia Mauricio José Troche","Doctor Juan Manuel Frutos","Repatriación"); ?>

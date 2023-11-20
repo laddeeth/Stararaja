@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ames Lake","Carnation","Cathcart","Clearview","Cottage Lake","Duvall","Fobes Hill","Gold Bar","Lake Marcel-Stillwater","Lake Stevens","Lochsloy","Maltby","Mill Creek","North Creek","Silver Firs","Snohomish","Sultan","Union Hill-Novelty Hill","West Lake Stevens","Woodinville","Woods Creek"); ?>

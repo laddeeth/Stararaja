@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cova Figueira","Porto dos Mosteiros","São Filipe","Vila Nova Sintra"); ?>

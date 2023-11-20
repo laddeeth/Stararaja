@@ -1,0 +1,1 @@
+<option value="Radviliškis">Radviliškis</option><option value="Ramygala">Ramygala</option><option value="Raseiniai">Raseiniai</option><option value="Rietavas">Rietavas</option><option value="Rokiškis">Rokiškis</option><option value="Rūdiškės">Rūdiškės</option><option value="Rusnė">Rusnė</option>

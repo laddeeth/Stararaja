@@ -1,0 +1,1 @@
+<?php $neighbours = array("Attigny","Bazancourt","Boult-sur-Suippe","Bourgogne","Château-Porcien","Courcy","Guignicourt","Loivre","Montcornet","Pontfaverger-Moronvilliers","Rethel","Rozoy-sur-Serre","Saint-Erme-Outre-et-Ramecourt","Sault-lès-Rethel","Sissonne","Warmeriville","Witry-lès-Reims"); ?>

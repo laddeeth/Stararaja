@@ -1,0 +1,1 @@
+<?php $neighbours = array("Argentan","Briouze","Courteilles","Écouché","Falaise","Gacé","Mortrée","Pont-Écrepin","Potigny","Radon","Saint-Pierre-sur-Dives","Sées","Trun","Vimoutiers"); ?>

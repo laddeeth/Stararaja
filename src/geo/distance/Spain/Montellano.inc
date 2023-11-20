@@ -1,0 +1,1 @@
+<?php $neighbours = array("Algodonales","Bornos","Coripe","El Arahal","El Bosque","El Coronil","El Gastor","Espera","Los Molares","Montellano","Morón de la Frontera","Olvera","Prado del Rey","Puerto Serrano","Utrera","Villamartín","Zahara"); ?>

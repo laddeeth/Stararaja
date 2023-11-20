@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amina","Cana Chapetón","Esperanza","Estero Hondo","Guananico","Hatillo Palma","Jaibón","Jicomé","La Caya","Laguna Salada","Los Hidalgos","Maizal","Mao","Monción","Sabaneta","Villa Elisa","Villa Isabela","Villa Vásquez"); ?>

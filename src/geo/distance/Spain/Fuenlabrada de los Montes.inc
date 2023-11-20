@@ -1,0 +1,1 @@
+<?php $neighbours = array("Castilblanco","Fuenlabrada de los Montes","Herrera del Duque","Puebla de Don Rodrigo","Siruela","Talarrubias","Tamurejo","Valdecaballeros"); ?>

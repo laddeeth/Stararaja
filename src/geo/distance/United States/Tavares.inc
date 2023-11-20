@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apopka","Astatula","Clermont","Eustis","Fruitland Park","Groveland","Howie In The Hills","Lady Lake","Mascotte","Minneola","Montverde","Mount Dora","Mount Plymouth","Oakland","Paradise Heights","Silver Lake","South Apopka","Tangerine","Tavares","The Villages","Umatilla","Winter Garden","Yalaha","Zellwood"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amagá","Betania","Ciudad Bolívar","Fredonia","Hispania","Jardín","Jericó","La Pintada","Los Andes","Pueblorrico","Salgar","Santa Bárbara","Támesis","Tarso","Titiribí","Venecia"); ?>

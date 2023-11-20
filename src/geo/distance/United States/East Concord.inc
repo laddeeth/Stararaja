@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allenstown Elementary School","Barnstead","Boscawen","Bow Bog","Candia","Canterbury","Chichester","Contoocook","East Concord","Epsom","Gilmanton","Goffstown","Henniker","Hooksett","Pinardville","Sanbornton","South Hooksett","Suncook","Tilton-Northfield","Weare"); ?>

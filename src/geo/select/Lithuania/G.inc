@@ -1,0 +1,1 @@
+<option value="Gargždai">Gargždai</option><option value="Garliava">Garliava</option><option value="Gelgaudiškis">Gelgaudiškis</option><option value="Grigiškės">Grigiškės</option>

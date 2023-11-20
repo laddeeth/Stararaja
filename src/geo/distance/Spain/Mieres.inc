@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bárzana","Bimenes","Castandiello","El entrego","Grado","La Plaza","Llanera","Lugones","Mieres","Noreña","Oviedo","Pola de Laviana","Pola de Lena","Pola de Siero","Río Aller","Sama","Sariego"); ?>

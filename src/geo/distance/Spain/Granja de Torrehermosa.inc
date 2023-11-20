@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ahillones","Azuaga","Berlanga","Campillo de Llerena","Fuente Obejuna","Granja de Torrehermosa","Maguilla","Peñarroya-Pueblonuevo"); ?>

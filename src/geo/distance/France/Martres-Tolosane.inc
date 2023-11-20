@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aspet","Aurignac","Bérat","Carbonne","Cazères","Labarthe-Rivière","Le Fousseret","Lézat-sur-Lèze","Longages","Marquefave","Martres-Tolosane","Montesquieu-Volvestre","Montjoie-en-Couserans","Noé","Rieumes","Rieux-Volvestre","Saint-Gaudens","Saint-Girons","Saint-Lizier","Salies-du-Salat","Villeneuve-de-Rivière"); ?>

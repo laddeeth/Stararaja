@@ -1,0 +1,1 @@
+<option value="Sandur">Sandur</option><option value="Sørvágur">Sørvágur</option>

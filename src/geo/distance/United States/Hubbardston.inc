@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ashburnham","Ashby","Athol","Baldwinville","Barre","Boylston","East Brookfield","Fitchburg","Hubbardston","Leicester","Leominster","North Brookfield","Oakham","Phillipston","Royalston","Rutland","South Ashburnham","South Lancaster","Templeton","West Boylston","West Brookfield","Winchendon","Worcester"); ?>

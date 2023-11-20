@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aljaraque","Alosno","Beas","Bonares","Cartaya","Gibraleón","Huelva","Lepe","Lucena del Puerto","Moguer","Niebla","Palos de la Frontera","Punta Umbría","San Bartolomé de la Torre","San Juan del Puerto","Trigueros","Valverde del Camino"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andrest","Bazet","Marciac","Maubourguet","Miélan","Mirande","Orleix","Oursbelille","Plaisance","Rabastens-de-Bigorre","Riscle","Trie-sur-Baïse","Vic-en-Bigorre","Vic-Fezensac"); ?>

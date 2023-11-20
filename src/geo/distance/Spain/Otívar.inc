@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albuñuelas","Almuñécar","Arenas del Rey","Dílar","Dúrcal","El Varadero","Frigiliana","Gualchos","Ítrabo","Jayena","Lanjarón","Molvízar","Motril","Nerja","Órjiva","Otívar","Padul","Salobreña","Sayalonga","Torrox","Vélez de Benaudalla"); ?>

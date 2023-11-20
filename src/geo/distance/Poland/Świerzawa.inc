@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bolków","Chojnów","Cieplice Śląskie Zdrój","Janowice Wielkie","Jawor","Jelenia Góra","Jeżów Sudecki","Kamienna Góra","Karpacz","Kowary","Legnica","Legnickie Pole","Lwówek Śląski","Marciszów","Miłkowice","Mysłakowice","Paszowice","Piechowice","Podgórzyn","Stara Kamienica","Stare Bogaczowice","Świerzawa","Wleń","Wojcieszów","Zagrodno","Złotoryja"); ?>

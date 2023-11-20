@@ -1,0 +1,1 @@
+<?php $neighbours = array("Będków","Białaczów","Fałków","Gorzkowice","Grabica","Mniszków","Opoczno","Paradyż","Piotrków Trybunalski","Przedbórz","Ręczno","Rozprza","Sulejów","Sławno","Tomaszów Mazowiecki","Ujazd","Wola Krzysztoporska","Wolbórz","Żarnów","Łęki Szlacheckie"); ?>

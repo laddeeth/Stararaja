@@ -1,0 +1,1 @@
+<option value="Gan Yavne">Gan Yavne</option><option value="Ganne Tiqwa">Ganne Tiqwa</option><option value="Gedera">Gedera</option><option value="Giv‘at Shemu’el">Giv‘at Shemu’el</option><option value="Giv‘atayim">Giv‘atayim</option>

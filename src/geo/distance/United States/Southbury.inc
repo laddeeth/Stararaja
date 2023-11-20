@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bethlehem Village","Cheshire","Cheshire Village","Hamden","Heritage Village","Naugatuck","New Milford","New Preston","Putnam Lake","Shelton","Southbury","Terryville","Trumbull","Waterbury","Wolcott","Woodbury Center"); ?>

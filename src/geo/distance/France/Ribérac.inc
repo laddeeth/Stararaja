@@ -1,0 +1,1 @@
+<?php $neighbours = array("Annesse-et-Beaulieu","Brantôme","Chalais","Chancelade","Coursac","La Roche-Chalais","Mareuil","Mensignac","Montmoreau-Saint-Cybard","Montrem","Mussidan","Ribérac","Saint-Aigulin","Saint-Astier","Saint-Aulaye","Saint-Médard-de-Mussidan","Sourzac","Tocane-Saint-Apre"); ?>

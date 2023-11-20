@@ -1,0 +1,1 @@
+<?php $neighbours = array("Białaczów","Bliżyn","Borkowice","Chlewiska","Drzewica","Fałków","Gielniów","Gowarczów","Końskie","Mniów","Mniszków","Odrzywół","Opoczno","Paradyż","Przysucha","Radoszyce","Rogów","Ruda Maleniecka","Rusinów","Smyków","Stąporków","Szydłowiec","Sławno","Wieniawa","Żarnów"); ?>

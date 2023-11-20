@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bollewick","Bütow","Fincken","Fürstenberg","Godendorf","Gotthun","Groß Kelle","Großwoltersdorf","Heiligengrabe","Kieve","Kratzeburg","Lärz","Leizen","Ludorf","Massow","Melz","Neustrelitz","Priborn","Priepert","Rechlin","Rheinsberg","Röbel","Schwarz","Sietow","Userin","Vipperow","Wesenberg","Wittstock","Wredenhagen","Zepkow"); ?>

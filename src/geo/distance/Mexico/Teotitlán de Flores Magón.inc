@@ -1,0 +1,1 @@
+<?php $neighbours = array("Caipan","Coxcatlán","Huautla de Jiménez","San Gabriel Casa Blanca","San José Miahuatlán","San Sebastián Zinacatepec","Teotitlán de Flores Magón"); ?>

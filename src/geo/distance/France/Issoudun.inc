@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ardentes","Chârost","Châteauneuf-sur-Cher","Châteauroux","Déols","Foëcy","Graçay","Issoudun","La Chapelle-Saint-Ursin","Le Poinçonnet","Levroux","Lignières","Lunery","Marmagne","Massay","Mehun-sur-Yèvre","Méreau","Montierchaume","Neuvy-Pailloux","Reuilly","Saint-Florent-sur-Cher","Sainte-Lizaigne","Trouy","Vatan"); ?>

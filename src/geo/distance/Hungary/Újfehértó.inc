@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apagy","Balkány","Bököny","Debrecen","Hajdúböszörmény","Hajdúdorog","Hajdúhadház","Hajdúnánás","Hajdúsámson","Kállósemjén","Kálmánháza","Kisléta","Kótaj","Levelek","Máriapócs","Nagycserkesz","Nagykálló","Napkor","Nyíradony","Nyírbogát","Nyíregyháza","Nyírlugos","Nyírmártonfalva","Nyírmihálydi","Nyírpazony","Nyírtelek","Szakoly","Téglás","Újfehértó"); ?>

@@ -1,0 +1,1 @@
+<option value="Madaoua">Madaoua</option><option value="Madarounfa">Madarounfa</option><option value="Magaria">Magaria</option><option value="Maïné-Soroa">Maïné-Soroa</option><option value="Maradi">Maradi</option><option value="Matamey">Matamey</option><option value="Mayahi">Mayahi</option><option value="Mirya">Mirya</option>

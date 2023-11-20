@@ -1,0 +1,1 @@
+<?php $neighbours = array("Buenos Aires","Concepción de la Barranca","El Ocotón","Florida","La Entrada","La Playona","La Zumbadora","San Jerónimo","San Joaquín","San Juan de Planes","San Nicolás"); ?>

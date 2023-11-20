@@ -1,0 +1,1 @@
+<option value="Klaksvík">Klaksvík</option><option value="Kollafjørður">Kollafjørður</option>

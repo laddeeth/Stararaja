@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ario de Rosales","Capácuaro","Lombardía","Nuevo San Juan Parangaricutiro","San Francisco Pichataro","Taretán","Tingambato","Uruapan del Progreso","Villa Escalante"); ?>

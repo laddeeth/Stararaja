@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amatlán de los Reyes","Boca del Monte","Córdoba","Cuichapa","Cuitláhuac","Omealca","Paraje Nuevo","Paso del Macho","Yanga"); ?>

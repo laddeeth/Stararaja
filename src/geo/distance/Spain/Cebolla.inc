@@ -1,0 +1,1 @@
+<?php $neighbours = array("Burujón","Castillo de Bayuela","Cazalegas","Cebolla","El Carpio de Tajo","El Casar de Escalona","El Real de San Vicente","Escalona","Escalonilla","Gerindote","La Puebla de Montalbán","La Pueblanueva","Los Navalmorales","Malpica","Mejorada","Novés","Quismondo","Santa Olalla","Segurilla","Talavera de la Reina","Torrijos"); ?>

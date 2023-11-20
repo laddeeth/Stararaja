@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bayshore","Belville","Boiling Spring Lakes","Bolivia","Carolina Beach","Kings Grant","Kure Beach","Masonboro","Murraysville","Navassa","Oak Island","Sea Breeze","Seagate","Wrightsboro","Wrightsville Beach"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barcin","Dąbrowa","Damasławek","Gąsawa","Gniezno","Janikowo","Janowiec Wielkopolski","Kłecko","Mieleszyn","Mieścisko","Mogilno","Pakość","Szubin","Trzemeszno","Wapno","Żnin","Łabiszyn"); ?>

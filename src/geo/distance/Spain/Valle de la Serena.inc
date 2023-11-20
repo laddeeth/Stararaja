@@ -1,0 +1,1 @@
+<?php $neighbours = array("Campanario","Campillo de Llerena","Castuera","Don Benito","El Casar","Esparragosa de la Serena","Higuera de la Serena","Hornachos","La Coronada","La Haba","Oliva de Mérida","Quintana de la Serena","Valle de la Serena","Villanueva de la Serena","Zalamea de la Serena"); ?>

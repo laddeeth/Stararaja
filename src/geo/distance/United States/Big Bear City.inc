@@ -1,0 +1,1 @@
+<?php $neighbours = array("Big Bear City","Big Bear Lake","Lucerne Valley","Running Springs"); ?>

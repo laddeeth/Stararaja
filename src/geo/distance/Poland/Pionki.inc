@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ciepielów","Dęblin","Garbatka-Letnisko","Gózd","Jastrzębia","Jedlińsk","Jedlnia-Letnisko","Kazanów","Kozienice","Maciejowice","Pionki","Podebłocie","Policzna","Przyłęk","Radom","Ryczywół","Skaryszew","Stężyca","Tczów","Trablice","Zwoleń"); ?>

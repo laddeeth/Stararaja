@@ -1,0 +1,1 @@
+<option value="Ognevka">Ognevka</option><option value="Oktyabr’sk">Oktyabr’sk</option><option value="Ömirzaq">Ömirzaq</option><option value="Oral">Oral</option><option value="Ordzhonikidze">Ordzhonikidze</option><option value="Osakarovka">Osakarovka</option><option value="Oytal">Oytal</option>

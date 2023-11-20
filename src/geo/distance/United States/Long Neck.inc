@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bethany Beach","Georgetown","Lewes","Long Neck","Millsboro","Milton","Ocean Pines","Ocean View","Rehoboth Beach","Selbyville"); ?>

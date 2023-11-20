@@ -1,0 +1,1 @@
+<?php $neighbours = array("Armissan","Bizanet","Canet","Coursan","Ferrals-les-Corbières","Gruissan","Le Barcarès","Lespignan","Leucate","Marcorignan","Moussan","Narbonne","Névian","Ornaisons","Peyriac-de-Mer","Port-la-Nouvelle","Portel-des-Corbières","Saint-Laurent-de-la-Salanque","Saint-Marcel-sur-Aude","Salses-le-Château","Sigean","Vinassan"); ?>

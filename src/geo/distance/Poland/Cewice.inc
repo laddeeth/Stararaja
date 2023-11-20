@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cewice","Chmielno","Czarna Dąbrówka","Garcz","Lębork","Linia","Luzino","Nowa Wieś Lęborska","Parchowo","Potęgowo","Sierakowice","Sulęczyno","Łęczyce"); ?>

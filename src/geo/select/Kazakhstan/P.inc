@@ -1,0 +1,1 @@
+<option value="Pavlodar">Pavlodar</option><option value="Peremetnoe">Peremetnoe</option><option value="Pervomayskiy">Pervomayskiy</option><option value="Pervorosiyskiy">Pervorosiyskiy</option><option value="Petropavlovsk">Petropavlovsk</option><option value="Priisk Boko">Priisk Boko</option><option value="Priozersk">Priozersk</option>

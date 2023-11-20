@@ -1,0 +1,1 @@
+<?php $neighbours = array("Augusta","Avola","Canicattini Bagni","Ferla","Floridia","Melilli","Noto","Priolo Gargallo","Siracusa","Solarino","Sortino"); ?>

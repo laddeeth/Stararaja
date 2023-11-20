@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alaejos","Arroyo","Boecillo","Castronuño","Cistérniga","La Pedraja de Portillo","La Seca","Laguna de Duero","Matapozuelos","Medina del Campo","Mojados","Morales de Toro","Nava del Rey","Rueda","Serrada","Simancas","Tordesillas","Valdestillas","Valladolid","Viana de Cega","Villanubla","Villanueva de Duero","Zaratán"); ?>

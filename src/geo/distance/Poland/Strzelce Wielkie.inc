@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bełchatów","Borowno","Działoszyn","Gomunice","Kamieńsk","Kamyk","Kleszczów","Kluki","Kłomnice","Lgota Wielka","Lipie","Miedzno","Mykanów","Osjaków","Ostrowy nad Okszą","Pajęczno","Popów","Pławno","Radomsko","Rudniki","Rusiec","Siemkowice","Strzelce Wielkie","Szczerców","Łobodno"); ?>

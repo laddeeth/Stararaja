@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chojnice","Czarne","Człuchów","Debrzno","Kamień Krajeński","Lipka","Okonek","Przechlewo","Rzeczenica","Sępólno Krajeńskie","Więcbork","Zakrzewo","Złotów"); ?>

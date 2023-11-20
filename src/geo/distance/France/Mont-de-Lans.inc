@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brié-et-Angonnes","Domène","Herbeys","Huez","Le Versoud","Les Deux Alpes","Livet-et-Gavet","Mont-de-Lans","Notre-Dame-de-Mésage","Pierre-Châtel","Revel","Valloire","Vaulnaveys-le-Bas","Vaulnaveys-le-Haut","Villard-Bonnot","Vizille"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chapeltique","Chinameca","Chirilagua","Concepción Batres","El Tránsito","Guatajiagua","Jocoro","Jucuapa","Jucuarán","Lolotique","Moncagua","Nueva Guadalupe","San Alejo","San Francisco","San Miquel","San Rafael Oriente","Santa Elena"); ?>

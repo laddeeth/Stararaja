@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avery Creek","Balfour","Barker Heights","Biltmore Forest","Brevard","Dana","East Flat Rock","Edneyville","Etowah","Flat Rock","Fletcher","Hendersonville","Hoopers Creek","Horse Shoe","Lake Lure","Landrum","Laurel Park","Mills River","Royal Pines","Slater-Marietta","Tigerville","Tryon","Valley Hill"); ?>

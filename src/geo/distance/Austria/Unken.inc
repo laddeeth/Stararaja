@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anif","Elsbethen","Fieberbrunn","Grödig","Hallein","Hochfilzen","Kirchdorf in Tirol","Kössen","Leogang","Lofer","Oberalm","Puch bei Hallein","Saalbach","Saalfelden am Steinernen Meer","Salzburg","Sankt Martin bei Lofer","Schwendt","Unken","Waidring","Walchsee"); ?>

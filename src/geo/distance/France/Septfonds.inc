@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albias","Castelnau-Montratier","Caussade","Caylus","Cordes-sur-Ciel","Lafrançaise","Lalbenque","Molières","Monclar-de-Quercy","Montauban","Monteils","Montricoux","Nègrepelisse","Réalville","Saint-Etienne-de-Tulmont","Saint-Nauphary","Septfonds"); ?>

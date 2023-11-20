@@ -1,0 +1,1 @@
+<?php $neighbours = array("Deville","Fromelennes","Fumay","Givet","Haybes","Les Hautes-Rivières","Monthermé","Nouzonville","Renwez","Revin","Rimogne","Rocroi","Thilay","Vireux-Molhain","Vireux-Wallerand"); ?>

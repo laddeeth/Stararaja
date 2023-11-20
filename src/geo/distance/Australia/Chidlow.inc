@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bellevue","Caversham","Chidlow","Gooseberry Hill","Greenmount","Guildford","Maida Vale","Middle Swan","Midland","Mount Helena","Mundaring","Parkerville","Swan View","Wooroloo","Wundowie"); ?>

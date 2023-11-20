@@ -1,0 +1,1 @@
+<option value="Leúa">Leúa</option><option value="Lobito">Lobito</option><option value="Longonjo">Longonjo</option><option value="Luanda">Luanda</option><option value="Luau">Luau</option><option value="Lubango">Lubango</option><option value="Lucapa">Lucapa</option><option value="Luena">Luena</option><option value="Lumeje">Lumeje</option>

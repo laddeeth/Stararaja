@@ -1,0 +1,1 @@
+<?php $neighbours = array("Clarence-Rockland","Papineauville","Saint-André-Avellin","Thurso"); ?>

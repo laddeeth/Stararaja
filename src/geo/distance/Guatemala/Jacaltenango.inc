@@ -1,0 +1,1 @@
+<?php $neighbours = array("Colotenango","Concepción","Ixtahuacán","Jacaltenango","Nentón","San Antonio Huista","San Juan Atitán","San Miguel Acatán","San Pedro Necta","San Rafael La Independencia","San Rafael Petzal","Santa Ana Huista","Santiago Chimaltenango","Todos Santos Cuchumatán"); ?>

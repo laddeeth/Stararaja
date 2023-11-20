@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ciudad Antigua","Condega","Mozonte","Ocotal","Palacagüina","Pueblo Nuevo","Quilalí","San Fernando","San Juan de Río Coco","San Sebastián de Yalí","Telpaneca","Totogalpa","Yalagüina"); ?>

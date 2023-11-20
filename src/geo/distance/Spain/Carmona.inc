@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcalá de Guadaira","Alcolea del Río","Brenes","Cantillana","Carmona","El Arahal","El Viso del Alcor","Fuentes de Andalucía","La Campana","La Rinconada","Lora del Río","Mairena del Alcor","Marchena","Paradas","Tocina","Villanueva del Río y Minas","Villaverde del Río"); ?>

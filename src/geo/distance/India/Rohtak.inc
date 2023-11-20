@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beri Khās","Gohāna","Julāna Shādipur","Kharkhauda","Kheri Sāmpla","Maham","Rohtak"); ?>

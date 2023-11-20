@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cashmere","East Wenatchee","East Wenatchee Bench","Entiat","South Wenatchee","Wenatchee","West Wenatchee"); ?>

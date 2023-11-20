@@ -1,0 +1,1 @@
+<?php $neighbours = array("Mammoth Lakes"); ?>

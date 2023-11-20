@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agua Dulce","Cazones","Coatzintla","Gutiérrez Zamora","Papantla de Olarte","Poza Rica de Hidalgo"); ?>

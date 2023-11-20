@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arcis-sur-Aube","Avize","Connantre","Esternay","Fère-Champenoise","Le Mesnil-sur-Oger","Mailly-le-Camp","Maizières-la-Grande-Paroisse","Méry-sur-Seine","Romilly-sur-Seine","Saint-Just-Sauvage","Sézanne","Vertus"); ?>

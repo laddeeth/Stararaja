@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blainville","Bois-des-Filion","Boisbriand","Charlemagne","Crabtree","Lorraine","Mascouche","Prévost","Rawdon","Repentigny","Rosemère","Saint-Jacques","Saint-Jérôme","Saint-Lin--Laurentides","Sainte-Anne-des-Plaines","Sainte-Julienne","Sainte-Sophie","Sainte-Thérèse","Terrebonne"); ?>

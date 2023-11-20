@@ -1,0 +1,1 @@
+<?php $neighbours = array("Băleni","Băneasa","Barcea","Bujor","Cerţeşti","Corod","Costache Negri","Cuca","Cudalbi","Folteşti","Jorăşti","Lieşti","Măstăcani","Matca","Munteni","Nămoloasa-Sat","Pechea","Slobozia-Conache","Smulţi","Suraia","Tecuci","Tudor Vladimirescu","Umbrăreşti","Vîrlezi","Vulturu de Sus"); ?>

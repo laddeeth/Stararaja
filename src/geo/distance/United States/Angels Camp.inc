@@ -1,0 +1,1 @@
+<?php $neighbours = array("Angels Camp","Cedar Ridge","Copperopolis","East Sonora","Forest Meadows","Mono Vista","Mountain Ranch","Murphys","Rancho Calaveras","San Andreas","Sonora","Soulsbyville","Tuolumne City","Twain Harte","Valley Springs"); ?>

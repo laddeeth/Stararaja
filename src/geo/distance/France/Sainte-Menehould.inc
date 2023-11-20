@@ -1,0 +1,1 @@
+<?php $neighbours = array("Clermont-en-Argonne","Revigny-sur-Ornain","Sainte-Menehould","Suippes"); ?>

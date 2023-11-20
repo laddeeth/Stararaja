@@ -1,0 +1,1 @@
+<?php $neighbours = array("Berthierville","Contrecoeur","Crabtree","Joliette","Lavaltrie","Louiseville","Maskinongé","Notre-Dame-des-Prairies","Pierreville","Saint-Denis-sur-Richelieu","Saint-Félix-de-Valois","Sorel-Tracy"); ?>

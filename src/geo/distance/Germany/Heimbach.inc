@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Münstereifel","Düren","Erftstadt","Eschweiler","Euskirchen","Heimbach","Hellenthal","Hümmel","Hürtgenwald","Inden","Kall","Kreuzau","Langerwehe","Mechernich","Merzenich","Monschau","Nettersheim","Nideggen","Niederzier","Nörvenich","Ohlenhard","Roetgen","Schleiden","Simmerath","Vettweiß","Weilerswist","Zülpich"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Clatskanie","Kalama","Kelso","Longview Heights","Rainier","West Longview","West Side Highway"); ?>

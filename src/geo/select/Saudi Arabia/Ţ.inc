@@ -1,0 +1,1 @@
+<option value="Tabālah">Tabālah</option><option value="Tabūk">Tabūk</option><option value="Tanūmah">Tanūmah</option><option value="Tārūt">Tārūt</option><option value="Tayif">Tayif</option><option value="Ţubarjal">Ţubarjal</option><option value="Tumayr">Tumayr</option><option value="Turabah">Turabah</option><option value="Ţurayf">Ţurayf</option>

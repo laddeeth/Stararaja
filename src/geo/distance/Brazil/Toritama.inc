@@ -1,0 +1,1 @@
+<?php $neighbours = array("Santa Cruz do Capibaribe","Taquaritinga do Norte","Toritama"); ?>

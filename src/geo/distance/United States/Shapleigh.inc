@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alfred","Arundel","Cornish","Hollis Center","Lake Arrowhead","Limerick","Limington","New Durham","North Berwick","Ossipee","Parsonsfield","Sanbornville","Shapleigh","South Sanford","Springvale","Waterboro","West Kennebunk","Wolfeboro"); ?>

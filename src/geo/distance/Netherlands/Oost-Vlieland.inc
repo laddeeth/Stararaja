@@ -1,0 +1,1 @@
+<?php $neighbours = array("Harlingen","Oost-Vlieland","Sexbierum","West-Terschelling"); ?>

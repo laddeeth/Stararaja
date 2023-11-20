@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arandas","Atotonilco el Alto","San José de Gracia","Tototlán"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguacatán","Chiché","Chichicastenango","Chinique","Momostenango","Patzité","Sacapulas","San Antonio Ilotenango","San Bartolo","San Bartolomé Jocotenango","San Pedro Jocopilas","Santa Cruz del Quiché","Santa Lucía La Reforma","Santa María Chiquimula","Totonicapán"); ?>

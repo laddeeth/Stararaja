@@ -1,0 +1,1 @@
+<?php $neighbours = array("Addison","Balch Springs","Cockrell Hill","Colleyville","Coppell","Dalworthington Gardens","DeSoto","Duncanville","Euless","Farmers Branch","Glenn Heights","Grand Prairie","Grapevine","Highland Park","Hurst","Hutchins","Irving","Mesquite","Midlothian","Oak Leaf","Ovilla","Pantego","Richardson","Shamrock","Wilmer"); ?>

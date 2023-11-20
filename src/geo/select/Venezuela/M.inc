@@ -1,0 +1,1 @@
+<option value="Machiques">Machiques</option><option value="Maiquetía">Maiquetía</option><option value="Maracaibo">Maracaibo</option><option value="Maracay">Maracay</option><option value="Mariara">Mariara</option><option value="Maturín">Maturín</option><option value="Mérida">Mérida</option><option value="Morón">Morón</option><option value="Mucumpiz">Mucumpiz</option>

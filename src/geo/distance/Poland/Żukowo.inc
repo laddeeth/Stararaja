@@ -1,0 +1,1 @@
+<?php $neighbours = array("Banino","Bojano","Chmielno","Chwaszczyno","Garcz","Gdańsk","Gdynia","Grabowo Kościerskie","Kartuzy","Kolbudy","Koleczkowo","Kosakowo","Kowale","Lublewo Gdańskie","Luzino","Pogórze","Pruszcz Gdański","Przodkowo","Przywidz","Pszczółki","Reda","Rotmanka","Rumia","Somonino","Sopot","Straszyn","Szemud","Trąbki Wielkie","Wielki Kack","Żukowo","Łęgowo"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Damnica","Dębnica Kaszubska","Główczyce","Kępice","Kobylnica","Kołczygłowy","Potęgowo","Smołdzino","Słupsk","Trzebielino","Ustka"); ?>

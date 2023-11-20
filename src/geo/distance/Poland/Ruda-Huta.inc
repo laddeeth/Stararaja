@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chełm","Dorohusk","Dubienka","Hańsk","Pokrówka","Rejowiec","Rejowiec Fabryczny","Ruda-Huta","Sawin","Wola Uhruska"); ?>

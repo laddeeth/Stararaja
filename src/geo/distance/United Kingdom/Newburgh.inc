@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aberdeen","Balmedie","Blackburn","Boddam","Dyce","Ellon","Inverurie","Kemnay","Kintore","Mintlaw","Newburgh","Oldmeldrum","Peterhead","Pitmedden","Port Erroll","Portlethen"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaver Falls","Big Beaver","Calcutta","East Liverpool","East Palestine","Glenmoor","Industry","La Croft","Leetonia","Monaca","New Waterford","Newell","Ohioville","Salineville","Toronto","Weirton","Weirton Heights","West Mayfield"); ?>

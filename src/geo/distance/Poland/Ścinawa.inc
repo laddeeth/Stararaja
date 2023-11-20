@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brzeg Dolny","Góra","Grębocice","Jemielno","Kunice","Legnica","Lubin","Malczyce","Polkowice","Prochowice","Rudna","Ścinawa","Szczepanów","Wińsko","Wołów"); ?>

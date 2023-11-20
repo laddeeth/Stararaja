@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biguglia","Borgo","Cervione","Linguizzetta","Lucciana","Morosaglia","Penta-di-Casinca","San-Nicolao","Santa-Lucia-di-Moriani","Vescovato","Vignale"); ?>

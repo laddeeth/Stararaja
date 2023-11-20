@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cumberland Center","Falmouth Foreside","Harpswell Center","Lewiston","Lisbon Falls","Mechanic Falls","Minot","New Gloucester","North Windham","Poland","Sabattus","Topsham"); ?>

@@ -1,0 +1,1 @@
+<option value="Jawf al Maqbābah">Jawf al Maqbābah</option><option value="Jawl al Majma‘">Jawl al Majma‘</option><option value="Ja‘ār">Ja‘ār</option><option value="Jiblah">Jiblah</option><option value="Jiḩānah">Jiḩānah</option><option value="Juban">Juban</option><option value="Judaydah">Judaydah</option>

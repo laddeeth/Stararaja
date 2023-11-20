@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agramunt","Anglesola","Artesa de Segre","Balaguer","Bellpuig","Bellvís","Castellserà","Cervera","Golmés","La Fuliola","Linyola","Miralcamp","Mollerussa","Mont-roig del Camp","Ponts","Tàrrega","Térmens","Torà de Riubregós","Vallfogona de Balaguer","Verdú","Vilanova de Bellpuig"); ?>

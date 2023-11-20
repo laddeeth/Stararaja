@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dzierzgoń","Elblag","Frombork","Gronowo Elbląskie","Gronowo Górne","Krynica Morska","Młynary","Nowy Dwór Gdański","Nowy Staw","Pasłęk","Stare Pole","Sztutowo","Tolkmicko"); ?>

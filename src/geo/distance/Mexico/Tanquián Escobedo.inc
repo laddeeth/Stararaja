@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alfredo M. Terrazas","El Higo","El Naranjo","San Vicente Tancuayalab","Tanquián Escobedo","Tempoal de Sánchez"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Annaburg","Baruth","Drahnsdorf","Gadegast","Golßen","Hohenbucko","Ihlow","Jessen","Jüterbog","Kasel-Golzig","Lebusa","Luckau","Luckenwalde","Niedergörsdorf","Schlieben","Schönewalde","Seyda"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cabricán","Cajolá","Comitancillo","Concepción Tutuapa","El Rodeo","Esquipulas Palo Gordo","Huitán","Ixchiguán","Palestina de los Altos","San Antonio Sacatepéquez","San Cristóbal Cucho","San José Ojetenán","San Marcos","San Miguel Ixtahuacán","San Pablo","San Pedro Sacatepéquez","San Rafael Pie de La Cuesta","Sibilia","Sibinal","Tajumulco","Tejutla"); ?>

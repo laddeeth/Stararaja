@@ -1,0 +1,1 @@
+<?php $neighbours = array("Allègre","Ambert","Arlanc","Bas-en-Basset","Beauzac","Brioude","Cerzat","Chadrac","Craponne-sur-Arzon","Espaly-Saint-Marcel","Fontannes","Marsac-en-Livradois","Paulhaguet","Polignac","Retournac","Rosières","Saint-Bonnet-le-Château","Saint-Paulien","Usson-en-Forez","Vieille-Brioude","Vorey"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bierzwnik","Choszczno","Dobiegniew","Drawno","Drezdenko","Krzęcin","Krzyż Wielkopolski","Pełczyce","Recz","Stare Kurowo","Strzelce Krajeńskie","Zwierzyń"); ?>

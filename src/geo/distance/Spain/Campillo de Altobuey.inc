@@ -1,0 +1,1 @@
+<?php $neighbours = array("Campillo de Altobuey","Iniesta","Ledaña","Minglanilla","Motilla del Palancar","Villalpardo","Villanueva de la Jara"); ?>

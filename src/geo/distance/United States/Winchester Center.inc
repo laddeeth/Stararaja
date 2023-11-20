@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bethlehem Village","Canton Valley","New Hartford Center","New Marlborough","North Granby","Northwest Harwinton","Salmon Brook","Simsbury Center","Terryville","Torrington","Weatogue","West Simsbury","West Torrington","Winchester Center","Winsted"); ?>

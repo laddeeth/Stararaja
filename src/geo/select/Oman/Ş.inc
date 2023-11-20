@@ -1,0 +1,1 @@
+<option value="Şaḩam">Şaḩam</option><option value="Şalālah">Şalālah</option><option value="Shināş">Shināş</option><option value="Sufālat Samā’il">Sufālat Samā’il</option><option value="Şūr">Şūr</option>

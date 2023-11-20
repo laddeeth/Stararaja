@@ -1,0 +1,1 @@
+<?php $neighbours = array("Areosa","Darque","Marinhas","Meadela","Ponte do Lima","Valenza","Viana do Castelo","Vila Praia de Âncora"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amlwch","Benllech","Caernarfon","Holyhead","Llanfachraeth","Llanfaethlu","Llanfairpwllgwyngyll","Llangefni","Llanrug","Llanwnda","Menai Bridge","Moelfre","Valley"); ?>

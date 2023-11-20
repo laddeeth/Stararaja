@@ -1,0 +1,1 @@
+<?php $neighbours = array("Mayorga","Sahagún","Valderas","Valencia de Don Juan","Villada","Villalón de Campos","Villanueva del Campo","Villaquejida"); ?>

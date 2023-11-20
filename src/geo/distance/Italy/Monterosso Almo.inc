@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acate","Buccheri","Buscemi","Caltagirone","Canicattini Bagni","Carlentini","Chiaramonte Gulfi","Comiso","Ferla","Francofonte","Giarratana","Grammichele","Licodia Eubea","Mazzarrone","Militello in Val di Catania","Mineo","Modica","Monterosso Almo","Palagonia","Palazzolo Acreide","Ragusa","San Pietro","Scordia","Sortino","Vittoria","Vizzini"); ?>

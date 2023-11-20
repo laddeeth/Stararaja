@@ -1,0 +1,1 @@
+<?php $neighbours = array("San Diego de Alejandría","San Juan de los Lagos","San Julián","San Miguel el Alto","Unión de San Antonio"); ?>

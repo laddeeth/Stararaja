@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atlanta","Avondale Estates","Belvedere Park","Bonanza","Candler-McAfee","College Park","Conley","Druid Hills","East Point","Fairburn","Forest Park","Gresham Park","Hapeville","Lovejoy","McDonough","Morrow","North Decatur","North Druid Hills","Panthersville","Peachtree City","Pine Mountain","Riverdale","Scottdale","Stockbridge","Tyrone","Union City"); ?>

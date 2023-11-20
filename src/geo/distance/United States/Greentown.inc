@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gas City","Greentown","Grissom Air Force Base","Indian Heights","Kokomo","Russiaville","Sweetser"); ?>

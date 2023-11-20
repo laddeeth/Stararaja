@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arquillos","Baeza","Bailén","Begíjar","Canena","Guarromán","Ibros","Jabalquinto","Jimena","Jódar","Linares","Lupión","Mancha Real","Mengibar","Navas de San Juan","Rus","Sabiote","Torreblascopedro","Torreperogil","Torres","Úbeda","Vilches"); ?>

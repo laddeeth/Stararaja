@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barwice","Białogard","Czaplinek","Grzmiąca","Połczyn-Zdrój","Rąbino","Świdwin","Sławoborze","Tychowo","Złocieniec","Łubowo"); ?>

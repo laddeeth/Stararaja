@@ -1,0 +1,1 @@
+<?php $neighbours = array("Białka Tatrzańska","Biały Dunajec","Bukowina Tatrzańska","Chyżne","Czarna Góra","Czarny Dunajec","Frydman","Klikuszowa","Kluszkowce","Kościelisko","Krośnica","Lasek","Leśnica","Ludźmierz","Maniowy","Niedzica","Nowy Targ","Ostrowsko","Piekielnik","Poronin","Raba Wyżna","Szaflary","Waksmund","Zakopane","Łapsze Niżne","Łopuszna"); ?>

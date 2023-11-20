@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adamuz","Andújar","Arjona","Arjonilla","Bujalance","Cañete de las Torres","El Carpio","Higuera de Arjona","Lopera","Marmolejo","Montoro","Pedro Abad","Porcuna","Valenzuela","Villa del Río","Villafranca de Córdoba","Villardompardo"); ?>

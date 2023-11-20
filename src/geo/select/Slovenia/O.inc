@@ -1,0 +1,1 @@
+<option value="Odranci">Odranci</option><option value="Oplotnica">Oplotnica</option><option value="Ormož">Ormož</option>

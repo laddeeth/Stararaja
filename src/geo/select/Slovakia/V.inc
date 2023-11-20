@@ -1,0 +1,1 @@
+<option value="Veľký Meder">Veľký Meder</option><option value="Vinné">Vinné</option><option value="Vráble">Vráble</option><option value="Vranov nad Topľou">Vranov nad Topľou</option><option value="Vrbové">Vrbové</option><option value="Vrútky">Vrútky</option><option value="Vyšné Ružbachy">Vyšné Ružbachy</option><option value="Vysoké Tatry">Vysoké Tatry</option>

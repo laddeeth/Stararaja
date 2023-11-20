@@ -1,0 +1,1 @@
+<?php $neighbours = array("Białe Błota","Bukowiec","Bydgoszcz","Cekcyn","Dąbrowa Chełmińska","Fordon","Gostycyn","Koronowo","Lubiewo","Mrocza","Nakło nad Notecią","Osielsko","Pruszcz","Sicienko","Ślesin","Sośno","Świekatowo","Więcbork"); ?>

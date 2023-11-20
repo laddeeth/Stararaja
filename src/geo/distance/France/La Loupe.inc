@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amilly","Bailleau-le-Pin","Bretoncelles","Brezolles","Châteauneuf-en-Thymerais","Condé-sur-Huisne","Courville-sur-Eure","Fontaine-la-Guyon","La Loupe","Longny-au-Perche","Margon","Nogent-le-Rotrou","Rémalard","Saint-Aubin-des-Bois","Saint-Georges-sur-Eure","Senonches","Thiron Gardais"); ?>

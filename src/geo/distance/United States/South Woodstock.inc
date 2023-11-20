@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brimfield","Charlton","Chepachet","Danielson","Dudley","East Brooklyn","East Douglas","Fiskdale","Foster","Killingly Center","Mansfield City","Moosup","North Grosvenor Dale","Pascoag","Plainfield Village","Putnam","Quinebaug","South Woodstock","Southbridge","Stafford Springs","Storrs","Sturbridge","Thompson","Wales","Wauregan"); ?>

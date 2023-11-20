@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boiling Spring Lakes","Bolivia","Carolina Beach","Kure Beach","Oak Island","Sea Breeze","Shallotte"); ?>

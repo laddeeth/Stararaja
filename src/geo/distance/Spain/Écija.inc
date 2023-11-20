@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cañada Rosal","Écija","El Rubio","Fuente Palmera","Fuentes de Andalucía","Guadalcázar","Herrera","La Carlota","La Lantejuela","La Luisiana","La Victoria","Marinaleda","Montalbán de Córdoba","Palma del Río","Posadas","Santaella"); ?>

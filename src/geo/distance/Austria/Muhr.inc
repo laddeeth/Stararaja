@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Gastein","Flachau","Forstau","Hüttschlag","Kleinarl","Mariapfarr","Mauterndorf","Muhr","Radstadt","Ramingstein","Sankt Andrä im Lungau","Sankt Margarethen im Lungau","Sankt Michael im Lungau","Tamsweg","Thomatal","Trebesing","Tweng","Untertauern","Wagrain","Zederhaus"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaconsfield","Beauharnois","Châteauguay","Deux-Montagnes","Dollard-Des Ormeaux","Dorval","Hudson","Huntingdon","Kirkland","Les Cèdres","Les Coteaux","Mercier","Oka","Ormstown","Pincourt","Pointe-Claire","Rigaud","Saint-Lazare","Sainte-Anne-de-Bellevue","Sainte-Marthe-sur-le-Lac","Sainte-Martine","Salaberry-de-Valleyfield","Vaudreuil-Dorion"); ?>

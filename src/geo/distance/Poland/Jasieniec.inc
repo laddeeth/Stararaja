@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baniocha","Belsk Duży","Błędów","Chynów","Góra Kalwaria","Goszczyn","Grójec","Jasieniec","Mogielnica","Piaseczno","Pniewy","Prażmów","Promna","Sobienie Jeziory","Stromiec","Sucha","Sułkowice","Tarczyn","Warka","Wyśmierzyce","Żabia Wola","Żabieniec","Zalesie Górne"); ?>

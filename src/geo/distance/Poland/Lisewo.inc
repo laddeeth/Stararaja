@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chełmno","Chełmża","Dąbrowa Chełmińska","Dębowa Łąka","Grudziądz","Gruta","Jeżewo","Kowalewo Pomorskie","Książki","Lisewo","Lubicz Dolny","Płużnica","Radzyń Chełmiński","Świecie","Unisław","Wąbrzeźno","Łubianka","Łysomice"); ?>

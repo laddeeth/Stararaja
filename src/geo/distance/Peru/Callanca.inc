@@ -1,0 +1,1 @@
+<?php $neighbours = array("Callanca","Ccuntuma","Cullcuyre","Huayna Alcalde","Jayobamba","Lima Pampa","Maranganí","Mosoc Cancha","Qquea","Queromarca","San Pablo","Sicuani","Tinta"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brice Prairie","French Island","Galesville","Holmen","La Crescent","North La Crosse","Trempealeau"); ?>

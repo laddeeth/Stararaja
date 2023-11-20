@@ -1,0 +1,1 @@
+<option value="Ādaži">Ādaži</option><option value="Aglona">Aglona</option><option value="Ainaži">Ainaži</option><option value="Aizkraukle">Aizkraukle</option><option value="Aizpute">Aizpute</option><option value="Aknīste">Aknīste</option><option value="Aloja">Aloja</option><option value="Alūksne">Alūksne</option><option value="Ape">Ape</option><option value="Auce">Auce</option>

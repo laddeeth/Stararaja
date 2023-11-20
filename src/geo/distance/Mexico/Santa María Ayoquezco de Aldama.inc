@@ -1,0 +1,1 @@
+<?php $neighbours = array("Asunción Ocotlán","Ejutla de Crespo","San Jacinto Ocotlán","San Pablo Huixtepec","Santa María Ayoquezco de Aldama","Trinidad de Zaachila","Zimatlán de Álvarez"); ?>

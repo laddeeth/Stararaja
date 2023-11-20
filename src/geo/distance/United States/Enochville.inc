@@ -1,0 +1,1 @@
+<?php $neighbours = array("China Grove","Cornelius","Davidson","East Spencer","Enochville","Granite Quarry","Huntersville","Kannapolis","Lake Norman of Catawba","Landis","Mount Pleasant","Troutman"); ?>

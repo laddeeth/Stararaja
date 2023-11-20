@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dulce Nombre de Culmí","San José de Río Tinto"); ?>

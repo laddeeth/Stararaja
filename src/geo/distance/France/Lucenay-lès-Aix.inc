@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avermes","Beaulon","Bourbon-Lancy","Cercy-la-Tour","Chantenay-Saint-Imbert","Decize","Diou","Dompierre-sur-Besbre","Dornes","La Machine","Lucenay-lès-Aix","Lusigny","Moulins","Neuilly-le-Réal","Neuvy","Saint-Léger-des-Vignes","Saint-Parize-le-Châtel","Saint-Pierre-le-Moûtier","Souvigny","Toulon-sur-Allier","Trévol","Yzeure"); ?>

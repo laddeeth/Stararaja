@@ -1,0 +1,1 @@
+<?php $neighbours = array("Amaseno","Castro dei Volsci","Fondi","Gaeta","Giuliano di Roma","Itri","Lenola","Maenza","Monte San Biagio","Pastena","Pontinia","Priverno","Prossedi","Roccagorga","Roccasecca dei Volsci","Sabaudia","San Felice Circeo","Sezze","Sonnino","Sperlonga","Terracina","Vallecorsa","Villa Santo Stefano"); ?>

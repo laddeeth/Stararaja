@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bobrowice","Bytnica","Czerwieńsk","Gubin","Krosno Odrzańskie","Lubsko","Międzylesie","Nowogród Bobrzański","Ochla","Świdnica","Zielona Góra"); ?>

@@ -1,0 +1,1 @@
+<option value="Gagra">Gagra</option><option value="Gali">Gali</option><option value="Gant’iadi">Gant’iadi</option><option value="Gardabani">Gardabani</option><option value="Gori">Gori</option><option value="Gudaut’a">Gudaut’a</option><option value="Gurjaani">Gurjaani</option>

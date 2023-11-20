@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bohners Lake","Browns Lake","Camp Lake","Channel Lake","Delavan Lake","East Troy","Fontana","Fox Lake","Genoa City","Harvard","Johnsburg","Lake Catherine","Lake Geneva","McCullom Lake","Paddock Lake","Pell Lake","Pistakee Highlands","Potter Lake","Powers Lake","Walworth","Williams Bay","Wonder Lake"); ?>

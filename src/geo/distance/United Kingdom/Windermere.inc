@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ambleside","Arnside","Askam in Furness","Grange-over-Sands","Kendal","Keswick","Milnthorpe","Ulverston","Windermere"); ?>

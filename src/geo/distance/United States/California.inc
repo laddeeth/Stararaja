@@ -1,0 +1,1 @@
+<?php $neighbours = array("California","Chesapeake Ranch Estates","Cobb Island","Drum Point","Golden Beach","Leonardtown","Lexington Park","Long Beach","Lusby","Mechanicsville","Prince Frederick","Solomons"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chinautla","Chuarrancho","Cubulco","El Chol","Pachalum","Rabinal","San José del Golfo","San Miguel Chicaj","San Pedro Ayampuc","San Raimundo"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anzio","Aprilia","Ardea","Cisterna di Latina","Genzano di Roma","Lanuvio","Latina","Lavinio","Nettuno","Pomezia","Velletri"); ?>

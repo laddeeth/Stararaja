@@ -1,0 +1,1 @@
+<option value="Telica">Telica</option><option value="Telpaneca">Telpaneca</option><option value="Terrabona">Terrabona</option><option value="Teustepe">Teustepe</option><option value="Ticuantepe">Ticuantepe</option><option value="Tipitapa">Tipitapa</option><option value="Tisma">Tisma</option><option value="Tola">Tola</option><option value="Totogalpa">Totogalpa</option>

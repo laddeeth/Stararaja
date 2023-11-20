@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chanba","Chengxian Chengguanzhen","Chenyuan","Dahedian","Diancun","Erlang","Fujia","Hongchuan","Huangchen","Huaya","Huixian Chengguanzhen","Jiangluo","Miba","Niyang","Paosha","Shuiquan","Songping","Suchuan","Wangmo","Xiaochuan","Xihuaiba","Yinxingshu","Youlongchuan","Zhiqi"); ?>

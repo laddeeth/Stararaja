@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcalalí","Alcoi","Altea","Benidorm","Busot","Calp","Cocentaina","el Campello","Finestrat","Ibi","Jalón","Jijona","la Nucia","Muchamiel","Muro del Alcoy","Orba","Orcheta","Polop","San Juan de Alicante","San Vicent del Raspeig","Tibi","Vall de Gallinera","Villajoyosa"); ?>

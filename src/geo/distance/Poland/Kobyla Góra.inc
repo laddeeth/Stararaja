@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bralin","Doruchów","Dziadowa Kłoda","Galewice","Gorzyce Wielkie","Grabów nad Prosną","Janków Przygodzki","Kępno","Kobyla Góra","Międzybórz","Mikstat","Odolanów","Ostrzeszów","Perzów","Przygodzice","Rychtal","Sieroszewice","Sośnie","Syców","Słupia pod Kępnem","Twardogóra","Wieruszów","Łęka Opatowska"); ?>

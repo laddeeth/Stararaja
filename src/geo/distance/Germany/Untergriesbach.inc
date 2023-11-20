@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aicha vorm Wald","Büchlberg","Freyung","Fürsteneck","Fürstenstein","Fürstenzell","Grainet","Haidmühle","Hauzenberg","Hinterschmiding","Hutthurm","Jandelsbrunn","Neukirchen vorm Wald","Neureichenau","Obernzell","Passau","Perlesreut","Röhrnbach","Ruderting","Salzweg","Sonnen","Thyrnau","Tittling","Untergriesbach","Wegscheid","Witzmannsberg"); ?>

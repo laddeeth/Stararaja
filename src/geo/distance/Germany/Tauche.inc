@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Saarow","Beeskow","Berkenbrück","Briesen","Brieskow-Finkenheerd","Diensdorf-Radlow","Drachhausen","Fürstenwalde","Groß Lindow","Jacobsdorf","Jamlitz","Langewahl","Lieberose","Lübben","Mixdorf","Müllrose","Münchehofe","Neu Zauche","Rauen","Reichenwalde","Rietz Neuendorf","Schlepzig","Steinhöfel","Storkow","Straupitz","Tauche","Wendisch Rietz"); ?>

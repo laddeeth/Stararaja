@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arimís","El Guayabito","Gualaco","Juticalpa","Jutiquile","La Concepción","Laguna Seca","Punuare","San Francisco de Becerra","San Francisco de la Paz","Santa María del Real"); ?>

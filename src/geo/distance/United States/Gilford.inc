@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barnstead","Canterbury","Center Harbor","Gilford","Gilmanton","Hill","Holderness","Laconia","Meredith","Moultonborough","New Durham","Ossipee","Sanbornton","Tilton-Northfield","Tuftonboro","Wolfeboro"); ?>

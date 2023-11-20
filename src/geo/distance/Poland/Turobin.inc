@@ -1,0 +1,1 @@
+<?php $neighbours = array("Batorz","Bychawa","Chrzanów","Dzwola","Frampol","Godziszów","Godziszów Pierwszy","Goraj","Gorzków","Izbica","Janów Lubelski","Michałów","Nielisz","Radecznica","Rudnik","Rybczewice","Sułów","Szastarka","Szczebrzeszyn","Tereszpol","Turobin","Wysokie","Zakrzówek","Żółkiewka","Zwierzyniec"); ?>

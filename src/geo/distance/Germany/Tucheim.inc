@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bensdorf","Brandenburg an der Havel","Burg bei Magdeburg","Genthin","Görzke","Gräben","Jerichow","Loburg","Möckern","Möser","Premnitz","Rogätz","Schermen","Tangerhütte","Tangermünde","Tucheim","Wenzlow","Wiesenburg","Wollin","Wusterwitz","Ziesar"); ?>

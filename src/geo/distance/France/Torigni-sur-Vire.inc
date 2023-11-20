@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agneaux","Aunay-sur-Odon","Cahagnes","Cerisy-la-Salle","Condé-sur-Vire","Gavray","Hambye","La Meauffe","Le Molay-Littry","Le Theil-Bocage","Marigny","Percy","Pont-Hébert","Saint-Amand","Saint-Jean-des-Baisants","Saint-Lô","Saint-Martin-des-Besaces","Saint-Sever-Calvados","Tessy-sur-Vire","Torigni-sur-Vire","Vaudry","Villedieu-les-Poêles","Vire"); ?>

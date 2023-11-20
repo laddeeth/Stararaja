@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altenburg","Brunn an der Wild","Eggenburg","Gars am Kamp","Geras","Göpfritz an der Wild","Groß-Siegharts","Hardegg","Haugsdorf","Horn","Japons","Langau","Pernegg","Pernersdorf","Pulkau","Raabs an der Thaya","Retz","Röhrenbach","Röschitz","Schrattenthal","Sigmundsherberg","Waldkirchen an der Thaya","Weitersfeld","Zellerndorf"); ?>

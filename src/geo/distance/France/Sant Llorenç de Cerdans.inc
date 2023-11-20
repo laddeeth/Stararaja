@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arles","Banyuls-dels-Aspres","Ceret","el Voló","Llupia","Maureillas-las-Illas","Prades","Prats de Molló","Reiners","Sant Joan de Pladecorts","Sant Llorenç de Cerdans","Thuir","Vernet-les-Bains","Vilallonga dels Monts","Villemolaque"); ?>

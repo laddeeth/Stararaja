@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blachownia","Boronów","Ciasna","Dobrodzień","Herby","Jemielnica","Kalety","Kochanowice","Kolonowskie","Koszęcin","Krupski Młyn","Lubliniec","Ozimek","Panki","Pawonków","Przystajń","Sieraków Śląski","Starokrzepice","Strzebiń","Strzelce Opolskie","Toszek","Truskolasy","Tworóg","Wielowieś","Wręczyca Wielka","Zawadzkie","Zębowice"); ?>

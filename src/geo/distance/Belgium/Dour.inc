@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ath","Beloeil","Bernissart","Binche","Boussu","Brugelette","Chasse Royale","Chièvres","Colfontaine","Dour","Erquelinnes","Estinnes-au-Val","Frameries","Hensies","Jurbise","Lens","Merbes-le-Château","Mons","Péruwelz","Quaregnon","Quévy-le-Petit","Quiévrain","Roeulx","Saint-Ghislain","Silly","Soignies"); ?>

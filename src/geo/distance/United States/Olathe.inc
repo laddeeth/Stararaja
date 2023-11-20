@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belton","Bonner Springs","Edgerton","Fairway","Gardner","Leawood","Lenexa","Merriam","Mission","Mission Hills","Olathe","Overland Park","Prairie Village","Roeland Park","Shawnee","Wellsville","Westwood"); ?>

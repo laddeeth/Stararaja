@@ -1,0 +1,1 @@
+<option value="Qādirpur Rān">Qādirpur Rān</option><option value="Qila Abdullāh">Qila Abdullāh</option><option value="Qila Saifullāh">Qila Saifullāh</option><option value="Quetta">Quetta</option>

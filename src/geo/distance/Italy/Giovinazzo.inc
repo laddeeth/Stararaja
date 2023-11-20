@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adelfia","Bari","Binetto","Bisceglie","Bitetto","Bitonto","Bitritto","Capurso","Cellamare","Corato","Giovinazzo","Grumo Appula","Modugno","Molfetta","Palo del Colle","Ruvo di Puglia","Sannicandro di Bari","Terlizzi","Toritto","Trani","Triggiano","Valenzano"); ?>

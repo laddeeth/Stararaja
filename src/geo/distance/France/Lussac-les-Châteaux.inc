@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bignoux","Bonnes","Bussière-Poitevine","Chauvigny","La Villedieu-du-Clain","Lathus-Saint-Rémy","Lavoux","Lussac-les-Châteaux","Mignaloux-Beauvoir","Montmorillon","Nouaillé-Maupertuis","Roches-Prémarie-Andillé","Saint-Maurice-la-Clouère","Saulgé","Savigny-Lévescault","Sèvres-Anxaumont","Tercé","Usson-du-Poitou"); ?>

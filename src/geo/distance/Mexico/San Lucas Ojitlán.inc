@@ -1,0 +1,1 @@
+<?php $neighbours = array("Isla Soyaltepec","San Felipe Jalapa de Díaz","San Felipe Usila","San José Chiltepec","San Juan Bautista Tuxtepec","San Lucas Ojitlán","San Pedro Ixcatlán"); ?>

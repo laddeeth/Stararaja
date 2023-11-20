@@ -1,0 +1,1 @@
+<?php $neighbours = array("Diseröd","Henån","Höviksnäs","Kode","Kungälv","Marstrand","Myggenäs","Rönnäng","Skärhamn","Stenungsund","Stora Höga","Svanesund"); ?>

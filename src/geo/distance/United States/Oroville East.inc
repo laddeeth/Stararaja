@@ -1,0 +1,1 @@
+<?php $neighbours = array("Berry Creek","Biggs","Challenge-Brownsville","Loma Rica","Oroville","Oroville East","South Oroville","Thermalito"); ?>

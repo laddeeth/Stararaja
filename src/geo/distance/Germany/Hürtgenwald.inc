@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aachen","Aldenhoven","Alsdorf","Baesweiler","Düren","Eschweiler","Euskirchen","Heimbach","Hellenthal","Herzogenrath","Hürtgenwald","Inden","Jülich","Kall","Kerpen","Kreuzau","Langerwehe","Mechernich","Merzenich","Monschau","Nideggen","Niederzier","Nörvenich","Roetgen","Schleiden","Simmerath","Übach-Palenberg","Vettweiß","Würselen","Zülpich"); ?>

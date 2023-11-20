@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gardeja","Gniew","Grudziądz","Kisielice","Kwidzyn","Mikołajki Pomorskie","Nowe","Pelplin","Prabuty","Ryjewo","Sadlinki","Skórcz","Smętowo Graniczne","Stary Targ","Susz","Sztum","Warlubie","Łasin"); ?>

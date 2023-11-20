@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alt Tucheband","Bad Freienwalde","Bliesdorf","Buckow","Falkenberg","Golzow","Hohenfinow","Letschin","Liepe","Lietzen","Manschnow","Müncheberg","Neuhardenberg","Neulewin","Neutrebbin","Niederfinow","Oderberg","Prötzel","Seelow","Waldsieversdorf","Wriezen","Zechin"); ?>

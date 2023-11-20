@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bijeljina","Dubrave Donje","Dubrave Gornje","Gornja Tuzla","Janja","Lopare","Mramor","Petkovci","Priboj","Solina","Svojat","Tojšići","Tuzla","Ugljevik","Velika Obarska","Vukovije Donje","Zvornik"); ?>

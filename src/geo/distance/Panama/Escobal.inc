@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cativá","Cerro Cama","Colón","Escobal","Margarita","Palmas Bellas","Puerto Escondido","Río Gatún","Río Rita","Sabanitas","Santa Clara","Santa Rita Arriba"); ?>

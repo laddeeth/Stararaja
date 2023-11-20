@@ -1,0 +1,1 @@
+<option value="Fakaifou Village">Fakaifou Village</option><option value="Funafuti">Funafuti</option>

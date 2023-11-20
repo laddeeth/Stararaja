@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acquedolci","Capizzi","Caronia","Castel di Lucio","Castelbuono","Cefalù","Cerami","Gangi","Geraci Siculo","Militello Rosmarino","Mistretta","Pettineo","Pollina","San Fratello","San Mauro Castelverde","Santo Stefano di Camastra","Tusa"); ?>

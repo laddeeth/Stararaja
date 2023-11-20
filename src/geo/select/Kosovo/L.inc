@@ -1,0 +1,1 @@
+<option value="Leposavić">Leposavić</option><option value="Leshan">Leshan</option><option value="Lipljan">Lipljan</option><option value="Ljubuša">Ljubuša</option><option value="Llazicë">Llazicë</option><option value="Lloqan">Lloqan</option><option value="Lluka e Eperme">Lluka e Eperme</option><option value="Lumbardhi">Lumbardhi</option>

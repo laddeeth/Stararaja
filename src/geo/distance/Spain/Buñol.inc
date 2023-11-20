@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alaquàs","Aldaia","Alfarp","Benaguasil","Benisanó","Buñol","Catadau","Cheste","Chiva","Godelleta","La Pobla de Vallbona","Llíria","Llombai","Macastre","Manises","Monserrat","Montroy","Pedralba","Picassent","Real de Montroi","Requena","Ribarroja","Siete Aguas","Torrent","Turís","Vilamarxant","Yátova"); ?>

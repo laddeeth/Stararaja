@@ -1,0 +1,1 @@
+<?php $neighbours = array("La Fuente de San Esteban","Lumbrales","Villavieja de Yeltes","Vitigudino"); ?>

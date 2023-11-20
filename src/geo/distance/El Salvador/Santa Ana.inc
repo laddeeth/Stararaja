@@ -1,0 +1,1 @@
+<?php $neighbours = array("Armenia","Atiquizaya","Candelaria de La Frontera","Chalchuapa","Ciudad Arce","Coatepeque","El Congo","Juayúa","San Juan Opico","San Pablo Tacachico","Santa Ana","Texistepeque"); ?>

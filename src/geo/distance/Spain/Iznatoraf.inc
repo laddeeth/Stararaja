@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arroyo del Ojanco","Beas de Segura","Cazorla","Chiclana de Segura","Chilluévar","Iznatoraf","La Iruela","Montizón","Navas de San Juan","Peal de Becerro","Puente de Génave","Sabiote","Santisteban del Puerto","Santo Tomé","Sorihuela del Guadalimar","Torreperogil","Villacarrillo","Villanueva del Arzobispo"); ?>

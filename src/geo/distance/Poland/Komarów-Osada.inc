@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bełżec","Grabowiec","Jarczów","Komarów-Osada","Krasnobród","Krynice","Miączyn","Mircze","Rachanie","Rogóźno","Sitno","Skierbieszów","Tarnawatka","Telatyn","Tomaszów Lubelski","Tyszowce","Ulhówek","Werbkowice","Zamość","Łabunie","Łaszczów"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Camano","Coupeville","Hansville","Lofall","Port Hadlock-Irondale","Port Ludlow","Port Townsend","Sequim"); ?>

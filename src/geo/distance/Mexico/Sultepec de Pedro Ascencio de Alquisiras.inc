@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ayotusco","Coatepec Harinas","Ixtapan de la Sal","Jesús del Monte","San Gaspar Tonatico","Sultepec de Pedro Ascencio de Alquisiras","Tejupilco de Hidalgo","Zacualpan"); ?>

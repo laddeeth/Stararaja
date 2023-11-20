@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alba de Tormes","Cabrerizos","Calvarrasa de Abajo","Cantalapiedra","Cantalpino","Carbajosa de la Sagrada","Fresno El Viejo","Fuentesaúco","Macotera","Peñaranda de Bracamonte","Salamanca","Santa Marta de Tormes","Terradillos","Villamayor","Villares de la Reina","Villoría"); ?>

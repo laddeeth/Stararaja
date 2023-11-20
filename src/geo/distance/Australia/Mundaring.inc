@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bassendean","Bellevue","Bentley","Burswood","Canning Vale","Cannington","Caversham","Chidlow","Gooseberry Hill","Gosnells","Greenmount","Guildford","Kelmscott","Kenwick","Maddington","Maida Vale","Maylands","Middle Swan","Midland","Mount Helena","Mundaring","Parkerville","Pearce","South Perth","Swan View","Wooroloo","Wundowie"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agüimes","Artenara","Cruce de Arinaga","Mogán","Playa del Ingles","Puerto Rico","San Bartolomé","San Nicolás","Santa Lucía","Tejeda","Vega de San Mateo"); ?>

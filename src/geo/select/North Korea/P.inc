@@ -1,0 +1,1 @@
+<option value="Panghyŏn-dong">Panghyŏn-dong</option><option value="Pukchil-lodongjagu">Pukchil-lodongjagu</option><option value="Puryŏng">Puryŏng</option><option value="Pyŏksŏng-ŭp">Pyŏksŏng-ŭp</option><option value="Pyongyang">Pyongyang</option><option value="P’yŏngsŏng">P’yŏngsŏng</option>

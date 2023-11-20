@@ -1,0 +1,1 @@
+<?php $neighbours = array("Algar","Arriate","Benahavís","Benaoján","Casares","Cortes de la Frontera","El Bosque","El Gastor","Estepona","Gaucín","Grazalema","Igualeja","Jimena de la Frontera","Manilva","Prado del Rey","Ronda","Ubrique","Zahara"); ?>

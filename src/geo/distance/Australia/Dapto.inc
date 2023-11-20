@@ -1,0 +1,1 @@
+<?php $neighbours = array("Berkeley","Bulli","Colo Vale","Coniston","Corrimal","Cringila","Dapto","Fairy Meadow","Flinders","Gerringong","Gwynneville","Jamberoo","Keiraville","Kiama","Lake Heights","Lake Illawarra","Mangerton","Mount Keira","Mount Ousley","Mount Saint Thomas","Port Kembla","Shellharbour Village","Wollongong"); ?>

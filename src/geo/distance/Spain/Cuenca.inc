@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cuenca","Villar de Olalla"); ?>

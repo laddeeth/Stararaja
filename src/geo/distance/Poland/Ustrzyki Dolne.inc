@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baligród","Czaszyn","Lesko","Lutowiska","Olszanica","Polańczyk","Poraż","Tyrawa Wołoska","Uherce Mineralne","Ustrzyki Dolne","Zagórz"); ?>

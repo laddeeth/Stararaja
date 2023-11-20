@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baignes-Sainte-Radegonde","Barbezieux-Saint-Hilaire","Cercoux","Chalais","Chevanceaux","Clérac","Coutras","La Roche-Chalais","Lagorce","Le Pizou","Les Églisottes-et-Chalaures","Les Peintures","Ménesplet","Montguyon","Montlieu-la-Garde","Montmoreau-Saint-Cybard","Ribérac","Saint-Aigulin","Saint-Aulaye","Saint-Médard-de-Guizières"); ?>

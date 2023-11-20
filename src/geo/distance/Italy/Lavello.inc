@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aquilonia","Ascoli Satriano","Atella","Banzi","Barile","Candela","Cerignola","Filiano","Forenza","Genzano di Lucania","Lavello","Maschito","Melfi","Minervino Murge","Montemilone","Palazzo San Gervasio","Rapolla","Rionero in Vulture","Ripacandida","Spinazzola","Stornara","Stornarella","Venosa"); ?>

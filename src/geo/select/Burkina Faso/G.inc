@@ -1,0 +1,1 @@
+<option value="Gaoua">Gaoua</option><option value="Garango">Garango</option><option value="Gayéri">Gayéri</option><option value="Gorom-Gorom">Gorom-Gorom</option><option value="Goulouré">Goulouré</option><option value="Gourcy">Gourcy</option>

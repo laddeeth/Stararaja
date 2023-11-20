@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brodheadsville","East Stroudsburg","Effort","Emerald Lakes","Indian Mountain Lake","Moscow","Mount Pocono","Mountainhome","Pocono Pines","Saylorsburg","Stroudsburg","Sun Valley","Tannersville","Towamensing Trails","White Haven"); ?>

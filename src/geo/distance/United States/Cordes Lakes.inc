@@ -1,0 +1,1 @@
+<?php $neighbours = array("Black Canyon City","Cordes Lakes","Dewey-Humboldt"); ?>

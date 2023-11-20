@@ -1,0 +1,1 @@
+<?php $neighbours = array("Fendels","Fiss","Flirsch","Galtür","Grins","Imsterberg","Ischgl","Jerzens","Kappl","Kauns","Ladis","Landeck","Mils bei Imst","Nauders","Pfunds","Pians","Prutz","Ried im Oberinntal","Sankt Anton am Arlberg","Schönwies","See","Serfaus","Stanz bei Landeck","Strengen","Tobadill","Wenns","Zams"); ?>

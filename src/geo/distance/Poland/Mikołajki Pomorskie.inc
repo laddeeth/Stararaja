@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dzierzgoń","Gniew","Gronowo Elbląskie","Kisielice","Kwidzyn","Malbork","Mikołajki Pomorskie","Miłoradz","Prabuty","Ryjewo","Sadlinki","Stare Pole","Stary Targ","Susz","Sztum","Zalewo"); ?>

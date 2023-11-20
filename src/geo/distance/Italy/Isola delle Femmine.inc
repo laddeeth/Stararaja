@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altofonte","Bagheria","Balestrate","Belmonte Mezzagno","Borgetto","Capaci","Carini","Casteldaccia","Cinisi","Ficarazzi","Giardinello","Isola delle Femmine","Misilmeri","Monreale","Montelepre","Palermo","Partinico","Piana degli Albanesi","San Cipirello","San Giuseppe Jato","Santa Flavia","Terrasini","Torretta","Trappeto","Villabate"); ?>

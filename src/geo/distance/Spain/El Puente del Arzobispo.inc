@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belvis de la Jara","Calera y Chozas","Carrascalejo","Castañar de Ibor","El Puente del Arzobispo","Lagartera","Oropesa","Peraleda de la Mata","Velada"); ?>

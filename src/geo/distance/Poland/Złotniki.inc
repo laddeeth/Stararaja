@@ -1,0 +1,1 @@
+<?php $neighbours = array("Buk","Czapury","Czerwonak","Daszewice","Dopiewo","Kaźmierz","Kleszczewo","Komorniki","Kostrzyn","Luboń","Mosina","Murowana Goślina","Oborniki","Pamiątkowo","Plewiska","Poznań","Puszczykowo","Rogalinek","Skoki","Stęszew","Suchy Las","Swarzędz","Szamotuły","Tarnowo Podgórne","Złotniki"); ?>

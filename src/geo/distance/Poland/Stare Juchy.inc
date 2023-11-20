@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ełk","Giżycko","Kruklanki","Olecko","Orzysz","Stare Juchy","Swiętajno","Wydminy"); ?>

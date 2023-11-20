@@ -1,0 +1,1 @@
+<option value="Galanta">Galanta</option><option value="Gbely">Gbely</option><option value="Gelnica">Gelnica</option><option value="Giraltovce">Giraltovce</option>

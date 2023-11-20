@@ -1,0 +1,1 @@
+<?php $neighbours = array("Desert Edge","Desert Hot Springs","Garnet","Joshua Tree","Morongo Valley","Sky Valley","Yucca Valley"); ?>

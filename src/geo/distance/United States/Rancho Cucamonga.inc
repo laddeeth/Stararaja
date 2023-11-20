@@ -1,0 +1,1 @@
+<?php $neighbours = array("Azusa","Charter Oak","Chino","Chino Hills","Citrus","Colton","Corona","Covina","Diamond Bar","Glen Avon","Grand Terrace","Highgrove","Home Gardens","La Verne","Los Serranos","Mira Loma","Muscoy","Pedley","Rancho Cucamonga","Rialto","Rubidoux","San Antonio Heights","San Bernardino","San Dimas","Sunnyslope","Wrightwood"); ?>

@@ -1,0 +1,1 @@
+<option value="Kandé">Kandé</option><option value="Kara">Kara</option><option value="Kpalimé">Kpalimé</option>

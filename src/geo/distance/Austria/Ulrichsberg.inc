@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atzesberg","Kleinzell im Mühlkreis","Nebelberg","Pfarrkirchen im Mühlkreis","Ulrichsberg"); ?>

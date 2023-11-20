@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beni Douala","Boghni","Boudjima","Chabet el Ameur","Dellys","Draa Ben Khedda","Draa el Mizan","Isser","L’Arbaa Naït Irathen","Makouda","Mekla","Naciria","Tadmaït","Tirmitine","Tizi Gheniff","Tizi Ouzou","Tizi Rached","Tizi-n-Tleta"); ?>

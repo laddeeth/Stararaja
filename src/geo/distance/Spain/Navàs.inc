@@ -1,0 +1,1 @@
+<?php $neighbours = array("Artés","Avinyó","Balsareny","Berga","Capolat","Cardona","Castellar del Riu","Fonollosa","Gironella","Manresa","Moià","Navarcles","Navàs","Olost","Sallent","Sant Joan de Vilatorrada","Santpedor","Súria","Tona"); ?>

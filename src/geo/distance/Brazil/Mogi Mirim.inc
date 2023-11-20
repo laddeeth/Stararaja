@@ -1,0 +1,1 @@
+<?php $neighbours = array("Artur Nogueira","Conchal","Itapira","Mogi Guaçu","Mogi Mirim","Santo Antônio de Posse"); ?>

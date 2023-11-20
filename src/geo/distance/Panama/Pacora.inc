@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcaldedíaz","Cabra","Caimitillo","Cerro Azul","Chepo","El Progreso","La Cabima","La Mesa","Las Cumbres","Los Lotes","Pacora","Panamá","Paso Blanco","San Miguelito","Tocumen"); ?>

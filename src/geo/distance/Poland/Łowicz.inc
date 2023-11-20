@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bedlno","Bielawy","Bobrowniki","Bolimów","Chąśno","Dmosin","Domaniewice","Godzianów","Guzów","Głowno","Iłów","Kiernozia","Kocierzew Południowy","Lipce Reymontowskie","Maków","Młodzieszyn","Nieborów","Pacyna","Rybno","Sanniki","Skierniewice","Sochaczew","Słubice","Żychlin","Łowicz","Łyszkowice"); ?>

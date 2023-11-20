@@ -1,0 +1,1 @@
+<?php $neighbours = array("Argentan","Beuvillers","Broglie","Cambremer","Canon","Falaise","Gacé","La Vespière","Lisieux","Livarot","Orbec","Saint-Désir","Saint-Pierre-sur-Dives","Sainte-Gauburge-Sainte-Colombe","Thiberville","Trun","Vimoutiers"); ?>

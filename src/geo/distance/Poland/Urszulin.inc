@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cyców","Dębowa Kłoda","Hańsk","Ludwin","Milejów","Ostrów Lubelski","Puchaczów","Sawin","Sosnowica","Urszulin","Uścimów Stary","Łęczna"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Argentat","Aurillac","Champagnac","Jussac","Laroquebrou","Mauriac","Naucelles","Neuvic","Pleaux","Saint-Cernin","Saint-Paul-des-Landes","Saint-Privat","Saint-Simon","Sansac-de-Marmiesse","Ydes","Ytrac"); ?>

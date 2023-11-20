@@ -1,0 +1,1 @@
+<?php $neighbours = array("Angamacutiro de la Unión","Cerano","Huandacareo","Puruándiro","Villachuato"); ?>

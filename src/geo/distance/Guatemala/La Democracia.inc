@@ -1,0 +1,1 @@
+<?php $neighbours = array("Escuintla","La Democracia","La Gomera","Masagua","Santa Lucía Cotzumalguapa"); ?>

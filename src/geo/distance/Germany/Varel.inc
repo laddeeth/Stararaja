@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Zwischenahn","Bockhorn","Brake (Unterweser)","Butjadingen","Elsfleth","Fedderwarden","Friedeburg","Jever","Nordenham","Oldenburg","Ovelgönne","Rastede","Sande","Sandstedt","Schortens","Sillenstede","Varel","Westerstede","Wiefelstede","Wiesmoor","Wilhelmshaven","Zetel"); ?>

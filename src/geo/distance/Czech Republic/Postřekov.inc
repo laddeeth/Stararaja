@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bělá nad Radbuzou","Blížejov","Bor","Domažlice","Holýšov","Horšovský Týn","Hostouň","Kdyně","Klenčí pod Čerchovem","Kout na Šumavě","Meclov","Mrákov","Poběžovice","Postřekov","Přimda","Staňkov","Stráž"); ?>

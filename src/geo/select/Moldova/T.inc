@@ -1,0 +1,1 @@
+<option value="Taraclia">Taraclia</option><option value="Teleneşti">Teleneşti</option><option value="Tighina">Tighina</option><option value="Tiraspol">Tiraspol</option><option value="Tiraspolul Nou">Tiraspolul Nou</option>

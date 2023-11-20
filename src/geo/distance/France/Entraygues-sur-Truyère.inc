@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arpajon-sur-Cère","Aubin","Bozouls","Cransac","Decazeville","Entraygues-sur-Truyère","Espalion","Firmi","Laguiole","Livinhac-le-Haut","Marcillac-Vallon","Saint-Christophe-Vallon","Sainte-Geneviève-sur-Argence","Salles-la-Source","Sébazac-Concourès","Valady","Viviez"); ?>

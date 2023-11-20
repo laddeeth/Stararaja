@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barcin","Białe Błota","Bydgoszcz","Dąbrowa Chełmińska","Fordon","Koronowo","Mrocza","Nakło nad Notecią","Nowa Wieś Wielka","Osielsko","Sicienko","Ślesin","Solec Kujawski","Szubin","Zławieś Wielka","Złotniki Kujawskie","Łabiszyn"); ?>

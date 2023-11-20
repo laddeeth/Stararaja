@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beschendorf","Blekendorf","Burg auf Fehmarn","Dahme","Damlos","Goel","Gremersdorf","Grömitz","Grossenbrode","Grube","Harmsdorf","Heiligenhafen","Kabelhorst","Kellenhusen","Lensahn","Manhagen","Oldenburg in Holstein","Riepsdorf","Wangels"); ?>

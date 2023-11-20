@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bratenahl","Chagrin Falls","Chardon","Chesterland","Cleveland Heights","Eastlake","Euclid","Fairport Harbor","Gates Mills","Kirtland","Mayfield Heights","Mentor","Mentor-on-the-Lake","Moreland Hills","Painesville","Pepper Pike","Shaker Heights","South Euclid","Willoughby","Willoughby Hills","Willowick"); ?>

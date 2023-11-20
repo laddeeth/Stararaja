@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chotcza","Ciepielów","Dęblin","Garbatka-Letnisko","Gózd","Janowiec","Karczmiska","Kazanów","Kazimierz Dolny","Końskowola","Lipsko","Opole Lubelskie","Pionki","Policzna","Przyłęk","Puławy","Rzeczniów","Solec Nad Wisłą","Tczów","Wąwolnica","Wilków","Zwoleń","Łaziska"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bobrowice","Czerwieńsk","Kożuchów","Krosno Odrzańskie","Kunice Żarskie","Lipinki Łużyckie","Lubsko","Nowogród Bobrzański","Ochla","Sieniawa Żarska","Świdnica","Żagań","Żary","Zielona Góra"); ?>

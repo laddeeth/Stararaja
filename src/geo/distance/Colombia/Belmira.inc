@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antioquia","Belmira","Buriticá","Don Matías","Entrerríos","Liborina","San Jerónimo","San José de La Montaña","Santa Rosa de Osos"); ?>

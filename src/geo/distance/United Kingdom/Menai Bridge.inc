@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aber","Amlwch","Beaumaris","Benllech","Bethesda","Betws-y-Coed","Caernarfon","Conwy","Deganwy","Llanberis","Llandudno","Llanfachraeth","Llanfaethlu","Llanfairfechan","Llanfairpwllgwyngyll","Llangefni","Llangoed","Llanrug","Llanrwst","Llansantffraid Glan Conwy","Llanwnda","Menai Bridge","Mochdre","Moelfre","Valley"); ?>

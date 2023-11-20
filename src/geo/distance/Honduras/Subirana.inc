@@ -1,0 +1,1 @@
+<?php $neighbours = array("El Bálsamo","El Negrito","La Estancia","La Trinidad","Las Vegas","Lomitas","Mojimán","Morazán","Nueva Esperanza","Ocote Paulino","Paujiles","Punta Ocote","Santa Rita","Subirana","Yorito"); ?>

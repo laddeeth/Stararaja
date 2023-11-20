@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abreschviller","Dabo","Dieuze","Drulingen","La Broque","Lorquin","Lutzelhouse","Marmoutier","Monswiller","Niderviller","Niederhaslach","Oberhaslach","Otterswiller","Phalsbourg","Réding","Rothau","Russ","Sarrebourg","Sarrewerden","Saverne","Schirmeck","Senones","Urmatt","Walscheid","Wangenbourg-Engenthal","Wisches"); ?>

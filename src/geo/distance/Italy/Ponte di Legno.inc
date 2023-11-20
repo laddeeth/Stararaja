@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aprica","Berzo Demo","Bormio","Capo di Ponte","Cedegolo","Cevo","Corteno Golgi","Dimaro","Edolo","Grosio","Grosotto","Malonno","Mazzo di Valtellina","Peio","Pinzolo","Ponte di Legno","Sellero","Sondalo","Sonico","Spiazzo","Temù","Tione di Trento","Tirano","Valdisotto","Valfurva","Vermiglio","Villa di Tirano"); ?>

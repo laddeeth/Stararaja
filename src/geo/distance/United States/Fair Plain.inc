@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benton Harbor","Benton Heights","Berrien Springs","Bridgman","Coloma","Fair Plain","Lake Michigan Beach","Paw Paw Lake","Shorewood-Tower Hills-Harbert"); ?>

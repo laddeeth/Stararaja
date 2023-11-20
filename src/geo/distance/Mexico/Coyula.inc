@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atequiza","Atotonilquillo","Cajititlán","Coyula","El Quince","El Verde","Guadalajara","Ixtlahuacán del Río","Juanacatlán","La Aurora","Las Pintas de Arriba","Nuevo México","San Agustín","San José del Castillo","San Sebastián el Grande","Santa Anita","Santa Cruz del Valle","Tlaquepaque","Zapopan","Zapopan2","Zapotlanejo"); ?>

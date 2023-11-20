@@ -1,0 +1,1 @@
+<option value="Salaga">Salaga</option><option value="Saltpond">Saltpond</option><option value="Savelugu">Savelugu</option><option value="Sekondi">Sekondi</option><option value="Shama Junction">Shama Junction</option><option value="Suhum">Suhum</option><option value="Sunyani">Sunyani</option><option value="Swedru">Swedru</option>

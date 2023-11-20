@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boca del Monte","Chocamán","Cosautlán de Carbajal","Coscomatepec de Bravo","Huatusco de Chicuellar","Monte Blanco","Paso del Macho","Tomatlán","Totutla","Tuzamapan"); ?>

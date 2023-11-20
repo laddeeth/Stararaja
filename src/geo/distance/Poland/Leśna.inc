@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bogatynia","Gryfów Śląski","Leśna","Lubań","Lwówek Śląski","Mirsk","Nowogrodziec","Olszyna","Pieńsk","Pisarzowice","Siekierczyn","Stara Kamienica","Sulików","Świeradów-Zdrój","Szklarska Poręba","Węgliniec","Wleń","Zawidów","Zgorzelec"); ?>

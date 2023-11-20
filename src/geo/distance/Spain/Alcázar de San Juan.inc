@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcázar de San Juan","Campo de Criptana","Camuñas","El Toboso","Herencia","La Puebla de Almoradiel","Madridejos","Miguel Esteban","Pedro Muñoz","Puerto Lápice","Quero","Quintanar de la Orden","Villa de Don Fadrique","Villacañas","Villafranca de los Caballeros","Villarta de San Juan"); ?>

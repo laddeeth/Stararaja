@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ayden","Brices Creek","Grifton","James City","New Bern","River Bend","River Road","Trent Woods","Vanceboro"); ?>

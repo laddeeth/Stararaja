@@ -1,0 +1,1 @@
+<option value="Nedelino">Nedelino</option><option value="Nesebŭr">Nesebŭr</option><option value="Nikolaevo">Nikolaevo</option><option value="Nikopol">Nikopol</option><option value="Nova Zagora">Nova Zagora</option><option value="Novi Pazar">Novi Pazar</option><option value="Novo Selo">Novo Selo</option>

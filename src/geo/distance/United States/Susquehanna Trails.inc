@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bel Air","Bel Air North","Bel Air South","Conestoga","Dallastown","Fallston","Jarrettsville","Lampeter","Millersville","New Freedom","North Bel Air","Quarryville","Red Lion","South Bel Air","Stewartstown","Strasburg","Susquehanna Trails","Willow Street","Yoe"); ?>

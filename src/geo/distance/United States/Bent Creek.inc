@@ -1,0 +1,1 @@
+<?php $neighbours = array("Asheville","Avery Creek","Balfour","Barker Heights","Bent Creek","Biltmore Forest","Black Mountain","Clyde","Dana","Edneyville","Etowah","Fletcher","Hendersonville","Hoopers Creek","Horse Shoe","Laurel Park","Mills River","Royal Pines","Swannanoa","Valley Hill","Weaverville","West Canton","Woodfin"); ?>

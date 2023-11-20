@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alsike","Bålsta","Bro","Knivsta","Märsta","Örsundsbro","Rosersberg","Sävja","Sigtuna","Storvreta","Upplands Väsby","Uppsala","Vattholma"); ?>

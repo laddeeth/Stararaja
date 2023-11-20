@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Wilsnack","Breddin","Gerdshagen","Groß Pankow","Großderschau","Gumtow","Havelberg","Heiligengrabe","Kamern","Kyritz","Perleberg","Plattenburg","Pritzwalk","Rhinow","Rühstädt","Sandau","Triglitz","Walsleben","Wittstock","Wusterhausen"); ?>

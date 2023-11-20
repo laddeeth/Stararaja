@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acultzingo","Amatlán de los Reyes","Atzacán","Ciudad Mendoza","Córdoba","Cuautlapan","Cuichapa","Fortín de las Flores","Huiloapan","Ixhuatlancillo","Ixtaczoquitlán","Jalapilla","La Perla","Maltrata","Mariano Escobedo","Monte Blanco","Nogales","Orizaba","Paraje Nuevo","Rafael Delgado","Río Blanco","Tequila","Tocuila","Zongolica"); ?>

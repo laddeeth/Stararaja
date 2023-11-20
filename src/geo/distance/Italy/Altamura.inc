@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acquaviva delle Fonti","Altamura","Binetto","Bitetto","Cassano delle Murge","Gravina in Puglia","Grottole","Grumo Appula","Irsina","Matera","Miglionico","Palo del Colle","Poggiorsini","Sannicandro di Bari","Santeramo in Colle","Toritto"); ?>

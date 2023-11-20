@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alassio","Albenga","Andora","Badalucco","Castellaro","Ceriale","Ceriana","Cervo","Cipressa","Cisano sul Neva","Diano Castello","Diano Marina","Diano San Pietro","Dolcedo","Imperia","Laigueglia","Ortovero","Ospedaletti","Pieve di Teco","Pontedassio","Riva Ligure","San Lorenzo al Mare","San Remo","Santo Stefano al Mare","Taggia"); ?>

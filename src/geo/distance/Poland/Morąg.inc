@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gietrzwałd","Jonkowo","Lubomino","Małdyty","Miłakowo","Miłomłyn","Morąg","Orneta","Ostróda","Pasłęk","Zalewo"); ?>

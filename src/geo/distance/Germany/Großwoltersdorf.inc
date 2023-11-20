@@ -1,0 +1,1 @@
+<?php $neighbours = array("Fürstenberg","Godendorf","Gransee","Großwoltersdorf","Liebenwalde","Lindow","Lychen","Neuruppin","Priepert","Rheinsberg","Rüthnick","Schönermark","Schwarz","Sonnenberg","Templin","Wesenberg","Zehdenick"); ?>

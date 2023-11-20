@@ -1,0 +1,1 @@
+<?php $neighbours = array("Imielno","Jędrzejów","Kozłów","Miechów","Miechów Charsznica","Nagłowice","Oksa","Secemin","Sędziszów","Szczekociny","Wodzisław","Wolbrom"); ?>

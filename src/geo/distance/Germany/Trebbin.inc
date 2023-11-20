@@ -1,0 +1,1 @@
+<?php $neighbours = array("Am Mellensee","Baruth","Beelitz","Berlin Steglitz Zehlendorf","Borkheide","Borkwalde","Brück","Fichtenwalde","Großbeeren","Jüterbog","Kleinmachnow","Linthe","Luckenwalde","Ludwigsfelde","Michendorf","Niedergörsdorf","Potsdam","Rangsdorf","Schönefeld","Stahnsdorf","Teltow","Trebbin","Treuenbrietzen","Zossen"); ?>

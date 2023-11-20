@@ -1,0 +1,1 @@
+<option value="Sebina">Sebina</option><option value="Sefophe">Sefophe</option><option value="Sehithwa">Sehithwa</option><option value="Sekoma">Sekoma</option><option value="Selebi-Phikwe">Selebi-Phikwe</option><option value="Serowe">Serowe</option><option value="Shakawe">Shakawe</option><option value="Sua">Sua</option>

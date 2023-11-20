@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cyców","Czemierniki","Dębowa Kłoda","Firlej","Jakubowice Murowane","Kamionka","Lubartów","Ludwin","Milanów","Milejów","Niedźwiada","Niemce","Ostrów Lubelski","Parczew","Puchaczów","Serniki","Siemień","Sosnowica","Spiczyn","Urszulin","Uścimów Stary","Wohyń","Wola Sernicka","Łęczna"); ?>

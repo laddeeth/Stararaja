@@ -1,0 +1,1 @@
+<?php $neighbours = array("Kill Devil Hills","Kitty Hawk","Manteo","Nags Head","Wanchese"); ?>

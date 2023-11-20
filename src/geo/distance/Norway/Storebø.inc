@@ -1,0 +1,1 @@
+<?php $neighbours = array("Fitjar","Hagavik","Osøyro","Sandsli","Skogsvågen","Storebø","Syfteland","Uggdal","Ytrebygda"); ?>

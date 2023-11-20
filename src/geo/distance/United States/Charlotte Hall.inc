@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baden","Bennsville","Brandywine","Charlotte Hall","Cobb Island","Colonial Beach","Dahlgren","Dunkirk","Dunkirk Town Center","Golden Beach","Hughesville","Huntingtown","Huntingtown Town Center","La Plata","Leonardtown","Long Beach","Lusby","Mechanicsville","Prince Frederick","Saint Charles","Waldorf"); ?>

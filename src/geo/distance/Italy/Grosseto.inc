@@ -1,0 +1,1 @@
+<?php $neighbours = array("Campagnatico","Castiglione della Pescaia","Cinigiano","Civitella Marittima","Civitella Paganico","Gavorrano","Grosseto","Magliano in Toscana","Roccastrada","Scansano","Scarlino"); ?>

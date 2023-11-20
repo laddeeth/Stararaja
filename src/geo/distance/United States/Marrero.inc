@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ama","Arabi","Avondale","Barataria","Belle Chasse","Boutte","Bridge City","Chalmette","Destrehan","Elmwood","Estelle","Harahan","Harvey","Jean Lafitte","Kenner","Luling","Marrero","Meraux","Metairie","Metairie Terrace","New Orleans","New Sarpy","Poydras","River Ridge","Saint Rose","Terrytown","Timberlane","Violet","Waggaman","Westwego","Woodmere"); ?>

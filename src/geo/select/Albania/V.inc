@@ -1,0 +1,1 @@
+<option value="Vlorë">Vlorë</option><option value="Vorë">Vorë</option>

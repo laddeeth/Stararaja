@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borek Wielkopolski","Dolsk","Dominowo","Gostyń","Jaraczewo","Kórnik","Koźmin Wielkopolski","Krzykosy","Książ Wielkopolski","Miłosław","Nowe Miasto nad Wartą","Pogorzela","Śrem","Środa Wielkopolska","Witaszyce","Zaniemyśl","Żerków"); ?>

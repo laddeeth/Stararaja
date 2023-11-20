@@ -1,0 +1,1 @@
+<option value="Sandgerði">Sandgerði</option><option value="Sauðárkrókur">Sauðárkrókur</option><option value="Selfoss">Selfoss</option><option value="Seltjarnarnes">Seltjarnarnes</option><option value="Siglufjörður">Siglufjörður</option><option value="Stykkishólmur">Stykkishólmur</option>

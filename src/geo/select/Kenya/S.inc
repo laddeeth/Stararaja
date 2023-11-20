@@ -1,0 +1,1 @@
+<option value="Sagana">Sagana</option><option value="Sawa Sawa">Sawa Sawa</option><option value="Shimoni">Shimoni</option><option value="Siaya">Siaya</option><option value="Sotik">Sotik</option>

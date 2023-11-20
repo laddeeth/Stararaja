@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dalton Gardens","Liberty Lake","Otis Orchards-East Farms","Post Falls","Rathdrum"); ?>

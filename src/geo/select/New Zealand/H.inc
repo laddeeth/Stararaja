@@ -1,0 +1,1 @@
+<option value="Hamilton">Hamilton</option><option value="Hastings">Hastings</option><option value="Hawera">Hawera</option><option value="Hokitika">Hokitika</option>

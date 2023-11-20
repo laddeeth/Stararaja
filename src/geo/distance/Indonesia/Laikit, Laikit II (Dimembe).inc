@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bitung","Laikit, Laikit II (Dimembe)","Manado","Tomohon","Tondano"); ?>

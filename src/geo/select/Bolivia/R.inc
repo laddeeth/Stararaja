@@ -1,0 +1,1 @@
+<option value="Reyes">Reyes</option><option value="Riberalta">Riberalta</option><option value="Roboré">Roboré</option><option value="Rosario del Ingre">Rosario del Ingre</option><option value="Rurrenabaque">Rurrenabaque</option>

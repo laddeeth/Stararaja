@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belmonte de Tajo","Chinchón","Colmenar de Oreja","Corral de Almaguer","Dosbarrios","Estremera","Fuente de Pedro Naharro","Fuentidueña de Tajo","Horcajo de Santiago","Noblejas","Ocaña","Santa Cruz de la Zarza","Tarancón","Villarejo de Salvanés","Villarrubia de Santiago","Villatobas"); ?>

@@ -1,0 +1,1 @@
+<option value="Abertamy">Abertamy</option><option value="Adamov">Adamov</option><option value="Albrechtice">Albrechtice</option><option value="Albrechtice nad Orlicí">Albrechtice nad Orlicí</option><option value="Aš">Aš</option>

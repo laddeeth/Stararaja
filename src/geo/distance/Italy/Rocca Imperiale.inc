@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albidona","Amendolara","Colobraro","Montalbano Jonico","Montegiordano","Noepoli","Nova Siri","Oriolo","Policoro","Rocca Imperiale","Roseto Capo Spulico","Rotondella","San Giorgio Lucano","Scanzano Jonico","Senise","Terranova di Pollino","Trebisacce","Tursi","Valsinni"); ?>

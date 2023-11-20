@@ -1,0 +1,1 @@
+<?php $neighbours = array("Damasławek","Gąsawa","Gołańcz","Janowiec Wielkopolski","Kcynia","Margonin","Mieleszyn","Mieścisko","Nakło nad Notecią","Osiek nad Notecią","Sadki","Szamocin","Szubin","Wągrowiec","Wapno","Żnin"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Augy","Auxerre","Champs-sur-Yonne","Charbuy","Clamecy","Diges","Fontenailles","Pourrain","Saint-Amand-en-Puisaye","Saint-Bris-le-Vineux","Saint-Georges-sur-Baulche","Toucy","Varzy","Vermenton"); ?>

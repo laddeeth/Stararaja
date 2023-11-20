@@ -1,0 +1,1 @@
+<?php $neighbours = array("Howards Grove","Kiel","New Holstein","Oostburg","Sheboygan","Sheboygan Falls"); ?>

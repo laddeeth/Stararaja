@@ -1,0 +1,1 @@
+<option value="Сарај">Сарај</option><option value="Слупчане">Слупчане</option><option value="Сопиште">Сопиште</option><option value="Старо Нагоричане">Старо Нагоричане</option><option value="Студеничани">Студеничани</option>

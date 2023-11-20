@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altenpleen","Barth","Born","Fuhlendorf","Groß Kordshagen","Groß Mohrdorf","Karnin","Klausdorf","Kummerow","Löbnitz","Lüdershagen","Neu Bartelshagen","Niepars","Ostseebad Dierhagen","Ostseebad Prerow","Pantelitz","Preetz","Pruchten","Ribnitz-Damgarten","Saal","Schlemmin","Semlow","Trinwillershagen","Velgast","Weitenhagen","Zingst"); ?>

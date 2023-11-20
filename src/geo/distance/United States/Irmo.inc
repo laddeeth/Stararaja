@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blythewood","Cayce","Chapin","Dentsville","Forest Acres","Irmo","Lake Murray of Richland","Pineridge","Red Bank","Saint Andrews","Seven Oaks","South Congaree","West Columbia","Woodfield"); ?>

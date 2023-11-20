@@ -1,0 +1,1 @@
+<?php $neighbours = array("Malborghetto Valbruna","Oltreacqua","Pontebba","Prato di Resia","Tarvisio"); ?>

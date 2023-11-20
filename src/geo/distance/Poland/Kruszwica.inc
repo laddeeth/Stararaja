@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bytoń","Dąbrowa","Gniewkowo","Inowrocław","Janikowo","Jeziora Wielkie","Kruszwica","Mogilno","Orchowo","Osięciny","Pakość","Piotrków Kujawski","Radziejów","Skulsk","Strzelno","Wierzbinek","Wilczogóra","Wilczyn","Złotniki Kujawskie"); ?>

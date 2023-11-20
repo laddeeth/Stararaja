@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biała Piska","Kolno","Mikołajki","Orzysz","Pisz","Ruciane-Nida"); ?>

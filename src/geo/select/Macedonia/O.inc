@@ -1,0 +1,1 @@
+<option value="Obršani">Obršani</option><option value="Ognjaci">Ognjaci</option><option value="Ohrid">Ohrid</option><option value="Oktisi">Oktisi</option><option value="Oraovica">Oraovica</option><option value="Orizari">Orizari</option><option value="Oslomej">Oslomej</option><option value="Otlja">Otlja</option>

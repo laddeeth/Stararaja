@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agerola","Anacapri","Bacoli","Bagnoli","Capri","Castellammare di Stabia","Gragnano","Ischia","Ischia Porto","Massa Lubrense","Meta","Piano di Sorrento","Pimonte","Positano","Praiano","Procida","Sorrento","Torre del Greco","Vico Equense"); ?>

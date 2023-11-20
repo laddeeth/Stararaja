@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baboszewo","Ciechanów","Dzierzążnia","Gąsocin","Glinojeck","Gołymin-Ośrodek","Gzy","Joniec","Naruszewo","Nasielsk","Nowe Miasto","Ojrzeń","Opinogóra Górna","Płońsk","Raciąż","Regimin","Sochocin","Sońsk","Strzegowo","Stupsk","Świercze","Załuski"); ?>

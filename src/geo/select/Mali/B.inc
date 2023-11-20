@@ -1,0 +1,1 @@
+<option value="Bafoulabé">Bafoulabé</option><option value="Bamako">Bamako</option><option value="Banamba">Banamba</option><option value="Bandiagara">Bandiagara</option><option value="Bougouni">Bougouni</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acatlán de Pérez Figueroa","Amatlán de los Reyes","Córdoba","Cosolapa","Cuichapa","Cuitláhuac","Fortín de las Flores","Motzorongo","Omealca","Paraje Nuevo","Paso del Macho","Tezonapa","Yanga","Zongolica"); ?>

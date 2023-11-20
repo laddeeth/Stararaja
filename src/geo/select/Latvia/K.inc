@@ -1,0 +1,1 @@
+<option value="Kandava">Kandava</option><option value="Kārsava">Kārsava</option><option value="Ķegums">Ķegums</option><option value="Ķekava">Ķekava</option><option value="Koknese">Koknese</option><option value="Krāslava">Krāslava</option><option value="Kuldīga">Kuldīga</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alingsås","Bollebygd","Borås","Bua","Dalsjöfors","Fritsla","Gånghester","Hindås","Ingared","Kinna","Länghem","Rävlanda","Sandared","Sjömarken","Svenljunga","Viskafors"); ?>

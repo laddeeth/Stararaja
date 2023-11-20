@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antrim","Ashby","Bow Bog","Deering","Derry","Derry Village","Dunstable","East Merrimack","East Pepperell","Goffstown","Hooksett","Jaffrey","Londonderry","Lyndeborough","Merrimack","Mont Vernon","New Ipswich","Pepperell","Peterborough","Pinardville","South Hooksett","Weare"); ?>

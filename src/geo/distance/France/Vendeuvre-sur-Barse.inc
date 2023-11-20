@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bar-sur-Aube","Bar-sur-Seine","Bréviandes","Brienne-le-Château","Buchères","Creney-près-Troyes","Les Riceys","Lusigny-sur-Barse","Mussy-sur-Seine","Piney","Pont-Sainte-Marie","Rosières-près-Troyes","Saint-Julien-les-Villas","Saint-Parres-aux-Tertres","Troyes","Vendeuvre-sur-Barse","Verrières","Ville-sous-la-Ferté"); ?>

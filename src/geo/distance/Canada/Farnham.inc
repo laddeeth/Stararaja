@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bedford","Bromont","Chambly","Cowansville","Farnham","Granby","Marieville","Richelieu","Rougemont","Saint-Césaire","Saint-Damase","Saint-Jean-sur-Richelieu","Saint-Pie"); ?>

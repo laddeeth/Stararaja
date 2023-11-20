@@ -1,0 +1,1 @@
+<?php $neighbours = array("Argentan","Briouze","Courteilles","Écouché","Falaise","La Ferrière-aux-Étangs","La Ferté-Macé","Magny-le-Désert","Mortrée","Pont-Écrepin","Potigny","Pré-en-Pail","Radon","Saint-Denis-sur-Sarthon","Sées","Tessé-la-Madeleine","Trun"); ?>

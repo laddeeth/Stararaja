@@ -1,0 +1,1 @@
+<?php $neighbours = array("Benavente","Laguna de Negrillos","Mayorga","San Cristóbal de Entreviñas","Santa Cristina de la Polvorosa","Valderas","Valencia de Don Juan","Villalpando","Villamañán","Villanueva del Campo","Villaquejida"); ?>

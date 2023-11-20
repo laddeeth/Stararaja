@@ -1,0 +1,1 @@
+<?php $neighbours = array("Babiak","Boniewo","Brdów","Brudzew","Chodów","Dąbie","Grzegorzew","Izbica Kujawska","Kazimierz Biskupi","Konin","Kościelec","Koło","Kramsk","Krzymów","Licheń Stary","Osiek Mały","Przedecz","Skulsk","Sompolno","Topólka","Turek","Wierzbinek","Władysławów"); ?>

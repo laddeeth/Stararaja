@@ -1,0 +1,1 @@
+<?php $neighbours = array("Avlum","Bording Kirkeby","Gjellerup Kirkeby","Hammerum","Herning","Ikast","Karup","Kjellerup","Lind","Silkeborg","Snejbjerg","Stoholm","Sunds","Viborg","Vildbjerg","Vinderup"); ?>

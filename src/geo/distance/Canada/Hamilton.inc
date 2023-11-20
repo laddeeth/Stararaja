@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brantford","Burlington","Haldimand County","Hamilton"); ?>

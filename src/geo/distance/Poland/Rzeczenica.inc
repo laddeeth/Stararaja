@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biały Bór","Czarne","Człuchów","Debrzno","Koczała","Miastko","Okonek","Przechlewo","Rzeczenica","Szczecinek"); ?>

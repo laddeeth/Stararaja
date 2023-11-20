@@ -1,0 +1,1 @@
+<?php $neighbours = array("Mohave Valley","Needles","Willow Valley"); ?>

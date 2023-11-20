@@ -1,0 +1,1 @@
+<option value="Кадино">Кадино</option><option value="Клечовце">Клечовце</option><option value="Кондово">Кондово</option><option value="Крива Паланка">Крива Паланка</option><option value="Крушево">Крушево</option><option value="Крушопек">Крушопек</option><option value="Куклиш">Куклиш</option>

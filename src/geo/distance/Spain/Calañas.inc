@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alosno","Beas","Calañas","El Cerro de Andévalo","San Bartolomé de la Torre","Trigueros","Valverde del Camino","Zalamea la Real"); ?>

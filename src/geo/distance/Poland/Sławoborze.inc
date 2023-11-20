@@ -1,0 +1,1 @@
+<?php $neighbours = array("Białogard","Brojce","Dygowo","Gościno","Karlino","Połczyn-Zdrój","Rąbino","Resko","Rymań","Świdwin","Sławoborze","Łobez"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Banyoles","Besalú","Cadaqués","Cornellà de Terri","Empuriabrava","Figueres","Llançà","Llers","Peralada","Portbou","Roses","Verges","Vilafant","Vilajuïga"); ?>

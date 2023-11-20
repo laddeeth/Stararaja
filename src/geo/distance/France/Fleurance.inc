@@ -1,0 +1,1 @@
+<?php $neighbours = array("Astaffort","Aubiet","Auch","Beaumont-de-Lomagne","Condom","Fleurance","Gimont","Jegun","Lavit","Lectoure","Pavie","Preignan","Valence-sur-Baïse"); ?>

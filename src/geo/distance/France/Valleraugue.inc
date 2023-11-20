@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anduze","Avèze","Boisset-et-Gaujac","Cazilhac","Florac","Ganges","Laroque","Lasalle","Meyrueis","Saint-Bauzille-de-Putois","Saint-Hippolyte-du-Fort","Saint-Jean-du-Gard","Sauve","Sumène","Valleraugue"); ?>

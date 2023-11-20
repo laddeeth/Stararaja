@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baruth","Crinitz","Drahnsdorf","Golßen","Groß Köris","Halbe","Hohenbucko","Ihlow","Kasel-Golzig","Lebusa","Lübben","Lübbenau","Luckau","Schlepzig","Schlieben","Schönewalde","Sonnewalde","Teupitz"); ?>

@@ -1,0 +1,1 @@
+<option value="Panadura">Panadura</option><option value="Peliyagoda">Peliyagoda</option><option value="Pita Kotte">Pita Kotte</option><option value="Point Pedro">Point Pedro</option><option value="Polonnaruwa">Polonnaruwa</option><option value="Puttalam">Puttalam</option>

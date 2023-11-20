@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaujeu","Belmont-de-la-Loire","Bourg-de-Thizy","Briennon","Chandon","Charlieu","Charolles","Chauffailles","Cours-la-Ville","Coutouvre","La Clayette","Mably","Marcigny","Matour","Paray-le-Monial","Pouilly-sous-Charlieu","Quincié-en-Beaujolais","Saint-Denis-de-Cabanne","Saint-Nizier-sous-Charlieu","Saint-Yan","Thizy","Vougy"); ?>

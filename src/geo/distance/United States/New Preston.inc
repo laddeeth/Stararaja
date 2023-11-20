@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bethlehem Village","Dover Plains","Heritage Village","New Milford","New Preston","Northwest Harwinton","Pawling","Putnam Lake","Southbury","Terryville","Torrington","Waterbury","West Torrington","Woodbury Center"); ?>

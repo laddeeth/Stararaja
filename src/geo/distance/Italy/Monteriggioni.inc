@@ -1,0 +1,1 @@
+<?php $neighbours = array("Castellina in Chianti","Castelnuovo Berardenga","Cavriglia","Certaldo","Chiusdino","Gaiole in Chianti","Gambassi Terme","Greve in Chianti","Monteriggioni","Monticiano","Murlo","Poggibonsi","Radda in Chianti","San Gimignano","Siena","Sovicille","Tavarnelle Val di Pesa","Volterra"); ?>

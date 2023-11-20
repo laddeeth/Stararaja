@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apple Valley","BloomingtonMn","Chanhassen","Chaska","Cologne","Deephaven","Eagan","Eden Prairie","Elko New Market","Excelsior","Jordan","Lakeville","Lonsdale","Mendota Heights","Minnetonka","Minnetonka Mills","New Prague","Prior Lake","Richfield","Saint Louis Park","Shakopee","Spring Park","Tonka Bay","Wayzata"); ?>

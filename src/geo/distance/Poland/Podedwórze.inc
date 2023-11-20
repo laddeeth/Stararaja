@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dębowa Kłoda","Jabłoń","Komarówka Podlaska","Milanów","Parczew","Podedwórze","Rossosz","Sosnowica","Sosnówka","Sławatycze","Tuczna","Uścimów Stary","Wisznice","Wohyń","Włodawa","Łomazy"); ?>

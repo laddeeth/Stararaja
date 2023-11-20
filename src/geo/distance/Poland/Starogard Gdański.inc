@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bobowo","Gniew","Kaliska","Liniewo","Lisewo Malborskie","Lubichowo","Miłoradz","Pelplin","Przywidz","Pszczółki","Skarszewy","Skórcz","Smętowo Graniczne","Stara Kiszewa","Starogard Gdański","Subkowy","Tczew","Trąbki Wielkie","Zblewo"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brudzew","Błaszki","Dąbie","Goszczanów","Kawęczyn","Kościelec","Koźminek","Lisków","Malanów","Opatówek","Pęczniew","Poddębice","Przykona","Stawiszyn","Tuliszków","Turek","Uniejów","Warta","Władysławów","Zadzim","Żelazków"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bressler","Colonial Park","Duncannon","Elizabethville","Enhaut","Enola","Highspire","Lawnton","Lawrence Park","Lemoyne","Linglestown","Lower Allen","Matamoras","New Bloomfield","New Cumberland","Paxtang","Paxtonia","Penbrook","Progress","Schlusser","Shiremanstown","Skyline View","Steelton","West Fairview","Wormleysburg"); ?>

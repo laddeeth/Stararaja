@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abádszalók","Besenyszög","Fegyvernek","Jászladány","Kenderes","Kengyel","Kisköre","Kisújszállás","Kunhegyes","Kunmadaras","Szajol","Szolnok","Tiszabő","Tiszabura","Tiszapüspöki","Tiszaroff","Tiszasüly","Tiszaszentimre","Törökszentmiklós","Túrkeve"); ?>

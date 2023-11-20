@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barczewo","Biskupiec","Czerwonka","Dźwierzuty","Jedwabno","Mrągowo","Pasym","Piecki","Purda","Szczytno"); ?>

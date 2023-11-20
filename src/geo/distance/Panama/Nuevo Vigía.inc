@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcaldedíaz","Buena Vista","Caimitillo","Calzada Larga","Cativá","Cerro Azul","Chilibre","El Giral","La Cabima","Las Cumbres","María Chiquita","Nuevo San Juan","Nuevo Vigía","Panamá","Paraíso","Puerto Pilón","Quebrada Bonita Adentro","Río Alejandro","Río Duque","Río Gatún","Río Rita","Sabanitas","San Miguelito","Santa Clara","Santa Rita Arriba"); ?>

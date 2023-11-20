@@ -1,0 +1,1 @@
+<?php $neighbours = array("Attadale","Bicton","Byford","Coogee","East Fremantle","Fremantle","Kwinana","Mandurah","Medina","Mundijong","North Fremantle","Rockingham","Safety Bay","Serpentine","Spearwood","Warnbro","Wellard"); ?>

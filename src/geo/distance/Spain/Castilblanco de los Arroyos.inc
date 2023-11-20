@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acalá del Río","Alcolea del Río","Brenes","Burguillos","Camas","Cantillana","Castilblanco de los Arroyos","Castilleja de Guzmán","El Castillo de las Guardas","El Ronquillo","Gerena","Guillena","La Algaba","La Rinconada","Salteras","Santiponce","Tocina","Valencina de la Concepción","Villanueva del Río y Minas","Villaverde del Río"); ?>

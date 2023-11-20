@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aydoilles","Baccarat","Bruyères","Chanteheux","Damelevières","Einville-au-Jard","Étival-Clairefontaine","Gerbéviller","Jeanménil","Lunéville","Moyenmoutier","Rambervillers","Saint-Dié-des-Vosges","Saint-Michel-sur-Meurthe","Sainte-Marguerite","Saulcy-sur-Meurthe","Senones","Taintrux"); ?>

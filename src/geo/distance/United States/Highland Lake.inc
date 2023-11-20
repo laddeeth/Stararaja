@@ -1,0 +1,1 @@
+<?php $neighbours = array("Airmont","Florida","Franklin Lakes","Greenwood Lake","Highland Lake","Kinnelon","Lake Mohawk","Lake Telemark","Montebello","Ogdensburg","Pompton Lakes","Port Jervis","Ringwood","Sloatsburg","Suffern","Vernon Valley","Walton Park","Wanaque","Warwick","West Milford","White Meadow Lake"); ?>

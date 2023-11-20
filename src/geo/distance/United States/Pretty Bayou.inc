@@ -1,0 +1,1 @@
+<?php $neighbours = array("Callaway","Cedar Grove","Hiland Park","Laguna Beach","Lower Grand Lagoon","Lynn Haven","Panama City","Panama City Beach","Parker","Pretty Bayou","Springfield","Tyndall Air Force Base","Upper Grand Lagoon"); ?>

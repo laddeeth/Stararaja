@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biecz","Binarowa","Bobowa","Bystra","Dębowiec","Gorlice","Grybów","Kamionka Wielka","Kobylanka","Korzenna","Krempna","Krynica-Zdrój","Lipinki","Lipnica Wielka","Moszczenica","Muszyna","Nawojowa","Nowy Żmigród","Osiek Jasielski","Ropa","Sękowa","Skołyszyn","Uście Gorlickie","Łabowa","Łużna"); ?>

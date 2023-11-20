@@ -1,0 +1,1 @@
+<?php $neighbours = array("Isola del Giglio","Monte Argentario","Orbetello"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Argelès-Gazost","Bagnères-de-Bigorre","Campan","Cauterets","Gerde","Lourdes","Luz-Saint-Sauveur","Pierrefitte-Nestalas","Pouzac","Saint-Lary-Soulan"); ?>

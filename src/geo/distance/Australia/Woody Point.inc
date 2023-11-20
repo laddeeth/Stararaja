@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bongaree","Bracken Ridge","Brisbane","Burpengary","Caboolture","Carindale","Deagon","Deception Bay","Morayfield","Sandgate","Shorncliffe","South Brisbane","Spring Hill","Strathpine","Taigum","Taringa","Toowong","Wellington Point","Windsor","Woody Point","Woolloongabba","Wooloowin","Woorim","Wynnum","Zillmere"); ?>

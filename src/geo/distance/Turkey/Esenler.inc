@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arıköy","Ataşehir","Bağcılar","Bahçelievler","Başakşehir","Beylikdüzü","Büyükçekmece","Esenler","Esenyurt","güngören merter","İstanbul","Maltepe","merter keresteciler","Mimarsinan","Şişli","Sultangazi","Tepecik","Umraniye","Yakuplu","Zeytinburnu"); ?>

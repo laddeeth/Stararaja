@@ -1,0 +1,1 @@
+<?php $neighbours = array("Applewood","Arvada","Boulder","Broomfield","Coal Creek","Commerce City","Dacono","Federal Heights","Firestone","Fort Lupton","Golden","Gunbarrel","Longmont","Niwot","Northglenn","Sherrelwood","Todd Creek","Welby","West Pleasant View","Wheat Ridge"); ?>

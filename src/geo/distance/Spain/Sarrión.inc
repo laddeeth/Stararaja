@@ -1,0 +1,1 @@
+<?php $neighbours = array("Fuentes de Rubielos","Mora de Rubielos","Olba","Puebla de San Miguel","San Agustín","Sarrión"); ?>

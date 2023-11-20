@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brindisi","Campi Salentina","Carovigno","Cellino San Marco","Erchie","Guagnano","Latiano","Mesagne","Novoli","Oria","Salice Salentino","San Donaci","San Michele Salentino","San Pancrazio Salentino","San Pietro Vernotico","San Vito dei Normanni","Squinzano","Torchiarolo","Torre Santa Susanna","Trepuzzi"); ?>

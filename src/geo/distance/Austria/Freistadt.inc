@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alberndorf in der Riedmark","Altenberg bei Linz","Bad Leonfelden","Eidenberg","Engerwitzdorf","Freistadt","Gallneukirchen","Gramastetten","Haibach im Mühlkreis","Hellmonsödt","Kirchschlag bei Linz","Langschlag","Linz","Oberneukirchen","Ottenschlag im Mühlkreis","Reichenau im Mühlkreis","Reichenthal","Schenkenfelden","Steyregg","Zwettl an der Rodl"); ?>

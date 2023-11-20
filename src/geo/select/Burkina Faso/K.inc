@@ -1,0 +1,1 @@
+<option value="Kaya">Kaya</option><option value="Kokologo">Kokologo</option><option value="Kombissiri">Kombissiri</option><option value="Kongoussi">Kongoussi</option><option value="Koudougou">Koudougou</option><option value="Koupéla">Koupéla</option>

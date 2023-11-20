@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antrodoco","Barisciano","Borgorose","Cagnano Amiterno","Carsoli","Cittaducale","Fiamignano","L’Aquila","Montereale","Ocre","Ovindoli","Pescorocchiano","Petrella Salto","Pizzoli","Poggio Picenze","Rocca di Mezzo","Sante Marie","Scoppito","Scurcola Marsicana","Tagliacozzo","Tornimparte"); ?>

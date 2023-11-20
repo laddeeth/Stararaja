@@ -1,0 +1,1 @@
+<?php $neighbours = array("Angaston","Angle Vale","Birdwood","Elizabeth","Freeling","Gawler","Golden Grove","Gumeracha","Hope Valley","Kapunda","Lewiston","Lyndoch","Nuriootpa","One Tree Hill","Roseworthy","Salisbury","Smithfield","Tanunda","Virginia","Willaston","Williamstown"); ?>

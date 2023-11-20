@@ -1,0 +1,1 @@
+<?php $neighbours = array("Angahuán","Capácuaro","Capula","Charapán","Cherán","Chilchota","Comachuén","Nahuatzén","Nuevo San Juan Parangaricutiro","Paracho de Verduzco","San Francisco Pichataro","Tangancícuaro de Arista","Tingambato","Uruapan del Progreso"); ?>

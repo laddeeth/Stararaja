@@ -1,0 +1,1 @@
+<option value="Balykchy">Balykchy</option><option value="Batken">Batken</option><option value="Bazar-Kurgan">Bazar-Kurgan</option><option value="Bishkek">Bishkek</option>

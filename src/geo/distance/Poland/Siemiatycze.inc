@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boćki","Drohiczyn","Dziadkowice","Jabłonna Lacka","Konstantynów","Korczew","Milejczyce","Nurzec-Stacja","Perlejewo","Przesmyki","Sarnaki","Siemiatycze","Stara Kornica","Łosice"); ?>

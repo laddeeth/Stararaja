@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borne Sulinowo","Jastrowie","Krajenka","Lipka","Okonek","Tarnówka","Wałcz","Zakrzewo","Złotów"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alburquerque","Badajoz","La Codosera","La Roca de la Sierra","Puebla de Obando","Talavera la Real","Villar del Rey"); ?>

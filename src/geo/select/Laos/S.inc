@@ -1,0 +1,1 @@
+<option value="Salavan">Salavan</option><option value="Sanaxy">Sanaxy</option><option value="Savannakhét">Savannakhét</option><option value="Soukkouma">Soukkouma</option>

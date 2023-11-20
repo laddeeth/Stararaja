@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chełmno","Chełmża","Ciechocin","Dąbrowa Chełmińska","Fordon","Kowalewo Pomorskie","Lisewo","Lubicz Dolny","Lubicz Górny","Obrowo","Płużnica","Solec Kujawski","Świecie","Toruń","Unisław","Wąbrzeźno","Wielka Nieszawka","Zławieś Wielka","Łubianka","Łysomice"); ?>

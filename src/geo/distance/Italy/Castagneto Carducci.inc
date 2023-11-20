@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bibbona","Campiglia Marittima","Casale Marittimo","Castagneto Carducci","Castellina Marittima","Castelnuovo di Val di Cecina","Cecina","Follonica","Guardistallo","Massa Marittima","Montecatini Val di Cecina","Monterotondo Marittimo","Montescudaio","Piombino","Pomarance","Riparbella","Rosignano Marittimo","San Vincenzo","Suvereto"); ?>

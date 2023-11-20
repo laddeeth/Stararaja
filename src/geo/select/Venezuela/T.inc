@@ -1,0 +1,1 @@
+<option value="Tacarigua">Tacarigua</option><option value="Táriba">Táriba</option><option value="Tinaquillo">Tinaquillo</option><option value="Trujillo">Trujillo</option><option value="Tucacas">Tucacas</option><option value="Tucupita">Tucupita</option><option value="Turmero">Turmero</option>

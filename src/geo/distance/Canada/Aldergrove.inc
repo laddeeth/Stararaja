@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abbotsford","Aldergrove","Langley","Maple Ridge","Mission","Pitt Meadows","Surrey","Walnut Grove","White Rock"); ?>

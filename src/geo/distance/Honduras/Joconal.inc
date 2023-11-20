@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agualote","Azacualpa","Callejones","Casa Quemada","Chalmeca","Concepción de la Barranca","Correderos","El Ciruelo","Joconal","La Flecha","Loma Alta","Los Tangos","Pinalejo","Quimistán","San José de Tarros","San Marcos","Sula","Tras Cerros"); ?>

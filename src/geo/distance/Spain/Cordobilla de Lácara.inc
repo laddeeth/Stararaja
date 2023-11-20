@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcuéscar","Calamonte","Cordobilla de Lácara","Esparragalejo","La Garrovilla","La Nava de Santiago","La Roca de la Sierra","Mérida","Mirandilla","Montánchez","Puebla de Obando","Trujillanos"); ?>

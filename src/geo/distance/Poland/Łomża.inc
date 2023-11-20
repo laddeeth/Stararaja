@@ -1,0 +1,1 @@
+<?php $neighbours = array("Jedwabne","Kolno","Mały Płock","Nowogród","Piątnica","Rutki","Rutki-Kossaki","Śniadowo","Stawiski","Szumowo","Troszyn","Wizna","Zambrów","Zbójna","Łomża"); ?>

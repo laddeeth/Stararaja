@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anghiari","Apecchio","Arezzo","Badia Tedalda","Caprese Michelangelo","Castiglion Fiorentino","Citerna","Città di Castello","Cortona","Mercatello sul Metauro","Monte Grimano","Monte Santa Maria Tiberina","Monterchi","Montone","Pietralunga","Pieve Santo Stefano","Piobbico","Pitigliano","San Giustino","Sansepolcro","Sestino","Umbertide"); ?>

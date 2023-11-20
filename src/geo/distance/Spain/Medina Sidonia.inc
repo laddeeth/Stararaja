@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcalá de los Gazules","Barbate de Franco","Chiclana de la Frontera","Conil de la Frontera","Medina Sidonia","Paterna de Rivera","Puerto Real","San Fernando","Vejer de la Frontera"); ?>

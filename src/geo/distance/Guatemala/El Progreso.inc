@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agua Blanca","Asunción Mita","Atescatempa","Comapa","El Adelanto","El Progreso","Jalpatagua","Jerez","Jutiapa","Monjas","Quesada","San Manuel Chaparrón","Santa Catarina Mita","Yupiltepeque","Zapotitlán"); ?>

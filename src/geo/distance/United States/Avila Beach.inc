@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arroyo Grande","Avila Beach","Callender","Grover Beach","Los Osos","Morro Bay","Nipomo","Oceano","Pismo Beach","San Luis Obispo","Santa Margarita"); ?>

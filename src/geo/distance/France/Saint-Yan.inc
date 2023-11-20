@@ -1,0 +1,1 @@
+<?php $neighbours = array("Briennon","Charolles","Ciry-le-Noble","Digoin","Diou","Dompierre-sur-Besbre","Génelard","Gueugnon","La Clayette","La Motte-Saint-Jean","La Pacaudière","Le Donjon","Marcigny","Molinet","Palinges","Paray-le-Monial","Perrecy-les-Forges","Saint-François","Saint-Yan"); ?>

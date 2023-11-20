@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aspremont","Berre-les-Alpes","Blausasc","Breil-sur-Roya","Cantaron","Carros","Castagniers","Colomars","Contes","Drap","Falicon","Gattières","Gilette","Gorbio","Lantosque","Le Broc","Levens","Lucéram","Peille","Peillon","Roquebillière","Saint-Martin-du-Var","Saint-Martin-Vésubie","Sainte-Agnès","Sospel","Tende","Tourrette-Levens"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Big Rock","Boulder Hill","Carol Stream","Cortland","DeKalb","East Dundee","Elburn","Gilberts","Hampshire","Hanover Park","Hinckley","Maple Park","Naperville","North Aurora","Pingree Grove","Sleepy Hollow","South Elgin","Streamwood","Sugar Grove","Sycamore","Village of Campton Hills","Waterman","West Chicago","West Dundee","Yorkville"); ?>

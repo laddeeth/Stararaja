@@ -1,0 +1,1 @@
+<?php $neighbours = array("Butera","Camastra","Campobello di Licata","Canicattì","Delia","Gela","Licata","Naro","Palma di Montechiaro","Ravanusa","Riesi","Sommatino"); ?>

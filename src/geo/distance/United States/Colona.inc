@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bettendorf","Carbon Cliff","Coal Valley","Colona","East Moline","Eldridge","Geneseo","Green Rock","Le Claire","Moline","Orion","Park View","Port Byron","Silvis"); ?>

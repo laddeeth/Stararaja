@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alveringem","Bredene","De Panne","Diksmuide","Gistel","Houthulst","Ichtegem","Koekelare","Koksijde","Kortemark","Middelkerke","Nieuwpoort","Oostende","Oudenburg","Poperinge","Veurne"); ?>

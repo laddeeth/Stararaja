@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bertrix","Bouillon","Chiny","Étalle","Florenville","Habay-la-Vieille","Herbeumont","Léglise","Meix-devant-Virton","Neufchâteau","Paliseul","Rouvroy","Saint-Léger","Tintigny","Vaux-sur-Sûre","Virton"); ?>

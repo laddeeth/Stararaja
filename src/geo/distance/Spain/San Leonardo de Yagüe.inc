@@ -1,0 +1,1 @@
+<?php $neighbours = array("Covaleda","Duruelo de la Sierra","El Burgo de Osma","Huerta del Rey","Quintanar de la Sierra","Salas de los Infantes","San Leonardo de Yagüe","Vinuesa"); ?>

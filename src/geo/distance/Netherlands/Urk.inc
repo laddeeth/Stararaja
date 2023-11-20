@@ -1,0 +1,1 @@
+<?php $neighbours = array("Balk","Biddinghuizen","Blokzijl","Dronten","Echtenerbrug","Elburg","Emmeloord","Enkhuizen","Ens","Kampen","Koudum","Lelystad","Lemmer","Oudemirdum","Sint Jansklooster","Urk","Vollenhove"); ?>

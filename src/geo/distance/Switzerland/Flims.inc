@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Ragaz","Bonaduz","Breíl","Cazis","Chur","Churwalden","Domat","Ennenda","Felsberg","Flims","Flums","Glarus","Igis","Ilanz","Laax","Landquart","Linthal","Luchsingen","Maienfeld","Malans","Quarten","Rhäzüns","Sargans","Schwanden","Tamins","Thusis","Trimmis","Trun","Untervaz","Zizers"); ?>

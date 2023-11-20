@@ -1,0 +1,1 @@
+<?php $neighbours = array("Asciano","Buonconvento","Castelnuovo Berardenga","Chiusdino","Civitella Marittima","Civitella Paganico","Montalcino","Monteriggioni","Monticiano","Murlo","Pienza","Rapolano Terme","Roccastrada","Siena","Sinalunga","Sovicille","Trequanda"); ?>

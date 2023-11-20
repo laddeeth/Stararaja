@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arrou","Authon-du-Perche","Azé","Bonneval","Brou","Châteaudun","Cloyes-sur-le-Loir","Droué","La Bazoche-Gouet","La Chapelle-du-Noyer","La Ville-aux-Clercs","Lunay","Marboué","Mondoubleau","Morée","Naveil","Oucques","Saint-Calais","Saint-Denis-les-Ponts","Sargé-sur-Braye","Savigny-sur-Braye","Unverre","Vendôme","Vibraye","Villiers-sur-Loir","Yèvres"); ?>

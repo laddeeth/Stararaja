@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alden","Angola on the Lake","Billington Heights","Blasdell","Cheektowaga","Clarence","Clarence Center","Depew","East Aurora","Eggertsville","Elma Center","Grandyle Village","Harris Hill","Kenmore","Lackawanna","North Boston","North Tonawanda","Orchard Park","Sloan","Tonawanda","Town Line","Wanakah","West Seneca"); ?>

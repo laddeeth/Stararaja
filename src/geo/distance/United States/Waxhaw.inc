@@ -1,0 +1,1 @@
+<?php $neighbours = array("Catawba","Fort Mill","Hemby Bridge","India Hook","Indian Trail","Irwin","Lancaster Mill","Lesslie","Marvin","Matthews","Mint Hill","Stallings","Tega Cay","Waxhaw","Weddington","Wingate"); ?>

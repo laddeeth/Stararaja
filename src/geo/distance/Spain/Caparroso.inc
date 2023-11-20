@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldeanueva de Ebro","Alfaro","Andosilla","Arguedas","Artajona","Azagra","Cadreita","Calahorra","Caparroso","Cárcar","Carcastillo","Castejón","Corella","Falces","Funes","Larraga","Marcilla","Milagro","Olite","Peralta","Rincón de Soto","San Adrián","Santacara","Tafalla","Valtierra","Villafranca"); ?>

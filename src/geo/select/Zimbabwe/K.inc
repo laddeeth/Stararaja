@@ -1,0 +1,1 @@
+<option value="Kadoma">Kadoma</option><option value="Kamativi Mine">Kamativi Mine</option><option value="Kariba">Kariba</option><option value="Karoi">Karoi</option><option value="Kwekwe">Kwekwe</option>

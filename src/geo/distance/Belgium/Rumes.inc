@@ -1,0 +1,1 @@
+<?php $neighbours = array("Antoing","Avelgem","Bernissart","Celles","Estaimpuis","Frasnes-lez-Anvaing","Frasnes-lez-Buissenal","Menen","Mouscron","Pecq","Péruwelz","Ronse","Rumes","Tournai","Wevelgem","Zwevegem"); ?>

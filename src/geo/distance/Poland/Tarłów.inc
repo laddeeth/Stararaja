@@ -1,0 +1,1 @@
+<?php $neighbours = array("Annopol","Bałtów","Bodzechów","Chotcza","Chwałowice","Ciepielów","Ćmielów","Dwikozy","Dzierzkowice","Gościeradów","Józefów nad Wisłą","Księżomierz","Lipsko","Opole Lubelskie","Ostrowiec Świętokrzyski","Ożarów","Rzeczniów","Sadowie","Sienno","Solec Nad Wisłą","Tarłów","Urzędów","Wilczyce","Wojciechowice","Zawichost","Łaziska"); ?>

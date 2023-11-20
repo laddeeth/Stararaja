@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albert Town","Balaclava","Black River","Coleyville","Lacovia","Maggotty","Malvern","Mandeville","Maroon Town","Nain","Porus","Santa Cruz","Siloah","Ulster Spring","Wakefield","Williamsfield"); ?>

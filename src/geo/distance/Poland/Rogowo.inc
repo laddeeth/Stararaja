@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brzuze","Chrostkowo","Golub-Dobrzyń","Kikół","Lipno","Lutocin","Mochowo","Ostrowite","Radomin","Rogowo","Rościszewo","Rypin","Sierpc","Skępe","Skrwilno","Świedziebnia","Szczutowo","Tłuchowo","Wąpielsk","Wielgie","Zbójno"); ?>

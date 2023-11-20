@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apt","Bédoin","Buis-les-Baronnies","Caromb","Carpentras","Cavaillon","Céreste","Gargas","Gordes","Goult","Malaucène","Malemort-du-Comtat","Mazan","Mormoiron","Reillanne","Saignon","Saint-Saturnin-lès-Apt","Sault","Venasque","Villes-sur-Auzon"); ?>

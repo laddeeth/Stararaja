@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belmonte","Casas de Fernando Alonso","El Pedernoso","El Provencio","Honrubia","La Alberca de Záncara","Las Mesas","Las Pedroñeras","Minaya","San Clemente","Sisante","Villarrobledo"); ?>

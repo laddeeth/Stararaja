@@ -1,0 +1,1 @@
+<option value="Saharna">Saharna</option><option value="Sîngera">Sîngera</option><option value="Sîngerei">Sîngerei</option><option value="Slobozia">Slobozia</option><option value="Şoldăneşti">Şoldăneşti</option><option value="Soroca">Soroca</option><option value="Stăuceni">Stăuceni</option><option value="Ştefan-Vodă">Ştefan-Vodă</option><option value="Străşeni">Străşeni</option>

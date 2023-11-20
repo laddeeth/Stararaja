@@ -1,0 +1,1 @@
+<?php $neighbours = array("Berlin","Bethany Beach","Ocean Pines","Ocean View","Pittsville","Selbyville","West Ocean City"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aljojuca","Ciudad Serdán","Cuapiaxtla","Guadalupe Victoria","Nopalucan de la Granja","Oriental","Quecholac","Rafael Lara Grajales","San José Chiapa","San Nicolás de Buenos Aires","San Salvador el Seco","San Sebastián Villanueva","Santa María Ixtiyucan","Soltepec","Tequixquitla","Tlachichuca","Zacatepec"); ?>

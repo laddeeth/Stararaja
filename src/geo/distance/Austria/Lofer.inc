@@ -1,0 +1,1 @@
+<?php $neighbours = array("Fieberbrunn","Hochfilzen","Kirchdorf in Tirol","Kitzbühel","Kössen","Leogang","Lofer","Maishofen","Maria Alm am Steinernen Meer","Oberndorf in Tirol","Reith bei Kitzbühel","Saalbach","Saalfelden am Steinernen Meer","Sankt Martin bei Lofer","Schwendt","Unken","Viehhofen","Waidring","Walchsee","Zell am See"); ?>

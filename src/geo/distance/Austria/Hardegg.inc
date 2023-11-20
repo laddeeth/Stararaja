@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brunn an der Wild","Eggenburg","Geras","Guntersdorf","Hadres","Hardegg","Haugsdorf","Horn","Japons","Langau","Pernegg","Pernersdorf","Pulkau","Raabs an der Thaya","Retz","Röschitz","Schrattenthal","Sigmundsherberg","Weitersfeld","Zellerndorf"); ?>

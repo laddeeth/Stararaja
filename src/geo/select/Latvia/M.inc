@@ -1,0 +1,1 @@
+<option value="Madona">Madona</option><option value="Mālpils">Mālpils</option><option value="Mazsalaca">Mazsalaca</option><option value="Mērsrags">Mērsrags</option><option value="Murmuiža">Murmuiža</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alajuelita","Aserrí","Cartago","Curridabat","Orosí","Pacayas","Palmichal","Paraíso","Patarrá","Salitrillos","San Diego","San Felipe","San Ignacio","San Juan de Dios","San Marcos","San Miguel","San Rafael Arriba","Tejar","Tobosí","Tres Ríos"); ?>

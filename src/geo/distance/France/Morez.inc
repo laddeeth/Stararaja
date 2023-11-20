@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cessy","Champagnole","Chens-sur-Léman","Chevry","Clairvaux-les-Lacs","Divonne-les-Bains","Échenevex","Ferney-Voltaire","Gex","Lavans-lès-Saint-Claude","Les Rousses","Longchaumois","Messery","Moirans-en-Montagne","Morbier","Morez","Ornex","Saint-Claude","Saint-Lupicin","Sauverny","Ségny","Sergy","Valfin-lès-Saint-Claude"); ?>

@@ -1,0 +1,1 @@
+<option value="Zavet">Zavet</option><option value="Zelenikovo">Zelenikovo</option><option value="Zemen">Zemen</option><option value="Zlataritsa">Zlataritsa</option><option value="Zlatitsa">Zlatitsa</option><option value="Zlatni Pyasatsi">Zlatni Pyasatsi</option><option value="Zlatograd">Zlatograd</option>

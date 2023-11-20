@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cadott","Chippewa Falls","Eau Claire","Fall Creek","Lake Hallie","Lake Wissota","Strum"); ?>

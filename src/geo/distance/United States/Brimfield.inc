@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belchertown","Bondsville","Brimfield","Charlton","Dudley","East Brookfield","East Longmeadow","Fiskdale","Hampden","Leicester","Monson","Monson Center","North Brookfield","North Grosvenor Dale","Oakham","Quinebaug","Somers","South Woodstock","Southbridge","Stafford Springs","Sturbridge","Wales","Ware","West Brookfield","Wilbraham"); ?>

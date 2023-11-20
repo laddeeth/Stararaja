@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arrone","Bevagna","Campello sul Clitunno","Cascia","Castel Ritaldi","Cerreto di Spoleto","Ferentillo","Foligno","Leonessa","Maltignano","Montefalco","Montefranco","Norcia","Pieve Torina","Sellano","Serravalle di Chienti","Spello","Spoleto","Trevi","Valtopina","Visso"); ?>

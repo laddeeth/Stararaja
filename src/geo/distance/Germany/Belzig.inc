@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abtsdorf","Beelitz","Belzig","Borkheide","Borkwalde","Brück","Coswig","Fichtenwalde","Görzke","Gräben","Kropstädt","Linthe","Niemegk","Nudersdorf","Treuenbrietzen","Wenzlow","Wiesenburg","Wollin","Zahna","Ziesar"); ?>

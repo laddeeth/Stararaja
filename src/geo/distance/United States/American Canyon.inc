@@ -1,0 +1,1 @@
+<?php $neighbours = array("American Canyon","Benicia","Black Point-Green Point","Boyes Hot Springs","East Richmond Heights","El Cerrito","El Sobrante","El Verano","Fetters Hot Springs-Agua Caliente","Hercules","Montalvin","Napa","North Richmond","Novato","Pacheco","Pinole","Rodeo","San Pablo","Sonoma","Suisun","Tara Hills","Temelec","Vallejo","Vine Hill","Yountville"); ?>

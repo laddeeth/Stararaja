@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bobrowniki","Bolimów","Budziszewice","Cielądz","Czerniewice","Dmosin","Domaniewice","Gałków Mały","Godzianów","Głowno","Głuchów","Jeżów","Kawęczyn Nowy","Koluszki","Kowiesy","Lipce Reymontowskie","Maków","Nieborów","Nowosolna","Puszcza Mariańska","Rawa Mazowiecka","Regnów","Skierniewice","Stryków","Żelechlinek","Łowicz","Łyszkowice"); ?>

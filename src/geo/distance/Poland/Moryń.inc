@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boleszkowice","Cedynia","Chojna","Mieszkowice","Moryń","Trzcińsko Zdrój","Widuchowa"); ?>

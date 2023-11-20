@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blacktown","Blaxland","Castle Hill","Doonside","Galston","Girraween","Glenbrook","Glenhaven","Glenmore Park","Glenorie","Kenthurst","Mount Druitt","Mulgoa","Northmead","Penrith","Pitt Town","Quakers Hill","Richmond","Riverstone","Rouse Hill"); ?>

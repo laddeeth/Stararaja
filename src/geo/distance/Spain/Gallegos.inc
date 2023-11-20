@@ -1,0 +1,1 @@
+<?php $neighbours = array("Buitrago del Lozoya","Bustarviejo","Cantalejo","Gallegos","La Cabrera","La Cuesta","La Lastrilla","Miraflores de la Sierra","Montejo de la Sierra","Palazuelos de Eresma","Rascafría","Robregordo","San Cristóbal de Segovia","San Ildefonso","Sepúlveda","Somosierra","Turégano"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arcachon","Biscarrosse","Gujan-Mestras","La Teste-de-Buch","Labouheyre","Le Teich","Mimizan","Mios","Parentis-en-Born","Pontenx-les-Forges","Salles","Sanguinet","Ychoux"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gąsocin","Gołymin-Ośrodek","Gzy","Karniewo","Krasne","Krasnosielc","Maków Mazowiecki","Młynarze","Obryte","Opinogóra Górna","Pokrzywnica","Przasnysz","Pułtusk","Płoniawy-Bramura","Różan","Rząśnik","Rzewnie","Sońsk","Sypniewo","Szelków","Winnica"); ?>

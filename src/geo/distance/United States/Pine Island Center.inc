@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bokeelia","Burnt Store Marina","Cape Coral","Cypress Lake","Fort Myers","Fort Myers Beach","Harlem Heights","Iona","Lochmoor Waterway Estates","McGregor","North Fort Myers","Palmona Park","Pine Island Center","Pine Manor","Punta Rassa","Saint James City","Sanibel","Suncoast Estates","Villas","Whiskey Creek"); ?>

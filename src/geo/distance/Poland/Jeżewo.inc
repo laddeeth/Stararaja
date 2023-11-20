@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bukowiec","Chełmno","Drzycim","Grudziądz","Jeżewo","Lisewo","Lniano","Nowe","Osie","Pruszcz","Smętowo Graniczne","Świecie","Świekatowo","Warlubie"); ?>

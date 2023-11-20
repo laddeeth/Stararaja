@@ -1,0 +1,1 @@
+<?php $neighbours = array("Černovice","Český Rudolec","Chlum u Třeboně","Jarošov nad Nežárkou","Jindřichův Hradec","Kamenice nad Lipou","Kardašova Řečice","Kunžak","Lomnice nad Lužnicí","Nová Bystřice","Nová Včelnice","Počátky","Soběslav","Strmilov","Studená","Suchdol nad Lužnicí","Třeboň","Veselí nad Lužnicí","Žirovnice"); ?>

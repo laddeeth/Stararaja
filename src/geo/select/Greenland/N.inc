@@ -1,0 +1,1 @@
+<option value="Nanortalik">Nanortalik</option><option value="Narsaq">Narsaq</option><option value="Nuuk">Nuuk</option>

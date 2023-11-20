@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcalalí","Altea","Beniarbeig","Benidoleig","Benidorm","Benissa","Benitachell","Busot","Calp","Finestrat","Gata de Gorgos","Jalón","la Nucia","Moraira","Ondara","Orba","Orcheta","Pedreguer","Pego","Polop","Teulada","Vall de Gallinera","Vergel","Villajoyosa"); ?>

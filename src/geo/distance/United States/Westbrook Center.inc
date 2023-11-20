@@ -1,0 +1,1 @@
+<?php $neighbours = array("Central Waterford","Chester Center","Deep River Center","East Haddam","Essex Village","Greenport","Greenport West","Guilford","Guilford Center","Higganum","Madison Center","Moodus","Niantic","North Branford","Old Saybrook","Old Saybrook Center","Saybrook Manor","Shelter Island","Shelter Island Heights","Southold","Westbrook Center"); ?>

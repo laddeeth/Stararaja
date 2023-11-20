@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cuiabá","Santo Antônio do Leverger","Várzea Grande"); ?>

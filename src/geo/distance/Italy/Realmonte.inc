@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agrigento","Alessandria della Rocca","Aragona","Calamonaci","Castrofilippo","Cattolica Eraclea","Cianciana","Favara","Grotte","Joppolo Giancaxio","Montallegro","Naro","Palma di Montechiaro","Porto Empedocle","Racalmuto","Raffadali","Realmonte","Ribera","San Biagio Platani","Santa Elisabetta","Siculiana"); ?>

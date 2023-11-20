@@ -1,0 +1,1 @@
+<option value="Thakhèk">Thakhèk</option><option value="Thatèng">Thatèng</option>

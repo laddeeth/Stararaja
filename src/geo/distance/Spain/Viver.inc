@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altura","Artana","Casinos","Fuentes de Rubielos","Jérica","Marines","Olba","Olocau","San Agustín","Segorbe","Serra","Soneja","Villar del Arzobispo","Viver"); ?>

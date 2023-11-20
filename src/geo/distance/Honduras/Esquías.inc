@@ -1,0 +1,1 @@
+<?php $neighbours = array("El Escanito","El Guantillo","El Pedernal","El Suyatal","Esquías","Jamalteca","Marale","Mata de Plátano","Minas de Oro","Quebradas","San Antonio de la Cuesta","San José del Potrero","Sulaco","Vallecillo"); ?>

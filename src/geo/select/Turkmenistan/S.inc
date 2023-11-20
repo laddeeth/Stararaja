@@ -1,0 +1,1 @@
+<option value="Saýat">Saýat</option><option value="Serhetabat">Serhetabat</option><option value="Seydi">Seydi</option>

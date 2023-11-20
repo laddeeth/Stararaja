@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anse-Bertrand","Baie-Mahault","Bouillante","Lamentin","Le Gosier","Les Abymes","Petit-Bourg","Petit-Canal","Pointe-à-Pitre","Pointe-Noire","Port-Louis","Sainte-Rose"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bolindale","Chagrin Falls","Champion Heights","Craig Beach","Garrettsville","Howland Center","Kent","Leavittsburg","Lordstown","Middlefield","Morgandale","Newton Falls","Reminderville","South Canal","South Russell","Streetsboro","Twinsburg"); ?>

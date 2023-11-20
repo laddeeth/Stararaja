@@ -1,0 +1,1 @@
+<?php $neighbours = array("Althüttendorf","Angermünde","Friedrichswalde","Gerswalde","Göritz","Gramzow","Joachimsthal","Milmersdorf","Mittenwalde","Prenzlau","Schenkenberg","Templin","Zichow"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Champenoux","Chanteheux","Château-Salins","Créhange","Dieuze","Einville-au-Jard","Faulquemont","Folschviller","Holving","Keskastel","Lorquin","Lunéville","Morhange","Réding","Sarrebourg","Sarrewerden","Teting-sur-Nied","Vic-sur-Seille"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Franeker","Harlingen","Hollum","Minnertsga","Oost-Vlieland","Sexbierum","Sint Jacobiparochie","Tzummarum","West-Terschelling"); ?>

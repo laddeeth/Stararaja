@@ -1,0 +1,1 @@
+<?php $neighbours = array("Accettura","Albano di Lucania","Altamura","Ferrandina","Garaguso","Grassano","Gravina in Puglia","Grottole","Irsina","Matera","Miglionico","Montescaglioso","Pietrapertosa","Pisticci","Pomarico","Salandra","San Chirico Nuovo","San Mauro Forte","Stigliano","Tricarico"); ?>

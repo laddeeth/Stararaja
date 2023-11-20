@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ahetze","Anglet","Arbonne","Arcangues","Ascain","Bassussarry","Bayonne","Biarritz","Bidart","Ciboure","Espelette","Guéthary","Hendaye","Larressore","Saint-Jean-de-Luz","Saint-Pée-sur-Nivelle","Sare","Souraïde","Urrugne","Ustaritz","Villefranque"); ?>

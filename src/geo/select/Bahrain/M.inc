@@ -1,0 +1,1 @@
+<option value="Madīnat Ḩamad">Madīnat Ḩamad</option><option value="Madīnat ‘Īsá">Madīnat ‘Īsá</option><option value="Manama">Manama</option>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ama","Avondale","Bayou Gauche","Boutte","Des Allemands","Destrehan","Edgard","Garyville","Hahnville","Harahan","Kenner","Laplace","Larose","Lockport","Lockport Heights","Luling","Mathews","Montegut","Montz","New Sarpy","Norco","North Vacherie","Paradis","Reserve","River Ridge","Saint Rose","South Vacherie","Waggaman"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Debrzno","Gostycyn","Kamień Krajeński","Kęsowo","Koronowo","Lipka","Mrocza","Nakło nad Notecią","Osiek nad Notecią","Sadki","Sępólno Krajeńskie","Sicienko","Ślesin","Sośno","Więcbork","Wyrzysk","Zakrzewo","Złotów","Łobżenica"); ?>

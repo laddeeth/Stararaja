@@ -1,0 +1,1 @@
+<?php $neighbours = array("Człopa","Drawno","Kalisz Pomorski","Mirosławiec","Trzcianka","Tuczno","Wałcz","Wierzchowo"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bessemer","Birmingham","Brighton","Brookside","Concord","Dora","Fairfield","Forestdale","Graysville","Helena","Homewood","Hoover","Hueytown","Lake View","Lipscomb","Midfield","Minor","Mount Olive","Pleasant Grove","Rock Creek","Sylvan Springs","Vestavia Hills"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Algonac","Marine City","Mount Clemens","Pearl Beach","Saint Clair Shores"); ?>

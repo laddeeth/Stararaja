@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bierutów","Brzeg","Bystrzyca","Chróścice","Czernica","Dobrzeń Wielki","Grodków","Jelcz","Jelcz Laskowice","Kup","Lewin Brzeski","Lubsza","Namysłów","Niemodlin","Olszanka","Oława","Pokój","Popielów","Przeworno","Ratowice","Siechnice","Skarbimierz Osiedle","Skorogoszcz","Skoroszyce","Strzelin","Świerczów","Wiązów","Łosiów"); ?>

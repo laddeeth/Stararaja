@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almafuerte","Arroyo del Medio","Cerro Azul","Cerro Corá","Dos Arroyos","Florentino Ameghino","General Alvear","Guaraní","Mártires","Oberá","Picada Gobernador López"); ?>

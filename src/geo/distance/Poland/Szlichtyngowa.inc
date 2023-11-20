@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brenno","Bytom Odrzański","Gaworzyce","Góra","Grębocice","Głogów","Jemielno","Kotla","Polkowice","Radwanice","Rudna","Święciechowa","Szlichtyngowa","Sława","Wijewo","Wilkowice","Wschowa","Włoszakowice"); ?>

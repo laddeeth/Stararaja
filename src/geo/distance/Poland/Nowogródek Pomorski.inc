@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barlinek","Bogdaniec","Gorzów Wielkopolski","Jenin","Kozielice","Kłodawa","Lipiany","Lubiszyn","Myślibórz","Nowogródek Pomorski","Pełczyce","Przelewice","Pyrzyce","Trzcińsko Zdrój","Witnica"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Azusa","Baldwin Park","Bradbury","Charter Oak","Chino","Chino Hills","Citrus","Covina","Diamond Bar","Duarte","Glen Avon","Irwindale","La Verne","Los Serranos","Mira Loma","Muscoy","Pedley","Rancho Cucamonga","Rialto","Rubidoux","San Antonio Heights","San Dimas","South San Jose Hills","Sunnyslope","Valinda","West Covina","Wrightwood"); ?>

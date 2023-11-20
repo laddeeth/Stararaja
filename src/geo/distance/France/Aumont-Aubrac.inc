@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aumont-Aubrac","Chanac","Chaudes-Aigues","Chirac","Le Malzieu-Ville","Marvejols","Mende","Montrodat","Saint-Alban-sur-Limagnole"); ?>

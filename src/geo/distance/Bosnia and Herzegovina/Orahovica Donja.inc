@@ -1,0 +1,1 @@
+<?php $neighbours = array("Barice","Doboj","Donja Međiđa","Gnojnica","Gračanica","Gradačac","Karadaglije","Kiseljak","Kovači","Liješnica","Lukavica","Maglaj","Malešići","Mionica","Mramor","Orahovica Donja","Puračić","Šerići","Sladna","Solina","Srebrenik","Stjepan-Polje","Tešanjka","Tuzla","Zavidovići"); ?>

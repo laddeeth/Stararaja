@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bledzew","Bogdaniec","Deszczno","Gorzów Wielkopolski","Górzyca","Jenin","Kostrzyn nad Odrą","Krzeszyce","Kłodawa","Lubiszyn","Lubniewice","Ośno Lubuskie","Rzepin","Sulęcin","Słońsk","Witnica"); ?>

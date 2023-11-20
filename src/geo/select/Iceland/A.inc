@@ -1,0 +1,1 @@
+<option value="Akranes">Akranes</option><option value="Akureyri">Akureyri</option><option value="Álftanes">Álftanes</option>

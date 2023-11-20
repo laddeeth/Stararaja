@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chabris","Châtillon-sur-Cher","Châtres-sur-Cher","Écueillé","Gièvres","Graçay","Levroux","Luçay-le-Mâle","Mareuil-sur-Cher","Mur-de-Sologne","Noyers-sur-Cher","Pruniers-en-Sologne","Romorantin-Lanthenay","Saint-Aignan","Saint-Romain-sur-Cher","Seigy","Selles-sur-Cher","Soings-en-Sologne","Thésée","Valençay","Vatan","Villefranche-sur-Cher"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bom Jesus dos Perdões","Bragança Paulista","Camanducaia","Extrema","Joanópolis","Piracaia"); ?>

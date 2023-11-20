@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aureilhan","Bagnères-de-Bigorre","Barbazan-Debat","Boulogne-sur-Gesse","Campan","Capvern","Gerde","Gourdan-Polignan","Horgues","La Barthe-de-Neste","Labarthe-Rivière","Laloubère","Lannemezan","Montréjeau","Odos","Orleix","Pouzac","Saint-Gaudens","Séméac","Soues","Tarbes","Tournay","Trie-sur-Baïse","Villeneuve-de-Rivière"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Damnica","Główczyce","Lębork","Nowa Wieś Lęborska","Potęgowo","Smołdzino","Słupsk","Łeba"); ?>

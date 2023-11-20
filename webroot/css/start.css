@@ -1,0 +1,480 @@
+/*
+blå #69A2DB
+mörkare blå #34516E
+*/
+
+
+@font-face {
+    font-family: walkway;
+    src: url(fonts/walkway.ttf);
+		font-weight:bold;
+}
+
+@font-face {
+    font-family: sand;
+    src: url(fonts/sand.otf);
+}
+
+body {
+	font-family: sand, Georgia, serif;
+	margin:0;
+	padding:0;
+	background-color:white;
+	color:white;
+	font-size:1em;
+	width:100%;
+	min-width:928px;
+	max-width:100%;
+}
+
+a {
+	text-decoration:none;
+	color:#34516E;
+	font-size:70%;
+	vertical-align:top;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+
+
+#wrapper {
+	position: relative;
+	width:100%;
+	min-width:100%;
+	max-width:100%;
+	overflow:hidden;
+}
+
+#top {
+	font-family: walkway, Georgia, serif;
+	min-width:100%;
+	max-width:100%;
+	width:100%;
+	background-color:#34516E;
+	font-size:500%;
+	letter-spacing:2px;
+	padding: 0.5% 1% 0.5% 1%;
+	clear:both;
+	overflow:auto;
+	border-bottom:solid 2px black;
+}
+
+#top a {
+	color:white;
+	text-decoration:none;
+	font-size:100%;
+}
+#logo {
+	float:left;
+}
+
+#logo img {
+	max-width:5%;
+}
+#logoseperator {
+	float:left;
+	margin-left:0.6%;
+}
+#logotext {
+	font-size:40%;
+	float:left;
+	margin:0.7% 0% 0% 0.7%;
+}
+
+#yuimage {
+	width:47%;
+	max-width:47%;
+	min-width:47%;
+	float:left;
+	text-align:right;
+	margin:4% 0% 0% 0%;
+}
+
+#yuimg {
+	width:85%;
+	min-width:85%;
+	max-width:85%;
+	margin-right:10%;
+}
+
+#yulog {
+	width:44%;
+	max-width:44%;
+	min-width:44%;
+	text-align:left;
+	float:left;
+	font-size:280%;
+	margin:2% 0% 0% 0%;
+}
+
+#loginbutton, #signupbutton {
+	text-align:left;
+	padding:0% 2% 0% 2%;
+	vertical-align:bottom;
+	display:inline-block;
+	cursor: pointer;
+}
+
+.selectedlog {
+	font-size:100%;
+	background-color:#34516E;
+}
+
+.unselectedlog {
+	font-size:70%;
+	background-color:#C8C8DA;
+
+}
+
+
+#rutan {
+	max-width:100%;
+	overflow:hidden;
+	font-size:60%;
+	color:#34516E;
+	border-top:solid 2px #34516E;
+	clear:both;
+	padding-top:1%;
+	padding-right:3%;
+	text-align:left;
+}
+
+.textright {
+	text-align:right;
+}
+
+.textleft {
+	text-align:left;
+}
+
+.inputboxtd {
+	padding-left:2%;
+	width:100%;
+}
+
+input[type=password], input[type=text]{
+	margin-bottom:1%;
+	display:block;
+	border:solid 1px #34516E;
+	font-size:75%;
+	padding:1%;
+	width:100%;
+	max-width:100%;
+	min-width:100%;
+	font-weight:200;
+}
+
+input[type=button] {
+	padding:1.5%;
+	width:60%;
+	max-width:60%;
+	min-width:60%;
+	font-family: sand, Georgia, serif;
+	appearance:button;
+	-moz-appearance:button;
+	-webkit-appearance:button;
+	font-size:100%;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	border:1px solid #0D2A38; 
+	color:white;
+	background-color: #70AEEB;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#70AEEB), to(#5684B3));
+	background-image: -webkit-linear-gradient(top, #70AEEB, #5684B3);
+	background-image: -moz-linear-gradient(top, #70AEEB, #5684B3);
+	background-image: -ms-linear-gradient(top, #70AEEB, #5684B3);
+	background-image: -o-linear-gradient(top, #70AEEB, #5684B3);
+	background-image: linear-gradient(to bottom, #70AEEB, #5684B3);
+	filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#70AEEB, endColorstr=#5684B3);
+	letter-spacing:2px;
+}
+
+input[type=button]:hover {
+  background-color: #4395e5; background-image: -webkit-gradient(linear, left top, left bottom, from(#4395e5), to(#426b94));
+  background-image: -webkit-linear-gradient(top, #4395e5, #426b94);
+  background-image: -moz-linear-gradient(top, #4395e5, #426b94);
+  background-image: -ms-linear-gradient(top, #4395e5, #426b94);
+  background-image: -o-linear-gradient(top, #4395e5, #426b94);
+  background-image: linear-gradient(to bottom, #4395e5, #426b94);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#4395e5, endColorstr=#426b94);
+}
+
+
+table tbody td {
+	padding-bottom:1%;
+}
+
+table {
+	width:98%;
+	max-width:98%;
+	min-width:98%;
+}
+
+.hidden {
+	display:none;
+}
+
+#register td {
+	padding:0% 2% 0% 2%;
+}
+
+#register {
+	font-size:70%;
+}
+
+#countrybox {
+	width:100%;
+	padding: 1% 0% 0% 2%;
+}
+
+#countrybox span {
+	float:left;
+	padding: 0% 2% 0% 1%;
+	display:block;
+	min-width:15%;
+}
+
+select {
+	float:left;
+	margin-right:1%;
+}
+
+#countrybox p {
+	margin:0;
+	width:100%;
+	min-width:100%;
+	clear:both;
+}
+
+.livewhere {
+	font-size:150%;
+	margin-top:4%;
+}
+
+fieldset {
+	border:none;
+	margin:0;
+	padding:0;
+}
+
+#register input[type=button] {
+	margin: 2% 10% 20px 2%;
+	font-size:150%;
+	float:left;
+}
+
+#register input[type=radio] {
+	margin:2% 2% 2% 2%;
+	vertical-align:top;
+}
+
+#register input[type=text], #register input[type=password]{
+	font-size:100%;
+	margin-bottom:5%;
+}
+
+#overlay{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	z-index:997;
+	background:#000;
+	padding:6%;
+}
+
+#registererrors {
+	background-color: white;
+	padding:2%;
+	border: solid 4px black;
+	z-index:998;
+	font-size:130%;
+	color:black;
+	
+}
+
+#registererrors p {
+	margin:1%;
+}
+
+#close{
+    display:block;
+    float:right;
+    width:30px;
+    height:30px;
+    background:url('../img/close-black.png') no-repeat center center;
+		background-size:cover;
+}
+
+.regerror, .regsuccess {
+	background-image: -webkit-linear-gradient(top, #FF3333 0%, #E68080 100%);
+	background-image: -moz-linear-gradient(top, #B4FF9B 0%, #85FF5C 100%);
+	background-image: -ms-linear-gradient(top, #B4FF9B 0%, #85FF5C 100%);
+	background-image: -o-linear-gradient(top, #B4FF9B 0%, #85FF5C 100%);
+	background-image: linear-gradient(top, #B4FF9B 0%, #85FF5C 100%);
+	color:white;
+	padding:2%;
+	border:solid 3px #801A1A;
+	border-radius: 4px;
+	font-size:120%;
+	min-width:98%;
+}
+
+.regsuccess {
+	background-image: -webkit-linear-gradient(top, #B4FF9B 0%, #85FF5C 100%);
+	background-image: -moz-linear-gradient(top, #B4FF9B 0%, #85FF5C 100%);
+	background-image: -ms-linear-gradient(top, #B4FF9B 0%, #85FF5C 100%);
+	background-image: -o-linear-gradient(top, #B4FF9B 0%, #85FF5C 100%);
+	background-image: linear-gradient(top, #B4FF9B 0%, #85FF5C 100%);
+	border:solid 3px #215210;
+	min-width:98%;
+	color:black;
+	float:left;
+}
+
+.regsuccess img, .regerror img{
+	max-width:14%;
+	float:right;
+	margin:0px;
+}
+
+/* AUTHPAGESPECIFICS */
+
+#authinfo {
+	color: #34516E;
+	font-size:80%;
+}
+
+#authinfo h2 {
+	font-family: walkway, Georgia, serif;
+	background-color:#34516E;
+	color:white;
+	margin:0;
+	text-align:center;
+	font-size:120%;
+	padding:2% 0 2% 0;
+}
+
+#authinfo p {
+	padding:2%;
+	margin:0;
+	font-size:70%;
+}
+
+#authinfo a{
+	font-size:180%;
+}
+
+.countdown {
+	text-align:center;
+	line-height:170%;
+}
+
+#countview {
+	background-color:#34516E;
+	color:white;
+	border-radius:100%;
+	padding: 1% 2% 1% 2%;
+	border:solid 1px black;
+}
+
+#formforgotpassword {
+	padding:2%;
+	padding-top:0;
+	max-width:94%;
+}
+
+#formforgotpassword input[type=button] {
+	padding:0;
+	min-width:40%;
+	max-width:40%;
+}
+
+#forgotmessage {
+	padding:2%;
+	background-color: #A6CAED;
+	margin:2%;
+	color:black;
+	border:solid 1px black;
+	font-size:75%;
+	float:left;
+	max-width:92%;
+	line-height:1.5em;
+	visibility:hidden;
+	padding-left:12%;
+	position:relative;
+}
+
+#forgotmessage img {
+	position:absolute;
+	top:5px;
+	left:5px;
+	max-width:10%;
+	float:left;
+}
+
+#loginmessage {
+	padding:2%;
+	background-color: #A6CAED;
+	margin:2%;
+	color:black;
+	border:solid 1px black;
+	font-size:75%;
+	float:left;
+	line-height:1.5em;
+	display:none;
+	padding-left:12%;
+	position:relative;
+	max-width:55%;
+	min-width:55%;
+	width:55%;
+}
+
+#loginmessage img {
+	position:absolute;
+	top:5px;
+	left:5px;
+	max-width:13%;
+	float:left;
+}
+
+#forgotbody #backimage, #changebody #backimage{
+	max-width:8%;
+	margin:0px;
+	padding:0px;
+	float:left;
+	margin:2.4% 4% 0% 2%;
+}
+
+#forgotbody h2, #changebody h2 {
+	text-align:left;
+}
+
+#changebody #authinfo form {
+	padding:0 3% 0 1.5%;
+}
+
+#changebody #forgotmessage {
+	margin-left:0;
+	margin-top:0;
+}
+
+#loadingimage {
+	margin:2% 2% 2% 30%;
+	visibility:hidden;
+}
+#loadingimage img{
+	max-width:15%;
+}
+
+
+
+
+
+
+

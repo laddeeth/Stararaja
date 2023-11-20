@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almelo","Borne","Coevorden","Dalen","Dalfsen","Delden","Den Ham","Diepenheim","Goor","Hardenberg","Heino","Hengelo","Hengevelde","Magele","Markelo","Oldenzaal","Raalte","Schoonebeek","Tubbergen","Vriezenveen","Vroomshoop","Westerhaar-Vriezenveensewijk","Wierden"); ?>

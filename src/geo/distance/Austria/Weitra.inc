@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altmelon","Arbesbach","Echsenbach","Eisgarn","Gmünd","Groß-Gerungs","Heidenreichstein","Hirschbach","Hoheneich","Kirchberg am Walde","Langschlag","Litschau","Rappottenstein","Schönbach","Schrems","Schwarzenau","Schweiggers","Vitis","Waldenstein","Weitra","Zwettl Stift"); ?>

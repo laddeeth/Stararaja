@@ -1,0 +1,1 @@
+<?php $neighbours = array("Fendels","Gries im Sellrain","Gschnitz","Jerzens","Kauns","Ladis","Neustift im Stubaital","Oetz","Prutz","Ried im Oberinntal","Sautens","Sölden","Umhausen"); ?>

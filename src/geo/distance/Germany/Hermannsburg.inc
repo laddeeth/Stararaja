@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adelheidsdorf","Ahnsbeck","Beedenbostel","Bispingen","Celle","Eimke","Eldingen","Eschede","Fallingbostel","Faßberg","Gerdau","Habighorst","Hambühren","Hermannsburg","Höfer","Lachendorf","Munster","Scharnhorst","Soltau","Sprakensehl","Suderburg","Unterlüß","Wienhausen","Wietze","Wietzendorf","Winsen (Aller)","Wriedel"); ?>

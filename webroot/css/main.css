@@ -1,0 +1,26 @@
+body, html {
+	margin:0;
+	padding:0;
+}
+#top {
+	width:100%;
+	min-width:100%;
+	max-width:100%;
+	background-color:#34516E;
+	min-height:50px;
+	position:relative;
+	text-align:center;
+}
+
+#logoutbutton {
+	position:absolute;
+	right:0;
+	margin:6px 2px 0 0;
+	max-width:2%;
+}
+
+.navbutton {
+	margin-top:50px;
+	max-width:5%;
+	margin-right:3%;
+}

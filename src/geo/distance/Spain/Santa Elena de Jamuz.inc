@@ -1,0 +1,1 @@
+<?php $neighbours = array("Astorga","Benavides","Bustillo del Páramo","Castrocalbón","Castrocontrigo","Hospital de Órbigo","La Bañeza","Laguna de Negrillos","San Justo de la Vega","Santa Elena de Jamuz","Santa María del Páramo","Santa Marina del Rey","Santibáñez de Vidriales","Soto de la Vega","Valdevimbre","Villamañán","Villaquejida","Villarejo de Órbigo"); ?>

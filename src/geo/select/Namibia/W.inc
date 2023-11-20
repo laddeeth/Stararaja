@@ -1,0 +1,1 @@
+<option value="Walvis Bay">Walvis Bay</option><option value="Warmbad">Warmbad</option><option value="Windhoek">Windhoek</option>

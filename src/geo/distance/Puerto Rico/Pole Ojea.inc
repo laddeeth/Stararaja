@@ -1,0 +1,1 @@
+<?php $neighbours = array("Boquerón","Cabo Rojo","Fuig","Guánica","Hormigueros","La Parguera","Lajas","Liborio Negron Torres","Mayagüez","Monte Grande","Pole Ojea","Puerto Real","Sabana Eneas","Sabana Grande","San Germán"); ?>

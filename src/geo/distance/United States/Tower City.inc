@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cleona","Elizabethville","Fairview-Ferndale","Kulpmont","Lykens","Marshallton","Minersville","Pine Grove","Sand Hill","Shamokin","Tower City","Trevorton"); ?>

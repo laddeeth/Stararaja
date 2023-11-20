@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aduard","Anloo","Assen","Bedum","Borger","Drachtstercompagnie","Grijpskerk","Groningen","Grootegast","Haren","Hoogezand","Korrewegwijk","Leek","Noordhorn","Oldehove","Oosterpark","Oude Pekela","Sappemeer","Slochteren","Stadskanaal","Surhuisterveen","Tynaarlo","Veendam","Vries","Winsum","Zuidhorn","Zuidlaren"); ?>

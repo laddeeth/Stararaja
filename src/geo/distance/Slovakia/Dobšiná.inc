@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dobšiná","Levoča","Poprad","Revúca","Rožňava","Spišská Nová Ves","Svit"); ?>

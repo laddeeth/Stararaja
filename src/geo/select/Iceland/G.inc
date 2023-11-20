@@ -1,0 +1,1 @@
+<option value="Garðabær">Garðabær</option><option value="Grindavík">Grindavík</option>

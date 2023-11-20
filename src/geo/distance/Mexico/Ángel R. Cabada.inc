@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ángel R. Cabada","Lerdo de Tejada","Mundo Nuevo","Saltabarranca","San Andrés Tuxtla","Santiago Tuxtla","Tlacotalpan"); ?>

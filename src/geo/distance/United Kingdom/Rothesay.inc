@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ardrossan","Beith","Bridge of Weir","Dalry","Dunoon","Fairlie","Gourock","Greenock","Helensburgh","Innellan","Inverkip","Kilbirnie","Kilcreggan","Kilmacolm","Kilwinning","Largs","Lochwinnoch","Millport","Port Bannatyne","Port Glasgow","Rhu","Rothesay","Saltcoats","Skelmorlie","Stevenston","Tarbert","Wemyss Bay","West Kilbride"); ?>

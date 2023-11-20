@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bingham Farms","Bloomfield Hills","Farmington Hills","Keego Harbor","Lathrup Village","Northville","Novi","Orchard Lake","Redford","South Lyon","Southfield","Sylvan Lake","Walled Lake","Waterford","Westland","Whitmore Lake","Wixom","Wolverine Lake"); ?>

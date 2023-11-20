@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bozel","Courchevel","Le Monêtier-les-Bains","Les Allues","Méribel","Modane","Saint-Bon-Tarentaise","Saint-Jean-de-Maurienne","Saint-Martin-de-Belleville","Saint-Michel-de-Maurienne","Val Thorens","Valloire","Villargondran"); ?>

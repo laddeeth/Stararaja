@@ -1,0 +1,1 @@
+<?php $neighbours = array("Długosiodło","Goworowo","Gołymin-Ośrodek","Gzy","Karniewo","Krasne","Krasnosielc","Maków Mazowiecki","Młynarze","Obryte","Pokrzywnica","Pułtusk","Płoniawy-Bramura","Różan","Rząśnik","Rzewnie","Sypniewo","Szelków","Winnica","Zatory"); ?>

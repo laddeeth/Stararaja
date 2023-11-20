@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belmont","Beresfield","Bolwarra","Cardiff","Charlestown","Dora Creek","East Maitland","Heddon Greta","Holmesville","Kahibah","Kotara","Kurri Kurri","Lambton","Largs","Lorn","Medowie","New Lambton","Newcastle","Rathmines","Raworth","Raymond Terrace","Redhead"); ?>

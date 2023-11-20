@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ashaway","East Greenwich","Hope Valley","Narragansett Pier","Newport East","North Kingstown","Pawcatuck","Wakefield-Peacedale","West Warwick","Westerly"); ?>

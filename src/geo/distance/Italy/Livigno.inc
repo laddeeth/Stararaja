@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bormio","Grosio","Grosotto","Livigno","Sondalo","Valdidentro","Valdisotto","Valfurva"); ?>

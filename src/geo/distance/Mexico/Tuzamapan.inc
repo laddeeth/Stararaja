@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alto Lucero","Banderilla","Boca del Monte","Coacoatzintla","Coatepec","Cosautlán de Carbajal","El Castillo","Huatusco de Chicuellar","Jalapa Enríquez","Jilotepec","Naolinco","Rafael Lucio","Teocelo","Totutla","Tuzamapan","Xico"); ?>

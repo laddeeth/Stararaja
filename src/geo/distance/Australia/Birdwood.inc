@@ -1,0 +1,1 @@
+<?php $neighbours = array("Adelaide Hills","Athelstone","Balhannah","Birdwood","Bridgewater","Campbelltown","Gilles Plains","Golden Grove","Gumeracha","Hahndorf","Hope Valley","Littlehampton","Lobethal","Lyndoch","Modbury","Mount Barker","Nairne","Oakbank","One Tree Hill","Paradise","Smithfield","Williamstown","Woodside"); ?>

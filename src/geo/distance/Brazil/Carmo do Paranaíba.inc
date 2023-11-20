@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carmo do Paranaíba","Lagoa Formosa"); ?>

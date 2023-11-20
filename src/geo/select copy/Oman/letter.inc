@@ -1,0 +1,1 @@
+<option value="A">A</option><option value="B">B</option><option value="D">D</option><option value="H">H</option><option value="I">I</option><option value="K">K</option><option value="M">M</option><option value="N">N</option><option value="Ş">Ş</option><option value="Y">Y</option><option value="‘">‘</option>

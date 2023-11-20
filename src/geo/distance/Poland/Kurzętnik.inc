@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bartniczka","Bobrowo","Brodnica","Brzozie","Iława","Jabłonowo Pomorskie","Kurzętnik","Lidzbark","Lubawa","Nowe Miasto Lubawskie","Świedziebnia"); ?>

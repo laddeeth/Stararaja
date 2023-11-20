@@ -1,0 +1,1 @@
+<?php $neighbours = array("Anacortes","Ault Field","Camano","Coupeville","Port Townsend","Stanwood","Warm Beach"); ?>

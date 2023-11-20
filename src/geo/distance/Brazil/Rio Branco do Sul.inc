@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almirante Tamandaré","Campina Grande do Sul","Colombo","Curitiba","Itaperuçu","Rio Branco do Sul"); ?>

@@ -1,0 +1,1 @@
+<option value="Boshkengash">Boshkengash</option><option value="Bŭston">Bŭston</option><option value="Bŭstonqal’a">Bŭstonqal’a</option>

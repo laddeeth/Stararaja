@@ -1,0 +1,1 @@
+<?php $neighbours = array("Battle Creek","Brownlee Park","Comstock Northwest","Kalamazoo","Level Park-Oak Park","Otsego","Parchment","Plainwell","South Gull Lake"); ?>

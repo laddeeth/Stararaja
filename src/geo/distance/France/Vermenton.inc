@@ -1,0 +1,1 @@
+<?php $neighbours = array("Appoigny","Augy","Auxerre","Avallon","Chablis","Champs-sur-Yonne","Charbuy","Clamecy","Diges","Fontenailles","Gurgy","Héry","Joux-la-Ville","Ligny-le-Châtel","Monéteau","Pourrain","Saint-Bris-le-Vineux","Saint-Georges-sur-Baulche","Seignelay","Tonnerre","Venoy","Vermenton"); ?>

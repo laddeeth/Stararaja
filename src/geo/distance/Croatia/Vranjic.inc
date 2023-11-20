@@ -1,0 +1,1 @@
+<?php $neighbours = array("Brnaze","Duće","Dugopolje","Gala","Greda","Hrvace","Jesenice","Kamen","Klis","Košute","Marina","Mravince","Omiš","Podstrana","Postire","Sinj","Solin","Split","Srinjine","Stobreč","Supetar","Trilj","Trogir","Turjaci","Veliki Drvenik","Vranjic","Žrnovnica"); ?>

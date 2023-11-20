@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dąbrowa Zielona","Koniecpol","Krasocin","Małogoszcz","Nagłowice","Oksa","Przedbórz","Secemin","Szczekociny","Słupia","Włoszczowa","Łopuszno"); ?>

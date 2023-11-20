@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ballplay","Cedar Bluff","Centre","Collinsville","Crossville","Fort Payne","Gadsden","Glencoe","Hokes Bluff","Leesburg","Whitesboro"); ?>

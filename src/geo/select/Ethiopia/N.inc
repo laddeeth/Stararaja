@@ -1,0 +1,1 @@
+<option value="Nazrēt">Nazrēt</option><option value="Nejo">Nejo</option>

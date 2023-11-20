@@ -1,0 +1,1 @@
+<?php $neighbours = array("Białobrzegi","Brańszczyk","Dąbrówka","Duczki","Gzy","Jasienica","Karniewo","Klembów","Kobyłka","Legionowo","Michałów-Reginów","Nasielsk","Nieporęt","Nowe Lipiny","Obryte","Pokrzywnica","Pułtusk","Radzymin","Rząśnik","Rzewnie","Serock","Stanisławów Pierwszy","Świercze","Szelków","Słupno","Tłuszcz","Wieliszew","Winnica","Wołomin","Wyszków","Zatory"); ?>

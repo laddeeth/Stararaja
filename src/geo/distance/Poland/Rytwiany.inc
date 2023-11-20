@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baćkowice","Baranów Sandomierski","Bogoria","Borowa","Czermin","Gnojno","Iwaniska","Klimontów","Koprzywnica","Oleśnica","Osiek","Pacanów","Padew Narodowa","Połaniec","Raków","Rytwiany","Solec-Zdrój","Staszów","Stopnica","Szczucin","Szydłów","Słupiec","Trzciana","Tuczępy","Łagów","Łoniów","Łubnice"); ?>

@@ -1,0 +1,1 @@
+<option value="Lạng Sơn">Lạng Sơn</option><option value="Lào Cai">Lào Cai</option><option value="Long Xuyên">Long Xuyên</option>

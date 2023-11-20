@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguadulce","Aguilar","Alameda","Badolatosa","Benamejí","Casariche","El Rubio","Encinas Reales","Estepa","Fuente de Piedra","Gilena","Herrera","La Rambla","La Roda de Andalucía","Lucena","Marinaleda","Mollina","Montalbán de Córdoba","Montilla","Monturque","Palenciana","Pedrera","Puente-Genil","Santaella"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("La Escondida","La Verde","Lapachito","Makallé","Puerto Tirol"); ?>

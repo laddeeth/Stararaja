@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bratunac","Han Pijesak","Milići","Šekovići","Srebrenica","Vlasenica","Zvornik"); ?>

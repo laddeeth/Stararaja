@@ -1,0 +1,1 @@
+<option value="Faḩmah">Faḩmah</option><option value="Faqqū‘ah">Faqqū‘ah</option><option value="Farkhah">Farkhah</option><option value="Far‘ūn">Far‘ūn</option>

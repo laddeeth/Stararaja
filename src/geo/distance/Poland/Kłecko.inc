@@ -1,0 +1,1 @@
+<?php $neighbours = array("Czerniejewo","Damasławek","Gąsawa","Gniezno","Janowiec Wielkopolski","Kiszkowo","Kostrzyn","Kłecko","Mieleszyn","Mieścisko","Murowana Goślina","Nekla","Niechanowo","Pobiedziska","Skoki","Trzemeszno","Wągrowiec"); ?>

@@ -1,0 +1,1 @@
+<option value="Gagarin">Gagarin</option><option value="Galaosiyo">Galaosiyo</option><option value="Gazli">Gazli</option><option value="Ghijduwon">Ghijduwon</option><option value="Guliston">Guliston</option><option value="Gurlan">Gurlan</option><option value="G‘azalkent">G‘azalkent</option><option value="G‘uzor Shahri">G‘uzor Shahri</option><option value="G’uzor">G’uzor</option>

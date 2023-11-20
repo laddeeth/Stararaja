@@ -1,0 +1,1 @@
+<option value="Makhinjauri">Makhinjauri</option><option value="Manglisi">Manglisi</option><option value="Marneuli">Marneuli</option><option value="Martvili">Martvili</option><option value="Meria">Meria</option><option value="Mestia">Mestia</option><option value="Mts’khet’a">Mts’khet’a</option>

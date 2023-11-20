@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dombóvár","Kadarkút","Kaposmérő","Kaposvár","Nagybajom","Sásd","Somogyvár","Taszár"); ?>

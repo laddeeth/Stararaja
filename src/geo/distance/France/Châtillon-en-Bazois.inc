@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cercy-la-Tour","Château-Chinon(Ville)","Châtillon-en-Bazois","Corbigny","Decize","La Machine","Lormes","Moulins-Engilbert","Prémery","Saint-Léger-des-Vignes"); ?>

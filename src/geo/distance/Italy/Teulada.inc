@@ -1,0 +1,1 @@
+<?php $neighbours = array("Capoterra","Domus de Maria","Giba","Masainas","Narcao","Nuxis","Perdaxius","Pula","San Giovanni Suergiu","Santadi","Sant’Anna Arresi","Sarroch","Teulada","Tratalias","Villa San Pietro","Villaperuccio"); ?>

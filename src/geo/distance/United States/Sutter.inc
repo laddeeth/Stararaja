@@ -1,0 +1,1 @@
+<?php $neighbours = array("Biggs","Colusa","Linda","Olivehurst","Plumas Lake","South Yuba City","Sutter","Tierra Buena","Yuba City"); ?>

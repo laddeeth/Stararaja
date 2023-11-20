@@ -1,0 +1,1 @@
+<?php $neighbours = array("Century Village","Cypress Lakes","Golden Lakes","Hobe Sound","Juno Beach","Jupiter","Lake Park","Lakeside Green","Limestone Creek","Mangonia Park","North Palm Beach","Palm Beach Gardens","Palm Beach Shores","Palm City","Plantation Mobile Home Park","Port Salerno","Riviera Beach","Schall Circle","Stuart","Tequesta","West Palm Beach"); ?>

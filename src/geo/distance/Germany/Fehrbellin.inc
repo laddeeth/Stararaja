@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dabergotz","Fehrbellin","Friesack","Großderschau","Kotzen","Kremmen","Kyritz","Lindow","Nauen","Nennhausen","Neuruppin","Paulinenaue","Pessin","Retzow","Rhinow","Rüthnick","Walsleben","Wusterhausen"); ?>

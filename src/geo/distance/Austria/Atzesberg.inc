@@ -1,0 +1,1 @@
+<?php $neighbours = array("Atzesberg","Bad Leonfelden","Bad Schallerbach","Eidenberg","Feldkirchen an der Donau","Goldwörth","Gramastetten","Hellmonsödt","Herzogsdorf","Kirchschlag bei Linz","Kleinzell im Mühlkreis","Nebelberg","Oberneukirchen","Ottensheim","Pfarrkirchen im Mühlkreis","Sankt Gotthard im Mühlkreis","Ulrichsberg","Walding","Zwettl an der Rodl"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcaucín","Algarrobo","Alhama de Granada","Almáchar","Almuñécar","Arenas","Arenas del Rey","Benamargosa","Benamocarra","Canillas de Aceituno","Comares","Frigiliana","Ítrabo","Jayena","Moclinejo","Nerja","Otívar","Periana","Rincón de la Victoria","Sayalonga","Sedella","Torrox","Valdés","Vélez-Málaga","Viñuela","Zafarraya"); ?>

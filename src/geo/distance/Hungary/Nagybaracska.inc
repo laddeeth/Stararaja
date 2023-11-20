@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bácsbokod","Baja","Báta","Bátaszék","Csávoly","Dávod","Decs","Dunaszekcső","Érsekcsanád","Felsőszentiván","Gara","Hercegszántó","Katymár","Lánycsók","Madaras","Mohács","Nagybaracska","Sükösd","Vaskút"); ?>

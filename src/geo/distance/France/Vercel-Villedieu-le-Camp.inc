@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baume-les-Dames","Besançon","Clerval","Doubs","Étalans","Gilley","Le Russey","Les Fins","Mamirolle","Montfaucon","Montlebon","Morre","Morteau","Nancray","Novillars","Orchamps-Vennes","Ornans","Pierrefontaine-les-Varans","Roulans","Sancey-le-Grand","Saône","Thise","Valdahon","Vercel-Villedieu-le-Camp","Villers-le-Lac"); ?>

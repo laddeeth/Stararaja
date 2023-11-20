@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aloha","Banks","Brush Prairie","Cedar Hills","Cedar Mill","Dollar Corner","Felida","Five Corners","Hazel Dell","Kalama","Meadow Glade","Minnehaha","Mount Vista","North Plains","Orchards","Rockcreek","Saint Helens","Salmon Creek","Scappoose","Vancouver","Vernonia","West Haven-Sylvan","West Slope"); ?>

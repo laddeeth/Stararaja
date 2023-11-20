@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ademuz","Casas de Garcimolina","Landete","Puebla de San Miguel"); ?>

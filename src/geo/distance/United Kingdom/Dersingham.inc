@@ -1,0 +1,1 @@
+<?php $neighbours = array("Clenchwarton","Dersingham","Downham Market","Fakenham","Heacham","Hunstanton","Necton","Snettisham","Sutton Bridge","Swaffham","Terrington Saint Clement","Terrington Saint John","Wells-next-the-Sea"); ?>

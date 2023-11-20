@@ -1,0 +1,1 @@
+<?php $neighbours = array("Attard","Balzan","Birkirkara","Dingli","Għargħur","Il-Gżira","Is-Swieqi","Kerċem","L-Iklin","Lija","Mellieħa","Mġarr","Mosta","Msida","Nadur","Naxxar","Qala","Qormi","Rabat","San Ġiljan","San Ġwann","San Pawl il-Baħar","Sannat","Santa Vennera","Siġġiewi","Sliema","Ta’ Xbiex","Victoria","Xagħra","Xewkija","Żebbuġ","Ħamrun"); ?>

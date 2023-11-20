@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguining","Bien Unido","Buenavista","Calituban","Camambugan","Dagohoy","Hinlayagan Ilaud","Jandayan","Jetafe","La Hacienda","Mahayag","Pitogo","Tagum Norte","Talibon","Tipolo","Trinidad","Ubay"); ?>

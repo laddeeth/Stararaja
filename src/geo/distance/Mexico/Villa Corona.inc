@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bellavista","Chiquilistlán","Cuyutlán","El Crucero de Santa María","El Refugio","Jocotepec","San Agustín","San Martín Hidalgo","San Sebastián el Grande","Santa Anita","Santa Cruz de las Flores","Santa Cruz del Valle","Tala","Tlajomulco de Zúñiga","Villa Corona","Zacoalco de Torres"); ?>

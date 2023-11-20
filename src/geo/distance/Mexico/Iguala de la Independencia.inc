@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acamixtla","Buenavista de Cuéllar","Cocula","Huitzuco de los Figueroa","Iguala de la Independencia","Taxco de Alarcón","Tepecoacuilco de Trujano","Tlamacazapa"); ?>

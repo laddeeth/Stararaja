@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ciudad Choluteca","El Puente","La Criba","Los Llanitos","Marcovia","Monjarás","Namasigüe","San José de Las Conchas","San Lorenzo"); ?>

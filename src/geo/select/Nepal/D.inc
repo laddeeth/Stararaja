@@ -1,0 +1,1 @@
+<option value="Dadeldhurā">Dadeldhurā</option><option value="Dailekh">Dailekh</option><option value="Dārchulā">Dārchulā</option><option value="Dhangarhi">Dhangarhi</option><option value="Dhankutā">Dhankutā</option><option value="Dharān Bāzār">Dharān Bāzār</option><option value="Dipayal">Dipayal</option>

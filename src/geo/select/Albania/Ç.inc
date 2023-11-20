@@ -1,0 +1,1 @@
+<option value="Cërrik">Cërrik</option><option value="Çorovodë">Çorovodë</option>

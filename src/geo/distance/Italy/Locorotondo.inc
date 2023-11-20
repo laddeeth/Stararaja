@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alberobello","Carovigno","Castellana Grotte","Ceglie Messapica","Cisternino","Conversano","Crispiano","Fasano","Grottaglie","Locorotondo","Martina Franca","Massafra","Monopoli","Monteiasi","Montemesola","Mottola","Noci","Ostuni","Polignano a Mare","Putignano","San Michele Salentino","Statte","Villa Castelli"); ?>

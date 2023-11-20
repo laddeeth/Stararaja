@@ -1,0 +1,1 @@
+<?php $neighbours = array("Autun","Auxy","Blanzy","Château-Chinon(Ville)","Couches","Curgy","Écuisses","Épinac","Étang-sur-Arroux","Le Breuil","Le Creusot","Luzy","Montceau-les-Mines","Montcenis","Montchanin","Perrecy-les-Forges","Saint-Berain-sous-Sanvignes","Saint-Eusèbe","Saint-Leu","Saint-Sernin-du-Bois","Saint-Vallier","Sanvignes-les-Mines","Toulon-sur-Arroux"); ?>

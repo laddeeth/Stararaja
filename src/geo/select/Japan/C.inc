@@ -1,0 +1,1 @@
+<option value="Chatan">Chatan</option><option value="Chiba-shi">Chiba-shi</option><option value="Chichibu">Chichibu</option><option value="Chigasaki">Chigasaki</option><option value="Chikushino-shi">Chikushino-shi</option><option value="Chino">Chino</option><option value="Chiryū">Chiryū</option><option value="Chitose">Chitose</option><option value="Chōfu">Chōfu</option>

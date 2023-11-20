@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ancy-le-Franc","Les Riceys","Montbard","Ravières","Semur-en-Auxois","Tanlay","Tonnerre","Venarey-les-Laumes"); ?>

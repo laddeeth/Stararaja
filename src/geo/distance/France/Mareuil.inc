@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agonac","Brantôme","Chazelles","Dignac","Dirac","Garat","Magnac-sur-Touvre","Mareuil","Mensignac","Montbron","Montmoreau-Saint-Cybard","Mornac","Mouthiers-sur-Boëme","Nontron","Piégut-Pluviers","Puymoyen","Ribérac","Saint-Pardoux-la-Rivière","Soyaux","Tocane-Saint-Apre","Touvre","Vœuil-et-Giget"); ?>

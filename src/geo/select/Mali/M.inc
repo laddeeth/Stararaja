@@ -1,0 +1,1 @@
+<option value="Markala">Markala</option><option value="Ménaka">Ménaka</option><option value="Mopti">Mopti</option>

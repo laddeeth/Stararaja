@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aulnoye-Aymeries","Avesnelles","Avesnes-sur-Helpe","Bachant","Bavay","Berlaimont","Boussois","Cartignies","Feignies","Ferrière-la-Grande","Gommegnies","Hautmont","Jeumont","La Longueville","Leval","Louvroil","Marpent","Maubeuge","Pont-sur-Sambre","Recquignies","Rousies","Sains-du-Nord","Trélon"); ?>

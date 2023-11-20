@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ciudad Manuel Doblado","Cuerámaro","Pénjamo","San Cristóbal"); ?>

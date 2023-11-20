@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ancerville","Bar-le-Duc","Bettancourt-la-Ferrée","Bienville","Chancenay","Chevillon","Commercy","Fains-Véel","Lérouville","Ligny-en-Barrois","Longeville-en-Barrois","Pargny-sur-Saulx","Revigny-sur-Ornain","Saint-Dizier","Sermaize-les-Bains","Tronville-en-Barrois","Vacon","Velaines","Vignot","Villiers-en-Lieu"); ?>

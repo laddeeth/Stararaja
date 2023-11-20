@@ -1,0 +1,1 @@
+<?php $neighbours = array("Coventry Lake","Danielson","East Brooklyn","Jewett City","Lake Pocotopaug","Mansfield City","Montville Center","Moosup","Norwich","Plainfield Village","Preston City","South Coventry","South Windham","Stafford Springs","Storrs","Terramuggus","Tolland","Wauregan","Willimantic","Windham"); ?>

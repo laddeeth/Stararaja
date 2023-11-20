@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aracena","Bodonal de la Sierra","Burguillos del Cerro","Cabeza la Vaca","Fregenal de la Sierra","Fuentes de León","Higuera la Real","Hinojales","Jerez de los Caballeros","Oliva de la Frontera","Segura de León","Valencia del Ventoso","Valle de Santa Ana"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Andernos-les-Bains","Arcachon","Audenge","Belin-Béliet","Biganos","Biscarrosse","Cabanac-et-Villagrains","Cestas","Gujan-Mestras","La Teste-de-Buch","Lanton","Le Barp","Le Teich","Léognan","Marcheprime","Mios","Parentis-en-Born","Pissos","Saint-Aubin-de-Médoc","Saint-Morillon","Salles","Sanguinet","Saucats","Ychoux"); ?>

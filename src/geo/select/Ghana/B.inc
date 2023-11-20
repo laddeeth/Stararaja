@@ -1,0 +1,1 @@
+<option value="Bawku">Bawku</option><option value="Bechem">Bechem</option><option value="Begoro">Begoro</option><option value="Bekwai">Bekwai</option><option value="Berekum">Berekum</option><option value="Bibiani">Bibiani</option><option value="Bolgatanga">Bolgatanga</option>

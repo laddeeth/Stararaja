@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aromas","Boronda","Carmel Valley Village","Carmel-by-the-Sea","Chualar","Del Monte Forest","Del Rey Oaks","Marina","Pacific Grove","Pajaro","Prunedale","Ridgemark","Salinas","San Juan Bautista","Watsonville"); ?>

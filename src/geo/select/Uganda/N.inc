@@ -1,0 +1,1 @@
+<option value="Nakapiripirit">Nakapiripirit</option><option value="Nakaseke">Nakaseke</option><option value="Nakasongola">Nakasongola</option><option value="Namasuba">Namasuba</option><option value="Namutumba">Namutumba</option><option value="Nebbi">Nebbi</option><option value="Njeru">Njeru</option><option value="Ntungamo">Ntungamo</option>

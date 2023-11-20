@@ -1,0 +1,1 @@
+<?php $neighbours = array("Augusta","Avola","Buccheri","Buscemi","Canicattini Bagni","Carlentini","Ferla","Floridia","Francofonte","Lentini","Melilli","Palazzolo Acreide","Priolo Gargallo","Scordia","Siracusa","Solarino","Sortino"); ?>

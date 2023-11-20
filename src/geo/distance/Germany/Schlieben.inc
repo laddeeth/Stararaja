@@ -1,0 +1,1 @@
+<?php $neighbours = array("Annaburg","Arzberg","Bad Liebenwerda","Beilrode","Bethau","Crinitz","Doberlug-Kirchhain","Drahnsdorf","Finsterwalde","Hohenbucko","Hohenleipisch","Ihlow","Labrun","Lebusa","Luckau","Plossig","Rückersdorf","Schilda","Schlieben","Schönborn","Schönewalde","Sonnewalde","Tröbitz"); ?>

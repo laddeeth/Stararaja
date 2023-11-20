@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aristocrat Ranchettes","Broomfield","Dacono","Firestone","Fort Lupton","Gilcrest","Keenesburg","Lochbuie","Longmont","Mead","Milliken","Northglenn","Todd Creek"); ?>

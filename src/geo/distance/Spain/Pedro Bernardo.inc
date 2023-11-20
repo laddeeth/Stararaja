@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arenas de San Pedro","Burgohondo","Casavieja","Castillo de Bayuela","El Real de San Vicente","La Adrada","Mejorada","Mombeltrán","Navalcán","Navaluenga","Pedro Bernardo","Piedralaves","Segurilla","Sotillo de la Adrada"); ?>

@@ -1,0 +1,1 @@
+<option value="Petrovac na Moru">Petrovac na Moru</option><option value="Podgorica">Podgorica</option>

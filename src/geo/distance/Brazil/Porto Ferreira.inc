@@ -1,0 +1,1 @@
+<?php $neighbours = array("Descalvado","Pirassununga","Porto Ferreira","Santa Cruz das Palmeiras","Santa Rita do Passa Quatro","Tambaú"); ?>

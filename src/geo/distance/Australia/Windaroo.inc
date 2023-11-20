@@ -1,0 +1,1 @@
+<?php $neighbours = array("Carindale","Cleveland","Inala","Logan City","Oxenford","Redland Bay","Rocklea","Slacks Creek","Springfield Lakes","Springwood","Sunnybank","Tamborine Mountain","Tarragindi","Upper Coomera","Victoria Point","Wellington Point","Windaroo","Woodridge","Yatala"); ?>

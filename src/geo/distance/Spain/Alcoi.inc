@@ -1,0 +1,1 @@
+<?php $neighbours = array("Agullent","Aielo de Malferit","Albaida","Alcoi","Alfarrasí","Beneixama","Beniarrés","Benigànim","Biar","Bocairent","Busot","Castalla","Castelló de Rugat","Cocentaina","Finestrat","Ibi","Jijona","Llutxent","Montaberner","Muro del Alcoy","Onil","Ontinyent","Orcheta","Quatretonda","Tibi","Vall de Gallinera","Vallada","Villajoyosa"); ?>

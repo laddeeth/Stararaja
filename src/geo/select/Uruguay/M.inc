@@ -1,0 +1,1 @@
+<option value="Maldonado">Maldonado</option><option value="Mariscala">Mariscala</option><option value="Melo">Melo</option><option value="Mercedes">Mercedes</option><option value="Migues">Migues</option><option value="Minas">Minas</option><option value="Minas de Corrales">Minas de Corrales</option><option value="Montes">Montes</option><option value="Montevideo">Montevideo</option>

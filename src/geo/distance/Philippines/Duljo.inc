@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alburquerque","Alcoy","Antequera","Baclayon","Biking","Boljoon","Bood","Corella","Cortes","Dalaguete","Dauis","Duljo","El Pardo","Loon","Maribojoc","Obong","Panglao","Sikatuna","Sunacolan","Tabalong","Tagbilaran","Taiwala","Tangnan","Totolan"); ?>

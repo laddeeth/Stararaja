@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bolesławiec","Gozdnica","Iłowa","Leśna","Lubań","Nowogrodziec","Olszyna","Pieńsk","Pisarzowice","Przewóz","Siekierczyn","Sulików","Węgliniec","Wymiarki","Zgorzelec"); ?>

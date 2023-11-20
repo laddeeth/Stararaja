@@ -1,0 +1,1 @@
+<option value="Бережани">Бережани</option>

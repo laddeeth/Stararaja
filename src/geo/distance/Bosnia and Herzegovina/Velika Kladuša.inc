@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bužim","Cazin","Ćoralići","Gornja Koprivna","Mala Kladuša","Pećigrad","Pjanići","Podzvizd","Skokovi","Šturlić","Šumatac","Todorovo","Tržačka Raštela","Varoška Rijeka","Velika Kladuša","Vrnograč","Zborište"); ?>

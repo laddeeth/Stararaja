@@ -1,0 +1,1 @@
+<?php $neighbours = array("Applecross","Armadale","Attadale","Bedfordale","Bentley","Burswood","Byford","Canning Vale","Cannington","Coogee","Gooseberry Hill","Gosnells","Kelmscott","Kenwick","Kwinana","Maddington","Maida Vale","Manning","Medina","Mundijong","Serpentine","South Perth","Spearwood","Wellard"); ?>

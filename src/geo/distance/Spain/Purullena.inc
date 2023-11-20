@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beas de Granada","Benalúa de Guadix","Darro","Fonelas","Gor","Guadix","Güéjar-Sierra","Huéneja","Jeres del Marquesado","Pedro Martínez","Piñar","Purullena","Quéntar","Torre-Cardela"); ?>

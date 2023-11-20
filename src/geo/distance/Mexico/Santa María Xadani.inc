@@ -1,0 +1,1 @@
+<?php $neighbours = array("Huatulco","Santa María Xadani"); ?>

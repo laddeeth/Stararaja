@@ -1,0 +1,1 @@
+<?php $neighbours = array("Calhoun Falls","Due West","Elberton","Hartwell","Homeland Park","Honea Path","Iva","Lake Secession","Northlake","Reed Creek"); ?>

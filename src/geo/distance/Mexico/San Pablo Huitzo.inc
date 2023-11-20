@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cacaotepec","Cuilapan de Guerrero","Guadalupe Etla","Oaxaca de Juárez","San Andrés Huayapan","San Francisco Telixtlahuaca","San Pablo Huitzo","San Pedro y San Pablo Etla","Santa Cruz Xoxocotlán","Santiago Suchilquitongo"); ?>

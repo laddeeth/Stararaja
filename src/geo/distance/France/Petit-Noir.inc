@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aiserey","Auxonne","Bletterans","Brazey-en-Plaine","Champvans","Chaussin","Choisey","Damparis","Dole","Foucherans","Losne","Mervans","Mont-sous-Vaudrey","Petit-Noir","Pierre-de-Bresse","Saint-Aubin","Saint-Germain-du-Bois","Saint-Jean-de-Losne","Saint-Martin-en-Bresse","Saint-Usage","Saint-Usuge","Seurre","Tavaux","Verdun-sur-le-Doubs"); ?>

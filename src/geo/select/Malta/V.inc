@@ -1,0 +1,1 @@
+<option value="Valletta">Valletta</option><option value="Victoria">Victoria</option><option value="Vittoriosa">Vittoriosa</option>

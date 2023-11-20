@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bielsk Podlaski","Grudki","Hajnówka","Michałowo","Narew","Orla","Zabłudów"); ?>

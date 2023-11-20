@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bełchatów","Buczek","Drużbice","Dłutów","Gomunice","Gorzkowice","Grabica","Kamieńsk","Kleszczów","Kluki","Lgota Wielka","Piotrków Trybunalski","Rozprza","Rusiec","Sędziejowice","Strzelce Wielkie","Szczerców","Tuszyn","Widawa","Wola Krzysztoporska","Zelów","Łask"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acle","Beccles","Brundall","Bungay","Caister-on-Sea","Coltishall","Ditchingham","Great Yarmouth","Hemsby","Hopton on Sea","Kessingland","Lingwood","Loddon","Lowestoft","Martham","Mundesley","North Walsham","Norwich","Ormesby Saint Margaret","Poringland","Spixworth","Stalham","Thorpe Hamlet"); ?>

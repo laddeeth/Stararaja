@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cape Canaveral","Cocoa","Cocoa Beach","Cocoa West","Merritt Island","Port Saint John","Rockledge","Satellite Beach","Sharpes","South Patrick Shores","Titusville"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Beaufort","Bettendorf","Bissen","Clervaux","Colmar","Diekirch","Ettelbruck","Larochette","Mersch","Mertzig","Niederfeulen","Redange-sur-Attert","Rollingen","Schieren","Tandel","Troisvierges","Vianden","Warken","Wiltz"); ?>

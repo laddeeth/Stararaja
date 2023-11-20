@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ilha de Moçambique"); ?>

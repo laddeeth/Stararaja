@@ -1,0 +1,1 @@
+<?php $neighbours = array("Althüttendorf","Angermünde","Bad Freienwalde","Britz","Casekow","Chorin","Eberswalde","Falkenberg","Friedrichswalde","Gartz","Gramzow","Hohenfinow","Joachimsthal","Liepe","Meyenburg","Niederfinow","Oderberg","Schöneberg","Schwedt (Oder)","Zichow"); ?>

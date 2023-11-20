@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alençon","Arçonnay","Beaumont-sur-Sarthe","Champfleur","Condé-sur-Sarthe","Courcité","Damigny","Fresnay-sur-Sarthe","Mamers","Marolles-les-Braults","Mortrée","Pré-en-Pail","Radon","Saint-Denis-sur-Sarthon","Saint-Germain-du-Corbéis","Saint-Paterne","Saint-Pierre-des-Nids","Sées","Valframbert","Villaines-la-Juhel"); ?>

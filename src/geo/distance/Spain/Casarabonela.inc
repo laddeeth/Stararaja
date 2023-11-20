@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alhaurín de la Torre","Alhaurín el Grande","Almargen","Almogía","Alora","Alozaina","Ardales","Arriate","Campillos","Cañete la Real","Cártama","Casarabonela","Coín","Cuevas del Becerro","Estación de Cártama","Guaro","Igualeja","Istán","Marbella","Mijas","Monda","Ojén","Pizarra","Ronda","Teba","Tolox","Yunquera"); ?>

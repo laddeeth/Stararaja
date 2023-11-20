@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bielany","Drohiczyn","Grębków","Jabłonna Lacka","Korczew","Korytnica","Kosów Lacki","Kotuń","Liw","Miedzna","Mokobody","Mordy","Paprotnia","Przesmyki","Repki","Sabnie","Siedlce","Skórzec","Sokołów Podlaski","Sterdyń","Suchożebry","Węgrów","Wierzbno"); ?>

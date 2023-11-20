@@ -1,0 +1,1 @@
+<?php $neighbours = array("Almedia","Bloomsburg","Catawissa","Conyngham","East Berwick","Elysburg","Espy","Frackville","Girardville","Glen Lyon","Harleigh","Hazleton","Kulpmont","Light Street","Mahanoy City","McAdoo","Mifflinville","Nescopeck","Shenandoah Heights","West Hazleton"); ?>

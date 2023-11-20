@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bad Zwischenahn","Bösel","Bühren","Cappeln","Cloppenburg","Delmenhorst","Dötlingen","Edewecht","Elsfleth","Emstek","Friesoythe","Ganderkesee","Garrel","Großenkneten","Hatten","Lemwerder","Molbergen","Oldenburg","Prinzhöfte","Rastede","Visbek","Wardenburg","Westerstede","Wiefelstede","Wildeshausen"); ?>

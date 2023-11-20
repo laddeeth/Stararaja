@@ -1,0 +1,75 @@
+<?php
+	$lang = array();
+	$lang['submit'] = "Submit";
+	$lang['send'] = "Send";
+	$lang['login'] = "Login";
+	$lang['signup'] = "Signup";
+	$lang['email'] = "E-Mail";
+	$lang['password'] = "Password";
+	$lang['minsixchars'] = "(Min 6 chars)";
+	$lang['forgot'] = "Forgot Password?";
+	$lang['firstname'] = "First Name";
+	$lang['lastname'] = "Last Name";
+	$lang['confirm'] = "Confirm";
+	$lang['country'] = "Country";
+	$lang['city'] = "City";
+	$lang['selectfirstletter'] = "Select first letter of country...";
+	$lang['livenow'] = "Where do you live now?";
+	$lang['livefrom'] = "Where are you from?";
+	$lang['selectcountry'] = "Select country first...";
+	$lang['birthdate'] = "Birthdate";
+	$lang['year'] = "Year";
+	$lang['month'] = "Month";
+	$lang['day'] = "Day";
+	$lang['gender'] = "Gender";
+	$lang['male'] = "Male";
+	$lang['female'] = "Female";
+	$lang['now'] = "Now";
+	$lang['emailerrortext'] = "<b>E-Mail:</b> You have to enter a correct e-mail adress";
+	$lang['confirmemailerrortext'] = "<b>Confirm E-Mail:</b> Your entry does not match e-mail provided";
+	$lang['passworderrortext'] = "<b>Password:</b> Password must be at least 6 characters long";
+	$lang['confirmpassworderrortext'] = "<b>Confirm Password:</b> Your entry does not match password provided";
+	$lang['firstnameerrortext'] = "<b>First Name:</b> Must be at least 2 characters long and only letters";
+	$lang['lastnameerrortext'] = "<b>Last Name:</b> Must be at least 2 characters long and only letters";
+	$lang['birthdayerrortext'] = "<b>Birthday:</b> Choose a valid birthday YEAR/MONTH/DATE";
+	$lang['gendererrortext'] = "<b>Gender:</b> You must choose gender";
+	$lang['cityliveerrortext'] = "<b>" . $lang['livenow'] . ":</b> You must choose country and city where you live now";
+	$lang['cityfromerrortext'] = "<b>" . $lang['livefrom'] . "</b>: You must choose country and city where you are from";
+	$lang['alreadyregistered1'] = "An account with e-mail ";
+	$lang['alreadyregistered2'] = " is already registered and active.<br><br>Please go to login and enter your e-mail and password.";
+	$lang['unknownerror'] = "Something went wrong. Please contact support if error persists.";
+	$lang['needtoconfirm1'] = "Account with e-mail ";
+	$lang['needtoconfirm2'] = " already registered but not confirmed.<br><br> You have ";
+	$lang['needtoconfirm3'] = " hours left to confirm registration.<br><br>If you haven't recieved an e-mail to your inbox check your junkmail.<br><br>If problem still persists please contact support.";
+	$lang['registersuccess1'] = "Registration was successful!<br><br><br> You have to activate your account by clicking the  link in the e-mail sent to ";
+	$lang['registersuccess2'] = ".<br><br> Check your junkbox if the e-mail hasn't arrived to your inbox.<br><br> You must confirm the registration by clicking the link in the e-mail you recieved from us within 48 hours for the registration to go through.<br><br> If you haven't recieved an e-mail from us within 24 hours please contact support.";
+	$lang['confirmregistrationsubject'] = "Confirm registration @ Stararaja.com";
+	$lang['authsuccessful'] = "Authorization Successful";
+	$lang['authfailed'] = "Authorization Failed";
+	$lang['authbrokenlink'] = "The link that brought you to this page is either broken or used, please contact support if you have an issue concerning this problem.";
+	$lang['redirect1'] = "Redirecting to ";
+	$lang['redirect2'] = " in ";
+	$lang['authsuccess1'] = "Congratulations! Your account with e-mail ";
+	$lang['authsuccess2'] = " is now authenticated.<br><br> You will now be redirected to the homepage of Stararaja where you can log in.";
+	$lang['mailauthorisation'] = "Thank you for registering @ <b>Stararaja.com</b><br><br>Click the link below to activate your account and then you will be able to log in.<br><br>";
+	$lang['forgottenpassword'] = "Enter your e-mail in the field below and press send to recieve an e-mail with instructions to reset your password.";
+	$lang['noactiveaccount1'] = "No active user account with e-mail ";
+	$lang['noactiveaccount2'] = " , please check input and try again.";
+	$lang['forgotlater'] = "Sorry. You have requested a password change the last 48 hours you haven't finished. Check your e-mail for the link from Stararaja.com. Be sure to check that the e-mail isn't in your Junk-folder. If problem persists be sure to contact us at support@stararaja.com or try again later.";
+	$lang['mailforgot'] = "You have requested a password change @ <b>Stararaja.com</b><br><br>Click the link below to choose a new password<br><br>";
+	$lang['forgotsuccess1'] = "An e-mail with directions how to change your password has been sent to <b>";
+	$lang['forgotsuccess2'] = "</b>. If the e-mail from Stararaja.com hasn't reached your inbox be sure to check your junk-folder before contacting us at support@stararaja.com. If you haven't requested a password change just disregard this mail.";
+	$lang['changepassword'] = "Change Password";
+	$lang['changefailed'] = "Change password failed";
+	$lang['changetext'] = "Enter your new password below, confirm it and press submit to change your password.";
+	$lang['changepasswordsubject'] = "Stararaja Password Changed";
+	$lang['changepasswordmail'] = "Your password @ Stararaja.com has been changed, if you haven't changed your password please contact support."; 
+	$lang['changepasswordsuccess'] = "You have succesfully changed your password.";
+	$lang['loginmailerror'] = "Not a valid e-mail!";
+	$lang['loginpassworderror'] = "Wrong password!";
+	$lang['notregistered'] = "No user registered with that e-mail!";
+	
+	
+	
+	
+?>

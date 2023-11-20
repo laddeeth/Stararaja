@@ -1,0 +1,1 @@
+<?php $neighbours = array("Booval","Brassall","Bundamba","Churchill","Collingwood Park","Deebing Heights","Eastern Heights","Flinders View","Goodna","Moggill","North Booval","North Ipswich","One Mile","Raceview","Redbank","Redbank Plains","Riverview","Silkstone","Springfield Lakes","Thagoona","Yamanto"); ?>

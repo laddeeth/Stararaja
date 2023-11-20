@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aubin","Cajarc","Capdenac-Gare","Cransac","Decazeville","Figeac","Firmi","Lacapelle-Marival","Leyme","Livinhac-le-Haut","Maurs","Montbazens","Villefranche-de-Rouergue","Villeneuve","Viviez"); ?>

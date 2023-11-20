@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arlöv","Bunkeflostrand","Höllviken","Ljunghusen","Malmö","Oxie","Skanör med Falsterbo","Skåre","Svedala","Trelleborg","Tygelsjö","Vellinge"); ?>

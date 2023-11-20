@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borowa","Brzeźnica","Cmolas","Czermin","Dębica","Dzikowiec","Iwierzyce","Jodłówka-Wałki","Kolbuszowa","Majdan Królewski","Mielec","Niwiska","Ostrów","Padew Narodowa","Pilzno","Przecław","Radgoszcz","Radomyśl Wielki","Ropczyce","Sędziszów Małopolski","Słupiec","Trzciana","Wadowice Górne","Wielopole Skrzyńskie","Zagórzyce","Żyraków","Łęki Dolne"); ?>

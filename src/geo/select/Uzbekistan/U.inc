@@ -1,0 +1,1 @@
+<option value="Uchquduq Shahri">Uchquduq Shahri</option><option value="Uchqŭrghon">Uchqŭrghon</option><option value="Uchqŭrghon Shahri">Uchqŭrghon Shahri</option><option value="Urganch">Urganch</option><option value="Urgut">Urgut</option><option value="Ŭrtaowul">Ŭrtaowul</option><option value="Uychi">Uychi</option>

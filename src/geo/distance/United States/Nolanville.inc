@@ -1,0 +1,1 @@
+<?php $neighbours = array("Copperas Cove","Fort Hood","Harker Heights","Holland","Killeen","Little River-Academy","Morgans Point Resort","Nolanville","Salado"); ?>

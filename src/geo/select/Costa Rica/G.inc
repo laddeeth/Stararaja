@@ -1,0 +1,1 @@
+<option value="Golfito">Golfito</option><option value="Granadilla">Granadilla</option><option value="Guácimo">Guácimo</option><option value="Guadalupe">Guadalupe</option><option value="Guápiles">Guápiles</option>

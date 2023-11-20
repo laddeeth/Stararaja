@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bejsce","Busko-Zdrój","Chmielnik","Czarnocin","Działoszyce","Gręboszów","Imielno","Jadowniki Mokre","Kazimierza Wielka","Kije","Mędrzechów","Nowy Korczyn","Opatowiec","Pińczów","Skalbmierz","Solec-Zdrój","Stopnica","Szczurowa","Wietrzychowice","Wiślica","Złota"); ?>

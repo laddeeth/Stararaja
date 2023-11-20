@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ainet","Amlach","Bad Gastein","Berg im Drautal","Dellach im Drautal","Dölsach","Flattach","Greifenburg","Großkirchheim","Heiligenblut","Hopfgarten in Defereggen","Irschen","Lavant","Leisach","Lienz","Mörtschach","Nikolsdorf","Oberdrauburg","Oberlienz","Obervellach","Rangersdorf","Schlaiten","Stall","Thurn","Tristach","Untertilliach","Winklern"); ?>

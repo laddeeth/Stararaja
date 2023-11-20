@@ -1,0 +1,1 @@
+<option value="Qal‘at al Andalus">Qal‘at al Andalus</option><option value="Qaşr Hallāl">Qaşr Hallāl</option><option value="Qa‘fūr">Qa‘fūr</option><option value="Quballāţ">Quballāţ</option><option value="Qulaybīyah">Qulaybīyah</option><option value="Qurbuş">Qurbuş</option><option value="Quşaybat al Madyūnī">Quşaybat al Madyūnī</option>

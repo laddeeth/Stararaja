@@ -1,0 +1,1 @@
+<?php $neighbours = array("Białośliwie","Krajenka","Lipka","Miasteczko Krajeńskie","Mrocza","Nakło nad Notecią","Osiek nad Notecią","Sadki","Sępólno Krajeńskie","Śmiłowo","Szamocin","Tarnówka","Więcbork","Wyrzysk","Zakrzewo","Złotów","Łobżenica"); ?>

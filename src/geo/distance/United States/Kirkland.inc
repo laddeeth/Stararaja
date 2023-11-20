@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belvidere","Cherry Valley","Cortland","Davis Junction","DeKalb","Hampshire","Hillcrest","Kirkland","Malta","Maple Park","Stillman Valley","Sycamore"); ?>

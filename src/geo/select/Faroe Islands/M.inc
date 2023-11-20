@@ -1,0 +1,1 @@
+<option value="Miðvágur">Miðvágur</option>

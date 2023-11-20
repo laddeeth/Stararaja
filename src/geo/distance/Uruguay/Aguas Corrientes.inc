@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguas Corrientes","Canelones","Cardal","Delta del Tigre","Joanicó","Las Piedras","Libertad","Los Cerrillos","Progreso","Puntas de Valdez","Rodríguez","San Antonio","Santa Lucía","Veinticinco de Agosto"); ?>

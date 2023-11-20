@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baboszewo","Bielsk","Bodzanów","Brudzeń Duży","Bulkowo","Drobin","Dzierzążnia","Gąbin","Gozdowo","Iłów","Maszewo Duże","Mała Wieś","Nowy Duninów","Płock","Raciąż","Radzanowo","Sanniki","Staroźreby","Słubice","Wyszogród","Zawidz","Łąck"); ?>

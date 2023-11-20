@@ -1,0 +1,1 @@
+<option value="Gančani">Gančani</option><option value="Golnik">Golnik</option><option value="Gornja Radgona">Gornja Radgona</option><option value="Gotovlje">Gotovlje</option><option value="Grosuplje">Grosuplje</option>

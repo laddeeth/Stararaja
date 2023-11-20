@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albers","Aviston","Belleville","Breese","Caseyville","Fairview Heights","Freeburg","Germantown","Lebanon","Marissa","Maryville","Mascoutah","Millstadt","New Athens","New Baden","Okawville","Saint Jacob","Scott Air Force Base","Shiloh","Smithton","Swansea"); ?>

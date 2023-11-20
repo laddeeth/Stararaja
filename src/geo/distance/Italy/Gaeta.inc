@@ -1,0 +1,1 @@
+<?php $neighbours = array("Ausonia","Castelforte","Cellole","Coreno Ausonio","Esperia","Fondi","Formia","Gaeta","Itri","Lenola","Minturno","Mondragone","Monte San Biagio","Pastena","Pico","Pontecorvo","San Giorgio a Liri","Santi Cosma e Damiano","Sperlonga","Spigno Saturnia","Terracina","Vallecorsa","Vallemaio"); ?>

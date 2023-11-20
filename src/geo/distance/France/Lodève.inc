@@ -1,0 +1,1 @@
+<?php $neighbours = array("Abeilhan","Alignan-du-Vent","Aniane","Aspiran","Bédarieux","Caux","Gignac","Hérépian","La Tour-sur-Orb","Lamalou-les-Bains","Laurens","Le Pouget","Le Poujol-sur-Orb","Lézignan-la-Cèbe","Lodève","Magalas","Montagnac","Montpeyroux","Nébian","Paulhan","Roujan","Saint-André-de-Sangonis","Saint-Jean-de-Fos","Saint-Pargoire"); ?>

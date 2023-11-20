@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acquasanta Terme","Amatrice","Antrodoco","Arquata del Tronto","Cagnano Amiterno","Cascia","Crognaleto","Leonessa","Maltignano","Montereale","Montorio al Vomano","Norcia","Pizzoli","Roccafluvione","Scoppito","Torricella Sicura","Valle Castellana"); ?>

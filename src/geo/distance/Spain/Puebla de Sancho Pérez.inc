@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aceuchal","Bienvenida","Burguillos del Cerro","Feria","Fuente de Cantos","Fuente del Maestre","La Parra","Los Santos de Maimona","Medina de las Torres","Puebla de Sancho Pérez","Ribera del Fresno","Salvatierra de los Barros","Usagre","Valencia del Ventoso","Villafranca de los Barros","Villagarcía de la Torre","Villalba de los Barros","Zafra"); ?>

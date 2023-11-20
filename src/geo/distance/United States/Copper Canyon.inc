@@ -1,0 +1,1 @@
+<?php $neighbours = array("Addison","Argyle","Aubrey","Bartonville","Colleyville","Coppell","Copper Canyon","Cross Roads","Double Oak","Euless","Farmers Branch","Flower Mound","Frisco","Grapevine","Haslet","Highland Village","Justin","Keller","Krugerville","Krum","Lake Dallas","Little Elm","Oak Point","Ponder","Shady Shores","Southlake","The Colony","Trophy Club"); ?>

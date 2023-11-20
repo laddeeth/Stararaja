@@ -1,0 +1,1 @@
+<option value="Radjun">Radjun</option><option value="Rankūs">Rankūs</option><option value="Ra’s al ‘Ayn">Ra’s al ‘Ayn</option><option value="Ruḩaybah">Ruḩaybah</option>

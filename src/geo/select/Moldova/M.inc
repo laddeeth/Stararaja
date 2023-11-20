@@ -1,0 +1,1 @@
+<option value="Maiac">Maiac</option><option value="Mărculeşti">Mărculeşti</option><option value="Mîndreşti">Mîndreşti</option>

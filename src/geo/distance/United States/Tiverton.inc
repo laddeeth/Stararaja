@@ -1,0 +1,1 @@
+<?php $neighbours = array("Acushnet","Acushnet Center","Berkley","Bliss Corner","Cranston","Dighton","East Greenwich","East Providence","Fairhaven","Fall River","Freetown","Head of Westport","Narragansett Pier","New Bedford","Newport East","North Kingstown","North Westport","Ocean Grove","Rehoboth","Seekonk","Smith Mills","Tiverton","West Warwick"); ?>

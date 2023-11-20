@@ -1,0 +1,1 @@
+<?php $neighbours = array("Apple Creek","Barberton","Canal Fulton","Doylestown","Green","Massillon","Orrville","Perry Heights","Portage Lakes","Richville","Rittman","Seville","Shreve","Westfield Center","Wooster"); ?>

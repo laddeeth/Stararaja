@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aube-sur-Rîle","Bourth","Breteuil","Brezolles","Conches-en-Ouche","Damville","Francheville","La Madeleine-de-Nonancourt","Longny-au-Perche","Nonancourt","Rai","Rugles","Saint-Lubin-des-Joncherets","Saint-Sulpice-sur-Risle","Sainte-Gauburge-Sainte-Colombe","Senonches","Tillières-sur-Avre","Tourouvre","Verneuil-sur-Avre"); ?>

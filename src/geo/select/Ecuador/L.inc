@@ -1,0 +1,1 @@
+<option value="La Libertad">La Libertad</option><option value="La Maná">La Maná</option><option value="La Troncal">La Troncal</option><option value="Latacunga">Latacunga</option><option value="Loja">Loja</option><option value="Lomas de Sargentillo">Lomas de Sargentillo</option>

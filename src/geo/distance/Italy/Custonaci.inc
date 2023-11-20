@@ -1,0 +1,1 @@
+<?php $neighbours = array("Alcamo","Balestrate","Buseto Palizzolo","Calatafimi-Segesta","Castellammare del Golfo","Custonaci","Erice","Paceco","Salemi","San Vito Lo Capo","Trapani","Valderice","Vita"); ?>

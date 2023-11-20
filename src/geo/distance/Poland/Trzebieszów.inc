@@ -1,0 +1,1 @@
+<?php $neighbours = array("Borki","Domanice","Drelów","Międzyrzec Podlaski","Mordy","Radzyń Podlaski","Rzeczyca","Siedlce","Trzebieszów","Wiśniew","Wojcieszków","Zbuczyn","Łosice","Łuków"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Baruta","Caraballeda","Caracas","Carrizal","Caucaguita","Caucagüito","Chacao","Charallave","Cúa","El Cafetal","El Hatillo","Guarenas","La Dolorita","La Guaira","Los Dos Caminos","Ocumare del Tuy","Petare","San Antonio de Los Altos","Santa Teresa"); ?>

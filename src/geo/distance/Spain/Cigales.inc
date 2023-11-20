@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aldeamayor de San Martín","Arroyo","Boecillo","Cabezón","Cigales","Cistérniga","Dueñas","Fuensaldaña","Laguna de Duero","Santovenia de Pisuerga","Simancas","Tudela de Duero","Valladolid","Venta de Baños","Viana de Cega","Villamuriel de Cerrato","Villanubla","Villanueva de Duero","Zaratán"); ?>

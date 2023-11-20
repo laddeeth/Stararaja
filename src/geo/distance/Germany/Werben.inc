@@ -1,0 +1,1 @@
+<?php $neighbours = array("Altdöbern","Bronkow","Calau","Cottbus","Drachhausen","Drebkau","Drehnow","Großräschen","Guhrow","Heinersbrück","Jamlitz","Jänschwalde","Kolkwitz","Lieberose","Lübben","Lübbenau","Neu Zauche","Neupetershain","Peitz","Straupitz","Tauer","Vetschau","Welzow","Werben"); ?>

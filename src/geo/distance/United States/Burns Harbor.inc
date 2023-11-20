@@ -1,0 +1,1 @@
+<?php $neighbours = array("Burns Harbor","Chesterton","East Chicago","Gary","Griffith","Lake Station","Lakes of the Four Seasons","Merrillville","Michigan City","New Chicago","Ogden Dunes","Portage","Porter","Shorewood Forest","South Haven","Trail Creek","Wanatah"); ?>

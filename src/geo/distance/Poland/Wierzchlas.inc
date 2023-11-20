@@ -1,0 +1,1 @@
+<?php $neighbours = array("Czarnożyły","Czastary","Dalachów","Działoszyn","Gorzów Śląski","Klonowa","Krzepice","Lipie","Lututów","Mokrsko","Osjaków","Pajęczno","Pątnów","Popów","Praszka","Rusiec","Siemkowice","Skomlin","Starokrzepice","Walichnowy","Wieluń","Wierzchlas","Złoczew"); ?>

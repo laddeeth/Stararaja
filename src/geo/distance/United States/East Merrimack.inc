@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bow Bog","Candia","Derry","Derry Village","Dracut","Dunstable","East Merrimack","East Pepperell","Goffstown","Hooksett","Londonderry","Lyndeborough","Merrimack","Methuen","Mont Vernon","Pepperell","Pinardville","Sandown","South Hooksett","Suncook","Tyngsboro"); ?>

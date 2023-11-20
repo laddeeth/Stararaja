@@ -1,0 +1,1 @@
+<?php $neighbours = array("Dobrzyniewo Duże","Goniadz","Janów","Knyszyn","Mońki","Radziłów","Suchowola","Tykocin"); ?>

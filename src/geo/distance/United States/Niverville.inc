@@ -1,0 +1,1 @@
+<?php $neighbours = array("Averill Park","Castleton-on-Hudson","Catskill","Coxsackie","East Greenbush","Hampton Manor","Jefferson Heights","Kinderhook","Lorenz Park","Menands","Nassau","Niverville","Philmont","Poestenkill","Ravena","Stottville","Valatie","West Albany","West Sand Lake","West Stockbridge","Wynantskill"); ?>

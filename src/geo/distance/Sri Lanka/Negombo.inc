@@ -1,0 +1,1 @@
+<?php $neighbours = array("Gampaha","Hendala","Ja Ela","Kandana","Katunayaka North","Kelaniya","Minuwangoda","Negombo","Peliyagoda","Wattala","Welisara"); ?>

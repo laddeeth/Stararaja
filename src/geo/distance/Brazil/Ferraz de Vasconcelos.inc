@@ -1,0 +1,1 @@
+<?php $neighbours = array("Arujá","Ferraz de Vasconcelos","Guarulhos","Itaquaquecetuba","Mauá","Mogi das Cruzes","Poá","Ribeirão Pires","Rio Grande da Serra","Santa Isabel","Santo André","São Bernardo do Campo","São Caetano do Sul","São Paulo","Suzano"); ?>

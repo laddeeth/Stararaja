@@ -1,0 +1,1 @@
+<?php $neighbours = array("Capitán Miranda","Encarnación","San Juan del Paraná","Trinidad"); ?>

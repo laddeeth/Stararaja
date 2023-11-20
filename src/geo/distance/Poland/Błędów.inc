@@ -1,0 +1,1 @@
+<?php $neighbours = array("Belsk Duży","Biała Rawska","Błędów","Chynów","Cielądz","Goszczyn","Grójec","Jasieniec","Klwów","Kowiesy","Mogielnica","Mszczonów","Nowe Miasto nad Pilicą","Pniewy","Potworów","Prażmów","Promna","Radziejowice","Regnów","Sadkowice","Sucha","Tarczyn","Wyśmierzyce","Żabia Wola"); ?>

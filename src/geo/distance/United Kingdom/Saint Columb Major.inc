@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bodmin","Bugle","Camelford","Chacewater","Fowey","Helland","Lostwithiel","Mevagissey","Newquay","Padstow","Par","Perranporth","Polzeath","Portscatho","Probus","Roche","Saint Agnes","Saint Austell","Saint Columb Major","Saint Dennis","Saint Stephen","St. Day","Tregoney","Truro","Wadebridge"); ?>

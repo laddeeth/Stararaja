@@ -1,0 +1,1 @@
+<?php $neighbours = array("Connantre","Esternay","Estissac","Maizières-la-Grande-Paroisse","Marigny-le-Châtel","Méry-sur-Seine","Nogent-sur-Seine","Payns","Romilly-sur-Seine","Saint-Just-Sauvage","Saint-Lyé","Sézanne","Sourdun","Villenauxe-la-Grande","Villiers-Saint-Georges"); ?>

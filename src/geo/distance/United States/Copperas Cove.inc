@@ -1,0 +1,1 @@
+<?php $neighbours = array("Copperas Cove","Fort Hood","Harker Heights","Kempner","Killeen","Lampasas","Nolanville"); ?>

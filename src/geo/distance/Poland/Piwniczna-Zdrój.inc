@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chełmiec","Grybów","Kamionka Wielka","Kluszkowce","Korzenna","Krościenko nad Dunajcem","Krośnica","Krynica-Zdrój","Muszyna","Nawojowa","Niedzica","Nowy Sącz","Ochotnica Dolna","Olszana","Piwniczna-Zdrój","Podegrodzie","Ropa","Rytro","Stary Sącz","Szczawnica","Łabowa","Łącko","Łukowica"); ?>

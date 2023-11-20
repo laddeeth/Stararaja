@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bogotá","Bojacá","Cajicá","Chía","Cota","El Rosal","Facatativá","Funza","Guasca","La Calera","Madrid","Mosquera","Soacha","Sopó","Subachoque","Tabio","Tenjo","Tocancipá","Zipaquirá"); ?>

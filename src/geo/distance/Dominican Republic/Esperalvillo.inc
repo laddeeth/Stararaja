@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cevicos","Cotuí","Don Juan","Esperalvillo","Los Botados","Monte Plata","Piedra Blanca","Sabana Grande de Boyá","Villa Altagracia","Yamasá"); ?>

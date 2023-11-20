@@ -1,0 +1,1 @@
+<?php $neighbours = array("Albacete","Chinchilla de Monte Aragón","Fuente-Álamo","Ontur","Peñas de San Pedro","Pozo-Cañada","Pozohondo","Tobarra"); ?>

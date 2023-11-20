@@ -1,0 +1,1 @@
+<?php $neighbours = array("Blandon","Cressona","Fox Chase","Frackville","Girardville","Lake Wynonah","Leesport","Mahanoy City","Minersville","Myerstown","Newmanstown","Orwigsburg","Palo Alto","Pine Grove","Port Carbon","River View Park","Robesonia","Schuylkill Haven","Shenandoah Heights","Shoemakersville","Tamaqua","West Hamburg","Womelsdorf"); ?>

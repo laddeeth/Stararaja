@@ -1,0 +1,1 @@
+<?php $neighbours = array("Aguas Corrientes","Canelones","Cardal","Libertad","Los Cerrillos","Puntas de Valdez","Rafael Perazza","Rodríguez","San José de Mayo","Santa Lucía","Veinticinco de Agosto","Veinticinco de Mayo"); ?>

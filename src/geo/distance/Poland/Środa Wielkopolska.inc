@@ -1,0 +1,1 @@
+<?php $neighbours = array("Czapury","Czerniejewo","Daszewice","Dominowo","Jaraczewo","Kleszczewo","Kórnik","Kostrzyn","Kołaczkowo","Krzykosy","Książ Wielkopolski","Luboń","Miłosław","Mosina","Nekla","Nowe Miasto nad Wartą","Pobiedziska","Puszczykowo","Pyzdry","Rogalinek","Śrem","Środa Wielkopolska","Swarzędz","Września","Zaniemyśl","Żerków"); ?>

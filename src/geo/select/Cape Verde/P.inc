@@ -1,0 +1,1 @@
+<option value="Picos">Picos</option><option value="Pombas">Pombas</option><option value="Ponta do Sol">Ponta do Sol</option><option value="Porto dos Mosteiros">Porto dos Mosteiros</option><option value="Porto Novo">Porto Novo</option><option value="Praia">Praia</option>

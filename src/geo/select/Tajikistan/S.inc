@@ -1,0 +1,1 @@
+<option value="Shahrtuz">Shahrtuz</option><option value="Shakhrinav">Shakhrinav</option><option value="Shughnon">Shughnon</option><option value="Shŭrob">Shŭrob</option><option value="Sovety">Sovety</option>

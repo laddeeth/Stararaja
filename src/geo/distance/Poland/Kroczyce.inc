@@ -1,0 +1,1 @@
+<?php $neighbours = array("Choroń","Chruszczobród","Klucze","Koniecpol","Koziegłowy","Kroczyce","Lelów","Myszków","Niegowonice","Ogrodzieniec","Pilica","Poraj","Potok Złoty","Przyrów","Rokitno Szlacheckie","Secemin","Siewierz","Szczekociny","Wolbrom","Włodowice","Żarki","Żarki-Letnisko","Zawiercie","Łazy"); ?>

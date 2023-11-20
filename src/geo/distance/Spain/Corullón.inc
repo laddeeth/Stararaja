@@ -1,0 +1,1 @@
+<?php $neighbours = array("Cacabelos","Camponaraya","Carracedelo","Castropodame","Congosto","Corullón","Cubillos del Sil","Fabero","O Barco de Valdeorras","Ponferrada","Puente de Domingo Flórez","Toreno","Vega de Espinareda","Villadecanes","Villafranca del Bierzo"); ?>

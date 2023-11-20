@@ -1,0 +1,1 @@
+<?php $neighbours = array("Chinautla","Chuarrancho","Guastatoya","Guatemala City","Mataquescuintla","Morazán","Palencia","San Antonio La Paz","San José del Golfo","San José Pinula","San Pedro Ayampuc","Sanarate","Sansare"); ?>

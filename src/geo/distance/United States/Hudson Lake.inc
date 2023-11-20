@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bridgman","Fish Lake","Gulivoire Park","Hudson Lake","Kingsford Heights","LaPorte","Michigan City","New Buffalo","Shorewood-Tower Hills-Harbert","South Bend","Trail Creek","Walkerton"); ?>

@@ -1,0 +1,1 @@
+<?php $neighbours = array("Bienvenida","Cabeza la Vaca","Cala","Calera de León","Fuente de Cantos","Llerena","Medina de las Torres","Monesterio","Montemolín","Segura de León","Usagre","Valencia del Ventoso","Villagarcía de la Torre"); ?>
